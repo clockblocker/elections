@@ -7,4933 +7,12331 @@ export const duma_2003_uik_to_tik_region_27 = [
   {
     "uikNumber": 1,
     "uikTvd": "427401966776",
+    "uikName": "УИК №1",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "427401966777",
+    "uikName": "УИК №2",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "427401966778",
+    "uikName": "УИК №3",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "427401966779",
+    "uikName": "УИК №4",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "427401966780",
+    "uikName": "УИК №5",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "427401966781",
+    "uikName": "УИК №6",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "427401966782",
+    "uikName": "УИК №7",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "427401966783",
+    "uikName": "УИК №8",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "427401966784",
+    "uikName": "УИК №9",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "427401966785",
+    "uikName": "УИК №10",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "427401966786",
+    "uikName": "УИК №11",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "427401966787",
+    "uikName": "УИК №12",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "427401966788",
+    "uikName": "УИК №13",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "427401966789",
+    "uikName": "УИК №14",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "427401966790",
+    "uikName": "УИК №15",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "427401966791",
+    "uikName": "УИК №16",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "427401966792",
+    "uikName": "УИК №17",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "427401966793",
+    "uikName": "УИК №18",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "427401966794",
+    "uikName": "УИК №19",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "427401966795",
+    "uikName": "УИК №20",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "427401966796",
+    "uikName": "УИК №21",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "427401966797",
+    "uikName": "УИК №22",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "427401966798",
+    "uikName": "УИК №23",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "427401966799",
+    "uikName": "УИК №24",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "427401966800",
+    "uikName": "УИК №25",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "427401966801",
+    "uikName": "УИК №26",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "427401966802",
+    "uikName": "УИК №27",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "427401966803",
+    "uikName": "УИК №28",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "427401966804",
+    "uikName": "УИК №29",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "427401966805",
+    "uikName": "УИК №30",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "427401966806",
+    "uikName": "УИК №31",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "427401966807",
+    "uikName": "УИК №32",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "427401966808",
+    "uikName": "УИК №33",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "427401966809",
+    "uikName": "УИК №34",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "427401966810",
+    "uikName": "УИК №35",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "427401966811",
+    "uikName": "УИК №36",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "427401966812",
+    "uikName": "УИК №37",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "427401966813",
+    "uikName": "УИК №38",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "427401966814",
+    "uikName": "УИК №39",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "427401966815",
+    "uikName": "УИК №40",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "427401966816",
+    "uikName": "УИК №41",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "427401966817",
+    "uikName": "УИК №42",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "427401966818",
+    "uikName": "УИК №43",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "427401966819",
+    "uikName": "УИК №44",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "427401966820",
+    "uikName": "УИК №45",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "427401966821",
+    "uikName": "УИК №46",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "427401966822",
+    "uikName": "УИК №47",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "427401966823",
+    "uikName": "УИК №48",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "427401966824",
+    "uikName": "УИК №49",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "427401966825",
+    "uikName": "УИК №50",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "427401966826",
+    "uikName": "УИК №51",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "427401966827",
+    "uikName": "УИК №52",
     "tikTvd": "327300266682",
-    "tikName": "Хабаровск, Железнодорожная"
+    "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "427402066780",
+    "uikName": "УИК №53",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "427402066781",
+    "uikName": "УИК №54",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "427402066782",
+    "uikName": "УИК №55",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "427402066783",
+    "uikName": "УИК №56",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "427402066784",
+    "uikName": "УИК №57",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "427402066785",
+    "uikName": "УИК №58",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "427402066786",
+    "uikName": "УИК №59",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "427402066787",
+    "uikName": "УИК №60",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "427402066788",
+    "uikName": "УИК №61",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "427402066789",
+    "uikName": "УИК №62",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "427402066790",
+    "uikName": "УИК №63",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "427402066791",
+    "uikName": "УИК №64",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "427402066792",
+    "uikName": "УИК №65",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "427402066793",
+    "uikName": "УИК №66",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "427402066794",
+    "uikName": "УИК №67",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "427402066795",
+    "uikName": "УИК №68",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "427402066796",
+    "uikName": "УИК №69",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "427402066797",
+    "uikName": "УИК №70",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "427402066798",
+    "uikName": "УИК №71",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "427402066799",
+    "uikName": "УИК №72",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "427402066800",
+    "uikName": "УИК №73",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "427402066801",
+    "uikName": "УИК №74",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "427402066802",
+    "uikName": "УИК №75",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "427402066803",
+    "uikName": "УИК №76",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "427402066804",
+    "uikName": "УИК №77",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "427402066805",
+    "uikName": "УИК №78",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "427402066806",
+    "uikName": "УИК №79",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "427402066807",
+    "uikName": "УИК №80",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "427402066808",
+    "uikName": "УИК №81",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "427402066809",
+    "uikName": "УИК №82",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "427402066810",
+    "uikName": "УИК №83",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "427402066811",
+    "uikName": "УИК №84",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "427402066812",
+    "uikName": "УИК №85",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "427402066813",
+    "uikName": "УИК №86",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "427402066814",
+    "uikName": "УИК №87",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "427402066815",
+    "uikName": "УИК №88",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "427402066816",
+    "uikName": "УИК №89",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "427402066817",
+    "uikName": "УИК №90",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "427402066818",
+    "uikName": "УИК №91",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "427402066819",
+    "uikName": "УИК №92",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "427402066820",
+    "uikName": "УИК №93",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "427402066821",
+    "uikName": "УИК №94",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "427402066822",
+    "uikName": "УИК №95",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "427402066823",
+    "uikName": "УИК №96",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "427402066824",
+    "uikName": "УИК №97",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "427402066825",
+    "uikName": "УИК №98",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "427402066826",
+    "uikName": "УИК №99",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "427402066827",
+    "uikName": "УИК №100",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "427402066828",
+    "uikName": "УИК №101",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "427402066829",
+    "uikName": "УИК №102",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "427402066830",
+    "uikName": "УИК №103",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "427402066831",
+    "uikName": "УИК №104",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "427402066832",
+    "uikName": "УИК №105",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "427402066833",
+    "uikName": "УИК №106",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "427402066834",
+    "uikName": "УИК №107",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "427402066835",
+    "uikName": "УИК №108",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "427402066836",
+    "uikName": "УИК №109",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "427402066837",
+    "uikName": "УИК №110",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "427402066838",
+    "uikName": "УИК №111",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "427402066839",
+    "uikName": "УИК №112",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "427402066840",
+    "uikName": "УИК №113",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "427402066841",
+    "uikName": "УИК №114",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "427402066842",
+    "uikName": "УИК №115",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "427402066843",
+    "uikName": "УИК №116",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "427402066844",
+    "uikName": "УИК №117",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "427402066845",
+    "uikName": "УИК №118",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "427402066846",
+    "uikName": "УИК №119",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "427402066847",
+    "uikName": "УИК №120",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "427402066848",
+    "uikName": "УИК №121",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "427402066849",
+    "uikName": "УИК №122",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "427402066850",
+    "uikName": "УИК №123",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "427402066851",
+    "uikName": "УИК №124",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "427402066852",
+    "uikName": "УИК №125",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "427402066853",
+    "uikName": "УИК №126",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "427402066854",
+    "uikName": "УИК №127",
     "tikTvd": "327300266683",
-    "tikName": "Хабаровск, Индустриальная"
+    "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "427402166702",
+    "uikName": "УИК №128",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "427402166703",
+    "uikName": "УИК №129",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "427402166704",
+    "uikName": "УИК №130",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "427402166705",
+    "uikName": "УИК №131",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "427402166706",
+    "uikName": "УИК №132",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "427402166707",
+    "uikName": "УИК №133",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "427402166708",
+    "uikName": "УИК №134",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "427402166709",
+    "uikName": "УИК №135",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "427402166710",
+    "uikName": "УИК №136",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "427402166711",
+    "uikName": "УИК №137",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "427402166712",
+    "uikName": "УИК №138",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "427402166713",
+    "uikName": "УИК №139",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "427402166714",
+    "uikName": "УИК №140",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "427402166715",
+    "uikName": "УИК №141",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "427402166716",
+    "uikName": "УИК №142",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "427402166717",
+    "uikName": "УИК №143",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "427402166718",
+    "uikName": "УИК №144",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "427402166719",
+    "uikName": "УИК №145",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "427402166720",
+    "uikName": "УИК №146",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "427402166721",
+    "uikName": "УИК №147",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "427402166722",
+    "uikName": "УИК №148",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "427402166723",
+    "uikName": "УИК №149",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "427402166724",
+    "uikName": "УИК №150",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "427402166725",
+    "uikName": "УИК №151",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "427402166726",
+    "uikName": "УИК №152",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "427402166727",
+    "uikName": "УИК №153",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "427402166728",
+    "uikName": "УИК №154",
     "tikTvd": "327300266684",
-    "tikName": "Хабаровск, Кировская"
+    "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "427402266751",
+    "uikName": "УИК №155",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "427402266752",
+    "uikName": "УИК №156",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "427402266753",
+    "uikName": "УИК №157",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "427402266754",
+    "uikName": "УИК №158",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "427402266755",
+    "uikName": "УИК №159",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "427402266756",
+    "uikName": "УИК №160",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "427402266757",
+    "uikName": "УИК №161",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "427402266758",
+    "uikName": "УИК №162",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "427402266759",
+    "uikName": "УИК №163",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "427402266760",
+    "uikName": "УИК №164",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "427402266761",
+    "uikName": "УИК №165",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "427402266762",
+    "uikName": "УИК №166",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "427402266763",
+    "uikName": "УИК №167",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "427402266764",
+    "uikName": "УИК №168",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "427402266765",
+    "uikName": "УИК №169",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "427402266766",
+    "uikName": "УИК №170",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "427402266767",
+    "uikName": "УИК №171",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "427402266768",
+    "uikName": "УИК №172",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "427402266769",
+    "uikName": "УИК №173",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "427402266770",
+    "uikName": "УИК №174",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "427402266771",
+    "uikName": "УИК №175",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "427402266772",
+    "uikName": "УИК №176",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "427402266773",
+    "uikName": "УИК №177",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "427402266774",
+    "uikName": "УИК №178",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "427402266775",
+    "uikName": "УИК №179",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "427402266776",
+    "uikName": "УИК №180",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "427402266777",
+    "uikName": "УИК №181",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "427402266778",
+    "uikName": "УИК №182",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "427402266779",
+    "uikName": "УИК №183",
     "tikTvd": "327300266685",
-    "tikName": "Хабаровск, Краснофлотская"
+    "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "427402366884",
+    "uikName": "УИК №184",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "427402366721",
+    "uikName": "УИК №185",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "427402366722",
+    "uikName": "УИК №186",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "427402366723",
+    "uikName": "УИК №187",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "427402366724",
+    "uikName": "УИК №188",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "427402366725",
+    "uikName": "УИК №189",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "427402366726",
+    "uikName": "УИК №190",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "427402366727",
+    "uikName": "УИК №191",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "427402366728",
+    "uikName": "УИК №192",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "427402366729",
+    "uikName": "УИК №193",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "427402366730",
+    "uikName": "УИК №194",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "427402366731",
+    "uikName": "УИК №195",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "427402366732",
+    "uikName": "УИК №196",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "427402366733",
+    "uikName": "УИК №197",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "427402366734",
+    "uikName": "УИК №198",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "427402366735",
+    "uikName": "УИК №199",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "427402366736",
+    "uikName": "УИК №200",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "427402366737",
+    "uikName": "УИК №201",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "427402366738",
+    "uikName": "УИК №202",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "427402366739",
+    "uikName": "УИК №203",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "427402366740",
+    "uikName": "УИК №204",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "427402366741",
+    "uikName": "УИК №205",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "427402366742",
+    "uikName": "УИК №206",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "427402366743",
+    "uikName": "УИК №207",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "427402366744",
+    "uikName": "УИК №208",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "427402366745",
+    "uikName": "УИК №209",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "427402366746",
+    "uikName": "УИК №210",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "427402366747",
+    "uikName": "УИК №211",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "427402366748",
+    "uikName": "УИК №212",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "427402366749",
+    "uikName": "УИК №213",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "427402366750",
+    "uikName": "УИК №214",
     "tikTvd": "327300266686",
-    "tikName": "Хабаровск, Центральная"
+    "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "427401067406",
+    "uikName": "УИК №215",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "427401067407",
+    "uikName": "УИК №216",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "427401067408",
+    "uikName": "УИК №217",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "427401067409",
+    "uikName": "УИК №218",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "427401067410",
+    "uikName": "УИК №219",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "427401067411",
+    "uikName": "УИК №220",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "427401067412",
+    "uikName": "УИК №221",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "427401067413",
+    "uikName": "УИК №222",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "427401067414",
+    "uikName": "УИК №223",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "427401067415",
+    "uikName": "УИК №224",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "427401067416",
+    "uikName": "УИК №225",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "427401067417",
+    "uikName": "УИК №226",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "427401067418",
+    "uikName": "УИК №227",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "427401067419",
+    "uikName": "УИК №228",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "427401067420",
+    "uikName": "УИК №229",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "427401067421",
+    "uikName": "УИК №230",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "427401067422",
+    "uikName": "УИК №231",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "427401067423",
+    "uikName": "УИК №232",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "427401067424",
+    "uikName": "УИК №233",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "427401067425",
+    "uikName": "УИК №234",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "427401067426",
+    "uikName": "УИК №235",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "427401067427",
+    "uikName": "УИК №236",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "427401067428",
+    "uikName": "УИК №237",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "427401067429",
+    "uikName": "УИК №238",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "427401067430",
+    "uikName": "УИК №239",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "427401067431",
+    "uikName": "УИК №240",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "427401067432",
+    "uikName": "УИК №241",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "427401067433",
+    "uikName": "УИК №242",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "427401067434",
+    "uikName": "УИК №243",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "427401067435",
+    "uikName": "УИК №244",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "427401067436",
+    "uikName": "УИК №245",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "427401067437",
+    "uikName": "УИК №246",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "427401067438",
+    "uikName": "УИК №247",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "427401067439",
+    "uikName": "УИК №248",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "427401067440",
+    "uikName": "УИК №249",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "427401067441",
+    "uikName": "УИК №250",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "427401067442",
+    "uikName": "УИК №251",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "427401067443",
+    "uikName": "УИК №252",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "427401067444",
+    "uikName": "УИК №253",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "427401067445",
+    "uikName": "УИК №254",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "427401067446",
+    "uikName": "УИК №255",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "427401067447",
+    "uikName": "УИК №256",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "427401067448",
+    "uikName": "УИК №257",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "427401067449",
+    "uikName": "УИК №258",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "427401067450",
+    "uikName": "УИК №259",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "427401067451",
+    "uikName": "УИК №260",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "427401067452",
+    "uikName": "УИК №261",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "427401067453",
+    "uikName": "УИК №262",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "427401067454",
+    "uikName": "УИК №263",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "427401067455",
+    "uikName": "УИК №264",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "427401067456",
+    "uikName": "УИК №265",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "427401067457",
+    "uikName": "УИК №266",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "427401067458",
+    "uikName": "УИК №267",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "427401067459",
+    "uikName": "УИК №268",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "427401067460",
+    "uikName": "УИК №269",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "427401067461",
+    "uikName": "УИК №270",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "427401067462",
+    "uikName": "УИК №271",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "427401067463",
+    "uikName": "УИК №272",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "427401067464",
+    "uikName": "УИК №273",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "427401067465",
+    "uikName": "УИК №274",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "427401067466",
+    "uikName": "УИК №275",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "427401067467",
+    "uikName": "УИК №276",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "427401067468",
+    "uikName": "УИК №277",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "427401067469",
+    "uikName": "УИК №278",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "427401067470",
+    "uikName": "УИК №279",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "427401067471",
+    "uikName": "УИК №280",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "427401067472",
+    "uikName": "УИК №281",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "427401067473",
+    "uikName": "УИК №282",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "427401067474",
+    "uikName": "УИК №283",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "427401067475",
+    "uikName": "УИК №284",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "427401067476",
+    "uikName": "УИК №285",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "427401067477",
+    "uikName": "УИК №286",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "427401067478",
+    "uikName": "УИК №287",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "427401067479",
+    "uikName": "УИК №288",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "427401067480",
+    "uikName": "УИК №289",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "427401067481",
+    "uikName": "УИК №290",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "427401067482",
+    "uikName": "УИК №291",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "427401067483",
+    "uikName": "УИК №292",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "427401067484",
+    "uikName": "УИК №293",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "427401067485",
+    "uikName": "УИК №294",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "427401067486",
+    "uikName": "УИК №295",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "427401067487",
+    "uikName": "УИК №296",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "427401067488",
+    "uikName": "УИК №297",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "427401067489",
+    "uikName": "УИК №298",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "427401067490",
+    "uikName": "УИК №299",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "427401067491",
+    "uikName": "УИК №300",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "427401067492",
+    "uikName": "УИК №301",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "427401067493",
+    "uikName": "УИК №302",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "427401067494",
+    "uikName": "УИК №303",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "427401067495",
+    "uikName": "УИК №304",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "427401067496",
+    "uikName": "УИК №305",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "427401067497",
+    "uikName": "УИК №306",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "427401067498",
+    "uikName": "УИК №307",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "427401067499",
+    "uikName": "УИК №308",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "427401067500",
+    "uikName": "УИК №309",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "427401067501",
+    "uikName": "УИК №310",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "427401067502",
+    "uikName": "УИК №311",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "427401067503",
+    "uikName": "УИК №312",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "427401067504",
+    "uikName": "УИК №313",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "427401067505",
+    "uikName": "УИК №314",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "427401067506",
+    "uikName": "УИК №315",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "427401067507",
+    "uikName": "УИК №316",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "427401067508",
+    "uikName": "УИК №317",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "427401067509",
+    "uikName": "УИК №318",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "427401067510",
+    "uikName": "УИК №319",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "427401067511",
+    "uikName": "УИК №320",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "427401067512",
+    "uikName": "УИК №321",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "427401067513",
+    "uikName": "УИК №322",
     "tikTvd": "327300166683",
-    "tikName": "Комсомольская-на-Амуре городская"
+    "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "427401566822",
+    "uikName": "УИК №323",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "427401566823",
+    "uikName": "УИК №324",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "427401566824",
+    "uikName": "УИК №325",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "427401566825",
+    "uikName": "УИК №326",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "427401566826",
+    "uikName": "УИК №327",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "427401566827",
+    "uikName": "УИК №328",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "427401566828",
+    "uikName": "УИК №329",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "427401566829",
+    "uikName": "УИК №330",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "427401566830",
+    "uikName": "УИК №331",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "427401566831",
+    "uikName": "УИК №332",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "427401566832",
+    "uikName": "УИК №333",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "427401566833",
+    "uikName": "УИК №334",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "427401566834",
+    "uikName": "УИК №335",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "427401566835",
+    "uikName": "УИК №336",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "427401566836",
+    "uikName": "УИК №337",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "427401566837",
+    "uikName": "УИК №338",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "427401566838",
+    "uikName": "УИК №339",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "427401566839",
+    "uikName": "УИК №340",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "427401566840",
+    "uikName": "УИК №341",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "427401566841",
+    "uikName": "УИК №342",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "427401566842",
+    "uikName": "УИК №343",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "427401566843",
+    "uikName": "УИК №344",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "427401566872",
+    "uikName": "УИК №345",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "427401566873",
+    "uikName": "УИК №346",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "427401566874",
+    "uikName": "УИК №347",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "427401566875",
+    "uikName": "УИК №348",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "427401566876",
+    "uikName": "УИК №349",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "427401566877",
+    "uikName": "УИК №350",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "427401566878",
+    "uikName": "УИК №351",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "427401566879",
+    "uikName": "УИК №352",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "427401566880",
+    "uikName": "УИК №353",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "427401566881",
+    "uikName": "УИК №354",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "427401566882",
+    "uikName": "УИК №355",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "427401566883",
+    "uikName": "УИК №356",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "427401566884",
+    "uikName": "УИК №357",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "427401566885",
+    "uikName": "УИК №358",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "427401566886",
+    "uikName": "УИК №359",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "427401566887",
+    "uikName": "УИК №360",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "427401566888",
+    "uikName": "УИК №361",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "427401566889",
+    "uikName": "УИК №362",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "427401566890",
+    "uikName": "УИК №363",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "427401566891",
+    "uikName": "УИК №364",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "427401566892",
+    "uikName": "УИК №365",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "427401566893",
+    "uikName": "УИК №366",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "427401566894",
+    "uikName": "УИК №367",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "427401566895",
+    "uikName": "УИК №368",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "427401566896",
+    "uikName": "УИК №369",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "427401566897",
+    "uikName": "УИК №370",
     "tikTvd": "327300166688",
-    "tikName": "Советско-Гаванская"
+    "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "427401366687",
+    "uikName": "УИК №371",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "427401366688",
+    "uikName": "УИК №372",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "427401366689",
+    "uikName": "УИК №373",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "427401366690",
+    "uikName": "УИК №374",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "427401366691",
+    "uikName": "УИК №375",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "427401366692",
+    "uikName": "УИК №376",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "427401366693",
+    "uikName": "УИК №377",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "427401366694",
+    "uikName": "УИК №378",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "427401366695",
+    "uikName": "УИК №379",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "427401366696",
+    "uikName": "УИК №380",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "427401366697",
+    "uikName": "УИК №381",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "427401366698",
+    "uikName": "УИК №382",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "427401366699",
+    "uikName": "УИК №383",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "427401366700",
+    "uikName": "УИК №384",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "427401366701",
+    "uikName": "УИК №385",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "427401366702",
+    "uikName": "УИК №386",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "427401366703",
+    "uikName": "УИК №387",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "427401366704",
+    "uikName": "УИК №388",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "427401366705",
+    "uikName": "УИК №389",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "427401366706",
+    "uikName": "УИК №390",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "427401366707",
+    "uikName": "УИК №391",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "427401366708",
+    "uikName": "УИК №392",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "427401366709",
+    "uikName": "УИК №393",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "427401366710",
+    "uikName": "УИК №394",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "427401366711",
+    "uikName": "УИК №395",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "427401366712",
+    "uikName": "УИК №396",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "427401366713",
+    "uikName": "УИК №397",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "427401366714",
+    "uikName": "УИК №398",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "427401366715",
+    "uikName": "УИК №399",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "427401366716",
+    "uikName": "УИК №400",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "427401366717",
+    "uikName": "УИК №401",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "427401366718",
+    "uikName": "УИК №402",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "427401366719",
+    "uikName": "УИК №403",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "427401366720",
+    "uikName": "УИК №404",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "427401366721",
+    "uikName": "УИК №405",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "427401366722",
+    "uikName": "УИК №406",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "427401366723",
+    "uikName": "УИК №407",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "427401366724",
+    "uikName": "УИК №408",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "427401366725",
+    "uikName": "УИК №409",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "427401366726",
+    "uikName": "УИК №410",
     "tikTvd": "327300166686",
-    "tikName": "Николаевская-на-Амуре"
+    "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "427400166926",
+    "uikName": "УИК №411",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "427400166927",
+    "uikName": "УИК №412",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "427400166928",
+    "uikName": "УИК №413",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "427400166929",
+    "uikName": "УИК №414",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "427400166930",
+    "uikName": "УИК №415",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "427400166931",
+    "uikName": "УИК №416",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "427400166932",
+    "uikName": "УИК №417",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "427400166933",
+    "uikName": "УИК №418",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "427400166934",
+    "uikName": "УИК №419",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "427400166935",
+    "uikName": "УИК №420",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "427400166936",
+    "uikName": "УИК №421",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "427400166937",
+    "uikName": "УИК №422",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "427400166938",
+    "uikName": "УИК №423",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "427400166939",
+    "uikName": "УИК №424",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "427400166940",
+    "uikName": "УИК №425",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "427400166941",
+    "uikName": "УИК №426",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "427400166942",
+    "uikName": "УИК №427",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "427400166943",
+    "uikName": "УИК №428",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "427400166944",
+    "uikName": "УИК №429",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "427400166945",
+    "uikName": "УИК №430",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "427400166946",
+    "uikName": "УИК №431",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "427400166947",
+    "uikName": "УИК №432",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "427400166948",
+    "uikName": "УИК №433",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "427400166949",
+    "uikName": "УИК №434",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "427400166950",
+    "uikName": "УИК №435",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "427400166951",
+    "uikName": "УИК №436",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "427400166952",
+    "uikName": "УИК №437",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "427400166953",
+    "uikName": "УИК №438",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "427400166954",
+    "uikName": "УИК №439",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "427400166955",
+    "uikName": "УИК №440",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "427400166956",
+    "uikName": "УИК №441",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "427400166957",
+    "uikName": "УИК №442",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "427400166958",
+    "uikName": "УИК №443",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "427400166959",
+    "uikName": "УИК №444",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "427400166960",
+    "uikName": "УИК №445",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "427400166961",
+    "uikName": "УИК №446",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "427400166962",
+    "uikName": "УИК №447",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "427400166963",
+    "uikName": "УИК №448",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "427400166964",
+    "uikName": "УИК №449",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "427400166965",
+    "uikName": "УИК №450",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "427400166966",
+    "uikName": "УИК №451",
     "tikTvd": "327300166678",
-    "tikName": "Амурская"
+    "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "427400366711",
+    "uikName": "УИК №452",
     "tikTvd": "327300266679",
-    "tikName": "Бикинская"
+    "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "427400366713",
+    "uikName": "УИК №453",
     "tikTvd": "327300266679",
-    "tikName": "Бикинская"
+    "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "427400366714",
+    "uikName": "УИК №454",
     "tikTvd": "327300266679",
-    "tikName": "Бикинская"
+    "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "427400366715",
+    "uikName": "УИК №455",
     "tikTvd": "327300266679",
-    "tikName": "Бикинская"
+    "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "427400366716",
+    "uikName": "УИК №456",
     "tikTvd": "327300266679",
-    "tikName": "Бикинская"
+    "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "427400366717",
+    "uikName": "УИК №457",
     "tikTvd": "327300266679",
-    "tikName": "Бикинская"
+    "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "427400366718",
+    "uikName": "УИК №458",
     "tikTvd": "327300266679",
-    "tikName": "Бикинская"
+    "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "427400366719",
+    "uikName": "УИК №459",
     "tikTvd": "327300266679",
-    "tikName": "Бикинская"
+    "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "427400366720",
+    "uikName": "УИК №460",
     "tikTvd": "327300266679",
-    "tikName": "Бикинская"
+    "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "427400366721",
+    "uikName": "УИК №461",
     "tikTvd": "327300266679",
-    "tikName": "Бикинская"
+    "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "427400366722",
+    "uikName": "УИК №462",
     "tikTvd": "327300266679",
-    "tikName": "Бикинская"
+    "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "427400366723",
+    "uikName": "УИК №463",
     "tikTvd": "327300266679",
-    "tikName": "Бикинская"
+    "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "427400366724",
+    "uikName": "УИК №464",
     "tikTvd": "327300266679",
-    "tikName": "Бикинская"
+    "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "427400366725",
+    "uikName": "УИК №465",
     "tikTvd": "327300266679",
-    "tikName": "Бикинская"
+    "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "427400366726",
+    "uikName": "УИК №466",
     "tikTvd": "327300266679",
-    "tikName": "Бикинская"
+    "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "427400366727",
+    "uikName": "УИК №467",
     "tikTvd": "327300266679",
-    "tikName": "Бикинская"
+    "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "427400366728",
+    "uikName": "УИК №468",
     "tikTvd": "327300266679",
-    "tikName": "Бикинская"
+    "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "427400366729",
+    "uikName": "УИК №469",
     "tikTvd": "327300266679",
-    "tikName": "Бикинская"
+    "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "427400366730",
+    "uikName": "УИК №470",
     "tikTvd": "327300266679",
-    "tikName": "Бикинская"
+    "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "427400366731",
+    "uikName": "УИК №471",
     "tikTvd": "327300266679",
-    "tikName": "Бикинская"
+    "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "427400366732",
+    "uikName": "УИК №472",
     "tikTvd": "327300266679",
-    "tikName": "Бикинская"
+    "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "427400366733",
+    "uikName": "УИК №473",
     "tikTvd": "327300266679",
-    "tikName": "Бикинская"
+    "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "427400266825",
+    "uikName": "УИК №474",
     "tikTvd": "327300166679",
-    "tikName": "Аяно-Майская"
+    "tikName": "Аяно-Майская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "427400266826",
+    "uikName": "УИК №475",
     "tikTvd": "327300166679",
-    "tikName": "Аяно-Майская"
+    "tikName": "Аяно-Майская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "427400266827",
+    "uikName": "УИК №476",
     "tikTvd": "327300166679",
-    "tikName": "Аяно-Майская"
+    "tikName": "Аяно-Майская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "427400266828",
+    "uikName": "УИК №477",
     "tikTvd": "327300166679",
-    "tikName": "Аяно-Майская"
+    "tikName": "Аяно-Майская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "427400266829",
+    "uikName": "УИК №478",
     "tikTvd": "327300166679",
-    "tikName": "Аяно-Майская"
+    "tikName": "Аяно-Майская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "427400266830",
+    "uikName": "УИК №479",
     "tikTvd": "327300166679",
-    "tikName": "Аяно-Майская"
+    "tikName": "Аяно-Майская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "427400266831",
+    "uikName": "УИК №480",
     "tikTvd": "327300166679",
-    "tikName": "Аяно-Майская"
+    "tikName": "Аяно-Майская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "427400466788",
+    "uikName": "УИК №481",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "427400466789",
+    "uikName": "УИК №482",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "427400467129",
+    "uikName": "УИК №483",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "427400466765",
+    "uikName": "УИК №484",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "427400466766",
+    "uikName": "УИК №485",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "427400466767",
+    "uikName": "УИК №486",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "427400466768",
+    "uikName": "УИК №487",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "427400466769",
+    "uikName": "УИК №488",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "427400466770",
+    "uikName": "УИК №489",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "427400466771",
+    "uikName": "УИК №490",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "427400466772",
+    "uikName": "УИК №491",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "427400466773",
+    "uikName": "УИК №492",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "427400466774",
+    "uikName": "УИК №493",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "427400466775",
+    "uikName": "УИК №494",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "427400466776",
+    "uikName": "УИК №495",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "427400466777",
+    "uikName": "УИК №496",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "427400466778",
+    "uikName": "УИК №497",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "427400466779",
+    "uikName": "УИК №498",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "427400466780",
+    "uikName": "УИК №499",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "427400466781",
+    "uikName": "УИК №500",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "427400466782",
+    "uikName": "УИК №501",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "427400466783",
+    "uikName": "УИК №502",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "427400466784",
+    "uikName": "УИК №503",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "427400466785",
+    "uikName": "УИК №504",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "427400466786",
+    "uikName": "УИК №505",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "427400566616",
+    "uikName": "УИК  506",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "427400566617",
+    "uikName": "УИК  507",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "427400566618",
+    "uikName": "УИК  508",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "427400566619",
+    "uikName": "УИК  509",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "427400566620",
+    "uikName": "УИК  510",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "427400566621",
+    "uikName": "УИК  511",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "427400566622",
+    "uikName": "УИК  512",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "427400566623",
+    "uikName": "УИК  513",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "427400566624",
+    "uikName": "УИК  514",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "427400566625",
+    "uikName": "УИК  515",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "427400566626",
+    "uikName": "УИК  516",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "427400566627",
+    "uikName": "УИК  517",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "427400566628",
+    "uikName": "УИК  518",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "427400566629",
+    "uikName": "УИК  519",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "427400566630",
+    "uikName": "УИК  520",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "427400566631",
+    "uikName": "УИК  521",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "427400566632",
+    "uikName": "УИК  522",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "427400566633",
+    "uikName": "УИК  523",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "427400566634",
+    "uikName": "УИК  524",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "427400566635",
+    "uikName": "УИК  525",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "427400566660",
+    "uikName": "УИК  526",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "427400566637",
+    "uikName": "УИК  527",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "427400566638",
+    "uikName": "УИК  528",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "427400566639",
+    "uikName": "УИК  529",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "427400566640",
+    "uikName": "УИК  530",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "427400566641",
+    "uikName": "УИК  531",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "427400566642",
+    "uikName": "УИК  532",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "427400566643",
+    "uikName": "УИК  533",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "427400566644",
+    "uikName": "УИК  534",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "427400566645",
+    "uikName": "УИК  535",
     "tikTvd": "327300166681",
-    "tikName": "Верхнебуреинская"
+    "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "427400666730",
+    "uikName": "УИК №536",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "427400666731",
+    "uikName": "УИК №537",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "427400666732",
+    "uikName": "УИК №538",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "427400666733",
+    "uikName": "УИК №539",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "427400666734",
+    "uikName": "УИК №540",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "427400666735",
+    "uikName": "УИК №541",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "427400666736",
+    "uikName": "УИК №542",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "427400666737",
+    "uikName": "УИК №543",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "427400666738",
+    "uikName": "УИК №544",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "427400666739",
+    "uikName": "УИК №545",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "427400666740",
+    "uikName": "УИК №546",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "427400666741",
+    "uikName": "УИК №547",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "427400666742",
+    "uikName": "УИК №548",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "427400666743",
+    "uikName": "УИК №549",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "427400666744",
+    "uikName": "УИК №550",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "427400666745",
+    "uikName": "УИК №551",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "427400666746",
+    "uikName": "УИК №552",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "427400666747",
+    "uikName": "УИК №553",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "427400666748",
+    "uikName": "УИК №554",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "427400666749",
+    "uikName": "УИК №555",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "427400666750",
+    "uikName": "УИК №556",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "427400666751",
+    "uikName": "УИК №557",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "427400666752",
+    "uikName": "УИК №558",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "427400666753",
+    "uikName": "УИК №559",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "427400666754",
+    "uikName": "УИК №560",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "427400666755",
+    "uikName": "УИК №561",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "427400666756",
+    "uikName": "УИК №562",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "427400666757",
+    "uikName": "УИК №563",
     "tikTvd": "327300266681",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "427401166763",
+    "uikName": "УИК №564",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "427401166764",
+    "uikName": "УИК №565",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "427401166765",
+    "uikName": "УИК №566",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "427401166766",
+    "uikName": "УИК №567",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "427401166767",
+    "uikName": "УИК №568",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "427401166768",
+    "uikName": "УИК №569",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "427401166769",
+    "uikName": "УИК №570",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "427401166770",
+    "uikName": "УИК №571",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "427401166771",
+    "uikName": "УИК №572",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "427401166772",
+    "uikName": "УИК №573",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "427401166773",
+    "uikName": "УИК №574",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "427401166774",
+    "uikName": "УИК №575",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "427401166775",
+    "uikName": "УИК №576",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "427401166776",
+    "uikName": "УИК №577",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "427401166777",
+    "uikName": "УИК №578",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "427401166778",
+    "uikName": "УИК №579",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "427401166779",
+    "uikName": "УИК №580",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "427401166780",
+    "uikName": "УИК №581",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "427401166781",
+    "uikName": "УИК №582",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "427401166782",
+    "uikName": "УИК №583",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "427401166783",
+    "uikName": "УИК №584",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "427401166784",
+    "uikName": "УИК №585",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "427401166785",
+    "uikName": "УИК №586",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "427401166786",
+    "uikName": "УИК №587",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "427401166787",
+    "uikName": "УИК №588",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "427401166788",
+    "uikName": "УИК №589",
     "tikTvd": "327300166684",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "427400766904",
+    "uikName": "УИК №590",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "427400766905",
+    "uikName": "УИК №591",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "427400766906",
+    "uikName": "УИК №592",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "427400766907",
+    "uikName": "УИК №593",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "427400766908",
+    "uikName": "УИК №594",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "427400766909",
+    "uikName": "УИК №595",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "427400766910",
+    "uikName": "УИК №596",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "427400766911",
+    "uikName": "УИК №597",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "427400766912",
+    "uikName": "УИК №598",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "427400766913",
+    "uikName": "УИК №599",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "427400766914",
+    "uikName": "УИК №600",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "427400766915",
+    "uikName": "УИК №601",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "427400766916",
+    "uikName": "УИК №602",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "427400766917",
+    "uikName": "УИК №603",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "427400766918",
+    "uikName": "УИК №604",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "427400766919",
+    "uikName": "УИК №605",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "427400766920",
+    "uikName": "УИК №606",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "427400766921",
+    "uikName": "УИК №607",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "427400766922",
+    "uikName": "УИК №608",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "427400766923",
+    "uikName": "УИК №609",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "427400766924",
+    "uikName": "УИК №610",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "427400766925",
+    "uikName": "УИК №611",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "427400766926",
+    "uikName": "УИК №612",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "427400766927",
+    "uikName": "УИК №613",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "427400766928",
+    "uikName": "УИК №614",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "427400766929",
+    "uikName": "УИК №615",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "427400766930",
+    "uikName": "УИК №616",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "427400766931",
+    "uikName": "УИК №617",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "427400766932",
+    "uikName": "УИК №618",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "427400766933",
+    "uikName": "УИК №619",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "427400766934",
+    "uikName": "УИК №620",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "427400766935",
+    "uikName": "УИК №621",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "427400766936",
+    "uikName": "УИК №622",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "427400766937",
+    "uikName": "УИК №623",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "427400766938",
+    "uikName": "УИК №624",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "427400766939",
+    "uikName": "УИК №625",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "427400766940",
+    "uikName": "УИК №626",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "427400766941",
+    "uikName": "УИК №627",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "427400766942",
+    "uikName": "УИК №628",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "427400766943",
+    "uikName": "УИК №629",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "427400766944",
+    "uikName": "УИК №630",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "427400766945",
+    "uikName": "УИК №631",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "427400766946",
+    "uikName": "УИК №632",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "427400766947",
+    "uikName": "УИК №633",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "427400766948",
+    "uikName": "УИК №634",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "427400766949",
+    "uikName": "УИК №635",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "427400766950",
+    "uikName": "УИК №636",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "427400766951",
+    "uikName": "УИК №637",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "427400766952",
+    "uikName": "УИК №638",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "427400766953",
+    "uikName": "УИК №639",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "427400766954",
+    "uikName": "УИК №640",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "427400766955",
+    "uikName": "УИК №641",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "427400766956",
+    "uikName": "УИК №642",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "427400766957",
+    "uikName": "УИК №643",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "427400766958",
+    "uikName": "УИК №644",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "427400766959",
+    "uikName": "УИК №645",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "427400766960",
+    "uikName": "УИК №646",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "427400766961",
+    "uikName": "УИК №647",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "427400766962",
+    "uikName": "УИК №648",
     "tikTvd": "327300267421",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "427401266728",
+    "uikName": "УИК №649",
     "tikTvd": "327300166685",
-    "tikName": "Нанайская"
+    "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "427401266729",
+    "uikName": "УИК №650",
     "tikTvd": "327300166685",
-    "tikName": "Нанайская"
+    "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "427401266730",
+    "uikName": "УИК №651",
     "tikTvd": "327300166685",
-    "tikName": "Нанайская"
+    "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "427401266731",
+    "uikName": "УИК №652",
     "tikTvd": "327300166685",
-    "tikName": "Нанайская"
+    "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "427401266732",
+    "uikName": "УИК №653",
     "tikTvd": "327300166685",
-    "tikName": "Нанайская"
+    "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "427401266733",
+    "uikName": "УИК №654",
     "tikTvd": "327300166685",
-    "tikName": "Нанайская"
+    "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "427401266734",
+    "uikName": "УИК №655",
     "tikTvd": "327300166685",
-    "tikName": "Нанайская"
+    "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "427401266735",
+    "uikName": "УИК №656",
     "tikTvd": "327300166685",
-    "tikName": "Нанайская"
+    "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "427401266736",
+    "uikName": "УИК №657",
     "tikTvd": "327300166685",
-    "tikName": "Нанайская"
+    "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "427401266737",
+    "uikName": "УИК №658",
     "tikTvd": "327300166685",
-    "tikName": "Нанайская"
+    "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "427401266738",
+    "uikName": "УИК №659",
     "tikTvd": "327300166685",
-    "tikName": "Нанайская"
+    "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "427401266739",
+    "uikName": "УИК №660",
     "tikTvd": "327300166685",
-    "tikName": "Нанайская"
+    "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "427401266740",
+    "uikName": "УИК №661",
     "tikTvd": "327300166685",
-    "tikName": "Нанайская"
+    "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "427401266741",
+    "uikName": "УИК №662",
     "tikTvd": "327300166685",
-    "tikName": "Нанайская"
+    "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "427401266742",
+    "uikName": "УИК №663",
     "tikTvd": "327300166685",
-    "tikName": "Нанайская"
+    "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "427401266743",
+    "uikName": "УИК №664",
     "tikTvd": "327300166685",
-    "tikName": "Нанайская"
+    "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "427401266744",
+    "uikName": "УИК №665",
     "tikTvd": "327300166685",
-    "tikName": "Нанайская"
+    "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "427401266745",
+    "uikName": "УИК №666",
     "tikTvd": "327300166685",
-    "tikName": "Нанайская"
+    "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "427401266746",
+    "uikName": "УИК №667",
     "tikTvd": "327300166685",
-    "tikName": "Нанайская"
+    "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "427401266747",
+    "uikName": "УИК №668",
     "tikTvd": "327300166685",
-    "tikName": "Нанайская"
+    "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "427401266748",
+    "uikName": "УИК №669",
     "tikTvd": "327300166685",
-    "tikName": "Нанайская"
+    "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "427401466673",
+    "uikName": "УИК №670",
     "tikTvd": "327300166687",
-    "tikName": "Охотская"
+    "tikName": "Охотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "427401466674",
+    "uikName": "УИК №671",
     "tikTvd": "327300166687",
-    "tikName": "Охотская"
+    "tikName": "Охотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "427401466675",
+    "uikName": "УИК №672",
     "tikTvd": "327300166687",
-    "tikName": "Охотская"
+    "tikName": "Охотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "427401466676",
+    "uikName": "УИК №673",
     "tikTvd": "327300166687",
-    "tikName": "Охотская"
+    "tikName": "Охотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "427401466677",
+    "uikName": "УИК №674",
     "tikTvd": "327300166687",
-    "tikName": "Охотская"
+    "tikName": "Охотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "427401466678",
+    "uikName": "УИК №675",
     "tikTvd": "327300166687",
-    "tikName": "Охотская"
+    "tikName": "Охотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "427401466679",
+    "uikName": "УИК №676",
     "tikTvd": "327300166687",
-    "tikName": "Охотская"
+    "tikName": "Охотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "427401466680",
+    "uikName": "УИК №677",
     "tikTvd": "327300166687",
-    "tikName": "Охотская"
+    "tikName": "Охотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "427401466681",
+    "uikName": "УИК №678",
     "tikTvd": "327300166687",
-    "tikName": "Охотская"
+    "tikName": "Охотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "427401466682",
+    "uikName": "УИК №679",
     "tikTvd": "327300166687",
-    "tikName": "Охотская"
+    "tikName": "Охотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "427401466683",
+    "uikName": "УИК №680",
     "tikTvd": "327300166687",
-    "tikName": "Охотская"
+    "tikName": "Охотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 681,
     "uikTvd": "427401466684",
+    "uikName": "УИК №681",
     "tikTvd": "327300166687",
-    "tikName": "Охотская"
+    "tikName": "Охотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "427401466685",
+    "uikName": "УИК №682",
     "tikTvd": "327300166687",
-    "tikName": "Охотская"
+    "tikName": "Охотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "427401466686",
+    "uikName": "УИК №683",
     "tikTvd": "327300166687",
-    "tikName": "Охотская"
+    "tikName": "Охотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 684,
     "uikTvd": "427401466687",
+    "uikName": "УИК №684",
     "tikTvd": "327300166687",
-    "tikName": "Охотская"
+    "tikName": "Охотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "427400866764",
+    "uikName": "УИК №685",
     "tikTvd": "327300166682",
-    "tikName": "Осипенковская"
+    "tikName": "Осипенковская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "427400866765",
+    "uikName": "УИК №686",
     "tikTvd": "327300166682",
-    "tikName": "Осипенковская"
+    "tikName": "Осипенковская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "427400866766",
+    "uikName": "УИК №687",
     "tikTvd": "327300166682",
-    "tikName": "Осипенковская"
+    "tikName": "Осипенковская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 688,
     "uikTvd": "427400866767",
+    "uikName": "УИК №688",
     "tikTvd": "327300166682",
-    "tikName": "Осипенковская"
+    "tikName": "Осипенковская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 689,
     "uikTvd": "427400866768",
+    "uikName": "УИК №689",
     "tikTvd": "327300166682",
-    "tikName": "Осипенковская"
+    "tikName": "Осипенковская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "427400866769",
+    "uikName": "УИК №690",
     "tikTvd": "327300166682",
-    "tikName": "Осипенковская"
+    "tikName": "Осипенковская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "427400866770",
+    "uikName": "УИК №691",
     "tikTvd": "327300166682",
-    "tikName": "Осипенковская"
+    "tikName": "Осипенковская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "427400866771",
+    "uikName": "УИК №692",
     "tikTvd": "327300166682",
-    "tikName": "Осипенковская"
+    "tikName": "Осипенковская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "427400866772",
+    "uikName": "УИК №693",
     "tikTvd": "327300166682",
-    "tikName": "Осипенковская"
+    "tikName": "Осипенковская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "427400866773",
+    "uikName": "УИК №694",
     "tikTvd": "327300166682",
-    "tikName": "Осипенковская"
+    "tikName": "Осипенковская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "427401667734",
+    "uikName": "УИК №695",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "427401666728",
+    "uikName": "УИК №696",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "427401666729",
+    "uikName": "УИК №697",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "427401666730",
+    "uikName": "УИК №698",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "427401666731",
+    "uikName": "УИК №699",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "427401666732",
+    "uikName": "УИК №700",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "427401666733",
+    "uikName": "УИК №701",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "427401667773",
+    "uikName": "УИК №702",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "427401667840",
+    "uikName": "УИК №703",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "427401667841",
+    "uikName": "УИК №704",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "427401666737",
+    "uikName": "УИК №705",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "427401666738",
+    "uikName": "УИК №706",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "427401667842",
+    "uikName": "УИК №707",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "427401666740",
+    "uikName": "УИК №708",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "427401666741",
+    "uikName": "УИК №709",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "427401667938",
+    "uikName": "УИК №710",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "427401667939",
+    "uikName": "УИК №711",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "427401666744",
+    "uikName": "УИК №712",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "427401666745",
+    "uikName": "УИК №713",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "427401667999",
+    "uikName": "УИК №714",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "427401666747",
+    "uikName": "УИК №715",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "427401666748",
+    "uikName": "УИК №716",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "427401668000",
+    "uikName": "УИК №717",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "427401668001",
+    "uikName": "УИК №718",
     "tikTvd": "327300166689",
-    "tikName": "Солнечная "
+    "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "427401766726",
+    "uikName": "УИК №719",
     "tikTvd": "327300166690",
-    "tikName": "Тугуро-Чумиканская"
+    "tikName": "Тугуро-Чумиканская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "427401766728",
+    "uikName": "УИК №720",
     "tikTvd": "327300166690",
-    "tikName": "Тугуро-Чумиканская"
+    "tikName": "Тугуро-Чумиканская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "427401766730",
+    "uikName": "УИК №721",
     "tikTvd": "327300166690",
-    "tikName": "Тугуро-Чумиканская"
+    "tikName": "Тугуро-Чумиканская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "427401766732",
+    "uikName": "УИК №722",
     "tikTvd": "327300166690",
-    "tikName": "Тугуро-Чумиканская"
+    "tikName": "Тугуро-Чумиканская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "427401766734",
+    "uikName": "УИК №723",
     "tikTvd": "327300166690",
-    "tikName": "Тугуро-Чумиканская"
+    "tikName": "Тугуро-Чумиканская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "427401766736",
+    "uikName": "УИК №724",
     "tikTvd": "327300166690",
-    "tikName": "Тугуро-Чумиканская"
+    "tikName": "Тугуро-Чумиканская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "427401866659",
+    "uikName": "УИК №725",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "427401866660",
+    "uikName": "УИК №726",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "427401866661",
+    "uikName": "УИК №727",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "427401866662",
+    "uikName": "УИК №728",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "427401866663",
+    "uikName": "УИК №729",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "427401866664",
+    "uikName": "УИК №730",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "427401866665",
+    "uikName": "УИК №731",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "427401866666",
+    "uikName": "УИК №732",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "427401866667",
+    "uikName": "УИК №733",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "427401866668",
+    "uikName": "УИК №734",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "427401866669",
+    "uikName": "УИК №735",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "427401866670",
+    "uikName": "УИК №736",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "427401866671",
+    "uikName": "УИК №737",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "427401866672",
+    "uikName": "УИК №738",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "427401866673",
+    "uikName": "УИК №739",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "427401866674",
+    "uikName": "УИК №740",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "427401866675",
+    "uikName": "УИК №741",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "427401866676",
+    "uikName": "УИК №742",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "427401866677",
+    "uikName": "УИК №743",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "427401866678",
+    "uikName": "УИК №744",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "427401866679",
+    "uikName": "УИК №745",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "427401866680",
+    "uikName": "УИК №746",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "427401866681",
+    "uikName": "УИК №747",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "427401866682",
+    "uikName": "УИК №748",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "427401866683",
+    "uikName": "УИК №749",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "427401866684",
+    "uikName": "УИК №750",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "427401866685",
+    "uikName": "УИК №751",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "427401866686",
+    "uikName": "УИК №752",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "427401866687",
+    "uikName": "УИК №753",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "427401866688",
+    "uikName": "УИК №754",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "427401866689",
+    "uikName": "УИК №755",
     "tikTvd": "327300166691",
-    "tikName": "Ульчская"
+    "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "427402466734",
+    "uikName": "УИК №756",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 757,
     "uikTvd": "427402466735",
+    "uikName": "УИК №757",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "427402466736",
+    "uikName": "УИК №758",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 759,
     "uikTvd": "427402466737",
+    "uikName": "УИК №759",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 760,
     "uikTvd": "427402466738",
+    "uikName": "УИК №760",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 761,
     "uikTvd": "427402466739",
+    "uikName": "УИК №761",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "427402466740",
+    "uikName": "УИК №762",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 763,
     "uikTvd": "427402466741",
+    "uikName": "УИК №763",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 764,
     "uikTvd": "427402466742",
+    "uikName": "УИК №764",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 765,
     "uikTvd": "427402466743",
+    "uikName": "УИК №765",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 766,
     "uikTvd": "427402466744",
+    "uikName": "УИК №766",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 767,
     "uikTvd": "427402466745",
+    "uikName": "УИК №767",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 768,
     "uikTvd": "427402466746",
+    "uikName": "УИК №768",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "427402466747",
+    "uikName": "УИК №769",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "427402466748",
+    "uikName": "УИК №770",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "427402466749",
+    "uikName": "УИК №771",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "427402466750",
+    "uikName": "УИК №772",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "427402466751",
+    "uikName": "УИК №773",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "427402466752",
+    "uikName": "УИК №774",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "427402466753",
+    "uikName": "УИК №775",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "427402466754",
+    "uikName": "УИК №776",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "427402466755",
+    "uikName": "УИК №777",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "427402466756",
+    "uikName": "УИК №778",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 779,
     "uikTvd": "427402466757",
+    "uikName": "УИК №779",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 780,
     "uikTvd": "427402466758",
+    "uikName": "УИК №780",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 781,
     "uikTvd": "427402466759",
+    "uikName": "УИК №781",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "427402466760",
+    "uikName": "УИК №782",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "427402466761",
+    "uikName": "УИК №783",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 784,
     "uikTvd": "427402466762",
+    "uikName": "УИК №784",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 785,
     "uikTvd": "427402466763",
+    "uikName": "УИК №785",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 786,
     "uikTvd": "427402466764",
+    "uikName": "УИК №786",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 787,
     "uikTvd": "427402466765",
+    "uikName": "УИК №787",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 788,
     "uikTvd": "427402466766",
+    "uikName": "УИК №788",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 789,
     "uikTvd": "427402466767",
+    "uikName": "УИК №789",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 790,
     "uikTvd": "427402466768",
+    "uikName": "УИК №790",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 791,
     "uikTvd": "427402466769",
+    "uikName": "УИК №791",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 792,
     "uikTvd": "427402466770",
+    "uikName": "УИК №792",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 793,
     "uikTvd": "427402466771",
+    "uikName": "УИК №793",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 794,
     "uikTvd": "427402466772",
+    "uikName": "УИК №794",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 795,
     "uikTvd": "427402466773",
+    "uikName": "УИК №795",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 796,
     "uikTvd": "427402466774",
+    "uikName": "УИК №796",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 797,
     "uikTvd": "427402466775",
+    "uikName": "УИК №797",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 798,
     "uikTvd": "427402466776",
+    "uikName": "УИК №798",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 799,
     "uikTvd": "427402466777",
+    "uikName": "УИК №799",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 800,
     "uikTvd": "427402466778",
+    "uikName": "УИК №800",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "427402466779",
+    "uikName": "УИК №801",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "427402466780",
+    "uikName": "УИК №802",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "427402466781",
+    "uikName": "УИК №803",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "427402466782",
+    "uikName": "УИК №804",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "427402466783",
+    "uikName": "УИК №805",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "427402466784",
+    "uikName": "УИК №806",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "427402466785",
+    "uikName": "УИК №807",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "427402466786",
+    "uikName": "УИК №808",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "427402466787",
+    "uikName": "УИК №809",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "427402466788",
+    "uikName": "УИК №810",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "427402466789",
+    "uikName": "УИК №811",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "427402466790",
+    "uikName": "УИК №812",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "427402466791",
+    "uikName": "УИК №813",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "427402466792",
+    "uikName": "УИК №814",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "427402466793",
+    "uikName": "УИК №815",
     "tikTvd": "327300266687",
-    "tikName": "Хабаровская"
+    "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "427400467709",
+    "uikName": "УИК №816",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "427400467710",
+    "uikName": "УИК №817",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "427400467711",
+    "uikName": "УИК №818",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "427400467712",
+    "uikName": "УИК №819",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "427400467713",
+    "uikName": "УИК №820",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "427400467714",
+    "uikName": "УИК №821",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "427400467715",
+    "uikName": "УИК №822",
     "tikTvd": "327300166680",
-    "tikName": "Ванинская"
+    "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    }
   }
 ] satisfies readonly UikTikRelation[];

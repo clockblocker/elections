@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в списки": 33935,
@@ -128,6 +136,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки": 24153,
@@ -214,6 +230,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "uikCount": 68,
     "accounting": {
       "Число избирателей, включенных в списки": 126443,
@@ -334,6 +358,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 29829,
@@ -416,6 +448,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки": 39615,
@@ -518,6 +558,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "233200071071",
     "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 20825,
@@ -595,6 +643,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "233200071074",
     "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 17863,
@@ -670,6 +726,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "233200071075",
     "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "uikCount": 81,
     "accounting": {
       "Число избирателей, включенных в списки": 126169,
@@ -803,6 +867,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "233200072420",
     "tikName": "Радужная городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в списки": 14329,
@@ -864,6 +936,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "233200072444",
     "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки": 57821,
@@ -948,6 +1028,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "233200073303",
     "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в списки": 74146,
@@ -1062,6 +1150,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "333300172242",
     "tikName": "Александровская ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "uikCount": 68,
     "accounting": {
       "Число избирателей, включенных в списки": 95424,
@@ -1185,6 +1281,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "333300172526",
     "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки": 114252,
@@ -1290,6 +1394,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "333300172527",
     "tikName": " Владимир, Фрунзенская ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки": 98538,
@@ -1389,6 +1501,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "333300172536",
     "tikName": "Юрьев-Польская ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки": 29892,
@@ -1483,6 +1603,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "333300172696",
     "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки": 48336,
@@ -1581,6 +1709,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "333300172697",
     "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки": 64077,
@@ -1663,6 +1799,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "uikCount": 59,
     "accounting": {
       "Число избирателей, включенных в списки": 56164,
@@ -1777,6 +1921,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки": 36602,
@@ -1865,6 +2017,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 18957,
@@ -1946,6 +2106,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "333300172701",
     "tikName": "Суздальская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в списки": 9108,
@@ -2007,6 +2175,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки": 30031,
@@ -2103,6 +2279,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "333300172703",
     "tikName": "Собинская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки": 30593,
@@ -2174,6 +2358,14 @@ export const duma_2003_tic_429_region_33 = [
     "ballot": "single-member",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки": 33437,

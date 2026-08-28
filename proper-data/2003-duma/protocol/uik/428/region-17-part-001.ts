@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "417400166623",
+    "uikName": "УИК  32",
     "tikTvd": "217200066675",
     "tikName": "Ак-Довуракская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1077,
       "Число бюллетеней, полученных участковыми комиссиями": 991,
@@ -57,8 +66,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "417400166624",
+    "uikName": "УИК  33",
     "tikTvd": "217200066675",
     "tikName": "Ак-Довуракская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 992,
       "Число бюллетеней, полученных участковыми комиссиями": 915,
@@ -103,8 +121,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "417400166625",
+    "uikName": "УИК  34",
     "tikTvd": "217200066675",
     "tikName": "Ак-Довуракская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 935,
       "Число бюллетеней, полученных участковыми комиссиями": 949,
@@ -149,8 +176,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "417400166626",
+    "uikName": "УИК  35",
     "tikTvd": "217200066675",
     "tikName": "Ак-Довуракская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 955,
       "Число бюллетеней, полученных участковыми комиссиями": 995,
@@ -195,8 +231,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "417400166627",
+    "uikName": "УИК  36",
     "tikTvd": "217200066675",
     "tikName": "Ак-Довуракская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1127,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -241,8 +286,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "417400166628",
+    "uikName": "УИК  37",
     "tikTvd": "217200066675",
     "tikName": "Ак-Довуракская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 880,
       "Число бюллетеней, полученных участковыми комиссиями": 875,
@@ -287,8 +341,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "417400266671",
+    "uikName": "УИК №38",
     "tikTvd": "217200066677",
     "tikName": "Бай-Тайгинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1808,
       "Число бюллетеней, полученных участковыми комиссиями": 1817,
@@ -333,8 +396,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "417400266672",
+    "uikName": "УИК №39",
     "tikTvd": "217200066677",
     "tikName": "Бай-Тайгинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 442,
       "Число бюллетеней, полученных участковыми комиссиями": 422,
@@ -379,8 +451,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "417400266673",
+    "uikName": "УИК №40",
     "tikTvd": "217200066677",
     "tikName": "Бай-Тайгинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 485,
       "Число бюллетеней, полученных участковыми комиссиями": 468,
@@ -425,8 +506,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "417400266674",
+    "uikName": "УИК №41",
     "tikTvd": "217200066677",
     "tikName": "Бай-Тайгинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 615,
       "Число бюллетеней, полученных участковыми комиссиями": 619,
@@ -471,8 +561,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "417400266675",
+    "uikName": "УИК №42",
     "tikTvd": "217200066677",
     "tikName": "Бай-Тайгинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 810,
       "Число бюллетеней, полученных участковыми комиссиями": 794,
@@ -517,8 +616,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "417400266676",
+    "uikName": "УИК №43",
     "tikTvd": "217200066677",
     "tikName": "Бай-Тайгинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 991,
       "Число бюллетеней, полученных участковыми комиссиями": 1002,
@@ -563,8 +671,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "417400266677",
+    "uikName": "УИК №44",
     "tikTvd": "217200066677",
     "tikName": "Бай-Тайгинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 969,
       "Число бюллетеней, полученных участковыми комиссиями": 961,
@@ -609,8 +726,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "417400366668",
+    "uikName": "УИК  45",
     "tikTvd": "217200066679",
     "tikName": "Барун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 806,
       "Число бюллетеней, полученных участковыми комиссиями": 757,
@@ -655,8 +781,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "417400366669",
+    "uikName": "УИК  46",
     "tikTvd": "217200066679",
     "tikName": "Барун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1645,
       "Число бюллетеней, полученных участковыми комиссиями": 1529,
@@ -701,8 +836,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "417400366670",
+    "uikName": "УИК  47",
     "tikTvd": "217200066679",
     "tikName": "Барун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 445,
       "Число бюллетеней, полученных участковыми комиссиями": 532,
@@ -747,8 +891,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "417400366671",
+    "uikName": "УИК  48",
     "tikTvd": "217200066679",
     "tikName": "Барун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 309,
@@ -793,8 +946,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "417400366672",
+    "uikName": "УИК  49",
     "tikTvd": "217200066679",
     "tikName": "Барун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 414,
       "Число бюллетеней, полученных участковыми комиссиями": 381,
@@ -839,8 +1001,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "417400366673",
+    "uikName": "УИК  50",
     "tikTvd": "217200066679",
     "tikName": "Барун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 365,
@@ -885,8 +1056,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "417400366674",
+    "uikName": "УИК  51",
     "tikTvd": "217200066679",
     "tikName": "Барун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 740,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -931,8 +1111,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "417400366675",
+    "uikName": "УИК  52",
     "tikTvd": "217200066679",
     "tikName": "Барун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 279,
       "Число бюллетеней, полученных участковыми комиссиями": 276,
@@ -977,8 +1166,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "417400366679",
+    "uikName": "УИК  53",
     "tikTvd": "217200066679",
     "tikName": "Барун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 694,
       "Число бюллетеней, полученных участковыми комиссиями": 658,
@@ -1023,8 +1221,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "417400366680",
+    "uikName": "УИК  54",
     "tikTvd": "217200066679",
     "tikName": "Барун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 929,
       "Число бюллетеней, полученных участковыми комиссиями": 921,
@@ -1069,8 +1276,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "417400466756",
+    "uikName": "УИК №55",
     "tikTvd": "217200066681",
     "tikName": "Дзун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1125,
       "Число бюллетеней, полученных участковыми комиссиями": 1044,
@@ -1115,8 +1331,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "417400466758",
+    "uikName": "УИК №56",
     "tikTvd": "217200066681",
     "tikName": "Дзун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1302,
       "Число бюллетеней, полученных участковыми комиссиями": 1296,
@@ -1161,8 +1386,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "417400466760",
+    "uikName": "УИК №57",
     "tikTvd": "217200066681",
     "tikName": "Дзун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1112,
       "Число бюллетеней, полученных участковыми комиссиями": 1065,
@@ -1207,8 +1441,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "417400466762",
+    "uikName": "УИК №58",
     "tikTvd": "217200066681",
     "tikName": "Дзун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1190,
       "Число бюллетеней, полученных участковыми комиссиями": 1122,
@@ -1253,8 +1496,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "417400466763",
+    "uikName": "УИК №59",
     "tikTvd": "217200066681",
     "tikName": "Дзун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 940,
       "Число бюллетеней, полученных участковыми комиссиями": 895,
@@ -1299,8 +1551,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "417400466764",
+    "uikName": "УИК №60",
     "tikTvd": "217200066681",
     "tikName": "Дзун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 730,
       "Число бюллетеней, полученных участковыми комиссиями": 696,
@@ -1345,8 +1606,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "417400466765",
+    "uikName": "УИК №61",
     "tikTvd": "217200066681",
     "tikName": "Дзун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 456,
       "Число бюллетеней, полученных участковыми комиссиями": 432,
@@ -1391,8 +1661,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "417400466766",
+    "uikName": "УИК №62",
     "tikTvd": "217200066681",
     "tikName": "Дзун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 682,
       "Число бюллетеней, полученных участковыми комиссиями": 673,
@@ -1437,8 +1716,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "417400466767",
+    "uikName": "УИК №63",
     "tikTvd": "217200066681",
     "tikName": "Дзун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1021,
       "Число бюллетеней, полученных участковыми комиссиями": 997,
@@ -1483,8 +1771,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "417400466768",
+    "uikName": "УИК №64",
     "tikTvd": "217200066681",
     "tikName": "Дзун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 512,
       "Число бюллетеней, полученных участковыми комиссиями": 503,
@@ -1529,8 +1826,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "417400466769",
+    "uikName": "УИК №65",
     "tikTvd": "217200066681",
     "tikName": "Дзун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 301,
       "Число бюллетеней, полученных участковыми комиссиями": 293,
@@ -1575,8 +1881,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "417400466770",
+    "uikName": "УИК №66",
     "tikTvd": "217200066681",
     "tikName": "Дзун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 718,
       "Число бюллетеней, полученных участковыми комиссиями": 664,
@@ -1621,8 +1936,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "417400466789",
+    "uikName": "УИК №67",
     "tikTvd": "217200066681",
     "tikName": "Дзун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 575,
       "Число бюллетеней, полученных участковыми комиссиями": 564,
@@ -1667,8 +1991,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "417400466787",
+    "uikName": "УИК №68",
     "tikTvd": "217200066681",
     "tikName": "Дзун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 397,
       "Число бюллетеней, полученных участковыми комиссиями": 366,
@@ -1713,8 +2046,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "417400566695",
+    "uikName": "УИК  69",
     "tikTvd": "217200066683",
     "tikName": "Каа-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 451,
       "Число бюллетеней, полученных участковыми комиссиями": 431,
@@ -1759,8 +2101,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "417400566696",
+    "uikName": "УИК  70",
     "tikTvd": "217200066683",
     "tikName": "Каа-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 498,
       "Число бюллетеней, полученных участковыми комиссиями": 471,
@@ -1805,8 +2156,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "417400566697",
+    "uikName": "УИК  71",
     "tikTvd": "217200066683",
     "tikName": "Каа-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 408,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -1851,8 +2211,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "417400566721",
+    "uikName": "УИК  72",
     "tikTvd": "217200066683",
     "tikName": "Каа-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 387,
       "Число бюллетеней, полученных участковыми комиссиями": 396,
@@ -1897,8 +2266,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "417400566722",
+    "uikName": "УИК  73",
     "tikTvd": "217200066683",
     "tikName": "Каа-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 78,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -1943,8 +2321,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "417400566723",
+    "uikName": "УИК  74",
     "tikTvd": "217200066683",
     "tikName": "Каа-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 311,
       "Число бюллетеней, полученных участковыми комиссиями": 309,
@@ -1989,8 +2376,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "417400566724",
+    "uikName": "УИК  75",
     "tikTvd": "217200066683",
     "tikName": "Каа-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1435,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -2035,8 +2431,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "417400566725",
+    "uikName": "УИК  76",
     "tikTvd": "217200066683",
     "tikName": "Каа-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1411,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -2081,8 +2486,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "417400566726",
+    "uikName": "УИК  77",
     "tikTvd": "217200066683",
     "tikName": "Каа-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 448,
       "Число бюллетеней, полученных участковыми комиссиями": 427,
@@ -2127,8 +2541,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "417400566727",
+    "uikName": "УИК  78",
     "tikTvd": "217200066683",
     "tikName": "Каа-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -2173,8 +2596,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "417400566728",
+    "uikName": "УИК  79",
     "tikTvd": "217200066683",
     "tikName": "Каа-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -2219,8 +2651,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "417400566729",
+    "uikName": "УИК  80",
     "tikTvd": "217200066683",
     "tikName": "Каа-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 166,
@@ -2265,8 +2706,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "417400566730",
+    "uikName": "УИК  81",
     "tikTvd": "217200066683",
     "tikName": "Каа-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 104,
@@ -2311,8 +2761,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "417400566731",
+    "uikName": "УИК  82",
     "tikTvd": "217200066683",
     "tikName": "Каа-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 68,
       "Число бюллетеней, полученных участковыми комиссиями": 66,
@@ -2357,8 +2816,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "417400566732",
+    "uikName": "УИК  83",
     "tikTvd": "217200066683",
     "tikName": "Каа-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 493,
       "Число бюллетеней, полученных участковыми комиссиями": 461,
@@ -2403,8 +2871,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "417400566733",
+    "uikName": "УИК  84",
     "tikTvd": "217200066683",
     "tikName": "Каа-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 552,
       "Число бюллетеней, полученных участковыми комиссиями": 553,
@@ -2449,8 +2926,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "417400666916",
+    "uikName": "УИК №1",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1471,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -2495,8 +2981,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "417400666917",
+    "uikName": "УИК №2",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1703,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2541,8 +3036,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "417400666918",
+    "uikName": "УИК №3",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1253,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -2587,8 +3091,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "417400666919",
+    "uikName": "УИК №4",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1932,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2633,8 +3146,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "417400666920",
+    "uikName": "УИК №5",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1122,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2679,8 +3201,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "417400666921",
+    "uikName": "УИК №6",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2436,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2725,8 +3256,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "417400666922",
+    "uikName": "УИК №7",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1438,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2771,8 +3311,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "417400666923",
+    "uikName": "УИК №8",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1932,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2817,8 +3366,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "417400666924",
+    "uikName": "УИК №9",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2177,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2863,8 +3421,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "417400666925",
+    "uikName": "УИК №10",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1244,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -2909,8 +3476,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "417400666926",
+    "uikName": "УИК №11",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1484,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2955,8 +3531,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "417400666927",
+    "uikName": "УИК №12",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1054,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -3001,8 +3586,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "417400666928",
+    "uikName": "УИК №13",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2289,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3047,8 +3641,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "417400666929",
+    "uikName": "УИК №14",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2431,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3093,8 +3696,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "417400666930",
+    "uikName": "УИК №15",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1712,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3139,8 +3751,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "417400666931",
+    "uikName": "УИК №16",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1957,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3185,8 +3806,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "417400666932",
+    "uikName": "УИК №17",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1619,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3231,8 +3861,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "417400666933",
+    "uikName": "УИК №18",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1831,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3277,8 +3916,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "417400666934",
+    "uikName": "УИК №19",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2169,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3323,8 +3971,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "417400666935",
+    "uikName": "УИК №20",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1655,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -3369,8 +4026,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "417400666936",
+    "uikName": "УИК №21",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1760,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3415,8 +4081,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "417400666937",
+    "uikName": "УИК №22",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1973,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3461,8 +4136,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "417400666938",
+    "uikName": "УИК №23",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1873,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3507,8 +4191,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "417400666939",
+    "uikName": "УИК №24",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1637,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3553,8 +4246,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "417400666940",
+    "uikName": "УИК №25",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1652,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3599,8 +4301,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "417400666941",
+    "uikName": "УИК №26",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1501,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3645,8 +4356,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "417400666942",
+    "uikName": "УИК №27",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1801,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3691,8 +4411,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "417400666943",
+    "uikName": "УИК №28",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1600,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -3737,8 +4466,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "417400666944",
+    "uikName": "УИК №29",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2004,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3783,8 +4521,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "417400666945",
+    "uikName": "УИК №30",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1899,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3829,8 +4576,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "417400666946",
+    "uikName": "УИК №31",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 640,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -3875,8 +4631,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "417400766762",
+    "uikName": "УИК  85",
     "tikTvd": "217200066687",
     "tikName": "Кызылская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 926,
       "Число бюллетеней, полученных участковыми комиссиями": 905,
@@ -3921,8 +4686,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "417400766642",
+    "uikName": "УИК  86",
     "tikTvd": "217200066687",
     "tikName": "Кызылская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2396,
       "Число бюллетеней, полученных участковыми комиссиями": 2312,
@@ -3967,8 +4741,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "417400766643",
+    "uikName": "УИК  87",
     "tikTvd": "217200066687",
     "tikName": "Кызылская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1433,
       "Число бюллетеней, полученных участковыми комиссиями": 1335,
@@ -4013,8 +4796,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "417400766644",
+    "uikName": "УИК  88",
     "tikTvd": "217200066687",
     "tikName": "Кызылская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1574,
       "Число бюллетеней, полученных участковыми комиссиями": 1610,
@@ -4059,8 +4851,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "417400766645",
+    "uikName": "УИК  89",
     "tikTvd": "217200066687",
     "tikName": "Кызылская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 309,
       "Число бюллетеней, полученных участковыми комиссиями": 317,
@@ -4105,8 +4906,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "417400766646",
+    "uikName": "УИК  90",
     "tikTvd": "217200066687",
     "tikName": "Кызылская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 822,
       "Число бюллетеней, полученных участковыми комиссиями": 825,
@@ -4151,8 +4961,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "417400766647",
+    "uikName": "УИК  91",
     "tikTvd": "217200066687",
     "tikName": "Кызылская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 627,
       "Число бюллетеней, полученных участковыми комиссиями": 632,
@@ -4197,8 +5016,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "417400766648",
+    "uikName": "УИК  92",
     "tikTvd": "217200066687",
     "tikName": "Кызылская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 548,
       "Число бюллетеней, полученных участковыми комиссиями": 526,
@@ -4243,8 +5071,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "417400766649",
+    "uikName": "УИК  93",
     "tikTvd": "217200066687",
     "tikName": "Кызылская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 253,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -4289,8 +5126,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "417400766650",
+    "uikName": "УИК  94",
     "tikTvd": "217200066687",
     "tikName": "Кызылская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 711,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -4335,8 +5181,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "417400766651",
+    "uikName": "УИК  95",
     "tikTvd": "217200066687",
     "tikName": "Кызылская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 507,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -4381,8 +5236,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "417400766652",
+    "uikName": "УИК  96",
     "tikTvd": "217200066687",
     "tikName": "Кызылская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 616,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -4427,8 +5291,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "417400866629",
+    "uikName": "УИК №97",
     "tikTvd": "217200066689",
     "tikName": "Монгун-Тайгинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1128,
       "Число бюллетеней, полученных участковыми комиссиями": 960,
@@ -4473,8 +5346,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "417400866631",
+    "uikName": "УИК №98",
     "tikTvd": "217200066689",
     "tikName": "Монгун-Тайгинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1200,
       "Число бюллетеней, полученных участковыми комиссиями": 1219,
@@ -4519,8 +5401,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "417400866627",
+    "uikName": "УИК №99",
     "tikTvd": "217200066689",
     "tikName": "Монгун-Тайгинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 635,
       "Число бюллетеней, полученных участковыми комиссиями": 725,
@@ -4565,8 +5456,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "417400966722",
+    "uikName": "УИК  100",
     "tikTvd": "217200066691",
     "tikName": "Овюрская ",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 236,
       "Число бюллетеней, полученных участковыми комиссиями": 241,
@@ -4611,8 +5511,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "417400966723",
+    "uikName": "УИК  101",
     "tikTvd": "217200066691",
     "tikName": "Овюрская ",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 435,
       "Число бюллетеней, полученных участковыми комиссиями": 452,
@@ -4657,8 +5566,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "417400966724",
+    "uikName": "УИК  102",
     "tikTvd": "217200066691",
     "tikName": "Овюрская ",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 521,
       "Число бюллетеней, полученных участковыми комиссиями": 563,
@@ -4703,8 +5621,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "417400966725",
+    "uikName": "УИК  103",
     "tikTvd": "217200066691",
     "tikName": "Овюрская ",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1588,
       "Число бюллетеней, полученных участковыми комиссиями": 1608,
@@ -4749,8 +5676,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "417400966726",
+    "uikName": "УИК  104",
     "tikTvd": "217200066691",
     "tikName": "Овюрская ",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 618,
       "Число бюллетеней, полученных участковыми комиссиями": 663,
@@ -4795,8 +5731,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "417400966727",
+    "uikName": "УИК  105",
     "tikTvd": "217200066691",
     "tikName": "Овюрская ",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 587,
       "Число бюллетеней, полученных участковыми комиссиями": 684,
@@ -4841,8 +5786,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "417401066630",
+    "uikName": "УИК  106",
     "tikTvd": "217200066693",
     "tikName": "Пий-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 631,
       "Число бюллетеней, полученных участковыми комиссиями": 611,
@@ -4887,8 +5841,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "417401066631",
+    "uikName": "УИК  107",
     "tikTvd": "217200066693",
     "tikName": "Пий-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 394,
       "Число бюллетеней, полученных участковыми комиссиями": 388,
@@ -4933,8 +5896,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "417401066632",
+    "uikName": "УИК  108",
     "tikTvd": "217200066693",
     "tikName": "Пий-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1253,
       "Число бюллетеней, полученных участковыми комиссиями": 1245,
@@ -4979,8 +5951,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "417401066633",
+    "uikName": "УИК  109",
     "tikTvd": "217200066693",
     "tikName": "Пий-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 742,
       "Число бюллетеней, полученных участковыми комиссиями": 708,
@@ -5025,8 +6006,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "417401066634",
+    "uikName": "УИК  110",
     "tikTvd": "217200066693",
     "tikName": "Пий-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 565,
       "Число бюллетеней, полученных участковыми комиссиями": 542,
@@ -5071,8 +6061,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "417401066635",
+    "uikName": "УИК  111",
     "tikTvd": "217200066693",
     "tikName": "Пий-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 264,
       "Число бюллетеней, полученных участковыми комиссиями": 256,
@@ -5117,8 +6116,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "417401066636",
+    "uikName": "УИК  112",
     "tikTvd": "217200066693",
     "tikName": "Пий-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 179,
@@ -5163,8 +6171,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "417401066637",
+    "uikName": "УИК  113",
     "tikTvd": "217200066693",
     "tikName": "Пий-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 582,
       "Число бюллетеней, полученных участковыми комиссиями": 591,
@@ -5209,8 +6226,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "417401066638",
+    "uikName": "УИК  114",
     "tikTvd": "217200066693",
     "tikName": "Пий-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 286,
       "Число бюллетеней, полученных участковыми комиссиями": 279,
@@ -5255,8 +6281,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "417401066639",
+    "uikName": "УИК  115",
     "tikTvd": "217200066693",
     "tikName": "Пий-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 496,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -5301,8 +6336,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "417401066640",
+    "uikName": "УИК  116",
     "tikTvd": "217200066693",
     "tikName": "Пий-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 608,
       "Число бюллетеней, полученных участковыми комиссиями": 594,
@@ -5347,8 +6391,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "417401066641",
+    "uikName": "УИК  117",
     "tikTvd": "217200066693",
     "tikName": "Пий-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 290,
       "Число бюллетеней, полученных участковыми комиссиями": 274,
@@ -5393,8 +6446,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "417401066642",
+    "uikName": "УИК  118",
     "tikTvd": "217200066693",
     "tikName": "Пий-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 396,
       "Число бюллетеней, полученных участковыми комиссиями": 376,
@@ -5439,8 +6501,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "417401066643",
+    "uikName": "УИК  119",
     "tikTvd": "217200066693",
     "tikName": "Пий-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 261,
@@ -5485,8 +6556,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "417401166651",
+    "uikName": "УИК №120",
     "tikTvd": "217200066695",
     "tikName": "Сут-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 615,
       "Число бюллетеней, полученных участковыми комиссиями": 692,
@@ -5531,8 +6611,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "417401166652",
+    "uikName": "УИК №121",
     "tikTvd": "217200066695",
     "tikName": "Сут-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 317,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -5577,8 +6666,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "417401166653",
+    "uikName": "УИК №122",
     "tikTvd": "217200066695",
     "tikName": "Сут-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 522,
       "Число бюллетеней, полученных участковыми комиссиями": 532,
@@ -5623,8 +6721,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "417401166654",
+    "uikName": "УИК №123",
     "tikTvd": "217200066695",
     "tikName": "Сут-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1606,
       "Число бюллетеней, полученных участковыми комиссиями": 1540,
@@ -5669,8 +6776,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "417401166655",
+    "uikName": "УИК №124",
     "tikTvd": "217200066695",
     "tikName": "Сут-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 473,
@@ -5715,8 +6831,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "417401166656",
+    "uikName": "УИК №125",
     "tikTvd": "217200066695",
     "tikName": "Сут-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 307,
@@ -5761,8 +6886,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "417401166657",
+    "uikName": "УИК №126",
     "tikTvd": "217200066695",
     "tikName": "Сут-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 583,
       "Число бюллетеней, полученных участковыми комиссиями": 578,
@@ -5807,8 +6941,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "417401266602",
+    "uikName": "УИК  127",
     "tikTvd": "217200066697",
     "tikName": "Тандинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1942,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -5853,8 +6996,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "417401266603",
+    "uikName": "УИК  128",
     "tikTvd": "217200066697",
     "tikName": "Тандинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 851,
       "Число бюллетеней, полученных участковыми комиссиями": 817,
@@ -5899,8 +7051,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "417401266604",
+    "uikName": "УИК  129",
     "tikTvd": "217200066697",
     "tikName": "Тандинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 509,
       "Число бюллетеней, полученных участковыми комиссиями": 499,
@@ -5945,8 +7106,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "417401266605",
+    "uikName": "УИК  130",
     "tikTvd": "217200066697",
     "tikName": "Тандинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 87,
@@ -5991,8 +7161,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "417401266606",
+    "uikName": "УИК  131",
     "tikTvd": "217200066697",
     "tikName": "Тандинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1873,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -6037,8 +7216,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "417401266607",
+    "uikName": "УИК  132",
     "tikTvd": "217200066697",
     "tikName": "Тандинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 232,
@@ -6083,8 +7271,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "417401266608",
+    "uikName": "УИК  133",
     "tikTvd": "217200066697",
     "tikName": "Тандинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 183,
@@ -6129,8 +7326,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "417401266609",
+    "uikName": "УИК  134",
     "tikTvd": "217200066697",
     "tikName": "Тандинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 521,
       "Число бюллетеней, полученных участковыми комиссиями": 523,
@@ -6175,8 +7381,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "417401266610",
+    "uikName": "УИК  135",
     "tikTvd": "217200066697",
     "tikName": "Тандинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 683,
       "Число бюллетеней, полученных участковыми комиссиями": 648,
@@ -6221,8 +7436,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "417401266611",
+    "uikName": "УИК  136",
     "tikTvd": "217200066697",
     "tikName": "Тандинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 217,
@@ -6267,8 +7491,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "417401266612",
+    "uikName": "УИК  137",
     "tikTvd": "217200066697",
     "tikName": "Тандинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 564,
       "Число бюллетеней, полученных участковыми комиссиями": 556,
@@ -6313,8 +7546,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "417401366653",
+    "uikName": "УИК №140",
     "tikTvd": "217200066699",
     "tikName": "Тес-Хемская ",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1752,
       "Число бюллетеней, полученных участковыми комиссиями": 1761,
@@ -6359,8 +7601,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "417401366654",
+    "uikName": "УИК №141",
     "tikTvd": "217200066699",
     "tikName": "Тес-Хемская ",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 530,
       "Число бюллетеней, полученных участковыми комиссиями": 533,
@@ -6405,8 +7656,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "417401366655",
+    "uikName": "УИК №142",
     "tikTvd": "217200066699",
     "tikName": "Тес-Хемская ",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 674,
       "Число бюллетеней, полученных участковыми комиссиями": 678,
@@ -6451,8 +7711,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "417401366656",
+    "uikName": "УИК №143",
     "tikTvd": "217200066699",
     "tikName": "Тес-Хемская ",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 389,
       "Число бюллетеней, полученных участковыми комиссиями": 391,
@@ -6497,8 +7766,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "417401366657",
+    "uikName": "УИК №144",
     "tikTvd": "217200066699",
     "tikName": "Тес-Хемская ",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 257,
@@ -6543,8 +7821,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "417401366658",
+    "uikName": "УИК №145",
     "tikTvd": "217200066699",
     "tikName": "Тес-Хемская ",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 474,
@@ -6589,8 +7876,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "417401366659",
+    "uikName": "УИК №146",
     "tikTvd": "217200066699",
     "tikName": "Тес-Хемская ",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 664,
       "Число бюллетеней, полученных участковыми комиссиями": 677,
@@ -6635,8 +7931,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "417401466764",
+    "uikName": "УИК №147",
     "tikTvd": "217200066701",
     "tikName": "Тоджинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1277,
       "Число бюллетеней, полученных участковыми комиссиями": 1278,
@@ -6681,8 +7986,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "417401466765",
+    "uikName": "УИК №148",
     "tikTvd": "217200066701",
     "tikName": "Тоджинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 311,
       "Число бюллетеней, полученных участковыми комиссиями": 284,
@@ -6727,8 +8041,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "417401466766",
+    "uikName": "УИК №149",
     "tikTvd": "217200066701",
     "tikName": "Тоджинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 643,
       "Число бюллетеней, полученных участковыми комиссиями": 647,
@@ -6773,8 +8096,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "417401466767",
+    "uikName": "УИК №150",
     "tikTvd": "217200066701",
     "tikName": "Тоджинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 676,
       "Число бюллетеней, полученных участковыми комиссиями": 713,
@@ -6819,8 +8151,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "417401466768",
+    "uikName": "УИК №151",
     "tikTvd": "217200066701",
     "tikName": "Тоджинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 295,
       "Число бюллетеней, полученных участковыми комиссиями": 317,
@@ -6865,8 +8206,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "417401466769",
+    "uikName": "УИК №152",
     "tikTvd": "217200066701",
     "tikName": "Тоджинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -6911,8 +8261,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "417401466762",
+    "uikName": "УИК №153",
     "tikTvd": "217200066701",
     "tikName": "Тоджинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 92,
@@ -6957,8 +8316,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "417401566653",
+    "uikName": "УИК №154",
     "tikTvd": "217200066703",
     "tikName": "Улуг-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1241,
       "Число бюллетеней, полученных участковыми комиссиями": 1236,
@@ -7003,8 +8371,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "417401566654",
+    "uikName": "УИК №155",
     "tikTvd": "217200066703",
     "tikName": "Улуг-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1129,
       "Число бюллетеней, полученных участковыми комиссиями": 1097,
@@ -7049,8 +8426,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "417401566655",
+    "uikName": "УИК №156",
     "tikTvd": "217200066703",
     "tikName": "Улуг-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1448,
       "Число бюллетеней, полученных участковыми комиссиями": 1373,
@@ -7095,8 +8481,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "417401566656",
+    "uikName": "УИК №157",
     "tikTvd": "217200066703",
     "tikName": "Улуг-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1023,
       "Число бюллетеней, полученных участковыми комиссиями": 1155,
@@ -7141,8 +8536,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "417401566657",
+    "uikName": "УИК №158",
     "tikTvd": "217200066703",
     "tikName": "Улуг-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 401,
       "Число бюллетеней, полученных участковыми комиссиями": 368,
@@ -7187,8 +8591,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "417401566658",
+    "uikName": "УИК №159",
     "tikTvd": "217200066703",
     "tikName": "Улуг-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1095,
       "Число бюллетеней, полученных участковыми комиссиями": 1032,
@@ -7233,8 +8646,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "417401566659",
+    "uikName": "УИК №160",
     "tikTvd": "217200066703",
     "tikName": "Улуг-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 330,
       "Число бюллетеней, полученных участковыми комиссиями": 341,
@@ -7279,8 +8701,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "417401566660",
+    "uikName": "УИК №161",
     "tikTvd": "217200066703",
     "tikName": "Улуг-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 532,
       "Число бюллетеней, полученных участковыми комиссиями": 485,
@@ -7325,8 +8756,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "417401566661",
+    "uikName": "УИК №162",
     "tikTvd": "217200066703",
     "tikName": "Улуг-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 680,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -7371,8 +8811,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "417401566662",
+    "uikName": "УИК №163",
     "tikTvd": "217200066703",
     "tikName": "Улуг-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -7417,8 +8866,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "417401566663",
+    "uikName": "УИК №164",
     "tikTvd": "217200066703",
     "tikName": "Улуг-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 785,
       "Число бюллетеней, полученных участковыми комиссиями": 737,
@@ -7463,8 +8921,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "417401566664",
+    "uikName": "УИК №165",
     "tikTvd": "217200066703",
     "tikName": "Улуг-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 417,
       "Число бюллетеней, полученных участковыми комиссиями": 392,
@@ -7509,8 +8976,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "417401566665",
+    "uikName": "УИК №166",
     "tikTvd": "217200066703",
     "tikName": "Улуг-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 262,
@@ -7555,8 +9031,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "417401666632",
+    "uikName": "УИК  167",
     "tikTvd": "217200066705",
     "tikName": "Чаа-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2100,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -7601,8 +9086,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "417401666633",
+    "uikName": "УИК  168",
     "tikTvd": "217200066705",
     "tikName": "Чаа-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 584,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -7647,8 +9141,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "417401666634",
+    "uikName": "УИК  169",
     "tikTvd": "217200066705",
     "tikName": "Чаа-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 196,
       "Число бюллетеней, полученных участковыми комиссиями": 198,
@@ -7693,8 +9196,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "417401666635",
+    "uikName": "УИК  170",
     "tikTvd": "217200066705",
     "tikName": "Чаа-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 785,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -7739,8 +9251,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "417401766650",
+    "uikName": "УИК №171",
     "tikTvd": "217200066707",
     "tikName": "Чеди-Хольская ",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2195,
       "Число бюллетеней, полученных участковыми комиссиями": 2090,
@@ -7785,8 +9306,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "417401766651",
+    "uikName": "УИК №172",
     "tikTvd": "217200066707",
     "tikName": "Чеди-Хольская ",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 651,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -7831,8 +9361,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "417401766652",
+    "uikName": "УИК №173",
     "tikTvd": "217200066707",
     "tikName": "Чеди-Хольская ",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 583,
       "Число бюллетеней, полученных участковыми комиссиями": 557,
@@ -7877,8 +9416,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "417401766653",
+    "uikName": "УИК №174",
     "tikTvd": "217200066707",
     "tikName": "Чеди-Хольская ",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 108,
@@ -7923,8 +9471,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "417401766654",
+    "uikName": "УИК №175",
     "tikTvd": "217200066707",
     "tikName": "Чеди-Хольская ",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -7969,8 +9526,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "417401766655",
+    "uikName": "УИК №176",
     "tikTvd": "217200066707",
     "tikName": "Чеди-Хольская ",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 787,
       "Число бюллетеней, полученных участковыми комиссиями": 744,
@@ -8015,8 +9581,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "417401966799",
+    "uikName": "УИК  138",
     "tikTvd": "217200066711",
     "tikName": "Тере-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 521,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -8061,8 +9636,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "417401966800",
+    "uikName": "УИК  139",
     "tikTvd": "217200066711",
     "tikName": "Тере-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 628,
       "Число бюллетеней, полученных участковыми комиссиями": 629,
@@ -8107,8 +9691,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "217200068196",
+    "uikName": "УИК  177",
     "tikTvd": "217200068936",
     "tikName": "Эрзинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 627,
       "Число бюллетеней, полученных участковыми комиссиями": 564,
@@ -8153,8 +9746,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "217200068197",
+    "uikName": "УИК  178",
     "tikTvd": "217200068936",
     "tikName": "Эрзинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1578,
       "Число бюллетеней, полученных участковыми комиссиями": 1456,
@@ -8199,8 +9801,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "217200068198",
+    "uikName": "УИК  179",
     "tikTvd": "217200068936",
     "tikName": "Эрзинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 595,
       "Число бюллетеней, полученных участковыми комиссиями": 524,
@@ -8245,8 +9856,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "217200068199",
+    "uikName": "УИК  180",
     "tikTvd": "217200068936",
     "tikName": "Эрзинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 365,
@@ -8291,8 +9911,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "217200068200",
+    "uikName": "УИК  181",
     "tikTvd": "217200068936",
     "tikName": "Эрзинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1067,
       "Число бюллетеней, полученных участковыми комиссиями": 943,
@@ -8337,8 +9966,17 @@ export const duma_2003_uik_428_region_17_part_001 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "217200068201",
+    "uikName": "УИК  182",
     "tikTvd": "217200068936",
     "tikName": "Эрзинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 28,
+      "oikTvd": "100100095775",
+      "oikName": "Тувинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 142,

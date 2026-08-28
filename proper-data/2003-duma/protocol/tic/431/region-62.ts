@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300171302",
     "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 8126,
@@ -95,6 +98,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300171303",
     "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки": 28782,
@@ -199,6 +205,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300171304",
     "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в списки": 29980,
@@ -324,6 +333,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300171305",
     "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в списки": 115497,
@@ -438,6 +450,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300171306",
     "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в списки": 143221,
@@ -560,6 +575,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300171307",
     "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в списки": 112349,
@@ -672,6 +690,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300171308",
     "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки": 61674,
@@ -768,6 +789,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271155",
     "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 8597,
@@ -858,6 +882,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271156",
     "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 8255,
@@ -944,6 +971,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271157",
     "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки": 27031,
@@ -1062,6 +1092,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271158",
     "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 27815,
@@ -1146,6 +1179,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271159",
     "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки": 23429,
@@ -1251,6 +1287,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271160",
     "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки": 20405,
@@ -1349,6 +1388,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки": 12241,
@@ -1447,6 +1489,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 9108,
@@ -1538,6 +1583,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271163",
     "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки": 5729,
@@ -1620,6 +1668,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки": 27833,
@@ -1717,6 +1768,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271165",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 6828,
@@ -1802,6 +1856,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки": 24713,
@@ -1901,6 +1958,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки": 43571,
@@ -2017,6 +2077,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 10103,
@@ -2106,6 +2169,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271169",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки": 17780,
@@ -2207,6 +2273,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271170",
     "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки": 16570,
@@ -2312,6 +2381,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271171",
     "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки": 26656,
@@ -2389,6 +2461,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271172",
     "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки": 22481,
@@ -2498,6 +2573,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271173",
     "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки": 26866,
@@ -2580,6 +2658,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271174",
     "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в списки": 27357,
@@ -2702,6 +2783,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271175",
     "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 9336,
@@ -2788,6 +2872,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271176",
     "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 7397,
@@ -2874,6 +2961,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271177",
     "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в списки": 22817,
@@ -2999,6 +3089,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271178",
     "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки": 13332,
@@ -3082,6 +3175,9 @@ export const duma_2003_tic_431_region_62 = [
     "ballot": "party",
     "tikTvd": "362300271179",
     "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в списки": 36499,

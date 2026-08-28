@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в списки": 29220,
@@ -115,6 +123,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки": 15548,
@@ -197,6 +213,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в списки": 96227,
@@ -301,6 +325,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки": 22482,
@@ -384,6 +416,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки": 20596,
@@ -469,6 +509,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в списки": 30248,
@@ -567,6 +615,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "248200070731",
     "tikName": "Данковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки": 32594,
@@ -650,6 +706,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "248200070733",
     "tikName": "Измалковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки": 13566,
@@ -733,6 +797,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "248200070734",
     "tikName": "Воловская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки": 12525,
@@ -803,6 +875,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "248200070735",
     "tikName": "Хлевенская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки": 17115,
@@ -884,6 +964,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "248200070737",
     "tikName": "Чаплыгинская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки": 26297,
@@ -969,6 +1057,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "248200070738",
     "tikName": "Тербунская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки": 17828,
@@ -1054,6 +1150,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "248200070739",
     "tikName": "Становлянская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки": 15006,
@@ -1132,6 +1236,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "248200070740",
     "tikName": "Усманская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки": 38909,
@@ -1227,6 +1339,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "248200070742",
     "tikName": "Лев-Толстовская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 13317,
@@ -1301,6 +1421,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "248200070743",
     "tikName": "Краснинская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 11445,
@@ -1372,6 +1500,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "248200070745",
     "tikName": "Лебедянская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки": 36757,
@@ -1472,6 +1608,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "248200070748",
     "tikName": "Грязинская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 103,
+      "oikTvd": "100100095822",
+      "oikName": "Липецкий"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в списки": 56786,
@@ -1570,6 +1714,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "248200070749",
     "tikName": "Липецк, Левобережная",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 103,
+      "oikTvd": "100100095822",
+      "oikName": "Липецкий"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 40264,
@@ -1648,6 +1800,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "248200070751",
     "tikName": "Липецк, Октябрьская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 103,
+      "oikTvd": "100100095822",
+      "oikName": "Липецкий"
+    },
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в списки": 156905,
@@ -1765,6 +1925,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "248200070753",
     "tikName": "Липецк, Правобережная",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 103,
+      "oikTvd": "100100095822",
+      "oikName": "Липецкий"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки": 60397,
@@ -1849,6 +2017,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "348300270481",
     "tikName": "Липецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 103,
+      "oikTvd": "100100095822",
+      "oikName": "Липецкий"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки": 37236,
@@ -1950,6 +2126,14 @@ export const duma_2003_tic_429_region_48 = [
     "ballot": "single-member",
     "tikTvd": "348300270641",
     "tikName": "Липецк, Советская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 103,
+      "oikTvd": "100100095822",
+      "oikName": "Липецкий"
+    },
     "uikCount": 66,
     "accounting": {
       "Число избирателей, включенных в списки": 137571,

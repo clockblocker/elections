@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 546,
     "uikTvd": "467401570677",
+    "uikName": "УИК №546",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 585,
       "Число бюллетеней, полученных участковыми комиссиями": 565,
@@ -61,8 +70,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 547,
     "uikTvd": "467401570678",
+    "uikName": "УИК №547",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -111,8 +129,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 548,
     "uikTvd": "467401570679",
+    "uikName": "УИК №548",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 506,
       "Число бюллетеней, полученных участковыми комиссиями": 512,
@@ -161,8 +188,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 549,
     "uikTvd": "467401570680",
+    "uikName": "УИК №549",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 477,
       "Число бюллетеней, полученных участковыми комиссиями": 467,
@@ -211,8 +247,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 550,
     "uikTvd": "467401570681",
+    "uikName": "УИК №550",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 658,
       "Число бюллетеней, полученных участковыми комиссиями": 624,
@@ -261,8 +306,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 551,
     "uikTvd": "467401570682",
+    "uikName": "УИК №551",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 226,
@@ -311,8 +365,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 552,
     "uikTvd": "467401570683",
+    "uikName": "УИК №552",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 724,
       "Число бюллетеней, полученных участковыми комиссиями": 722,
@@ -361,8 +424,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 553,
     "uikTvd": "467401570684",
+    "uikName": "УИК №553",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 787,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -411,8 +483,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 554,
     "uikTvd": "467401570685",
+    "uikName": "УИК №554",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 665,
       "Число бюллетеней, полученных участковыми комиссиями": 668,
@@ -461,8 +542,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 555,
     "uikTvd": "467401570686",
+    "uikName": "УИК №555",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 249,
       "Число бюллетеней, полученных участковыми комиссиями": 248,
@@ -511,8 +601,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 556,
     "uikTvd": "467401570687",
+    "uikName": "УИК №556",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 167,
       "Число бюллетеней, полученных участковыми комиссиями": 168,
@@ -561,8 +660,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 557,
     "uikTvd": "467401570688",
+    "uikName": "УИК №557",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 945,
       "Число бюллетеней, полученных участковыми комиссиями": 945,
@@ -611,8 +719,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 558,
     "uikTvd": "467401570689",
+    "uikName": "УИК №558",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 947,
       "Число бюллетеней, полученных участковыми комиссиями": 960,
@@ -661,8 +778,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 559,
     "uikTvd": "467401570690",
+    "uikName": "УИК №559",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 249,
       "Число бюллетеней, полученных участковыми комиссиями": 247,
@@ -711,8 +837,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 560,
     "uikTvd": "467401570691",
+    "uikName": "УИК №560",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 227,
@@ -761,8 +896,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 561,
     "uikTvd": "467401570692",
+    "uikName": "УИК №561",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 187,
@@ -811,8 +955,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 562,
     "uikTvd": "467401570693",
+    "uikName": "УИК №562",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 414,
       "Число бюллетеней, полученных участковыми комиссиями": 412,
@@ -861,8 +1014,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 563,
     "uikTvd": "467401570694",
+    "uikName": "УИК №563",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 231,
       "Число бюллетеней, полученных участковыми комиссиями": 226,
@@ -911,8 +1073,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 564,
     "uikTvd": "467401570695",
+    "uikName": "УИК №564",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1010,
       "Число бюллетеней, полученных участковыми комиссиями": 1011,
@@ -961,8 +1132,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 565,
     "uikTvd": "467401570696",
+    "uikName": "УИК №565",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 617,
       "Число бюллетеней, полученных участковыми комиссиями": 587,
@@ -1011,8 +1191,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 566,
     "uikTvd": "467401570697",
+    "uikName": "УИК №566",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 611,
       "Число бюллетеней, полученных участковыми комиссиями": 621,
@@ -1061,8 +1250,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 567,
     "uikTvd": "467401570698",
+    "uikName": "УИК №567",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 289,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -1111,8 +1309,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 568,
     "uikTvd": "467401570699",
+    "uikName": "УИК №568",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 374,
       "Число бюллетеней, полученных участковыми комиссиями": 376,
@@ -1161,8 +1368,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 569,
     "uikTvd": "467401570700",
+    "uikName": "УИК №569",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 241,
@@ -1211,8 +1427,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 570,
     "uikTvd": "467401570701",
+    "uikName": "УИК №570",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 246,
@@ -1261,8 +1486,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 571,
     "uikTvd": "467401570702",
+    "uikName": "УИК №571",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 241,
@@ -1311,8 +1545,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 572,
     "uikTvd": "467401570703",
+    "uikName": "УИК №572",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 631,
       "Число бюллетеней, полученных участковыми комиссиями": 618,
@@ -1361,8 +1604,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 573,
     "uikTvd": "467401570704",
+    "uikName": "УИК №573",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 352,
@@ -1411,8 +1663,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 574,
     "uikTvd": "467401570705",
+    "uikName": "УИК №574",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 277,
       "Число бюллетеней, полученных участковыми комиссиями": 268,
@@ -1461,8 +1722,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 575,
     "uikTvd": "467401570706",
+    "uikName": "УИК №575",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 216,
@@ -1511,8 +1781,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 576,
     "uikTvd": "467401570707",
+    "uikName": "УИК №576",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 234,
@@ -1561,8 +1840,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 577,
     "uikTvd": "467401570708",
+    "uikName": "УИК №577",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 607,
       "Число бюллетеней, полученных участковыми комиссиями": 609,
@@ -1611,8 +1899,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 578,
     "uikTvd": "467401570709",
+    "uikName": "УИК №578",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 231,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -1661,8 +1958,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 579,
     "uikTvd": "467401570710",
+    "uikName": "УИК №579",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 261,
@@ -1711,8 +2017,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 580,
     "uikTvd": "467401570711",
+    "uikName": "УИК №580",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2953,
       "Число бюллетеней, полученных участковыми комиссиями": 2898,
@@ -1761,8 +2076,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 581,
     "uikTvd": "467401570712",
+    "uikName": "УИК №581",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 857,
       "Число бюллетеней, полученных участковыми комиссиями": 877,
@@ -1811,8 +2135,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 582,
     "uikTvd": "467401570713",
+    "uikName": "УИК №582",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 199,
@@ -1861,8 +2194,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 583,
     "uikTvd": "467401570671",
+    "uikName": "УИК №583",
     "tikTvd": "267200071407",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2839,
       "Число бюллетеней, полученных участковыми комиссиями": 2663,
@@ -1911,8 +2253,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 812,
     "uikTvd": "467402870602",
+    "uikName": "УИК №812",
     "tikTvd": "267200071408",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2246,
       "Число бюллетеней, полученных участковыми комиссиями": 2008,
@@ -1961,8 +2312,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 813,
     "uikTvd": "467402870603",
+    "uikName": "УИК №813",
     "tikTvd": "267200071408",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2043,
       "Число бюллетеней, полученных участковыми комиссиями": 1819,
@@ -2011,8 +2371,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 814,
     "uikTvd": "467402870604",
+    "uikName": "УИК №814",
     "tikTvd": "267200071408",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 431,
       "Число бюллетеней, полученных участковыми комиссиями": 387,
@@ -2061,8 +2430,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 815,
     "uikTvd": "467402870605",
+    "uikName": "УИК №815",
     "tikTvd": "267200071408",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 247,
@@ -2111,8 +2489,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 816,
     "uikTvd": "467402870606",
+    "uikName": "УИК №816",
     "tikTvd": "267200071408",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 165,
       "Число бюллетеней, полученных участковыми комиссиями": 147,
@@ -2161,8 +2548,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 817,
     "uikTvd": "467402870607",
+    "uikName": "УИК №817",
     "tikTvd": "267200071408",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 349,
       "Число бюллетеней, полученных участковыми комиссиями": 316,
@@ -2211,8 +2607,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 818,
     "uikTvd": "467402870608",
+    "uikName": "УИК №818",
     "tikTvd": "267200071408",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 282,
@@ -2261,8 +2666,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 819,
     "uikTvd": "467402870609",
+    "uikName": "УИК №819",
     "tikTvd": "267200071408",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 220,
       "Число бюллетеней, полученных участковыми комиссиями": 199,
@@ -2311,8 +2725,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 820,
     "uikTvd": "467402870610",
+    "uikName": "УИК №820",
     "tikTvd": "267200071408",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 297,
@@ -2361,8 +2784,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 821,
     "uikTvd": "467402870611",
+    "uikName": "УИК №821",
     "tikTvd": "267200071408",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 710,
       "Число бюллетеней, полученных участковыми комиссиями": 627,
@@ -2411,8 +2843,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 822,
     "uikTvd": "467402870612",
+    "uikName": "УИК №822",
     "tikTvd": "267200071408",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -2461,8 +2902,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 823,
     "uikTvd": "467402870613",
+    "uikName": "УИК №823",
     "tikTvd": "267200071408",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 273,
       "Число бюллетеней, полученных участковыми комиссиями": 246,
@@ -2511,8 +2961,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 824,
     "uikTvd": "467402870614",
+    "uikName": "УИК №824",
     "tikTvd": "267200071408",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 347,
       "Число бюллетеней, полученных участковыми комиссиями": 312,
@@ -2561,8 +3020,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 825,
     "uikTvd": "467402870615",
+    "uikName": "УИК №825",
     "tikTvd": "267200071408",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 427,
       "Число бюллетеней, полученных участковыми комиссиями": 392,
@@ -2611,8 +3079,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 826,
     "uikTvd": "467402870616",
+    "uikName": "УИК №826",
     "tikTvd": "267200071408",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 435,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -2661,8 +3138,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 827,
     "uikTvd": "467402870617",
+    "uikName": "УИК №827",
     "tikTvd": "267200071408",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -2711,8 +3197,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 828,
     "uikTvd": "467402870618",
+    "uikName": "УИК №828",
     "tikTvd": "267200071408",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 262,
@@ -2761,8 +3256,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 829,
     "uikTvd": "467402870619",
+    "uikName": "УИК №829",
     "tikTvd": "267200071408",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 616,
       "Число бюллетеней, полученных участковыми комиссиями": 539,
@@ -2811,8 +3315,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 830,
     "uikTvd": "467402870620",
+    "uikName": "УИК №830",
     "tikTvd": "267200071408",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1871,
       "Число бюллетеней, полученных участковыми комиссиями": 1683,
@@ -2861,8 +3374,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 789,
     "uikTvd": "467402670626",
+    "uikName": "УИК №789",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1366,
       "Число бюллетеней, полученных участковыми комиссиями": 1324,
@@ -2911,8 +3433,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 790,
     "uikTvd": "467402670627",
+    "uikName": "УИК №790",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 474,
       "Число бюллетеней, полученных участковыми комиссиями": 465,
@@ -2961,8 +3492,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 791,
     "uikTvd": "467402670628",
+    "uikName": "УИК №791",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1601,
       "Число бюллетеней, полученных участковыми комиссиями": 1577,
@@ -3011,8 +3551,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 792,
     "uikTvd": "467402670629",
+    "uikName": "УИК №792",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 350,
       "Число бюллетеней, полученных участковыми комиссиями": 351,
@@ -3061,8 +3610,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 793,
     "uikTvd": "467402670630",
+    "uikName": "УИК №793",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 222,
@@ -3111,8 +3669,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 794,
     "uikTvd": "467402670631",
+    "uikName": "УИК №794",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 159,
@@ -3161,8 +3728,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 795,
     "uikTvd": "467402670632",
+    "uikName": "УИК №795",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 501,
       "Число бюллетеней, полученных участковыми комиссиями": 501,
@@ -3211,8 +3787,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 796,
     "uikTvd": "467402670633",
+    "uikName": "УИК №796",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 140,
       "Число бюллетеней, полученных участковыми комиссиями": 141,
@@ -3261,8 +3846,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 797,
     "uikTvd": "467402670634",
+    "uikName": "УИК №797",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 388,
       "Число бюллетеней, полученных участковыми комиссиями": 387,
@@ -3311,8 +3905,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 798,
     "uikTvd": "467402670635",
+    "uikName": "УИК №798",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 452,
       "Число бюллетеней, полученных участковыми комиссиями": 462,
@@ -3361,8 +3964,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 799,
     "uikTvd": "467402670636",
+    "uikName": "УИК №799",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 280,
       "Число бюллетеней, полученных участковыми комиссиями": 289,
@@ -3411,8 +4023,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 800,
     "uikTvd": "467402670637",
+    "uikName": "УИК №800",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 188,
       "Число бюллетеней, полученных участковыми комиссиями": 189,
@@ -3461,8 +4082,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 801,
     "uikTvd": "467402670638",
+    "uikName": "УИК №801",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 629,
       "Число бюллетеней, полученных участковыми комиссиями": 633,
@@ -3511,8 +4141,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 802,
     "uikTvd": "467402670639",
+    "uikName": "УИК №802",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 99,
@@ -3561,8 +4200,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 803,
     "uikTvd": "467402670640",
+    "uikName": "УИК №803",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 436,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -3611,8 +4259,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 804,
     "uikTvd": "467402670641",
+    "uikName": "УИК №804",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 236,
@@ -3661,8 +4318,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 805,
     "uikTvd": "467402670642",
+    "uikName": "УИК №805",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -3711,8 +4377,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 806,
     "uikTvd": "467402670643",
+    "uikName": "УИК №806",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 278,
       "Число бюллетеней, полученных участковыми комиссиями": 279,
@@ -3761,8 +4436,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 807,
     "uikTvd": "467402670644",
+    "uikName": "УИК №807",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 382,
       "Число бюллетеней, полученных участковыми комиссиями": 391,
@@ -3811,8 +4495,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 808,
     "uikTvd": "467402670645",
+    "uikName": "УИК №808",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 220,
       "Число бюллетеней, полученных участковыми комиссиями": 223,
@@ -3861,8 +4554,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 809,
     "uikTvd": "467402670646",
+    "uikName": "УИК №809",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 276,
@@ -3911,8 +4613,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 810,
     "uikTvd": "467402670647",
+    "uikName": "УИК №810",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 377,
       "Число бюллетеней, полученных участковыми комиссиями": 383,
@@ -3961,8 +4672,17 @@ export const duma_2003_uik_428_region_67_part_004 = [
     "ballot": "single-member",
     "uikNumber": 811,
     "uikTvd": "467402670648",
+    "uikName": "УИК №811",
     "tikTvd": "267200071409",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100095626",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100095628",
+      "oikName": "Смоленский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 459,
       "Число бюллетеней, полученных участковыми комиссиями": 463,

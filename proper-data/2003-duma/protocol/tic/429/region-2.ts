@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_2 = [
     "ballot": "single-member",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 10081,
@@ -86,6 +94,14 @@ export const duma_2003_tic_429_region_2 = [
     "ballot": "single-member",
     "tikTvd": "204200066842",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки": 6398,
@@ -155,6 +171,14 @@ export const duma_2003_tic_429_region_2 = [
     "ballot": "single-member",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 6296,
@@ -230,6 +254,14 @@ export const duma_2003_tic_429_region_2 = [
     "ballot": "single-member",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 11726,
@@ -313,6 +345,14 @@ export const duma_2003_tic_429_region_2 = [
     "ballot": "single-member",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 10237,
@@ -390,6 +430,14 @@ export const duma_2003_tic_429_region_2 = [
     "ballot": "single-member",
     "tikTvd": "204200066846",
     "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в списки": 7037,
@@ -454,6 +502,14 @@ export const duma_2003_tic_429_region_2 = [
     "ballot": "single-member",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 9183,
@@ -529,6 +585,14 @@ export const duma_2003_tic_429_region_2 = [
     "ballot": "single-member",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 10498,
@@ -608,6 +672,14 @@ export const duma_2003_tic_429_region_2 = [
     "ballot": "single-member",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки": 18657,
@@ -690,6 +762,14 @@ export const duma_2003_tic_429_region_2 = [
     "ballot": "single-member",
     "tikTvd": "204200066850",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки": 10522,
@@ -759,6 +839,14 @@ export const duma_2003_tic_429_region_2 = [
     "ballot": "single-member",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 38051,

@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_11 = [
     "ballot": "single-member",
     "tikTvd": "211200070608",
     "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в списки": 95656,
@@ -117,6 +125,14 @@ export const duma_2003_tic_429_region_11 = [
     "ballot": "single-member",
     "tikTvd": "211200070609",
     "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки": 26588,
@@ -193,6 +209,14 @@ export const duma_2003_tic_429_region_11 = [
     "ballot": "single-member",
     "tikTvd": "211200070610",
     "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки": 21882,
@@ -285,6 +309,14 @@ export const duma_2003_tic_429_region_11 = [
     "ballot": "single-member",
     "tikTvd": "211200070611",
     "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки": 10690,
@@ -355,6 +387,14 @@ export const duma_2003_tic_429_region_11 = [
     "ballot": "single-member",
     "tikTvd": "211200070612",
     "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки": 39300,
@@ -433,6 +473,14 @@ export const duma_2003_tic_429_region_11 = [
     "ballot": "single-member",
     "tikTvd": "211200070613",
     "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 14388,
@@ -512,6 +560,14 @@ export const duma_2003_tic_429_region_11 = [
     "ballot": "single-member",
     "tikTvd": "211200070614",
     "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 13659,
@@ -585,6 +641,14 @@ export const duma_2003_tic_429_region_11 = [
     "ballot": "single-member",
     "tikTvd": "211200070615",
     "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    },
     "uikCount": 80,
     "accounting": {
       "Число избирателей, включенных в списки": 145091,
@@ -714,6 +778,14 @@ export const duma_2003_tic_429_region_11 = [
     "ballot": "single-member",
     "tikTvd": "211200070616",
     "tikName": "Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки": 40914,
@@ -783,6 +855,14 @@ export const duma_2003_tic_429_region_11 = [
     "ballot": "single-member",
     "tikTvd": "211200070617",
     "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 12437,
@@ -854,6 +934,14 @@ export const duma_2003_tic_429_region_11 = [
     "ballot": "single-member",
     "tikTvd": "211200070618",
     "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки": 41384,
@@ -936,6 +1024,14 @@ export const duma_2003_tic_429_region_11 = [
     "ballot": "single-member",
     "tikTvd": "211200070619",
     "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки": 17349,
@@ -1026,6 +1122,14 @@ export const duma_2003_tic_429_region_11 = [
     "ballot": "single-member",
     "tikTvd": "211200070620",
     "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки": 16767,
@@ -1102,6 +1206,14 @@ export const duma_2003_tic_429_region_11 = [
     "ballot": "single-member",
     "tikTvd": "211200070621",
     "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в списки": 54892,
@@ -1203,6 +1315,14 @@ export const duma_2003_tic_429_region_11 = [
     "ballot": "single-member",
     "tikTvd": "211200070622",
     "tikName": "Койгородская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки": 7746,
@@ -1268,6 +1388,14 @@ export const duma_2003_tic_429_region_11 = [
     "ballot": "single-member",
     "tikTvd": "211200070623",
     "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 17681,
@@ -1347,6 +1475,14 @@ export const duma_2003_tic_429_region_11 = [
     "ballot": "single-member",
     "tikTvd": "211200070624",
     "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 38444,
@@ -1421,6 +1557,14 @@ export const duma_2003_tic_429_region_11 = [
     "ballot": "single-member",
     "tikTvd": "211200070625",
     "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 14246,
@@ -1496,6 +1640,14 @@ export const duma_2003_tic_429_region_11 = [
     "ballot": "single-member",
     "tikTvd": "211200070626",
     "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки": 19540,
@@ -1574,6 +1726,14 @@ export const duma_2003_tic_429_region_11 = [
     "ballot": "single-member",
     "tikTvd": "211200070627",
     "tikName": "Вуктыльская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки": 14860,
@@ -1635,6 +1795,14 @@ export const duma_2003_tic_429_region_11 = [
     "ballot": "single-member",
     "tikTvd": "211200070628",
     "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    },
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в списки": 97706,

@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 426,
     "uikTvd": "452401170494",
+    "uikName": "УИК №426",
     "tikTvd": "352300570474",
     "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 427,
     "uikTvd": "452401170495",
+    "uikName": "УИК №427",
     "tikTvd": "352300570474",
     "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 487,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 428,
     "uikTvd": "452401170496",
+    "uikName": "УИК №428",
     "tikTvd": "352300570474",
     "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 429,
     "uikTvd": "452401170497",
+    "uikName": "УИК №429",
     "tikTvd": "352300570474",
     "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 430,
     "uikTvd": "452401170498",
+    "uikName": "УИК №430",
     "tikTvd": "352300570474",
     "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 431,
     "uikTvd": "452401170499",
+    "uikName": "УИК №431",
     "tikTvd": "352300570474",
     "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 395,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 432,
     "uikTvd": "452401170500",
+    "uikName": "УИК №432",
     "tikTvd": "352300570474",
     "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 489,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 433,
     "uikTvd": "452401170501",
+    "uikName": "УИК №433",
     "tikTvd": "352300570474",
     "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 650,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 434,
     "uikTvd": "452401170502",
+    "uikName": "УИК №434",
     "tikTvd": "352300570474",
     "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 423,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 435,
     "uikTvd": "452401170503",
+    "uikName": "УИК №435",
     "tikTvd": "352300570474",
     "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 432,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 436,
     "uikTvd": "452401170504",
+    "uikName": "УИК №436",
     "tikTvd": "352300570474",
     "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 254,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 437,
     "uikTvd": "452401170505",
+    "uikName": "УИК №437",
     "tikTvd": "352300570474",
     "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1788,
       "Число бюллетеней, полученных участковыми комиссиями": 1670,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "452401370456",
+    "uikName": "УИК №473",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2059,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 474,
     "uikTvd": "452401370457",
+    "uikName": "УИК №474",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1048,
       "Число бюллетеней, полученных участковыми комиссиями": 960,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 475,
     "uikTvd": "452401370458",
+    "uikName": "УИК №475",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2160,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 476,
     "uikTvd": "452401370459",
+    "uikName": "УИК №476",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1143,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 477,
     "uikTvd": "452401370460",
+    "uikName": "УИК №477",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1050,
       "Число бюллетеней, полученных участковыми комиссиями": 960,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 478,
     "uikTvd": "452401370461",
+    "uikName": "УИК №478",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1034,
       "Число бюллетеней, полученных участковыми комиссиями": 960,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 479,
     "uikTvd": "452401370462",
+    "uikName": "УИК №479",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1146,
       "Число бюллетеней, полученных участковыми комиссиями": 1080,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 480,
     "uikTvd": "452401370463",
+    "uikName": "УИК №480",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 554,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 481,
     "uikTvd": "452401370464",
+    "uikName": "УИК №481",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 116,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 482,
     "uikTvd": "452401370465",
+    "uikName": "УИК №482",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 404,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 483,
     "uikTvd": "452401370466",
+    "uikName": "УИК №483",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 169,
       "Число бюллетеней, полученных участковыми комиссиями": 172,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 484,
     "uikTvd": "452401370467",
+    "uikName": "УИК №484",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 485,
     "uikTvd": "452401370468",
+    "uikName": "УИК №485",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 470,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 486,
     "uikTvd": "452401370469",
+    "uikName": "УИК №486",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 337,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 487,
     "uikTvd": "452401370470",
+    "uikName": "УИК №487",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 488,
     "uikTvd": "452401370471",
+    "uikName": "УИК №488",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 295,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 489,
     "uikTvd": "452401370472",
+    "uikName": "УИК №489",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 203,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 490,
     "uikTvd": "452401370473",
+    "uikName": "УИК №490",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 522,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 491,
     "uikTvd": "452401370474",
+    "uikName": "УИК №491",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 69,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 492,
     "uikTvd": "452401370475",
+    "uikName": "УИК №492",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 323,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 493,
     "uikTvd": "452401370476",
+    "uikName": "УИК №493",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 99,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 494,
     "uikTvd": "452401370477",
+    "uikName": "УИК №494",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 299,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 495,
     "uikTvd": "452401370478",
+    "uikName": "УИК №495",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 273,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 496,
     "uikTvd": "452401370479",
+    "uikName": "УИК №496",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 497,
     "uikTvd": "452401370480",
+    "uikName": "УИК №497",
     "tikTvd": "352300570475",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 304,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 522,
     "uikTvd": "452401570373",
+    "uikName": "УИК №522",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1887,
       "Число бюллетеней, полученных участковыми комиссиями": 1680,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 523,
     "uikTvd": "452401570374",
+    "uikName": "УИК №523",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2004,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 524,
     "uikTvd": "452401570375",
+    "uikName": "УИК №524",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1964,
       "Число бюллетеней, полученных участковыми комиссиями": 1720,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 525,
     "uikTvd": "452401570376",
+    "uikName": "УИК №525",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 526,
     "uikTvd": "452401570377",
+    "uikName": "УИК №526",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1039,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 527,
     "uikTvd": "452401570378",
+    "uikName": "УИК №527",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1719,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 528,
     "uikTvd": "452401570379",
+    "uikName": "УИК №528",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 915,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 529,
     "uikTvd": "452401570380",
+    "uikName": "УИК №529",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2139,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 530,
     "uikTvd": "452401570381",
+    "uikName": "УИК №530",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2621,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -2219,8 +2633,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 531,
     "uikTvd": "452401570382",
+    "uikName": "УИК №531",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1385,
       "Число бюллетеней, полученных участковыми комиссиями": 1190,
@@ -2267,8 +2690,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 532,
     "uikTvd": "452401570383",
+    "uikName": "УИК №532",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1268,
       "Число бюллетеней, полученных участковыми комиссиями": 1130,
@@ -2315,8 +2747,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 533,
     "uikTvd": "452401570384",
+    "uikName": "УИК №533",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 891,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -2363,8 +2804,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 534,
     "uikTvd": "452401570385",
+    "uikName": "УИК №534",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2175,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2411,8 +2861,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 535,
     "uikTvd": "452401570386",
+    "uikName": "УИК №535",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2156,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2459,8 +2918,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 536,
     "uikTvd": "452401570387",
+    "uikName": "УИК №536",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2053,
       "Число бюллетеней, полученных участковыми комиссиями": 1960,
@@ -2507,8 +2975,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 537,
     "uikTvd": "452401570388",
+    "uikName": "УИК №537",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1415,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -2555,8 +3032,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 538,
     "uikTvd": "452401570389",
+    "uikName": "УИК №538",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -2603,8 +3089,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 539,
     "uikTvd": "452401570390",
+    "uikName": "УИК №539",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 318,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2651,8 +3146,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 540,
     "uikTvd": "452401570391",
+    "uikName": "УИК №540",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2979,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2699,8 +3203,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 541,
     "uikTvd": "452401570392",
+    "uikName": "УИК №541",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1513,
       "Число бюллетеней, полученных участковыми комиссиями": 1380,
@@ -2747,8 +3260,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 542,
     "uikTvd": "452401570393",
+    "uikName": "УИК №542",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 233,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -2795,8 +3317,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 543,
     "uikTvd": "452401570394",
+    "uikName": "УИК №543",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2489,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2843,8 +3374,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 544,
     "uikTvd": "452401570395",
+    "uikName": "УИК №544",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3138,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2891,8 +3431,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 545,
     "uikTvd": "452401570396",
+    "uikName": "УИК №545",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3346,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -2939,8 +3488,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 546,
     "uikTvd": "452401570397",
+    "uikName": "УИК №546",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3522,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -2987,8 +3545,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 547,
     "uikTvd": "452401570398",
+    "uikName": "УИК №547",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2288,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3035,8 +3602,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 548,
     "uikTvd": "452401570399",
+    "uikName": "УИК №548",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1438,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -3083,8 +3659,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 549,
     "uikTvd": "452401570400",
+    "uikName": "УИК №549",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 734,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -3131,8 +3716,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2497,
     "uikTvd": "452401570401",
+    "uikName": "УИК №2497",
     "tikTvd": "352300570476",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 757,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -3179,8 +3773,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 587,
     "uikTvd": "452401770380",
+    "uikName": "УИК №587",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1353,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -3227,8 +3830,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 588,
     "uikTvd": "452401770381",
+    "uikName": "УИК №588",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 877,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -3275,8 +3887,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 589,
     "uikTvd": "452401770382",
+    "uikName": "УИК №589",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1229,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -3323,8 +3944,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 590,
     "uikTvd": "452401770383",
+    "uikName": "УИК №590",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1479,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -3371,8 +4001,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 591,
     "uikTvd": "452401770384",
+    "uikName": "УИК №591",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1122,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -3419,8 +4058,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 592,
     "uikTvd": "452401770385",
+    "uikName": "УИК №592",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 214,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -3467,8 +4115,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 593,
     "uikTvd": "452401770386",
+    "uikName": "УИК №593",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 629,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -3515,8 +4172,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 594,
     "uikTvd": "452401770387",
+    "uikName": "УИК №594",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 526,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -3563,8 +4229,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 595,
     "uikTvd": "452401770388",
+    "uikName": "УИК №595",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -3611,8 +4286,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 596,
     "uikTvd": "452401770389",
+    "uikName": "УИК №596",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -3659,8 +4343,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 597,
     "uikTvd": "452401770390",
+    "uikName": "УИК №597",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 363,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -3707,8 +4400,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 598,
     "uikTvd": "452401770391",
+    "uikName": "УИК №598",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 236,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -3755,8 +4457,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 599,
     "uikTvd": "452401770392",
+    "uikName": "УИК №599",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -3803,8 +4514,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 600,
     "uikTvd": "452401770393",
+    "uikName": "УИК №600",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 596,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -3851,8 +4571,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "452401770394",
+    "uikName": "УИК №601",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -3899,8 +4628,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "452401770395",
+    "uikName": "УИК №602",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 247,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -3947,8 +4685,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "452401770396",
+    "uikName": "УИК №603",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -3995,8 +4742,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "452401770397",
+    "uikName": "УИК №604",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 325,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -4043,8 +4799,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "452401770398",
+    "uikName": "УИК №605",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -4091,8 +4856,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "452401770399",
+    "uikName": "УИК №606",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -4139,8 +4913,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "452401770400",
+    "uikName": "УИК №607",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -4187,8 +4970,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "452401770401",
+    "uikName": "УИК №608",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 380,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -4235,8 +5027,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "452401770402",
+    "uikName": "УИК №609",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -4283,8 +5084,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "452401770403",
+    "uikName": "УИК №610",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 560,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -4331,8 +5141,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "452401770404",
+    "uikName": "УИК №611",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -4379,8 +5198,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "452401770405",
+    "uikName": "УИК №612",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 418,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -4427,8 +5255,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "452401770406",
+    "uikName": "УИК №613",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 692,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -4475,8 +5312,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "452401770407",
+    "uikName": "УИК №614",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 431,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -4523,8 +5369,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "452401770408",
+    "uikName": "УИК №615",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -4571,8 +5426,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "452401770409",
+    "uikName": "УИК №616",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 391,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -4619,8 +5483,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "452401770410",
+    "uikName": "УИК №617",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 255,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -4667,8 +5540,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "452401770411",
+    "uikName": "УИК №618",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 441,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -4715,8 +5597,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "452401770412",
+    "uikName": "УИК №619",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -4763,8 +5654,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 620,
     "uikTvd": "452401770413",
+    "uikName": "УИК №620",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -4811,8 +5711,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "452401770414",
+    "uikName": "УИК №621",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 689,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -4859,8 +5768,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "452401770415",
+    "uikName": "УИК №622",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 416,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -4907,8 +5825,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "452401770416",
+    "uikName": "УИК №623",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 470,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -4955,8 +5882,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "452401770417",
+    "uikName": "УИК №624",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 176,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -5003,8 +5939,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "452401770418",
+    "uikName": "УИК №625",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 657,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -5051,8 +5996,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "452401770419",
+    "uikName": "УИК №626",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 486,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -5099,8 +6053,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "452401770420",
+    "uikName": "УИК №627",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 483,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -5147,8 +6110,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "452401770421",
+    "uikName": "УИК №628",
     "tikTvd": "352300570477",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -5195,8 +6167,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 722,
     "uikTvd": "452402070450",
+    "uikName": "УИК №722",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1885,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -5243,8 +6224,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 723,
     "uikTvd": "452402070455",
+    "uikName": "УИК №723",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2131,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5291,8 +6281,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 724,
     "uikTvd": "452402070458",
+    "uikName": "УИК №724",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2035,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5339,8 +6338,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 725,
     "uikTvd": "452402070459",
+    "uikName": "УИК №725",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1741,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5387,8 +6395,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 726,
     "uikTvd": "452402070460",
+    "uikName": "УИК №726",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1734,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5435,8 +6452,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 727,
     "uikTvd": "452402070461",
+    "uikName": "УИК №727",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1245,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -5483,8 +6509,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 728,
     "uikTvd": "452402070462",
+    "uikName": "УИК №728",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2637,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5531,8 +6566,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 729,
     "uikTvd": "452402070463",
+    "uikName": "УИК №729",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1713,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5579,8 +6623,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 730,
     "uikTvd": "452402070464",
+    "uikName": "УИК №730",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1739,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5627,8 +6680,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 731,
     "uikTvd": "452402070465",
+    "uikName": "УИК №731",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1819,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -5675,8 +6737,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 732,
     "uikTvd": "452402070466",
+    "uikName": "УИК №732",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2078,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5723,8 +6794,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 733,
     "uikTvd": "452402070467",
+    "uikName": "УИК №733",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2060,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5771,8 +6851,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 734,
     "uikTvd": "452402070468",
+    "uikName": "УИК №734",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1901,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5819,8 +6908,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 735,
     "uikTvd": "452402070469",
+    "uikName": "УИК №735",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 864,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -5867,8 +6965,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 736,
     "uikTvd": "452402070470",
+    "uikName": "УИК №736",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1472,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5915,8 +7022,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 737,
     "uikTvd": "452402070471",
+    "uikName": "УИК №737",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2523,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5963,8 +7079,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 738,
     "uikTvd": "452402070472",
+    "uikName": "УИК №738",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1583,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6011,8 +7136,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 739,
     "uikTvd": "452402070473",
+    "uikName": "УИК №739",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1662,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -6059,8 +7193,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 740,
     "uikTvd": "452402070474",
+    "uikName": "УИК №740",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2349,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6107,8 +7250,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 741,
     "uikTvd": "452402070475",
+    "uikName": "УИК №741",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2167,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6155,8 +7307,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 742,
     "uikTvd": "452402070476",
+    "uikName": "УИК №742",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2177,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6203,8 +7364,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 743,
     "uikTvd": "452402070477",
+    "uikName": "УИК №743",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2571,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6251,8 +7421,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 744,
     "uikTvd": "452402070478",
+    "uikName": "УИК №744",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2409,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6299,8 +7478,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 745,
     "uikTvd": "452402070479",
+    "uikName": "УИК №745",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2667,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6347,8 +7535,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 746,
     "uikTvd": "452402070480",
+    "uikName": "УИК №746",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2929,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6395,8 +7592,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 747,
     "uikTvd": "452402070481",
+    "uikName": "УИК №747",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2631,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -6443,8 +7649,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 748,
     "uikTvd": "452402070482",
+    "uikName": "УИК №748",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3006,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6491,8 +7706,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 749,
     "uikTvd": "452402070483",
+    "uikName": "УИК №749",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2521,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6539,8 +7763,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 750,
     "uikTvd": "452402070484",
+    "uikName": "УИК №750",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2926,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6587,8 +7820,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 751,
     "uikTvd": "452402070485",
+    "uikName": "УИК №751",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1216,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -6635,8 +7877,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 752,
     "uikTvd": "452402070486",
+    "uikName": "УИК №752",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2562,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6683,8 +7934,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 753,
     "uikTvd": "452402070487",
+    "uikName": "УИК №753",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 833,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -6731,8 +7991,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 754,
     "uikTvd": "452402070488",
+    "uikName": "УИК №754",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 767,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -6779,8 +8048,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 755,
     "uikTvd": "452402070489",
+    "uikName": "УИК №755",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1018,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6827,8 +8105,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 756,
     "uikTvd": "452402070490",
+    "uikName": "УИК №756",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 485,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6875,8 +8162,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 757,
     "uikTvd": "452402070491",
+    "uikName": "УИК №757",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 662,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -6923,8 +8219,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 758,
     "uikTvd": "452402070492",
+    "uikName": "УИК №758",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 919,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -6971,8 +8276,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 759,
     "uikTvd": "452402070493",
+    "uikName": "УИК №759",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1061,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -7019,8 +8333,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 760,
     "uikTvd": "452402070494",
+    "uikName": "УИК №760",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 612,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -7067,8 +8390,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 761,
     "uikTvd": "452402070495",
+    "uikName": "УИК №761",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 735,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -7115,8 +8447,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 762,
     "uikTvd": "452402070496",
+    "uikName": "УИК №762",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 304,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -7163,8 +8504,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 763,
     "uikTvd": "452402070497",
+    "uikName": "УИК №763",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1675,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7211,8 +8561,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 764,
     "uikTvd": "452402070498",
+    "uikName": "УИК №764",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 502,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7259,8 +8618,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 765,
     "uikTvd": "452402070499",
+    "uikName": "УИК №765",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1232,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -7307,8 +8675,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 766,
     "uikTvd": "452402070500",
+    "uikName": "УИК №766",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1219,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -7355,8 +8732,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 767,
     "uikTvd": "452402070501",
+    "uikName": "УИК №767",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1027,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7403,8 +8789,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 768,
     "uikTvd": "452402070502",
+    "uikName": "УИК №768",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1222,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -7451,8 +8846,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 769,
     "uikTvd": "452402070503",
+    "uikName": "УИК №769",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 995,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7499,8 +8903,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 770,
     "uikTvd": "452402070504",
+    "uikName": "УИК №770",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 549,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7547,8 +8960,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 771,
     "uikTvd": "452402070505",
+    "uikName": "УИК №771",
     "tikTvd": "352300570478",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 596,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -7595,8 +9017,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 982,
     "uikTvd": "452402670425",
+    "uikName": "УИК №982",
     "tikTvd": "352300570479",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2567,
       "Число бюллетеней, полученных участковыми комиссиями": 2312,
@@ -7643,8 +9074,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 983,
     "uikTvd": "452402670427",
+    "uikName": "УИК №983",
     "tikTvd": "352300570479",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2335,
       "Число бюллетеней, полученных участковыми комиссиями": 2128,
@@ -7691,8 +9131,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 984,
     "uikTvd": "452402670429",
+    "uikName": "УИК №984",
     "tikTvd": "352300570479",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 904,
       "Число бюллетеней, полученных участковыми комиссиями": 809,
@@ -7739,8 +9188,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 985,
     "uikTvd": "452402670431",
+    "uikName": "УИК №985",
     "tikTvd": "352300570479",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 860,
       "Число бюллетеней, полученных участковыми комиссиями": 772,
@@ -7787,8 +9245,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 986,
     "uikTvd": "452402670433",
+    "uikName": "УИК №986",
     "tikTvd": "352300570479",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -7835,8 +9302,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 987,
     "uikTvd": "452402670435",
+    "uikName": "УИК №987",
     "tikTvd": "352300570479",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 156,
@@ -7883,8 +9359,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 988,
     "uikTvd": "452402670437",
+    "uikName": "УИК №988",
     "tikTvd": "352300570479",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1154,
       "Число бюллетеней, полученных участковыми комиссиями": 1028,
@@ -7931,8 +9416,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 989,
     "uikTvd": "452402670439",
+    "uikName": "УИК №989",
     "tikTvd": "352300570479",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 396,
       "Число бюллетеней, полученных участковыми комиссиями": 364,
@@ -7979,8 +9473,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 990,
     "uikTvd": "452402670441",
+    "uikName": "УИК №990",
     "tikTvd": "352300570479",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 498,
       "Число бюллетеней, полученных участковыми комиссиями": 445,
@@ -8027,8 +9530,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 991,
     "uikTvd": "452402670443",
+    "uikName": "УИК №991",
     "tikTvd": "352300570479",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 411,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -8075,8 +9587,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 992,
     "uikTvd": "452402670445",
+    "uikName": "УИК №992",
     "tikTvd": "352300570479",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1609,
       "Число бюллетеней, полученных участковыми комиссиями": 1437,
@@ -8123,8 +9644,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 993,
     "uikTvd": "452402670447",
+    "uikName": "УИК №993",
     "tikTvd": "352300570479",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 934,
       "Число бюллетеней, полученных участковыми комиссиями": 833,
@@ -8171,8 +9701,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 994,
     "uikTvd": "452402670449",
+    "uikName": "УИК №994",
     "tikTvd": "352300570479",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 899,
       "Число бюллетеней, полученных участковыми комиссиями": 794,
@@ -8219,8 +9758,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 995,
     "uikTvd": "452402670451",
+    "uikName": "УИК №995",
     "tikTvd": "352300570479",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 374,
       "Число бюллетеней, полученных участковыми комиссиями": 335,
@@ -8267,8 +9815,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 996,
     "uikTvd": "452402670453",
+    "uikName": "УИК №996",
     "tikTvd": "352300570479",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 678,
       "Число бюллетеней, полученных участковыми комиссиями": 611,
@@ -8315,8 +9872,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 997,
     "uikTvd": "452402670455",
+    "uikName": "УИК №997",
     "tikTvd": "352300570479",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 508,
       "Число бюллетеней, полученных участковыми комиссиями": 455,
@@ -8363,8 +9929,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 998,
     "uikTvd": "452402670457",
+    "uikName": "УИК №998",
     "tikTvd": "352300570479",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 177,
@@ -8411,8 +9986,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 999,
     "uikTvd": "452402670459",
+    "uikName": "УИК №999",
     "tikTvd": "352300570479",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 546,
       "Число бюллетеней, полученных участковыми комиссиями": 492,
@@ -8459,8 +10043,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1000,
     "uikTvd": "452402670461",
+    "uikName": "УИК №1000",
     "tikTvd": "352300570479",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 680,
       "Число бюллетеней, полученных участковыми комиссиями": 615,
@@ -8507,8 +10100,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1001,
     "uikTvd": "452402670463",
+    "uikName": "УИК №1001",
     "tikTvd": "352300570479",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 254,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -8555,8 +10157,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1002,
     "uikTvd": "452402670465",
+    "uikName": "УИК №1002",
     "tikTvd": "352300570479",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 653,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -8603,8 +10214,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1003,
     "uikTvd": "452402770389",
+    "uikName": "УИК №1003",
     "tikTvd": "352300570480",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 940,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -8651,8 +10271,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1004,
     "uikTvd": "452402770390",
+    "uikName": "УИК №1004",
     "tikTvd": "352300570480",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1619,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -8699,8 +10328,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1005,
     "uikTvd": "452402770391",
+    "uikName": "УИК №1005",
     "tikTvd": "352300570480",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1699,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -8747,8 +10385,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1006,
     "uikTvd": "452402770392",
+    "uikName": "УИК №1006",
     "tikTvd": "352300570480",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1507,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -8795,8 +10442,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1007,
     "uikTvd": "452402770393",
+    "uikName": "УИК №1007",
     "tikTvd": "352300570480",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 465,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -8843,8 +10499,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1008,
     "uikTvd": "452402770394",
+    "uikName": "УИК №1008",
     "tikTvd": "352300570480",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1388,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -8891,8 +10556,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1009,
     "uikTvd": "452402770395",
+    "uikName": "УИК №1009",
     "tikTvd": "352300570480",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1662,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -8939,8 +10613,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1010,
     "uikTvd": "452402770396",
+    "uikName": "УИК №1010",
     "tikTvd": "352300570480",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1638,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8987,8 +10670,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1011,
     "uikTvd": "452402770397",
+    "uikName": "УИК №1011",
     "tikTvd": "352300570480",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -9035,8 +10727,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1012,
     "uikTvd": "452402770398",
+    "uikName": "УИК №1012",
     "tikTvd": "352300570480",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 497,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -9083,8 +10784,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1013,
     "uikTvd": "452402770399",
+    "uikName": "УИК №1013",
     "tikTvd": "352300570480",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 426,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -9131,8 +10841,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1014,
     "uikTvd": "452402770400",
+    "uikName": "УИК №1014",
     "tikTvd": "352300570480",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -9179,8 +10898,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1015,
     "uikTvd": "452402770401",
+    "uikName": "УИК №1015",
     "tikTvd": "352300570480",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 402,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -9227,8 +10955,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1016,
     "uikTvd": "452402770402",
+    "uikName": "УИК №1016",
     "tikTvd": "352300570480",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 619,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -9275,8 +11012,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1017,
     "uikTvd": "452402770403",
+    "uikName": "УИК №1017",
     "tikTvd": "352300570480",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 918,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -9323,8 +11069,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1018,
     "uikTvd": "452402770404",
+    "uikName": "УИК №1018",
     "tikTvd": "352300570480",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -9371,8 +11126,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1019,
     "uikTvd": "452402770405",
+    "uikName": "УИК №1019",
     "tikTvd": "352300570480",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 597,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -9419,8 +11183,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1020,
     "uikTvd": "452402770406",
+    "uikName": "УИК №1020",
     "tikTvd": "352300570480",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 167,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -9467,8 +11240,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1021,
     "uikTvd": "452402770407",
+    "uikName": "УИК №1021",
     "tikTvd": "352300570480",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -9515,8 +11297,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1022,
     "uikTvd": "452402770408",
+    "uikName": "УИК №1022",
     "tikTvd": "352300570480",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 422,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -9563,8 +11354,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1023,
     "uikTvd": "452402770409",
+    "uikName": "УИК №1023",
     "tikTvd": "352300570480",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 982,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -9611,8 +11411,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1024,
     "uikTvd": "452402770410",
+    "uikName": "УИК №1024",
     "tikTvd": "352300570480",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 423,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -9659,8 +11468,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2073,
     "uikTvd": "452404870523",
+    "uikName": "УИК №2073",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1384,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -9707,8 +11525,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2074,
     "uikTvd": "452404870524",
+    "uikName": "УИК №2074",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1465,
       "Число бюллетеней, полученных участковыми комиссиями": 1260,
@@ -9755,8 +11582,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2075,
     "uikTvd": "452404870525",
+    "uikName": "УИК №2075",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1638,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -9803,8 +11639,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2076,
     "uikTvd": "452404870526",
+    "uikName": "УИК №2076",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1721,
       "Число бюллетеней, полученных участковыми комиссиями": 1495,
@@ -9851,8 +11696,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2077,
     "uikTvd": "452404870527",
+    "uikName": "УИК №2077",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1503,
       "Число бюллетеней, полученных участковыми комиссиями": 1320,
@@ -9899,8 +11753,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2078,
     "uikTvd": "452404870528",
+    "uikName": "УИК №2078",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1787,
       "Число бюллетеней, полученных участковыми комиссиями": 1560,
@@ -9947,8 +11810,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2079,
     "uikTvd": "452404870529",
+    "uikName": "УИК №2079",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1332,
       "Число бюллетеней, полученных участковыми комиссиями": 1105,
@@ -9995,8 +11867,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2080,
     "uikTvd": "452404870530",
+    "uikName": "УИК №2080",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1460,
       "Число бюллетеней, полученных участковыми комиссиями": 1260,
@@ -10043,8 +11924,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2081,
     "uikTvd": "452404870531",
+    "uikName": "УИК №2081",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1707,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -10091,8 +11981,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2082,
     "uikTvd": "452404870532",
+    "uikName": "УИК №2082",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1590,
       "Число бюллетеней, полученных участковыми комиссиями": 1380,
@@ -10139,8 +12038,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2083,
     "uikTvd": "452404870533",
+    "uikName": "УИК №2083",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1562,
       "Число бюллетеней, полученных участковыми комиссиями": 1335,
@@ -10187,8 +12095,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2084,
     "uikTvd": "452404870534",
+    "uikName": "УИК №2084",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1675,
       "Число бюллетеней, полученных участковыми комиссиями": 1460,
@@ -10235,8 +12152,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2085,
     "uikTvd": "452404870535",
+    "uikName": "УИК №2085",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1730,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -10283,8 +12209,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2086,
     "uikTvd": "452404870536",
+    "uikName": "УИК №2086",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1041,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -10331,8 +12266,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2087,
     "uikTvd": "452404870537",
+    "uikName": "УИК №2087",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -10379,8 +12323,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2088,
     "uikTvd": "452404870538",
+    "uikName": "УИК №2088",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -10427,8 +12380,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2089,
     "uikTvd": "452404870539",
+    "uikName": "УИК №2089",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -10475,8 +12437,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2090,
     "uikTvd": "452404870540",
+    "uikName": "УИК №2090",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 782,
       "Число бюллетеней, полученных участковыми комиссиями": 675,
@@ -10523,8 +12494,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2091,
     "uikTvd": "452404870541",
+    "uikName": "УИК №2091",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 365,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -10571,8 +12551,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2092,
     "uikTvd": "452404870542",
+    "uikName": "УИК №2092",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -10619,8 +12608,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2093,
     "uikTvd": "452404870543",
+    "uikName": "УИК №2093",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 261,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -10667,8 +12665,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2094,
     "uikTvd": "452404870544",
+    "uikName": "УИК №2094",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 233,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -10715,8 +12722,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2095,
     "uikTvd": "452404870545",
+    "uikName": "УИК №2095",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 759,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -10763,8 +12779,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2096,
     "uikTvd": "452404870546",
+    "uikName": "УИК №2096",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 514,
       "Число бюллетеней, полученных участковыми комиссиями": 445,
@@ -10811,8 +12836,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2097,
     "uikTvd": "452404870547",
+    "uikName": "УИК №2097",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 700,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -10859,8 +12893,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2098,
     "uikTvd": "452404870548",
+    "uikName": "УИК №2098",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -10907,8 +12950,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2099,
     "uikTvd": "452404870549",
+    "uikName": "УИК №2099",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 426,
       "Число бюллетеней, полученных участковыми комиссиями": 405,
@@ -10955,8 +13007,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2100,
     "uikTvd": "452404870550",
+    "uikName": "УИК №2100",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -11003,8 +13064,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2101,
     "uikTvd": "452404870551",
+    "uikName": "УИК №2101",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1217,
       "Число бюллетеней, полученных участковыми комиссиями": 1090,
@@ -11051,8 +13121,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2102,
     "uikTvd": "452404870552",
+    "uikName": "УИК №2102",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 361,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -11099,8 +13178,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2103,
     "uikTvd": "452404870553",
+    "uikName": "УИК №2103",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 707,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -11147,8 +13235,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2104,
     "uikTvd": "452404870554",
+    "uikName": "УИК №2104",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1251,
       "Число бюллетеней, полученных участковыми комиссиями": 1125,
@@ -11195,8 +13292,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2105,
     "uikTvd": "452404870555",
+    "uikName": "УИК №2105",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 252,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -11243,8 +13349,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2106,
     "uikTvd": "452404870556",
+    "uikName": "УИК №2106",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 405,
@@ -11291,8 +13406,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2107,
     "uikTvd": "452404870557",
+    "uikName": "УИК №2107",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -11339,8 +13463,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2108,
     "uikTvd": "452404870558",
+    "uikName": "УИК №2108",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 294,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -11387,8 +13520,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2109,
     "uikTvd": "452404870559",
+    "uikName": "УИК №2109",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 341,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -11435,8 +13577,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2110,
     "uikTvd": "452404870560",
+    "uikName": "УИК №2110",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 806,
       "Число бюллетеней, полученных участковыми комиссиями": 715,
@@ -11483,8 +13634,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2111,
     "uikTvd": "452404870561",
+    "uikName": "УИК №2111",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1141,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -11531,8 +13691,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2112,
     "uikTvd": "452404870562",
+    "uikName": "УИК №2112",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -11579,8 +13748,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2113,
     "uikTvd": "452404870563",
+    "uikName": "УИК №2113",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -11627,8 +13805,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2114,
     "uikTvd": "452404870564",
+    "uikName": "УИК №2114",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 267,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -11675,8 +13862,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2115,
     "uikTvd": "452404870565",
+    "uikName": "УИК №2115",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 646,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -11723,8 +13919,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2116,
     "uikTvd": "452404870566",
+    "uikName": "УИК №2116",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 285,
@@ -11771,8 +13976,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2117,
     "uikTvd": "452404870567",
+    "uikName": "УИК №2117",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 386,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -11819,8 +14033,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2118,
     "uikTvd": "452404870568",
+    "uikName": "УИК №2118",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2048,
       "Число бюллетеней, полученных участковыми комиссиями": 1825,
@@ -11867,8 +14090,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2119,
     "uikTvd": "452404870569",
+    "uikName": "УИК №2119",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1457,
       "Число бюллетеней, полученных участковыми комиссиями": 1285,
@@ -11915,8 +14147,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2488,
     "uikTvd": "452404870570",
+    "uikName": "УИК №2488",
     "tikTvd": "352300570481",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 177,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -11963,8 +14204,17 @@ export const duma_2003_uik_428_region_52_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2197,
     "uikTvd": "452403470463",
+    "uikName": "УИК №2197",
     "tikTvd": "352300570482",
     "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1179,
       "Число бюллетеней, полученных участковыми комиссиями": 1120,

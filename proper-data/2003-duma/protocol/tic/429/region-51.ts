@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_51 = [
     "ballot": "single-member",
     "tikTvd": "251200068356",
     "tikName": "Видяевская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "uikCount": 3,
     "accounting": {
       "Число избирателей, включенных в списки": 4857,
@@ -63,6 +71,14 @@ export const duma_2003_tic_429_region_51 = [
     "ballot": "single-member",
     "tikTvd": "251200068357",
     "tikName": "Заозерская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "uikCount": 4,
     "accounting": {
       "Число избирателей, включенных в списки": 9614,
@@ -116,6 +132,14 @@ export const duma_2003_tic_429_region_51 = [
     "ballot": "single-member",
     "tikTvd": "251200068358",
     "tikName": "Полярнинская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки": 16013,
@@ -178,6 +202,14 @@ export const duma_2003_tic_429_region_51 = [
     "ballot": "single-member",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 37347,
@@ -257,6 +289,14 @@ export const duma_2003_tic_429_region_51 = [
     "ballot": "single-member",
     "tikTvd": "251200068360",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки": 30537,
@@ -322,6 +362,14 @@ export const duma_2003_tic_429_region_51 = [
     "ballot": "single-member",
     "tikTvd": "251200068361",
     "tikName": "Снежногорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в списки": 10208,
@@ -377,6 +425,14 @@ export const duma_2003_tic_429_region_51 = [
     "ballot": "single-member",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки": 62576,
@@ -458,6 +514,14 @@ export const duma_2003_tic_429_region_51 = [
     "ballot": "single-member",
     "tikTvd": "251200068364",
     "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки": 15569,
@@ -519,6 +583,14 @@ export const duma_2003_tic_429_region_51 = [
     "ballot": "single-member",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 53931,
@@ -594,6 +666,14 @@ export const duma_2003_tic_429_region_51 = [
     "ballot": "single-member",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки": 48230,
@@ -685,6 +765,14 @@ export const duma_2003_tic_429_region_51 = [
     "ballot": "single-member",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 44748,
@@ -760,6 +848,14 @@ export const duma_2003_tic_429_region_51 = [
     "ballot": "single-member",
     "tikTvd": "251200068368",
     "tikName": "Островнинская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "uikCount": 2,
     "accounting": {
       "Число избирателей, включенных в списки": 3620,
@@ -811,6 +907,14 @@ export const duma_2003_tic_429_region_51 = [
     "ballot": "single-member",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "uikCount": 349,
     "accounting": {
       "Число избирателей, включенных в списки": 280372,
@@ -1209,6 +1313,14 @@ export const duma_2003_tic_429_region_51 = [
     "ballot": "single-member",
     "tikTvd": "251200068370",
     "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки": 37939,
@@ -1293,6 +1405,14 @@ export const duma_2003_tic_429_region_51 = [
     "ballot": "single-member",
     "tikTvd": "251200068371",
     "tikName": "Ковдорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки": 20925,
@@ -1357,6 +1477,14 @@ export const duma_2003_tic_429_region_51 = [
     "ballot": "single-member",
     "tikTvd": "251200068372",
     "tikName": "Ловозерская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в списки": 10869,
@@ -1416,6 +1544,14 @@ export const duma_2003_tic_429_region_51 = [
     "ballot": "single-member",
     "tikTvd": "251200068373",
     "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки": 25987,
@@ -1483,6 +1619,14 @@ export const duma_2003_tic_429_region_51 = [
     "ballot": "single-member",
     "tikTvd": "251200068374",
     "tikName": "Терская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки": 5931,
@@ -1545,6 +1689,14 @@ export const duma_2003_tic_429_region_51 = [
     "ballot": "single-member",
     "tikTvd": "251200069038",
     "tikName": "Скалистинская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в списки": 11830,

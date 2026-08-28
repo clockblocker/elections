@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "478400170474",
+    "uikName": "УИК №1",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2003,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -69,8 +78,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "478400170475",
+    "uikName": "УИК №2",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1992,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -127,8 +145,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "478400170476",
+    "uikName": "УИК №3",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2201,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -185,8 +212,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "478400170477",
+    "uikName": "УИК №4",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1725,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -243,8 +279,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "478400170478",
+    "uikName": "УИК №5",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2328,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -301,8 +346,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "478400170479",
+    "uikName": "УИК №6",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2000,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -359,8 +413,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "478400170480",
+    "uikName": "УИК №7",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2031,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -417,8 +480,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "478400170481",
+    "uikName": "УИК №8",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2165,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -475,8 +547,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "478400170482",
+    "uikName": "УИК №9",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2468,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -533,8 +614,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "478400170483",
+    "uikName": "УИК №10",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2028,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -591,8 +681,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "478400170484",
+    "uikName": "УИК №11",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2028,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -649,8 +748,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "478400170485",
+    "uikName": "УИК №12",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2350,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -707,8 +815,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "478400170486",
+    "uikName": "УИК №13",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2433,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -765,8 +882,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "478400170487",
+    "uikName": "УИК №14",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2118,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -823,8 +949,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "478400170488",
+    "uikName": "УИК №15",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1607,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -881,8 +1016,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "478400170489",
+    "uikName": "УИК №16",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1759,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -939,8 +1083,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "478400170490",
+    "uikName": "УИК №17",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1463,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -997,8 +1150,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "478400170491",
+    "uikName": "УИК №18",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2237,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1055,8 +1217,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "478400170492",
+    "uikName": "УИК №19",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2405,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1113,8 +1284,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "478400170493",
+    "uikName": "УИК №20",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2294,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1171,8 +1351,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "478400170494",
+    "uikName": "УИК №21",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2355,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1229,8 +1418,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "478400170495",
+    "uikName": "УИК №22",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1898,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1287,8 +1485,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "478400170496",
+    "uikName": "УИК №23",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2139,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1345,8 +1552,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "478400170497",
+    "uikName": "УИК №24",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1978,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -1403,8 +1619,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "478400170498",
+    "uikName": "УИК №25",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1993,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -1461,8 +1686,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "478400170499",
+    "uikName": "УИК №26",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2391,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1519,8 +1753,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "478400170500",
+    "uikName": "УИК №27",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2297,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1577,8 +1820,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "478400170501",
+    "uikName": "УИК №28",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2307,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1635,8 +1887,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "478400170502",
+    "uikName": "УИК №29",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1915,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1693,8 +1954,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "478400170503",
+    "uikName": "УИК №30",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2287,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1751,8 +2021,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "478400170504",
+    "uikName": "УИК №31",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1846,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -1809,8 +2088,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "478400170505",
+    "uikName": "УИК №32",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2217,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1867,8 +2155,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "478400170506",
+    "uikName": "УИК №33",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1879,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1925,8 +2222,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "478400170507",
+    "uikName": "УИК №34",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2400,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1983,8 +2289,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "478400170508",
+    "uikName": "УИК №35",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1954,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2041,8 +2356,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "478400170509",
+    "uikName": "УИК №36",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1561,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2099,8 +2423,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "478400170510",
+    "uikName": "УИК №37",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1873,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2157,8 +2490,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "478400170511",
+    "uikName": "УИК №38",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2141,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2215,8 +2557,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "478400170512",
+    "uikName": "УИК №39",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1734,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2273,8 +2624,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "478400170513",
+    "uikName": "УИК №40",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1826,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2331,8 +2691,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "478400170514",
+    "uikName": "УИК №41",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1340,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -2389,8 +2758,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "478400170515",
+    "uikName": "УИК №42",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2168,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2447,8 +2825,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "478400170516",
+    "uikName": "УИК №43",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2267,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2505,8 +2892,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "478400170517",
+    "uikName": "УИК №44",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2050,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2563,8 +2959,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "478400170518",
+    "uikName": "УИК №45",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2022,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2621,8 +3026,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "478400170519",
+    "uikName": "УИК №46",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2187,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2679,8 +3093,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "478400170520",
+    "uikName": "УИК №47",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1610,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2737,8 +3160,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "478400170521",
+    "uikName": "УИК №48",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2389,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2795,8 +3227,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "478400170522",
+    "uikName": "УИК №49",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1897,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2853,8 +3294,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "478400170523",
+    "uikName": "УИК №50",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1348,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -2911,8 +3361,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "478400170524",
+    "uikName": "УИК №51",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1870,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2969,8 +3428,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "478400170525",
+    "uikName": "УИК №52",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1764,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3027,8 +3495,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "478400170526",
+    "uikName": "УИК №53",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1679,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3085,8 +3562,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "478400170527",
+    "uikName": "УИК №54",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1805,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3143,8 +3629,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "478400170528",
+    "uikName": "УИК №55",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1912,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3201,8 +3696,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "478400170529",
+    "uikName": "УИК №56",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1261,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3259,8 +3763,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "478400170530",
+    "uikName": "УИК №57",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2794,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3317,8 +3830,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "478400170531",
+    "uikName": "УИК №58",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1944,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3375,8 +3897,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "478400170532",
+    "uikName": "УИК №59",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1242,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3433,8 +3964,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "478400170533",
+    "uikName": "УИК №60",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2925,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3491,8 +4031,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "478400170534",
+    "uikName": "УИК №61",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1905,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3549,8 +4098,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "478400170535",
+    "uikName": "УИК №62",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1773,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3607,8 +4165,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "478400170536",
+    "uikName": "УИК №63",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2157,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3665,8 +4232,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "478400170537",
+    "uikName": "УИК №64",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1791,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3723,8 +4299,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "478400170538",
+    "uikName": "УИК №65",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2205,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3781,8 +4366,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "478400170539",
+    "uikName": "УИК №66",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1727,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3839,8 +4433,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "478400170540",
+    "uikName": "УИК №67",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1690,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3897,8 +4500,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "478400170541",
+    "uikName": "УИК №68",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2353,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3955,8 +4567,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "478400170542",
+    "uikName": "УИК №69",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1788,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4013,8 +4634,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "478400170543",
+    "uikName": "УИК №70",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1999,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4071,8 +4701,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "478400171245",
+    "uikName": "УИК №71",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 31,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -4129,8 +4768,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "478400171246",
+    "uikName": "УИК №72",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 4,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -4187,8 +4835,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "478400171247",
+    "uikName": "УИК №73",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 37,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -4245,8 +4902,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5292,
     "uikTvd": "478400171152",
+    "uikName": "УИК №5292",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 345,
       "Число бюллетеней, полученных участковыми комиссиями": 37580,
@@ -4303,8 +4969,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "478400270432",
+    "uikName": "УИК №84",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2273,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4361,8 +5036,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "478400270433",
+    "uikName": "УИК №85",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2604,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4419,8 +5103,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "478400270434",
+    "uikName": "УИК №86",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2224,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4477,8 +5170,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "478400270435",
+    "uikName": "УИК №87",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2211,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4535,8 +5237,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "478400270436",
+    "uikName": "УИК №88",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2270,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4593,8 +5304,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "478400270437",
+    "uikName": "УИК №89",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2359,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4651,8 +5371,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "478400270438",
+    "uikName": "УИК №90",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2122,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4709,8 +5438,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "478400270439",
+    "uikName": "УИК №91",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2235,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4767,8 +5505,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "478400270440",
+    "uikName": "УИК №92",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2100,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4825,8 +5572,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "478400270441",
+    "uikName": "УИК №93",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2107,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4883,8 +5639,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "478400270442",
+    "uikName": "УИК №94",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2026,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4941,8 +5706,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "478400270443",
+    "uikName": "УИК №95",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2030,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4999,8 +5773,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "478400270444",
+    "uikName": "УИК №96",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2138,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5057,8 +5840,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "478400270445",
+    "uikName": "УИК №97",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2290,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5115,8 +5907,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "478400270446",
+    "uikName": "УИК №98",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2129,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5173,8 +5974,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "478400270447",
+    "uikName": "УИК №99",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1263,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -5231,8 +6041,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "478400270448",
+    "uikName": "УИК №100",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1522,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5289,8 +6108,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "478400270449",
+    "uikName": "УИК №101",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2474,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5347,8 +6175,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "478400270450",
+    "uikName": "УИК №102",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2507,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5405,8 +6242,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "478400270451",
+    "uikName": "УИК №103",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2129,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5463,8 +6309,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "478400270452",
+    "uikName": "УИК №104",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2189,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5521,8 +6376,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "478400270453",
+    "uikName": "УИК №105",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2063,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5579,8 +6443,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "478400270454",
+    "uikName": "УИК №106",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2050,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5637,8 +6510,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "478400270455",
+    "uikName": "УИК №107",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2290,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5695,8 +6577,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "478400270456",
+    "uikName": "УИК №108",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2190,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5753,8 +6644,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "478400270457",
+    "uikName": "УИК №109",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2076,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5811,8 +6711,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "478400270458",
+    "uikName": "УИК №110",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2015,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5869,8 +6778,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "478400270459",
+    "uikName": "УИК №111",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2119,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5927,8 +6845,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "478400270460",
+    "uikName": "УИК №112",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2100,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5985,8 +6912,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "478400270461",
+    "uikName": "УИК №113",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2518,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6043,8 +6979,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "478400270462",
+    "uikName": "УИК №114",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2492,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6101,8 +7046,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "478400270463",
+    "uikName": "УИК №115",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2628,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6159,8 +7113,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "478400270464",
+    "uikName": "УИК №116",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2092,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6217,8 +7180,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "478400270465",
+    "uikName": "УИК №117",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2070,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6275,8 +7247,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "478400270466",
+    "uikName": "УИК №118",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1706,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6333,8 +7314,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "478400270467",
+    "uikName": "УИК №119",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1461,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -6391,8 +7381,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "478400270468",
+    "uikName": "УИК №120",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1533,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6449,8 +7448,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "478400270469",
+    "uikName": "УИК №121",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2082,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6507,8 +7515,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "478400270470",
+    "uikName": "УИК №122",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1794,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6565,8 +7582,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "478400270471",
+    "uikName": "УИК №123",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2113,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6623,8 +7649,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "478400270472",
+    "uikName": "УИК №124",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2296,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6681,8 +7716,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "478400270473",
+    "uikName": "УИК №125",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2254,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6739,8 +7783,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "478400270474",
+    "uikName": "УИК №126",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1415,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -6797,8 +7850,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "478400270475",
+    "uikName": "УИК №127",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1843,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -6855,8 +7917,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "478400270476",
+    "uikName": "УИК №128",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2321,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6913,8 +7984,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "478400270477",
+    "uikName": "УИК №129",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2176,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6971,8 +8051,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "478400270478",
+    "uikName": "УИК №130",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2723,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7029,8 +8118,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "478400270479",
+    "uikName": "УИК №131",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2714,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7087,8 +8185,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "478400270480",
+    "uikName": "УИК №132",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2886,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -7145,8 +8252,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "478400270481",
+    "uikName": "УИК №133",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2247,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7203,8 +8319,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "478400270482",
+    "uikName": "УИК №134",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2573,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7261,8 +8386,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "478400270483",
+    "uikName": "УИК №135",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2530,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7319,8 +8453,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "478400270484",
+    "uikName": "УИК №136",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1335,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7377,8 +8520,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "478400270485",
+    "uikName": "УИК №137",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2232,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7435,8 +8587,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "478400270486",
+    "uikName": "УИК №138",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2131,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7493,8 +8654,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "478400270487",
+    "uikName": "УИК №139",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2973,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -7551,8 +8721,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "478400270488",
+    "uikName": "УИК №140",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2437,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -7609,8 +8788,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "478400270489",
+    "uikName": "УИК №141",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2236,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7667,8 +8855,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "478400270490",
+    "uikName": "УИК №142",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2023,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7725,8 +8922,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "478400270491",
+    "uikName": "УИК №143",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1566,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7783,8 +8989,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "478400270492",
+    "uikName": "УИК №144",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2197,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7841,8 +9056,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "478400270493",
+    "uikName": "УИК №145",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2264,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7899,8 +9123,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "478400270494",
+    "uikName": "УИК №146",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2381,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7957,8 +9190,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "478400270495",
+    "uikName": "УИК №147",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1154,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8015,8 +9257,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "478400270496",
+    "uikName": "УИК №148",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1297,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -8073,8 +9324,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "478400270497",
+    "uikName": "УИК №149",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2305,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8131,8 +9391,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "478400270498",
+    "uikName": "УИК №150",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2216,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8189,8 +9458,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "478400270499",
+    "uikName": "УИК №151",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2132,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8247,8 +9525,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "478400270500",
+    "uikName": "УИК №152",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2361,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8305,8 +9592,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "478400270501",
+    "uikName": "УИК №153",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1860,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8363,8 +9659,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "478400270502",
+    "uikName": "УИК №154",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2507,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8421,8 +9726,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "478400270503",
+    "uikName": "УИК №155",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2500,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8479,8 +9793,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "478400270504",
+    "uikName": "УИК №156",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2363,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8537,8 +9860,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "478400270505",
+    "uikName": "УИК №157",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2377,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8595,8 +9927,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "478400270506",
+    "uikName": "УИК №158",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2710,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -8653,8 +9994,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "478400271151",
+    "uikName": "УИК №159",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3,
       "Число бюллетеней, полученных участковыми комиссиями": 5,
@@ -8711,8 +10061,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "478400271152",
+    "uikName": "УИК №160",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 4,
       "Число бюллетеней, полученных участковыми комиссиями": 10,
@@ -8769,8 +10128,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "478400271153",
+    "uikName": "УИК №161",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 7,
       "Число бюллетеней, полученных участковыми комиссиями": 10,
@@ -8827,8 +10195,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "478400270507",
+    "uikName": "УИК №162",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 10,
       "Число бюллетеней, полученных участковыми комиссиями": 20,
@@ -8885,8 +10262,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "478400270508",
+    "uikName": "УИК №163",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 7,
       "Число бюллетеней, полученных участковыми комиссиями": 20,
@@ -8943,8 +10329,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "478400271154",
+    "uikName": "УИК №164",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2,
       "Число бюллетеней, полученных участковыми комиссиями": 2,
@@ -9001,8 +10396,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "478400271155",
+    "uikName": "УИК №165",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1,
       "Число бюллетеней, полученных участковыми комиссиями": 1,
@@ -9059,8 +10463,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "478400271156",
+    "uikName": "УИК №166",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3,
       "Число бюллетеней, полученных участковыми комиссиями": 5,
@@ -9117,8 +10530,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "478400271157",
+    "uikName": "УИК №167",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1,
       "Число бюллетеней, полученных участковыми комиссиями": 1,
@@ -9175,8 +10597,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "478400271158",
+    "uikName": "УИК №168",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1,
       "Число бюллетеней, полученных участковыми комиссиями": 1,
@@ -9233,8 +10664,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1802,
     "uikTvd": "478400271386",
+    "uikName": "УИК №1802",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 18,
       "Число бюллетеней, полученных участковыми комиссиями": 18,
@@ -9291,8 +10731,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1803,
     "uikTvd": "478400271387",
+    "uikName": "УИК №1803",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2,
       "Число бюллетеней, полученных участковыми комиссиями": 2,
@@ -9349,8 +10798,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 485,
     "uikTvd": "478400570540",
+    "uikName": "УИК №485",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1369,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -9407,8 +10865,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 486,
     "uikTvd": "478400570541",
+    "uikName": "УИК №486",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1341,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -9465,8 +10932,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 487,
     "uikTvd": "478400570542",
+    "uikName": "УИК №487",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1172,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -9523,8 +10999,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 488,
     "uikTvd": "478400570543",
+    "uikName": "УИК №488",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1069,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -9581,8 +11066,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 489,
     "uikTvd": "478400570544",
+    "uikName": "УИК №489",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1182,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -9639,8 +11133,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 490,
     "uikTvd": "478400570545",
+    "uikName": "УИК №490",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1576,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9697,8 +11200,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 491,
     "uikTvd": "478400570546",
+    "uikName": "УИК №491",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1855,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9755,8 +11267,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 492,
     "uikTvd": "478400570547",
+    "uikName": "УИК №492",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1412,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -9813,8 +11334,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 493,
     "uikTvd": "478400570548",
+    "uikName": "УИК №493",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1198,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -9871,8 +11401,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 494,
     "uikTvd": "478400570549",
+    "uikName": "УИК №494",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1930,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9929,8 +11468,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 495,
     "uikTvd": "478400570550",
+    "uikName": "УИК №495",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1054,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -9987,8 +11535,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 496,
     "uikTvd": "478400570551",
+    "uikName": "УИК №496",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1138,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -10045,8 +11602,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 497,
     "uikTvd": "478400570552",
+    "uikName": "УИК №497",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1404,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10103,8 +11669,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 498,
     "uikTvd": "478400570553",
+    "uikName": "УИК №498",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1435,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10161,8 +11736,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 499,
     "uikTvd": "478400570554",
+    "uikName": "УИК №499",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1751,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10219,8 +11803,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 500,
     "uikTvd": "478400570555",
+    "uikName": "УИК №500",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1156,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -10277,8 +11870,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "478400570556",
+    "uikName": "УИК №501",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1258,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -10335,8 +11937,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "478400570557",
+    "uikName": "УИК №502",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1627,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10393,8 +12004,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 503,
     "uikTvd": "478400570558",
+    "uikName": "УИК №503",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1897,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10451,8 +12071,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 504,
     "uikTvd": "478400570559",
+    "uikName": "УИК №504",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2220,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10509,8 +12138,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 505,
     "uikTvd": "478400570560",
+    "uikName": "УИК №505",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2280,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10567,8 +12205,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "478400570561",
+    "uikName": "УИК №506",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 863,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -10625,8 +12272,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 507,
     "uikTvd": "478400570562",
+    "uikName": "УИК №507",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1883,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10683,8 +12339,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 508,
     "uikTvd": "478400570563",
+    "uikName": "УИК №508",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1624,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10741,8 +12406,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 509,
     "uikTvd": "478400570564",
+    "uikName": "УИК №509",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1463,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10799,8 +12473,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 510,
     "uikTvd": "478400570565",
+    "uikName": "УИК №510",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1778,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10857,8 +12540,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 511,
     "uikTvd": "478400570566",
+    "uikName": "УИК №511",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1695,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10915,8 +12607,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 512,
     "uikTvd": "478400570567",
+    "uikName": "УИК №512",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2098,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10973,8 +12674,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 513,
     "uikTvd": "478400570568",
+    "uikName": "УИК №513",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1856,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11031,8 +12741,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 514,
     "uikTvd": "478400570569",
+    "uikName": "УИК №514",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2180,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11089,8 +12808,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 515,
     "uikTvd": "478400570570",
+    "uikName": "УИК №515",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1732,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11147,8 +12875,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 516,
     "uikTvd": "478400570571",
+    "uikName": "УИК №516",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1746,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11205,8 +12942,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 517,
     "uikTvd": "478400570572",
+    "uikName": "УИК №517",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1379,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -11263,8 +13009,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 518,
     "uikTvd": "478400570573",
+    "uikName": "УИК №518",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1302,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -11321,8 +13076,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 519,
     "uikTvd": "478400570574",
+    "uikName": "УИК №519",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1095,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -11379,8 +13143,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 520,
     "uikTvd": "478400570575",
+    "uikName": "УИК №520",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1429,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -11437,8 +13210,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 521,
     "uikTvd": "478400570576",
+    "uikName": "УИК №521",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1653,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11495,8 +13277,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 522,
     "uikTvd": "478400570577",
+    "uikName": "УИК №522",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 887,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -11553,8 +13344,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 523,
     "uikTvd": "478400570578",
+    "uikName": "УИК №523",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1940,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11611,8 +13411,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 524,
     "uikTvd": "478400570579",
+    "uikName": "УИК №524",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1850,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11669,8 +13478,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 525,
     "uikTvd": "478400570580",
+    "uikName": "УИК №525",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2159,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11727,8 +13545,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 526,
     "uikTvd": "478400570581",
+    "uikName": "УИК №526",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1673,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11785,8 +13612,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 527,
     "uikTvd": "478400570582",
+    "uikName": "УИК №527",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1874,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11843,8 +13679,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 528,
     "uikTvd": "478400570583",
+    "uikName": "УИК №528",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1912,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11901,8 +13746,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 529,
     "uikTvd": "478400570584",
+    "uikName": "УИК №529",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1779,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11959,8 +13813,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 530,
     "uikTvd": "478400570585",
+    "uikName": "УИК №530",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1530,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -12017,8 +13880,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 531,
     "uikTvd": "478400570586",
+    "uikName": "УИК №531",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1724,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -12075,8 +13947,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 532,
     "uikTvd": "478400570587",
+    "uikName": "УИК №532",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1799,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -12133,8 +14014,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 533,
     "uikTvd": "478400570588",
+    "uikName": "УИК №533",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1942,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -12191,8 +14081,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 534,
     "uikTvd": "478400570589",
+    "uikName": "УИК №534",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1944,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -12249,8 +14148,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 535,
     "uikTvd": "478400570590",
+    "uikName": "УИК №535",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1968,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -12307,8 +14215,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 536,
     "uikTvd": "478400570591",
+    "uikName": "УИК №536",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1766,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -12365,8 +14282,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 537,
     "uikTvd": "478400570592",
+    "uikName": "УИК №537",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1752,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -12423,8 +14349,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 538,
     "uikTvd": "478400570593",
+    "uikName": "УИК №538",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2521,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -12481,8 +14416,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 539,
     "uikTvd": "478400570594",
+    "uikName": "УИК №539",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2052,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -12539,8 +14483,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 540,
     "uikTvd": "478400570595",
+    "uikName": "УИК №540",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1819,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -12597,8 +14550,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 541,
     "uikTvd": "478400570596",
+    "uikName": "УИК №541",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1618,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -12655,8 +14617,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 542,
     "uikTvd": "478400570597",
+    "uikName": "УИК №542",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2089,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -12713,8 +14684,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 543,
     "uikTvd": "478400570598",
+    "uikName": "УИК №543",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2336,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -12771,8 +14751,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 544,
     "uikTvd": "478400570599",
+    "uikName": "УИК №544",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2108,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -12829,8 +14818,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 545,
     "uikTvd": "478400570600",
+    "uikName": "УИК №545",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2684,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -12887,8 +14885,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 546,
     "uikTvd": "478400570601",
+    "uikName": "УИК №546",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1944,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -12945,8 +14952,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 547,
     "uikTvd": "478400570602",
+    "uikName": "УИК №547",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2673,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -13003,8 +15019,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 548,
     "uikTvd": "478400570603",
+    "uikName": "УИК №548",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2062,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -13061,8 +15086,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 549,
     "uikTvd": "478400570604",
+    "uikName": "УИК №549",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2161,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -13119,8 +15153,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 550,
     "uikTvd": "478400570605",
+    "uikName": "УИК №550",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2053,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -13177,8 +15220,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 551,
     "uikTvd": "478400570606",
+    "uikName": "УИК №551",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2335,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -13235,8 +15287,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 552,
     "uikTvd": "478400570607",
+    "uikName": "УИК №552",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1782,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -13293,8 +15354,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 553,
     "uikTvd": "478400570608",
+    "uikName": "УИК №553",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2199,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -13351,8 +15421,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 554,
     "uikTvd": "478400570609",
+    "uikName": "УИК №554",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2504,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -13409,8 +15488,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 555,
     "uikTvd": "478400570610",
+    "uikName": "УИК №555",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2295,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -13467,8 +15555,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 556,
     "uikTvd": "478400570611",
+    "uikName": "УИК №556",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1971,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -13525,8 +15622,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 557,
     "uikTvd": "478400570612",
+    "uikName": "УИК №557",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2060,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -13583,8 +15689,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 558,
     "uikTvd": "478400570613",
+    "uikName": "УИК №558",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2358,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -13641,8 +15756,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 559,
     "uikTvd": "478400570614",
+    "uikName": "УИК №559",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2305,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -13699,8 +15823,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 560,
     "uikTvd": "478400570615",
+    "uikName": "УИК №560",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2976,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -13757,8 +15890,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 561,
     "uikTvd": "478400570616",
+    "uikName": "УИК №561",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2807,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -13815,8 +15957,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 562,
     "uikTvd": "478400570617",
+    "uikName": "УИК №562",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2833,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -13873,8 +16024,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 563,
     "uikTvd": "478400570618",
+    "uikName": "УИК №563",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2895,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -13931,8 +16091,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 564,
     "uikTvd": "478400570619",
+    "uikName": "УИК №564",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1841,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -13989,8 +16158,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 565,
     "uikTvd": "478400570620",
+    "uikName": "УИК №565",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2238,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -14047,8 +16225,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 566,
     "uikTvd": "478400570621",
+    "uikName": "УИК №566",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2202,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -14105,8 +16292,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 567,
     "uikTvd": "478400570622",
+    "uikName": "УИК №567",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2580,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -14163,8 +16359,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 568,
     "uikTvd": "478400570623",
+    "uikName": "УИК №568",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 323,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -14221,8 +16426,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 569,
     "uikTvd": "478400570624",
+    "uikName": "УИК №569",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 19,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -14279,8 +16493,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1804,
     "uikTvd": "478400571041",
+    "uikName": "УИК №1804",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1,
       "Число бюллетеней, полученных участковыми комиссиями": 1,
@@ -14337,8 +16560,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1806,
     "uikTvd": "478400571043",
+    "uikName": "УИК №1806",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1,
       "Число бюллетеней, полученных участковыми комиссиями": 1,
@@ -14395,8 +16627,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1807,
     "uikTvd": "478400571044",
+    "uikName": "УИК №1807",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1,
       "Число бюллетеней, полученных участковыми комиссиями": 1,
@@ -14453,8 +16694,17 @@ export const duma_2003_uik_428_region_78_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1809,
     "uikTvd": "478400571046",
+    "uikName": "УИК №1809",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2,
       "Число бюллетеней, полученных участковыми комиссиями": 2,

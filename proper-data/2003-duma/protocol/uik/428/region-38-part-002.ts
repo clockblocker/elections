@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 891,
     "uikTvd": "438402566772",
+    "uikName": "УИК №891",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1809,
       "Число бюллетеней, полученных участковыми комиссиями": 1760,
@@ -57,8 +66,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 892,
     "uikTvd": "438402566773",
+    "uikName": "УИК №892",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1553,
       "Число бюллетеней, полученных участковыми комиссиями": 1540,
@@ -103,8 +121,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 893,
     "uikTvd": "438402566774",
+    "uikName": "УИК №893",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1659,
       "Число бюллетеней, полученных участковыми комиссиями": 1630,
@@ -149,8 +176,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 894,
     "uikTvd": "438402566775",
+    "uikName": "УИК №894",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1776,
       "Число бюллетеней, полученных участковыми комиссиями": 1760,
@@ -195,8 +231,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 895,
     "uikTvd": "438402566776",
+    "uikName": "УИК №895",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1831,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -241,8 +286,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 896,
     "uikTvd": "438402566777",
+    "uikName": "УИК №896",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2622,
       "Число бюллетеней, полученных участковыми комиссиями": 2590,
@@ -287,8 +341,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 897,
     "uikTvd": "438402566778",
+    "uikName": "УИК №897",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2545,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -333,8 +396,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 898,
     "uikTvd": "438402566779",
+    "uikName": "УИК №898",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2716,
       "Число бюллетеней, полученных участковыми комиссиями": 2690,
@@ -379,8 +451,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 899,
     "uikTvd": "438402566780",
+    "uikName": "УИК №899",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1631,
       "Число бюллетеней, полученных участковыми комиссиями": 1570,
@@ -425,8 +506,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 900,
     "uikTvd": "438402566781",
+    "uikName": "УИК №900",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2449,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -471,8 +561,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 901,
     "uikTvd": "438402566782",
+    "uikName": "УИК №901",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 764,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -517,8 +616,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 902,
     "uikTvd": "438402566783",
+    "uikName": "УИК №902",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2151,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -563,8 +671,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 903,
     "uikTvd": "438402566784",
+    "uikName": "УИК №903",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -609,8 +726,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 904,
     "uikTvd": "438402566785",
+    "uikName": "УИК №904",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 754,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -655,8 +781,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 905,
     "uikTvd": "438402566786",
+    "uikName": "УИК №905",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 561,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -701,8 +836,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 906,
     "uikTvd": "438402566787",
+    "uikName": "УИК №906",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 465,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -747,8 +891,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 907,
     "uikTvd": "438402566788",
+    "uikName": "УИК №907",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 883,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -793,8 +946,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 908,
     "uikTvd": "438402566789",
+    "uikName": "УИК №908",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 603,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -839,8 +1001,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 909,
     "uikTvd": "438402566790",
+    "uikName": "УИК №909",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1067,
       "Число бюллетеней, полученных участковыми комиссиями": 1060,
@@ -885,8 +1056,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 910,
     "uikTvd": "438402566791",
+    "uikName": "УИК №910",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 68,
       "Число бюллетеней, полученных участковыми комиссиями": 68,
@@ -931,8 +1111,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 911,
     "uikTvd": "438402566792",
+    "uikName": "УИК №911",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 576,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -977,8 +1166,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 912,
     "uikTvd": "438402566793",
+    "uikName": "УИК №912",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 40,
       "Число бюллетеней, полученных участковыми комиссиями": 42,
@@ -1023,8 +1221,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 863,
     "uikTvd": "438402466841",
+    "uikName": "УИК  863",
     "tikTvd": "338300167389",
     "tikName": "Мамско-Чуйская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2100,
       "Число бюллетеней, полученных участковыми комиссиями": 2088,
@@ -1069,8 +1276,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 864,
     "uikTvd": "438402466842",
+    "uikName": "УИК  864",
     "tikTvd": "338300167389",
     "tikName": "Мамско-Чуйская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1433,
       "Число бюллетеней, полученных участковыми комиссиями": 1382,
@@ -1115,8 +1331,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 865,
     "uikTvd": "438402466843",
+    "uikName": "УИК  865",
     "tikTvd": "338300167389",
     "tikName": "Мамско-Чуйская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 214,
@@ -1161,8 +1386,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 866,
     "uikTvd": "438402466844",
+    "uikName": "УИК  866",
     "tikTvd": "338300167389",
     "tikName": "Мамско-Чуйская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 709,
       "Число бюллетеней, полученных участковыми комиссиями": 719,
@@ -1207,8 +1441,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 867,
     "uikTvd": "438402466845",
+    "uikName": "УИК  867",
     "tikTvd": "338300167389",
     "tikName": "Мамско-Чуйская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 236,
@@ -1253,8 +1496,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 868,
     "uikTvd": "438402466846",
+    "uikName": "УИК  868",
     "tikTvd": "338300167389",
     "tikName": "Мамско-Чуйская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 479,
       "Число бюллетеней, полученных участковыми комиссиями": 474,
@@ -1299,8 +1551,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 869,
     "uikTvd": "438402466847",
+    "uikName": "УИК  869",
     "tikTvd": "338300167389",
     "tikName": "Мамско-Чуйская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -1345,8 +1606,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 870,
     "uikTvd": "438402466848",
+    "uikName": "УИК  870",
     "tikTvd": "338300167389",
     "tikName": "Мамско-Чуйская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 415,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -1391,8 +1661,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 871,
     "uikTvd": "438402466849",
+    "uikName": "УИК  871",
     "tikTvd": "338300167389",
     "tikName": "Мамско-Чуйская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 461,
       "Число бюллетеней, полученных участковыми комиссиями": 477,
@@ -1437,8 +1716,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 760,
     "uikTvd": "438402266867",
+    "uikName": "УИК №760",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1654,
       "Число бюллетеней, полученных участковыми комиссиями": 1462,
@@ -1483,8 +1771,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 761,
     "uikTvd": "438402266868",
+    "uikName": "УИК №761",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1120,
       "Число бюллетеней, полученных участковыми комиссиями": 966,
@@ -1529,8 +1826,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 762,
     "uikTvd": "438402266869",
+    "uikName": "УИК №762",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1091,
       "Число бюллетеней, полученных участковыми комиссиями": 890,
@@ -1575,8 +1881,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 763,
     "uikTvd": "438402266870",
+    "uikName": "УИК №763",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1911,
       "Число бюллетеней, полученных участковыми комиссиями": 1689,
@@ -1621,8 +1936,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 764,
     "uikTvd": "438402266871",
+    "uikName": "УИК №764",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1426,
       "Число бюллетеней, полученных участковыми комиссиями": 1245,
@@ -1667,8 +1991,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 765,
     "uikTvd": "438402266872",
+    "uikName": "УИК №765",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 615,
       "Число бюллетеней, полученных участковыми комиссиями": 552,
@@ -1713,8 +2046,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 766,
     "uikTvd": "438402266873",
+    "uikName": "УИК №766",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 399,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -1759,8 +2101,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 767,
     "uikTvd": "438402266874",
+    "uikName": "УИК №767",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1225,
       "Число бюллетеней, полученных участковыми комиссиями": 1085,
@@ -1805,8 +2156,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 768,
     "uikTvd": "438402266875",
+    "uikName": "УИК №768",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -1851,8 +2211,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 769,
     "uikTvd": "438402266876",
+    "uikName": "УИК №769",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1664,
       "Число бюллетеней, полученных участковыми комиссиями": 1473,
@@ -1897,8 +2266,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 770,
     "uikTvd": "438402266877",
+    "uikName": "УИК №770",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 41,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -1943,8 +2321,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 771,
     "uikTvd": "438402266878",
+    "uikName": "УИК №771",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 667,
       "Число бюллетеней, полученных участковыми комиссиями": 667,
@@ -1989,8 +2376,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 772,
     "uikTvd": "438402266879",
+    "uikName": "УИК №772",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 57,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -2035,8 +2431,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 773,
     "uikTvd": "438402266880",
+    "uikName": "УИК №773",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 360,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -2081,8 +2486,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 774,
     "uikTvd": "438402266881",
+    "uikName": "УИК №774",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 540,
       "Число бюллетеней, полученных участковыми комиссиями": 541,
@@ -2127,8 +2541,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 775,
     "uikTvd": "438402266882",
+    "uikName": "УИК №775",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 161,
       "Число бюллетеней, полученных участковыми комиссиями": 167,
@@ -2173,8 +2596,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 776,
     "uikTvd": "438402266883",
+    "uikName": "УИК №776",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 107,
@@ -2219,8 +2651,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 777,
     "uikTvd": "438402266884",
+    "uikName": "УИК №777",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 577,
       "Число бюллетеней, полученных участковыми комиссиями": 611,
@@ -2265,8 +2706,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 778,
     "uikTvd": "438402266885",
+    "uikName": "УИК №778",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 75,
       "Число бюллетеней, полученных участковыми комиссиями": 81,
@@ -2311,8 +2761,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 779,
     "uikTvd": "438402266886",
+    "uikName": "УИК №779",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1498,
       "Число бюллетеней, полученных участковыми комиссиями": 1311,
@@ -2357,8 +2816,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 780,
     "uikTvd": "438402266887",
+    "uikName": "УИК №780",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 819,
       "Число бюллетеней, полученных участковыми комиссиями": 738,
@@ -2403,8 +2871,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 781,
     "uikTvd": "438402266888",
+    "uikName": "УИК №781",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 176,
@@ -2449,8 +2926,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 782,
     "uikTvd": "438402266889",
+    "uikName": "УИК №782",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 54,
       "Число бюллетеней, полученных участковыми комиссиями": 71,
@@ -2495,8 +2981,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 783,
     "uikTvd": "438402266890",
+    "uikName": "УИК №783",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 279,
@@ -2541,8 +3036,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 784,
     "uikTvd": "438402266891",
+    "uikName": "УИК №784",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -2587,8 +3091,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 785,
     "uikTvd": "438402266892",
+    "uikName": "УИК №785",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 87,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -2633,8 +3146,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 786,
     "uikTvd": "438402266893",
+    "uikName": "УИК №786",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -2679,8 +3201,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 787,
     "uikTvd": "438402266894",
+    "uikName": "УИК №787",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 499,
@@ -2725,8 +3256,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 788,
     "uikTvd": "438402266895",
+    "uikName": "УИК №788",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 363,
@@ -2771,8 +3311,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 789,
     "uikTvd": "438402266896",
+    "uikName": "УИК №789",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 79,
@@ -2817,8 +3366,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 790,
     "uikTvd": "438402266897",
+    "uikName": "УИК №790",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 74,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -2863,8 +3421,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 791,
     "uikTvd": "438402266898",
+    "uikName": "УИК №791",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 18,
       "Число бюллетеней, полученных участковыми комиссиями": 26,
@@ -2909,8 +3476,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 792,
     "uikTvd": "438402266899",
+    "uikName": "УИК №792",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 84,
       "Число бюллетеней, полученных участковыми комиссиями": 124,
@@ -2955,8 +3531,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 793,
     "uikTvd": "438402266900",
+    "uikName": "УИК №793",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -3001,8 +3586,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 794,
     "uikTvd": "438402266901",
+    "uikName": "УИК №794",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 213,
@@ -3047,8 +3641,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 795,
     "uikTvd": "438402266902",
+    "uikName": "УИК №795",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 53,
       "Число бюллетеней, полученных участковыми комиссиями": 56,
@@ -3093,8 +3696,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 703,
     "uikTvd": "438402066629",
+    "uikName": "УИК  703",
     "tikTvd": "338300167391",
     "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 79,
@@ -3139,8 +3751,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 704,
     "uikTvd": "438402066630",
+    "uikName": "УИК  704",
     "tikTvd": "338300167391",
     "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -3185,8 +3806,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 705,
     "uikTvd": "438402066631",
+    "uikName": "УИК  705",
     "tikTvd": "338300167391",
     "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1596,
       "Число бюллетеней, полученных участковыми комиссиями": 1559,
@@ -3231,8 +3861,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 706,
     "uikTvd": "438402066632",
+    "uikName": "УИК  706",
     "tikTvd": "338300167391",
     "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 51,
       "Число бюллетеней, полученных участковыми комиссиями": 53,
@@ -3277,8 +3916,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 707,
     "uikTvd": "438402066633",
+    "uikName": "УИК  707",
     "tikTvd": "338300167391",
     "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 56,
       "Число бюллетеней, полученных участковыми комиссиями": 58,
@@ -3323,8 +3971,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 708,
     "uikTvd": "438402066634",
+    "uikName": "УИК  708",
     "tikTvd": "338300167391",
     "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 458,
       "Число бюллетеней, полученных участковыми комиссиями": 457,
@@ -3369,8 +4026,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 709,
     "uikTvd": "438402066635",
+    "uikName": "УИК  709",
     "tikTvd": "338300167391",
     "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 309,
       "Число бюллетеней, полученных участковыми комиссиями": 309,
@@ -3415,8 +4081,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 710,
     "uikTvd": "438402066636",
+    "uikName": "УИК  710",
     "tikTvd": "338300167391",
     "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 373,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -3461,8 +4136,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 711,
     "uikTvd": "438402066637",
+    "uikName": "УИК  711",
     "tikTvd": "338300167391",
     "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 76,
       "Число бюллетеней, полученных участковыми комиссиями": 78,
@@ -3507,8 +4191,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 712,
     "uikTvd": "438402066638",
+    "uikName": "УИК  712",
     "tikTvd": "338300167391",
     "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 106,
@@ -3553,8 +4246,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 713,
     "uikTvd": "438402066639",
+    "uikName": "УИК  713",
     "tikTvd": "338300167391",
     "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 93,
@@ -3599,8 +4301,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 681,
     "uikTvd": "438401966702",
+    "uikName": "УИК №681",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 412,
       "Число бюллетеней, полученных участковыми комиссиями": 403,
@@ -3645,8 +4356,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 682,
     "uikTvd": "438401966706",
+    "uikName": "УИК №682",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 122,
@@ -3691,8 +4411,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 683,
     "uikTvd": "438401966704",
+    "uikName": "УИК №683",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1438,
       "Число бюллетеней, полученных участковыми комиссиями": 1478,
@@ -3737,8 +4466,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 684,
     "uikTvd": "438401966708",
+    "uikName": "УИК №684",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1031,
       "Число бюллетеней, полученных участковыми комиссиями": 1091,
@@ -3783,8 +4521,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 685,
     "uikTvd": "438401966710",
+    "uikName": "УИК №685",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1452,
       "Число бюллетеней, полученных участковыми комиссиями": 1708,
@@ -3829,8 +4576,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 686,
     "uikTvd": "438401966712",
+    "uikName": "УИК №686",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 219,
@@ -3875,8 +4631,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 687,
     "uikTvd": "438401966714",
+    "uikName": "УИК №687",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 697,
       "Число бюллетеней, полученных участковыми комиссиями": 804,
@@ -3921,8 +4686,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 688,
     "uikTvd": "438401966716",
+    "uikName": "УИК №688",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 269,
@@ -3967,8 +4741,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 689,
     "uikTvd": "438401966718",
+    "uikName": "УИК №689",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1967,
       "Число бюллетеней, полученных участковыми комиссиями": 1864,
@@ -4013,8 +4796,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 690,
     "uikTvd": "438401966720",
+    "uikName": "УИК №690",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 689,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -4059,8 +4851,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 691,
     "uikTvd": "438401966722",
+    "uikName": "УИК №691",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1471,
       "Число бюллетеней, полученных участковыми комиссиями": 1413,
@@ -4105,8 +4906,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 692,
     "uikTvd": "438401966724",
+    "uikName": "УИК №692",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1350,
       "Число бюллетеней, полученных участковыми комиссиями": 1342,
@@ -4151,8 +4961,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 693,
     "uikTvd": "438401966726",
+    "uikName": "УИК №693",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 419,
       "Число бюллетеней, полученных участковыми комиссиями": 383,
@@ -4197,8 +5016,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 694,
     "uikTvd": "438401966728",
+    "uikName": "УИК №694",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -4243,8 +5071,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 695,
     "uikTvd": "438401966730",
+    "uikName": "УИК №695",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 285,
@@ -4289,8 +5126,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 696,
     "uikTvd": "438401966732",
+    "uikName": "УИК №696",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1179,
       "Число бюллетеней, полученных участковыми комиссиями": 1181,
@@ -4335,8 +5181,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 697,
     "uikTvd": "438401966734",
+    "uikName": "УИК №697",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1010,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -4381,8 +5236,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 698,
     "uikTvd": "438401966736",
+    "uikName": "УИК №698",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 775,
       "Число бюллетеней, полученных участковыми комиссиями": 783,
@@ -4427,8 +5291,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 699,
     "uikTvd": "438401966738",
+    "uikName": "УИК №699",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 49,
       "Число бюллетеней, полученных участковыми комиссиями": 53,
@@ -4473,8 +5346,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 700,
     "uikTvd": "438401966740",
+    "uikName": "УИК №700",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 95,
       "Число бюллетеней, полученных участковыми комиссиями": 93,
@@ -4519,8 +5401,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 701,
     "uikTvd": "438401966742",
+    "uikName": "УИК №701",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -4565,8 +5456,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 702,
     "uikTvd": "438401966744",
+    "uikName": "УИК №702",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 44,
       "Число бюллетеней, полученных участковыми комиссиями": 45,
@@ -4611,8 +5511,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 294,
     "uikTvd": "438401066737",
+    "uikName": "УИК №294",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -4657,8 +5566,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 295,
     "uikTvd": "438401066739",
+    "uikName": "УИК №295",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 278,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -4703,8 +5621,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 296,
     "uikTvd": "438401066741",
+    "uikName": "УИК №296",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 67,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -4749,8 +5676,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 297,
     "uikTvd": "438401066742",
+    "uikName": "УИК №297",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 67,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -4795,8 +5731,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 298,
     "uikTvd": "438401066743",
+    "uikName": "УИК №298",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4841,8 +5786,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "438401066744",
+    "uikName": "УИК №299",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 995,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4887,8 +5841,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 300,
     "uikTvd": "438401066745",
+    "uikName": "УИК №300",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1037,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4933,8 +5896,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "438401066746",
+    "uikName": "УИК №301",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1014,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4979,8 +5951,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "438401066747",
+    "uikName": "УИК №302",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 988,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -5025,8 +6006,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "438401066748",
+    "uikName": "УИК №303",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 74,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -5071,8 +6061,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "438401066749",
+    "uikName": "УИК №304",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 22,
       "Число бюллетеней, полученных участковыми комиссиями": 40,
@@ -5117,8 +6116,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "438401066750",
+    "uikName": "УИК №305",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -5163,8 +6171,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "438401066751",
+    "uikName": "УИК №306",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 45,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -5209,8 +6226,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "438401066752",
+    "uikName": "УИК №307",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 254,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -5255,8 +6281,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "438401066753",
+    "uikName": "УИК №308",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 80,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -5301,8 +6336,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "438401066754",
+    "uikName": "УИК №309",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 312,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -5347,8 +6391,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "438401066755",
+    "uikName": "УИК №310",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 483,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -5393,8 +6446,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "438401066756",
+    "uikName": "УИК №311",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -5439,8 +6501,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "438401066757",
+    "uikName": "УИК №312",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -5485,8 +6556,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "438401066758",
+    "uikName": "УИК №313",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 75,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -5531,8 +6611,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "438401066759",
+    "uikName": "УИК №314",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -5577,8 +6666,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "438401066760",
+    "uikName": "УИК №315",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 222,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -5623,8 +6721,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "438401066735",
+    "uikName": "УИК №316",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -5669,8 +6776,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "438400766840",
+    "uikName": "УИК №197",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1721,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -5715,8 +6831,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "438400766841",
+    "uikName": "УИК №198",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1552,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5761,8 +6886,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "438400766842",
+    "uikName": "УИК №199",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2778,
       "Число бюллетеней, полученных участковыми комиссиями": 2490,
@@ -5807,8 +6941,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "438400766843",
+    "uikName": "УИК №200",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1887,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -5853,8 +6996,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "438400766844",
+    "uikName": "УИК №201",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1933,
       "Число бюллетеней, полученных участковыми комиссиями": 1740,
@@ -5899,8 +7051,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "438400766845",
+    "uikName": "УИК №202",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2182,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -5945,8 +7106,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "438400766846",
+    "uikName": "УИК №203",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1903,
       "Число бюллетеней, полученных участковыми комиссиями": 1710,
@@ -5991,8 +7161,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "438400766847",
+    "uikName": "УИК №204",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2087,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -6037,8 +7216,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "438400766848",
+    "uikName": "УИК №205",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2031,
       "Число бюллетеней, полученных участковыми комиссиями": 1840,
@@ -6083,8 +7271,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "438400766849",
+    "uikName": "УИК №206",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1794,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -6129,8 +7326,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "438400766850",
+    "uikName": "УИК №207",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2365,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -6175,8 +7381,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "438400766851",
+    "uikName": "УИК №208",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1700,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -6221,8 +7436,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "438400766852",
+    "uikName": "УИК №209",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2122,
       "Число бюллетеней, полученных участковыми комиссиями": 1880,
@@ -6267,8 +7491,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "438400766853",
+    "uikName": "УИК №210",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2143,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -6313,8 +7546,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "438400766854",
+    "uikName": "УИК №211",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1840,
       "Число бюллетеней, полученных участковыми комиссиями": 1630,
@@ -6359,8 +7601,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "438400766855",
+    "uikName": "УИК №212",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1871,
       "Число бюллетеней, полученных участковыми комиссиями": 1680,
@@ -6405,8 +7656,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "438400766856",
+    "uikName": "УИК №213",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2755,
       "Число бюллетеней, полученных участковыми комиссиями": 2490,
@@ -6451,8 +7711,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "438400766857",
+    "uikName": "УИК №214",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3014,
       "Число бюллетеней, полученных участковыми комиссиями": 2690,
@@ -6497,8 +7766,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "438400766858",
+    "uikName": "УИК №215",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2854,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -6543,8 +7821,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "438400766859",
+    "uikName": "УИК №216",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2494,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -6589,8 +7876,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "438400766860",
+    "uikName": "УИК №217",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2403,
       "Число бюллетеней, полученных участковыми комиссиями": 2160,
@@ -6635,8 +7931,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "438400766861",
+    "uikName": "УИК №218",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2170,
       "Число бюллетеней, полученных участковыми комиссиями": 1960,
@@ -6681,8 +7986,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "438400766862",
+    "uikName": "УИК №219",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1947,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -6727,8 +8041,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "438400766863",
+    "uikName": "УИК №220",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3005,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6773,8 +8096,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "438400766864",
+    "uikName": "УИК №221",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2747,
       "Число бюллетеней, полученных участковыми комиссиями": 2480,
@@ -6819,8 +8151,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "438400766865",
+    "uikName": "УИК №222",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2211,
       "Число бюллетеней, полученных участковыми комиссиями": 2010,
@@ -6865,8 +8206,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "438400766866",
+    "uikName": "УИК №223",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2543,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6911,8 +8261,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "438400766867",
+    "uikName": "УИК №224",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2391,
       "Число бюллетеней, полученных участковыми комиссиями": 2160,
@@ -6957,8 +8316,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "438400766868",
+    "uikName": "УИК №225",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2482,
       "Число бюллетеней, полученных участковыми комиссиями": 2260,
@@ -7003,8 +8371,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "438400766869",
+    "uikName": "УИК №226",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2531,
       "Число бюллетеней, полученных участковыми комиссиями": 2280,
@@ -7049,8 +8426,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "438400766870",
+    "uikName": "УИК №227",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2512,
       "Число бюллетеней, полученных участковыми комиссиями": 2270,
@@ -7095,8 +8481,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "438400766871",
+    "uikName": "УИК №228",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2254,
       "Число бюллетеней, полученных участковыми комиссиями": 2040,
@@ -7141,8 +8536,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "438400766872",
+    "uikName": "УИК №229",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2188,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -7187,8 +8591,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "438400766873",
+    "uikName": "УИК №230",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2699,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -7233,8 +8646,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "438400766874",
+    "uikName": "УИК №231",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2938,
       "Число бюллетеней, полученных участковыми комиссиями": 2660,
@@ -7279,8 +8701,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "438400766875",
+    "uikName": "УИК №232",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1735,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -7325,8 +8756,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "438400766876",
+    "uikName": "УИК №233",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2909,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7371,8 +8811,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "438400766877",
+    "uikName": "УИК №234",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2676,
       "Число бюллетеней, полученных участковыми комиссиями": 2440,
@@ -7417,8 +8866,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "438400766878",
+    "uikName": "УИК №235",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2843,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -7463,8 +8921,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "438400766879",
+    "uikName": "УИК №236",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2670,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -7509,8 +8976,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "438400766880",
+    "uikName": "УИК №237",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2322,
       "Число бюллетеней, полученных участковыми комиссиями": 2090,
@@ -7555,8 +9031,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "438400766881",
+    "uikName": "УИК №238",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2278,
       "Число бюллетеней, полученных участковыми комиссиями": 2040,
@@ -7601,8 +9086,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "438400766882",
+    "uikName": "УИК №239",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2048,
       "Число бюллетеней, полученных участковыми комиссиями": 1840,
@@ -7647,8 +9141,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "438400766883",
+    "uikName": "УИК №240",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2372,
       "Число бюллетеней, полученных участковыми комиссиями": 2140,
@@ -7693,8 +9196,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "438400766884",
+    "uikName": "УИК №241",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2267,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -7739,8 +9251,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "438400766885",
+    "uikName": "УИК №242",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2256,
       "Число бюллетеней, полученных участковыми комиссиями": 2040,
@@ -7785,8 +9306,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "438400766886",
+    "uikName": "УИК №243",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2055,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -7831,8 +9361,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "438400766887",
+    "uikName": "УИК №244",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2101,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7877,8 +9416,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "438400766888",
+    "uikName": "УИК №245",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2210,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -7923,8 +9471,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "438400766889",
+    "uikName": "УИК №246",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1904,
       "Число бюллетеней, полученных участковыми комиссиями": 1730,
@@ -7969,8 +9526,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "438400766890",
+    "uikName": "УИК №247",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2102,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -8015,8 +9581,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "438400766891",
+    "uikName": "УИК №248",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1590,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -8061,8 +9636,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "438400766892",
+    "uikName": "УИК №249",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 151,
@@ -8107,8 +9691,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "438400766893",
+    "uikName": "УИК №250",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -8153,8 +9746,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "438400766894",
+    "uikName": "УИК №251",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1550,
       "Число бюллетеней, полученных участковыми комиссиями": 1380,
@@ -8199,8 +9801,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 252,
     "uikTvd": "438400766895",
+    "uikName": "УИК №252",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 857,
       "Число бюллетеней, полученных участковыми комиссиями": 814,
@@ -8245,8 +9856,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 253,
     "uikTvd": "438400766896",
+    "uikName": "УИК №253",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1346,
       "Число бюллетеней, полученных участковыми комиссиями": 1210,
@@ -8291,8 +9911,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 254,
     "uikTvd": "438400766897",
+    "uikName": "УИК №254",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1695,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -8337,8 +9966,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 255,
     "uikTvd": "438400766898",
+    "uikName": "УИК №255",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1569,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -8383,8 +10021,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 256,
     "uikTvd": "438400766899",
+    "uikName": "УИК №256",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1522,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -8429,8 +10076,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 257,
     "uikTvd": "438400766900",
+    "uikName": "УИК №257",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1506,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -8475,8 +10131,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 258,
     "uikTvd": "438400766901",
+    "uikName": "УИК №258",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1254,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -8521,8 +10186,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 259,
     "uikTvd": "438400766902",
+    "uikName": "УИК №259",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1146,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -8567,8 +10241,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 260,
     "uikTvd": "438400766903",
+    "uikName": "УИК №260",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2002,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8613,8 +10296,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 261,
     "uikTvd": "438400766904",
+    "uikName": "УИК №261",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2257,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -8659,8 +10351,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 262,
     "uikTvd": "438400766905",
+    "uikName": "УИК №262",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1850,
       "Число бюллетеней, полученных участковыми комиссиями": 1740,
@@ -8705,8 +10406,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 263,
     "uikTvd": "438400766906",
+    "uikName": "УИК №263",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2309,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8751,8 +10461,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 264,
     "uikTvd": "438400766907",
+    "uikName": "УИК №264",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2307,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -8797,8 +10516,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 265,
     "uikTvd": "438400766908",
+    "uikName": "УИК №265",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2100,
       "Число бюллетеней, полученных участковыми комиссиями": 1880,
@@ -8843,8 +10571,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 266,
     "uikTvd": "438400766909",
+    "uikName": "УИК №266",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2083,
       "Число бюллетеней, полученных участковыми комиссиями": 1870,
@@ -8889,8 +10626,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 267,
     "uikTvd": "438400766910",
+    "uikName": "УИК №267",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2447,
       "Число бюллетеней, полученных участковыми комиссиями": 2210,
@@ -8935,8 +10681,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 268,
     "uikTvd": "438400766911",
+    "uikName": "УИК №268",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2753,
       "Число бюллетеней, полученных участковыми комиссиями": 2490,
@@ -8981,8 +10736,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 269,
     "uikTvd": "438400766912",
+    "uikName": "УИК №269",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2564,
       "Число бюллетеней, полученных участковыми комиссиями": 2310,
@@ -9027,8 +10791,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 270,
     "uikTvd": "438400766913",
+    "uikName": "УИК №270",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1934,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -9073,8 +10846,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 271,
     "uikTvd": "438400766914",
+    "uikName": "УИК №271",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2608,
       "Число бюллетеней, полученных участковыми комиссиями": 2360,
@@ -9119,8 +10901,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 272,
     "uikTvd": "438400766915",
+    "uikName": "УИК №272",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2645,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -9165,8 +10956,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 273,
     "uikTvd": "438400766916",
+    "uikName": "УИК №273",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2041,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -9211,8 +11011,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 274,
     "uikTvd": "438400766917",
+    "uikName": "УИК №274",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2064,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -9257,8 +11066,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 275,
     "uikTvd": "438400766918",
+    "uikName": "УИК №275",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2286,
       "Число бюллетеней, полученных участковыми комиссиями": 2060,
@@ -9303,8 +11121,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 276,
     "uikTvd": "438400766919",
+    "uikName": "УИК №276",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -9349,8 +11176,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 277,
     "uikTvd": "438400766920",
+    "uikName": "УИК №277",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1723,
       "Число бюллетеней, полученных участковыми комиссиями": 1570,
@@ -9395,8 +11231,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 278,
     "uikTvd": "438400766921",
+    "uikName": "УИК №278",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1956,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -9441,8 +11286,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 279,
     "uikTvd": "438400766922",
+    "uikName": "УИК №279",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2484,
       "Число бюллетеней, полученных участковыми комиссиями": 2230,
@@ -9487,8 +11341,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 280,
     "uikTvd": "438400766923",
+    "uikName": "УИК №280",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2337,
       "Число бюллетеней, полученных участковыми комиссиями": 2120,
@@ -9533,8 +11396,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 281,
     "uikTvd": "438400766924",
+    "uikName": "УИК №281",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2471,
       "Число бюллетеней, полученных участковыми комиссиями": 2230,
@@ -9579,8 +11451,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 282,
     "uikTvd": "438400766925",
+    "uikName": "УИК №282",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2007,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -9625,8 +11506,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 283,
     "uikTvd": "438400766926",
+    "uikName": "УИК №283",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 787,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -9671,8 +11561,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 284,
     "uikTvd": "438400766927",
+    "uikName": "УИК №284",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2596,
       "Число бюллетеней, полученных участковыми комиссиями": 2340,
@@ -9717,8 +11616,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 285,
     "uikTvd": "438400766928",
+    "uikName": "УИК №285",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1053,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -9763,8 +11671,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 286,
     "uikTvd": "438400766929",
+    "uikName": "УИК №286",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 971,
       "Число бюллетеней, полученных участковыми комиссиями": 890,
@@ -9809,8 +11726,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 287,
     "uikTvd": "438400766930",
+    "uikName": "УИК №287",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1075,
       "Число бюллетеней, полученных участковыми комиссиями": 890,
@@ -9855,8 +11781,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 288,
     "uikTvd": "438400766931",
+    "uikName": "УИК №288",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 941,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -9901,8 +11836,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 289,
     "uikTvd": "438400766932",
+    "uikName": "УИК №289",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2528,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9947,8 +11891,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 290,
     "uikTvd": "438400766933",
+    "uikName": "УИК №290",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2100,
       "Число бюллетеней, полученных участковыми комиссиями": 1880,
@@ -9993,8 +11946,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 291,
     "uikTvd": "438400766934",
+    "uikName": "УИК №291",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2232,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -10039,8 +12001,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 292,
     "uikTvd": "438400766935",
+    "uikName": "УИК №292",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1305,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -10085,8 +12056,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 293,
     "uikTvd": "438400766936",
+    "uikName": "УИК №293",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1632,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -10131,8 +12111,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "438400966742",
+    "uikName": "УИК №140",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 905,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -10177,8 +12166,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "438400966743",
+    "uikName": "УИК №141",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 298,
@@ -10223,8 +12221,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "438400966744",
+    "uikName": "УИК №142",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 75,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -10269,8 +12276,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "438400966745",
+    "uikName": "УИК №143",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -10315,8 +12331,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "438400966746",
+    "uikName": "УИК №144",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -10361,8 +12386,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "438400966747",
+    "uikName": "УИК №145",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 587,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -10407,8 +12441,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "438400966748",
+    "uikName": "УИК №146",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2090,
       "Число бюллетеней, полученных участковыми комиссиями": 2097,
@@ -10453,8 +12496,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "438400966749",
+    "uikName": "УИК №147",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 118,
@@ -10499,8 +12551,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "438400966750",
+    "uikName": "УИК №148",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 54,
       "Число бюллетеней, полученных участковыми комиссиями": 53,
@@ -10545,8 +12606,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "438400966751",
+    "uikName": "УИК №149",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 928,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -10591,8 +12661,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "438400966752",
+    "uikName": "УИК №150",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1807,
       "Число бюллетеней, полученных участковыми комиссиями": 1804,
@@ -10637,8 +12716,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "438400966753",
+    "uikName": "УИК №151",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 199,
@@ -10683,8 +12771,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "438400966754",
+    "uikName": "УИК №152",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 226,
@@ -10729,8 +12826,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "438400966755",
+    "uikName": "УИК №153",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 359,
@@ -10775,8 +12881,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "438400966756",
+    "uikName": "УИК №154",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 488,
       "Число бюллетеней, полученных участковыми комиссиями": 498,
@@ -10821,8 +12936,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "438400966757",
+    "uikName": "УИК №155",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2364,
       "Число бюллетеней, полученных участковыми комиссиями": 2338,
@@ -10867,8 +12991,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "438400966758",
+    "uikName": "УИК №156",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 252,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -10913,8 +13046,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "438400966759",
+    "uikName": "УИК №157",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 342,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -10959,8 +13101,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "438400966760",
+    "uikName": "УИК №158",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -11005,8 +13156,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "438400966761",
+    "uikName": "УИК №159",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 943,
       "Число бюллетеней, полученных участковыми комиссиями": 919,
@@ -11051,8 +13211,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "438400966762",
+    "uikName": "УИК №160",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 298,
@@ -11097,8 +13266,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "438400966763",
+    "uikName": "УИК №161",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1600,
       "Число бюллетеней, полученных участковыми комиссиями": 1597,
@@ -11143,8 +13321,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "438400966764",
+    "uikName": "УИК №162",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 572,
       "Число бюллетеней, полученных участковыми комиссиями": 558,
@@ -11189,8 +13376,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "438400966765",
+    "uikName": "УИК №163",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 709,
       "Число бюллетеней, полученных участковыми комиссиями": 695,
@@ -11235,8 +13431,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "438400966766",
+    "uikName": "УИК №164",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 717,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -11281,8 +13486,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "438400966767",
+    "uikName": "УИК №165",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 909,
       "Число бюллетеней, полученных участковыми комиссиями": 968,
@@ -11327,8 +13541,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "438400966768",
+    "uikName": "УИК №166",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 431,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -11373,8 +13596,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "438400966769",
+    "uikName": "УИК №167",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1506,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -11419,8 +13651,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "438400966770",
+    "uikName": "УИК №168",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 411,
@@ -11465,8 +13706,17 @@ export const duma_2003_uik_428_region_38_part_002 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "438400966771",
+    "uikName": "УИК №169",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 299,
       "Число бюллетеней, полученных участковыми комиссиями": 285,

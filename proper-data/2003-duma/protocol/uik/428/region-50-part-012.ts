@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1594,
     "uikTvd": "450403270530",
+    "uikName": "УИК №1594",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1188,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -61,8 +70,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1595,
     "uikTvd": "450403270531",
+    "uikName": "УИК №1595",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1184,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -111,8 +129,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1596,
     "uikTvd": "450403270532",
+    "uikName": "УИК №1596",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 476,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -161,8 +188,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1597,
     "uikTvd": "450403270533",
+    "uikName": "УИК №1597",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1403,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -211,8 +247,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1598,
     "uikTvd": "450403270534",
+    "uikName": "УИК №1598",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -261,8 +306,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1599,
     "uikTvd": "450403270535",
+    "uikName": "УИК №1599",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2871,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -311,8 +365,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1600,
     "uikTvd": "450403270536",
+    "uikName": "УИК №1600",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2624,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -361,8 +424,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1601,
     "uikTvd": "450403270537",
+    "uikName": "УИК №1601",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1950,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -411,8 +483,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1602,
     "uikTvd": "450403270538",
+    "uikName": "УИК №1602",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2170,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -461,8 +542,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1603,
     "uikTvd": "450403270539",
+    "uikName": "УИК №1603",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1866,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -511,8 +601,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1604,
     "uikTvd": "450403270540",
+    "uikName": "УИК №1604",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2029,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -561,8 +660,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1605,
     "uikTvd": "450403270541",
+    "uikName": "УИК №1605",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2095,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -611,8 +719,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1606,
     "uikTvd": "450403270542",
+    "uikName": "УИК №1606",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2781,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -661,8 +778,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1607,
     "uikTvd": "450403270543",
+    "uikName": "УИК №1607",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -711,8 +837,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1608,
     "uikTvd": "450403270544",
+    "uikName": "УИК №1608",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 273,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -761,8 +896,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1609,
     "uikTvd": "450403270545",
+    "uikName": "УИК №1609",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -811,8 +955,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1610,
     "uikTvd": "450403270546",
+    "uikName": "УИК №1610",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -861,8 +1014,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1611,
     "uikTvd": "450403270547",
+    "uikName": "УИК №1611",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 993,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -911,8 +1073,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1612,
     "uikTvd": "450403270548",
+    "uikName": "УИК №1612",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 159,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -961,8 +1132,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1613,
     "uikTvd": "450403270549",
+    "uikName": "УИК №1613",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 546,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -1011,8 +1191,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2161,
     "uikTvd": "450404170600",
+    "uikName": "УИК №2161",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2461,
       "Число бюллетеней, полученных участковыми комиссиями": 2494,
@@ -1061,8 +1250,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2162,
     "uikTvd": "450404170601",
+    "uikName": "УИК №2162",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2669,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1111,8 +1309,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2163,
     "uikTvd": "450404170602",
+    "uikName": "УИК №2163",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2305,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1161,8 +1368,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2164,
     "uikTvd": "450404170603",
+    "uikName": "УИК №2164",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2809,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -1211,8 +1427,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2165,
     "uikTvd": "450404170604",
+    "uikName": "УИК №2165",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2146,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1261,8 +1486,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2166,
     "uikTvd": "450404170605",
+    "uikName": "УИК №2166",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 621,
       "Число бюллетеней, полученных участковыми комиссиями": 602,
@@ -1311,8 +1545,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2167,
     "uikTvd": "450404170606",
+    "uikName": "УИК №2167",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2365,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1361,8 +1604,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2168,
     "uikTvd": "450404170607",
+    "uikName": "УИК №2168",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1977,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -1411,8 +1663,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2169,
     "uikTvd": "450404170608",
+    "uikName": "УИК №2169",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 408,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -1461,8 +1722,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2170,
     "uikTvd": "450404170609",
+    "uikName": "УИК №2170",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 964,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -1511,8 +1781,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2171,
     "uikTvd": "450404170610",
+    "uikName": "УИК №2171",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1600,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1561,8 +1840,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2172,
     "uikTvd": "450404170611",
+    "uikName": "УИК №2172",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 727,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -1611,8 +1899,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2173,
     "uikTvd": "450404170612",
+    "uikName": "УИК №2173",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1472,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1661,8 +1958,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2174,
     "uikTvd": "450404170613",
+    "uikName": "УИК №2174",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2508,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1711,8 +2017,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2175,
     "uikTvd": "450404170614",
+    "uikName": "УИК №2175",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 822,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -1761,8 +2076,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2176,
     "uikTvd": "450404170615",
+    "uikName": "УИК №2176",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2072,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -1811,8 +2135,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2177,
     "uikTvd": "450404170616",
+    "uikName": "УИК №2177",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1935,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -1861,8 +2194,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2178,
     "uikTvd": "450404170617",
+    "uikName": "УИК №2178",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2590,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1911,8 +2253,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2179,
     "uikTvd": "450404170618",
+    "uikName": "УИК №2179",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2174,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1961,8 +2312,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2180,
     "uikTvd": "450404170619",
+    "uikName": "УИК №2180",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1980,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2011,8 +2371,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2181,
     "uikTvd": "450404170620",
+    "uikName": "УИК №2181",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1946,
       "Число бюллетеней, полученных участковыми комиссиями": 1895,
@@ -2061,8 +2430,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2182,
     "uikTvd": "450404170621",
+    "uikName": "УИК №2182",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2072,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2111,8 +2489,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2183,
     "uikTvd": "450404170622",
+    "uikName": "УИК №2183",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1950,
       "Число бюллетеней, полученных участковыми комиссиями": 1907,
@@ -2161,8 +2548,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2184,
     "uikTvd": "450404170623",
+    "uikName": "УИК №2184",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1975,
       "Число бюллетеней, полученных участковыми комиссиями": 1898,
@@ -2211,8 +2607,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2185,
     "uikTvd": "450404170624",
+    "uikName": "УИК №2185",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2306,
       "Число бюллетеней, полученных участковыми комиссиями": 2496,
@@ -2261,8 +2666,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2186,
     "uikTvd": "450404170625",
+    "uikName": "УИК №2186",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 560,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -2311,8 +2725,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2187,
     "uikTvd": "450404170626",
+    "uikName": "УИК №2187",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2147,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2361,8 +2784,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2188,
     "uikTvd": "450404170627",
+    "uikName": "УИК №2188",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2680,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -2411,8 +2843,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2189,
     "uikTvd": "450404170628",
+    "uikName": "УИК №2189",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1162,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2461,8 +2902,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2190,
     "uikTvd": "450404170629",
+    "uikName": "УИК №2190",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1737,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2511,8 +2961,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2191,
     "uikTvd": "450404170630",
+    "uikName": "УИК №2191",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1254,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2561,8 +3020,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2192,
     "uikTvd": "450404170631",
+    "uikName": "УИК №2192",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2003,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2611,8 +3079,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2193,
     "uikTvd": "450404170632",
+    "uikName": "УИК №2193",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1888,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2661,8 +3138,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2194,
     "uikTvd": "450404170633",
+    "uikName": "УИК №2194",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1490,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -2711,8 +3197,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2195,
     "uikTvd": "450404170634",
+    "uikName": "УИК №2195",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 520,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2761,8 +3256,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2196,
     "uikTvd": "450404170635",
+    "uikName": "УИК №2196",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 616,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -2811,8 +3315,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "450400170746",
+    "uikName": "УИК  1",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1716,
       "Число бюллетеней, полученных участковыми комиссиями": 1540,
@@ -2860,8 +3373,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "450400170747",
+    "uikName": "УИК  2",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2048,
       "Число бюллетеней, полученных участковыми комиссиями": 1810,
@@ -2909,8 +3431,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "450400170748",
+    "uikName": "УИК  3",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2583,
       "Число бюллетеней, полученных участковыми комиссиями": 2290,
@@ -2958,8 +3489,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "450400170749",
+    "uikName": "УИК  4",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2387,
       "Число бюллетеней, полученных участковыми комиссиями": 2140,
@@ -3007,8 +3547,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "450400170750",
+    "uikName": "УИК  5",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2298,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -3056,8 +3605,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "450400170751",
+    "uikName": "УИК  6",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2525,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3105,8 +3663,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "450400170752",
+    "uikName": "УИК  7",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2533,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -3154,8 +3721,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "450400170753",
+    "uikName": "УИК  8",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2104,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -3203,8 +3779,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "450400170754",
+    "uikName": "УИК  9",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2282,
       "Число бюллетеней, полученных участковыми комиссиями": 2040,
@@ -3252,8 +3837,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "450400170755",
+    "uikName": "УИК  10",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2074,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -3301,8 +3895,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "450400170756",
+    "uikName": "УИК  11",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2430,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -3350,8 +3953,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "450400170757",
+    "uikName": "УИК  12",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1503,
       "Число бюллетеней, полученных участковыми комиссиями": 1340,
@@ -3399,8 +4011,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "450400170758",
+    "uikName": "УИК  13",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2671,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -3448,8 +4069,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "450400170759",
+    "uikName": "УИК  14",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2435,
       "Число бюллетеней, полученных участковыми комиссиями": 2190,
@@ -3497,8 +4127,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "450400170760",
+    "uikName": "УИК  15",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2149,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -3546,8 +4185,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "450400170761",
+    "uikName": "УИК  16",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2107,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -3595,8 +4243,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "450400170762",
+    "uikName": "УИК  17",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1913,
       "Число бюллетеней, полученных участковыми комиссиями": 1720,
@@ -3644,8 +4301,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "450400170763",
+    "uikName": "УИК  18",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1505,
       "Число бюллетеней, полученных участковыми комиссиями": 1320,
@@ -3693,8 +4359,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "450400170764",
+    "uikName": "УИК  19",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1767,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -3742,8 +4417,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "450400170765",
+    "uikName": "УИК  20",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1117,
       "Число бюллетеней, полученных участковыми комиссиями": 890,
@@ -3791,8 +4475,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "450400170766",
+    "uikName": "УИК  21",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2063,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3840,8 +4533,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "450400170767",
+    "uikName": "УИК  22",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2002,
       "Число бюллетеней, полученных участковыми комиссиями": 1710,
@@ -3889,8 +4591,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "450400170768",
+    "uikName": "УИК  23",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1898,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3938,8 +4649,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "450400170769",
+    "uikName": "УИК  24",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2578,
       "Число бюллетеней, полученных участковыми комиссиями": 2310,
@@ -3987,8 +4707,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "450400170770",
+    "uikName": "УИК  25",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2168,
       "Число бюллетеней, полученных участковыми комиссиями": 1940,
@@ -4036,8 +4765,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "450400170771",
+    "uikName": "УИК  26",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2165,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4085,8 +4823,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "450400170772",
+    "uikName": "УИК  27",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2117,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -4134,8 +4881,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "450400170773",
+    "uikName": "УИК  28",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1945,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -4183,8 +4939,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "450400170774",
+    "uikName": "УИК  29",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2126,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4232,8 +4997,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "450400170775",
+    "uikName": "УИК  30",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2354,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -4281,8 +5055,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "450400170776",
+    "uikName": "УИК  31",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2382,
       "Число бюллетеней, полученных участковыми комиссиями": 2140,
@@ -4330,8 +5113,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "450400170777",
+    "uikName": "УИК  32",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2177,
       "Число бюллетеней, полученных участковыми комиссиями": 1960,
@@ -4379,8 +5171,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "450400170778",
+    "uikName": "УИК  33",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2417,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -4428,8 +5229,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "450400170779",
+    "uikName": "УИК  34",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2243,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -4477,8 +5287,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "450400170780",
+    "uikName": "УИК  35",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2462,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4526,8 +5345,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "450400170781",
+    "uikName": "УИК  36",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2369,
       "Число бюллетеней, полученных участковыми комиссиями": 2110,
@@ -4575,8 +5403,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "450400170782",
+    "uikName": "УИК  37",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1976,
       "Число бюллетеней, полученных участковыми комиссиями": 1710,
@@ -4624,8 +5461,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "450400170806",
+    "uikName": "УИК  38",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2259,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -4673,8 +5519,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "450400170807",
+    "uikName": "УИК  39",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2040,
       "Число бюллетеней, полученных участковыми комиссиями": 1810,
@@ -4722,8 +5577,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "450400170808",
+    "uikName": "УИК  40",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2443,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -4771,8 +5635,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "450400170809",
+    "uikName": "УИК  41",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1994,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -4820,8 +5693,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "450400170810",
+    "uikName": "УИК  42",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2563,
       "Число бюллетеней, полученных участковыми комиссиями": 2310,
@@ -4869,8 +5751,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "450400170811",
+    "uikName": "УИК  43",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3130,
       "Число бюллетеней, полученных участковыми комиссиями": 2510,
@@ -4918,8 +5809,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "450400170812",
+    "uikName": "УИК  44",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2096,
       "Число бюллетеней, полученных участковыми комиссиями": 1870,
@@ -4967,8 +5867,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "450400170813",
+    "uikName": "УИК  45",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2226,
       "Число бюллетеней, полученных участковыми комиссиями": 2010,
@@ -5016,8 +5925,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "450400170814",
+    "uikName": "УИК  46",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2268,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -5065,8 +5983,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "450400170815",
+    "uikName": "УИК  47",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2085,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -5114,8 +6041,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "450400170816",
+    "uikName": "УИК  48",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2451,
       "Число бюллетеней, полученных участковыми комиссиями": 2230,
@@ -5163,8 +6099,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "450400170817",
+    "uikName": "УИК  49",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1256,
       "Число бюллетеней, полученных участковыми комиссиями": 1120,
@@ -5212,8 +6157,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "450400170818",
+    "uikName": "УИК  50",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1320,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -5261,8 +6215,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "450400170819",
+    "uikName": "УИК  51",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2783,
       "Число бюллетеней, полученных участковыми комиссиями": 2410,
@@ -5310,8 +6273,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "450400170820",
+    "uikName": "УИК  52",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2716,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5359,8 +6331,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "450400170821",
+    "uikName": "УИК  53",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1805,
       "Число бюллетеней, полученных участковыми комиссиями": 1620,
@@ -5408,8 +6389,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "450400170822",
+    "uikName": "УИК  54",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 805,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -5457,8 +6447,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "450400170823",
+    "uikName": "УИК  55",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1674,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -5506,8 +6505,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "450400170824",
+    "uikName": "УИК  56",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2641,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -5555,8 +6563,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "450400170825",
+    "uikName": "УИК  57",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2622,
       "Число бюллетеней, полученных участковыми комиссиями": 2440,
@@ -5604,8 +6621,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "450400170826",
+    "uikName": "УИК  58",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2513,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -5653,8 +6679,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "450400170827",
+    "uikName": "УИК  59",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2998,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -5702,8 +6737,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "450400170828",
+    "uikName": "УИК  60",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2498,
       "Число бюллетеней, полученных участковыми комиссиями": 2360,
@@ -5751,8 +6795,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "450400170829",
+    "uikName": "УИК  61",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2665,
       "Число бюллетеней, полученных участковыми комиссиями": 2160,
@@ -5800,8 +6853,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "450400170830",
+    "uikName": "УИК  62",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2825,
       "Число бюллетеней, полученных участковыми комиссиями": 2510,
@@ -5849,8 +6911,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "450400170831",
+    "uikName": "УИК  63",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 555,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -5898,8 +6969,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "450400170832",
+    "uikName": "УИК  64",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2573,
       "Число бюллетеней, полученных участковыми комиссиями": 2320,
@@ -5947,8 +7027,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "450400170833",
+    "uikName": "УИК  65",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2614,
       "Число бюллетеней, полученных участковыми комиссиями": 2320,
@@ -5996,8 +7085,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "450400170834",
+    "uikName": "УИК  66",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2472,
       "Число бюллетеней, полученных участковыми комиссиями": 2260,
@@ -6045,8 +7143,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "450400170835",
+    "uikName": "УИК  67",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2683,
       "Число бюллетеней, полученных участковыми комиссиями": 2260,
@@ -6094,8 +7201,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "450400170836",
+    "uikName": "УИК  68",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2423,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -6143,8 +7259,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "450400170837",
+    "uikName": "УИК  69",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2721,
       "Число бюллетеней, полученных участковыми комиссиями": 2340,
@@ -6192,8 +7317,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "450400170838",
+    "uikName": "УИК  70",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1583,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -6241,8 +7375,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "450400170839",
+    "uikName": "УИК  71",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3116,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6290,8 +7433,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "450400170840",
+    "uikName": "УИК  72",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1977,
       "Число бюллетеней, полученных участковыми комиссиями": 1760,
@@ -6339,8 +7491,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "450400170841",
+    "uikName": "УИК  73",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 816,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -6388,8 +7549,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2212,
     "uikTvd": "450404370664",
+    "uikName": "УИК №2212",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2686,
       "Число бюллетеней, полученных участковыми комиссиями": 2553,
@@ -6437,8 +7607,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2213,
     "uikTvd": "450404370665",
+    "uikName": "УИК №2213",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2867,
       "Число бюллетеней, полученных участковыми комиссиями": 2679,
@@ -6486,8 +7665,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2214,
     "uikTvd": "450404370666",
+    "uikName": "УИК №2214",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1476,
       "Число бюллетеней, полученных участковыми комиссиями": 1409,
@@ -6535,8 +7723,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2215,
     "uikTvd": "450404370667",
+    "uikName": "УИК №2215",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2530,
       "Число бюллетеней, полученных участковыми комиссиями": 2136,
@@ -6584,8 +7781,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2216,
     "uikTvd": "450404370668",
+    "uikName": "УИК №2216",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2248,
       "Число бюллетеней, полученных участковыми комиссиями": 2291,
@@ -6633,8 +7839,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2217,
     "uikTvd": "450404370669",
+    "uikName": "УИК №2217",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2247,
       "Число бюллетеней, полученных участковыми комиссиями": 2120,
@@ -6682,8 +7897,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2218,
     "uikTvd": "450404370670",
+    "uikName": "УИК №2218",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2631,
       "Число бюллетеней, полученных участковыми комиссиями": 2484,
@@ -6731,8 +7955,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2219,
     "uikTvd": "450404370671",
+    "uikName": "УИК №2219",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2044,
       "Число бюллетеней, полученных участковыми комиссиями": 1896,
@@ -6780,8 +8013,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2220,
     "uikTvd": "450404370672",
+    "uikName": "УИК №2220",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2079,
       "Число бюллетеней, полученных участковыми комиссиями": 1987,
@@ -6829,8 +8071,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2221,
     "uikTvd": "450404370673",
+    "uikName": "УИК №2221",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2524,
       "Число бюллетеней, полученных участковыми комиссиями": 2385,
@@ -6878,8 +8129,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2222,
     "uikTvd": "450404370674",
+    "uikName": "УИК №2222",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2471,
       "Число бюллетеней, полученных участковыми комиссиями": 2318,
@@ -6927,8 +8187,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2223,
     "uikTvd": "450404370675",
+    "uikName": "УИК №2223",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2567,
       "Число бюллетеней, полученных участковыми комиссиями": 2376,
@@ -6976,8 +8245,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2224,
     "uikTvd": "450404370676",
+    "uikName": "УИК №2224",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2684,
       "Число бюллетеней, полученных участковыми комиссиями": 2506,
@@ -7025,8 +8303,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2225,
     "uikTvd": "450404370677",
+    "uikName": "УИК №2225",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2917,
       "Число бюллетеней, полученных участковыми комиссиями": 2754,
@@ -7074,8 +8361,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2226,
     "uikTvd": "450404370678",
+    "uikName": "УИК №2226",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2910,
       "Число бюллетеней, полученных участковыми комиссиями": 2731,
@@ -7123,8 +8419,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2227,
     "uikTvd": "450404370679",
+    "uikName": "УИК №2227",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2754,
       "Число бюллетеней, полученных участковыми комиссиями": 2595,
@@ -7172,8 +8477,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2228,
     "uikTvd": "450404370680",
+    "uikName": "УИК №2228",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3007,
       "Число бюллетеней, полученных участковыми комиссиями": 2840,
@@ -7221,8 +8535,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2229,
     "uikTvd": "450404370681",
+    "uikName": "УИК №2229",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2236,
       "Число бюллетеней, полученных участковыми комиссиями": 2084,
@@ -7270,8 +8593,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2230,
     "uikTvd": "450404370682",
+    "uikName": "УИК №2230",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1904,
       "Число бюллетеней, полученных участковыми комиссиями": 1870,
@@ -7319,8 +8651,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2231,
     "uikTvd": "450404370683",
+    "uikName": "УИК №2231",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1886,
       "Число бюллетеней, полученных участковыми комиссиями": 1774,
@@ -7368,8 +8709,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2232,
     "uikTvd": "450404370684",
+    "uikName": "УИК №2232",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2327,
       "Число бюллетеней, полученных участковыми комиссиями": 2188,
@@ -7417,8 +8767,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2233,
     "uikTvd": "450404370685",
+    "uikName": "УИК №2233",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2725,
       "Число бюллетеней, полученных участковыми комиссиями": 2569,
@@ -7466,8 +8825,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2234,
     "uikTvd": "450404370686",
+    "uikName": "УИК №2234",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2554,
       "Число бюллетеней, полученных участковыми комиссиями": 2432,
@@ -7515,8 +8883,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2235,
     "uikTvd": "450404370687",
+    "uikName": "УИК №2235",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2255,
       "Число бюллетеней, полученных участковыми комиссиями": 2123,
@@ -7564,8 +8941,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2236,
     "uikTvd": "450404370688",
+    "uikName": "УИК №2236",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1003,
       "Число бюллетеней, полученных участковыми комиссиями": 951,
@@ -7613,8 +8999,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2237,
     "uikTvd": "450404370689",
+    "uikName": "УИК №2237",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 633,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -7662,8 +9057,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2238,
     "uikTvd": "450404370690",
+    "uikName": "УИК №2238",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1030,
       "Число бюллетеней, полученных участковыми комиссиями": 972,
@@ -7711,8 +9115,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2239,
     "uikTvd": "450404370691",
+    "uikName": "УИК №2239",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 790,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -7760,8 +9173,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2240,
     "uikTvd": "450404370692",
+    "uikName": "УИК №2240",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 918,
       "Число бюллетеней, полученных участковыми комиссиями": 847,
@@ -7809,8 +9231,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2241,
     "uikTvd": "450404370693",
+    "uikName": "УИК №2241",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2746,
       "Число бюллетеней, полученных участковыми комиссиями": 2623,
@@ -7858,8 +9289,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2242,
     "uikTvd": "450404370694",
+    "uikName": "УИК №2242",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 414,
       "Число бюллетеней, полученных участковыми комиссиями": 382,
@@ -7907,8 +9347,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2243,
     "uikTvd": "450404370695",
+    "uikName": "УИК №2243",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 994,
       "Число бюллетеней, полученных участковыми комиссиями": 986,
@@ -7956,8 +9405,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2244,
     "uikTvd": "450404370696",
+    "uikName": "УИК №2244",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 791,
       "Число бюллетеней, полученных участковыми комиссиями": 716,
@@ -8005,8 +9463,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2245,
     "uikTvd": "450404370697",
+    "uikName": "УИК №2245",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 682,
       "Число бюллетеней, полученных участковыми комиссиями": 618,
@@ -8054,8 +9521,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2246,
     "uikTvd": "450404370698",
+    "uikName": "УИК №2246",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1053,
       "Число бюллетеней, полученных участковыми комиссиями": 931,
@@ -8103,8 +9579,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2247,
     "uikTvd": "450404370699",
+    "uikName": "УИК №2247",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 766,
       "Число бюллетеней, полученных участковыми комиссиями": 847,
@@ -8152,8 +9637,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2248,
     "uikTvd": "450404370700",
+    "uikName": "УИК №2248",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1790,
       "Число бюллетеней, полученных участковыми комиссиями": 1664,
@@ -8201,8 +9695,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2249,
     "uikTvd": "450404370701",
+    "uikName": "УИК №2249",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2531,
       "Число бюллетеней, полученных участковыми комиссиями": 2416,
@@ -8250,8 +9753,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2250,
     "uikTvd": "450404370702",
+    "uikName": "УИК №2250",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1865,
       "Число бюллетеней, полученных участковыми комиссиями": 1772,
@@ -8299,8 +9811,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2251,
     "uikTvd": "450404370703",
+    "uikName": "УИК №2251",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1805,
       "Число бюллетеней, полученных участковыми комиссиями": 1606,
@@ -8348,8 +9869,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2252,
     "uikTvd": "450404370704",
+    "uikName": "УИК №2252",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2416,
       "Число бюллетеней, полученных участковыми комиссиями": 2252,
@@ -8397,8 +9927,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2253,
     "uikTvd": "450404370705",
+    "uikName": "УИК №2253",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 517,
       "Число бюллетеней, полученных участковыми комиссиями": 487,
@@ -8446,8 +9985,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2254,
     "uikTvd": "450404370706",
+    "uikName": "УИК №2254",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1450,
       "Число бюллетеней, полученных участковыми комиссиями": 1374,
@@ -8495,8 +10043,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2255,
     "uikTvd": "450404370707",
+    "uikName": "УИК №2255",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2561,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -8544,8 +10101,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2256,
     "uikTvd": "450404370708",
+    "uikName": "УИК №2256",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2098,
       "Число бюллетеней, полученных участковыми комиссиями": 1982,
@@ -8593,8 +10159,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2257,
     "uikTvd": "450404370709",
+    "uikName": "УИК №2257",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2202,
       "Число бюллетеней, полученных участковыми комиссиями": 2068,
@@ -8642,8 +10217,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2258,
     "uikTvd": "450404370710",
+    "uikName": "УИК №2258",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2269,
       "Число бюллетеней, полученных участковыми комиссиями": 2139,
@@ -8691,8 +10275,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2259,
     "uikTvd": "450404370711",
+    "uikName": "УИК №2259",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1658,
       "Число бюллетеней, полученных участковыми комиссиями": 1586,
@@ -8740,8 +10333,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2260,
     "uikTvd": "450404370712",
+    "uikName": "УИК №2260",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2108,
       "Число бюллетеней, полученных участковыми комиссиями": 2014,
@@ -8789,8 +10391,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2261,
     "uikTvd": "450404370713",
+    "uikName": "УИК №2261",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2536,
       "Число бюллетеней, полученных участковыми комиссиями": 2413,
@@ -8838,8 +10449,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2262,
     "uikTvd": "450404370714",
+    "uikName": "УИК №2262",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 665,
       "Число бюллетеней, полученных участковыми комиссиями": 1049,
@@ -8887,8 +10507,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2263,
     "uikTvd": "450404370715",
+    "uikName": "УИК №2263",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1678,
       "Число бюллетеней, полученных участковыми комиссиями": 1576,
@@ -8936,8 +10565,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2264,
     "uikTvd": "450404370716",
+    "uikName": "УИК №2264",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1443,
       "Число бюллетеней, полученных участковыми комиссиями": 1376,
@@ -8985,8 +10623,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2265,
     "uikTvd": "450404370717",
+    "uikName": "УИК №2265",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1419,
       "Число бюллетеней, полученных участковыми комиссиями": 1336,
@@ -9034,8 +10681,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2266,
     "uikTvd": "450404370718",
+    "uikName": "УИК №2266",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2962,
       "Число бюллетеней, полученных участковыми комиссиями": 2726,
@@ -9083,8 +10739,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2267,
     "uikTvd": "450404370719",
+    "uikName": "УИК №2267",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3296,
       "Число бюллетеней, полученных участковыми комиссиями": 2679,
@@ -9132,8 +10797,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2268,
     "uikTvd": "450404370720",
+    "uikName": "УИК №2268",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 918,
       "Число бюллетеней, полученных участковыми комиссиями": 859,
@@ -9181,8 +10855,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2269,
     "uikTvd": "450404370721",
+    "uikName": "УИК №2269",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1017,
       "Число бюллетеней, полученных участковыми комиссиями": 1092,
@@ -9230,8 +10913,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2270,
     "uikTvd": "450404370722",
+    "uikName": "УИК №2270",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1065,
       "Число бюллетеней, полученных участковыми комиссиями": 1004,
@@ -9279,8 +10971,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2271,
     "uikTvd": "450404370723",
+    "uikName": "УИК №2271",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 800,
       "Число бюллетеней, полученных участковыми комиссиями": 732,
@@ -9328,8 +11029,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2272,
     "uikTvd": "450404370724",
+    "uikName": "УИК №2272",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1212,
       "Число бюллетеней, полученных участковыми комиссиями": 1127,
@@ -9377,8 +11087,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2273,
     "uikTvd": "450404370725",
+    "uikName": "УИК №2273",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 334,
@@ -9426,8 +11145,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2274,
     "uikTvd": "450404370726",
+    "uikName": "УИК №2274",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 413,
       "Число бюллетеней, полученных участковыми комиссиями": 385,
@@ -9475,8 +11203,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2275,
     "uikTvd": "450404370727",
+    "uikName": "УИК №2275",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -9524,8 +11261,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2276,
     "uikTvd": "450404370728",
+    "uikName": "УИК №2276",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 664,
       "Число бюллетеней, полученных участковыми комиссиями": 625,
@@ -9573,8 +11319,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2277,
     "uikTvd": "450404370729",
+    "uikName": "УИК №2277",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 489,
       "Число бюллетеней, полученных участковыми комиссиями": 453,
@@ -9622,8 +11377,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2278,
     "uikTvd": "450404370730",
+    "uikName": "УИК №2278",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1955,
       "Число бюллетеней, полученных участковыми комиссиями": 1858,
@@ -9671,8 +11435,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2279,
     "uikTvd": "450404370731",
+    "uikName": "УИК №2279",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1970,
       "Число бюллетеней, полученных участковыми комиссиями": 1874,
@@ -9720,8 +11493,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2280,
     "uikTvd": "450404370732",
+    "uikName": "УИК №2280",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2811,
       "Число бюллетеней, полученных участковыми комиссиями": 2723,
@@ -9769,8 +11551,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2281,
     "uikTvd": "450404370733",
+    "uikName": "УИК №2281",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 874,
       "Число бюллетеней, полученных участковыми комиссиями": 728,
@@ -9818,8 +11609,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2282,
     "uikTvd": "450404370734",
+    "uikName": "УИК №2282",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1892,
       "Число бюллетеней, полученных участковыми комиссиями": 1725,
@@ -9867,8 +11667,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2283,
     "uikTvd": "450404370735",
+    "uikName": "УИК №2283",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1160,
       "Число бюллетеней, полученных участковыми комиссиями": 1070,
@@ -9916,8 +11725,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2284,
     "uikTvd": "450404370662",
+    "uikName": "УИК №2284",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 460,
       "Число бюллетеней, полученных участковыми комиссиями": 412,
@@ -9965,8 +11783,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 599,
     "uikTvd": "450401470416",
+    "uikName": "УИК №599",
     "tikTvd": "350301070357",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2733,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10014,8 +11841,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 600,
     "uikTvd": "450401470417",
+    "uikName": "УИК №600",
     "tikTvd": "350301070357",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2692,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10063,8 +11899,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "450401470418",
+    "uikName": "УИК №601",
     "tikTvd": "350301070357",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2690,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10112,8 +11957,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "450401470419",
+    "uikName": "УИК №602",
     "tikTvd": "350301070357",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2758,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10161,8 +12015,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "450401470420",
+    "uikName": "УИК №603",
     "tikTvd": "350301070357",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2875,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10210,8 +12073,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "450401470421",
+    "uikName": "УИК №604",
     "tikTvd": "350301070357",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2726,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10259,8 +12131,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "450401470422",
+    "uikName": "УИК №605",
     "tikTvd": "350301070357",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2603,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10308,8 +12189,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "450401470423",
+    "uikName": "УИК №606",
     "tikTvd": "350301070357",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1919,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10357,8 +12247,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "450401470424",
+    "uikName": "УИК №607",
     "tikTvd": "350301070357",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2840,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10406,8 +12305,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "450401470425",
+    "uikName": "УИК №608",
     "tikTvd": "350301070357",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2447,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10455,8 +12363,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "450401470426",
+    "uikName": "УИК №609",
     "tikTvd": "350301070357",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2685,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10504,8 +12421,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "450401470427",
+    "uikName": "УИК №610",
     "tikTvd": "350301070357",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 780,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -10553,8 +12479,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "450401470428",
+    "uikName": "УИК №611",
     "tikTvd": "350301070357",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1309,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -10602,8 +12537,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "450401470429",
+    "uikName": "УИК №612",
     "tikTvd": "350301070357",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1844,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10651,8 +12595,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "450401470430",
+    "uikName": "УИК №613",
     "tikTvd": "350301070357",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1355,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -10700,8 +12653,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "450401470431",
+    "uikName": "УИК №614",
     "tikTvd": "350301070357",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2361,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10749,8 +12711,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "450401470432",
+    "uikName": "УИК №615",
     "tikTvd": "350301070357",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2534,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10798,8 +12769,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "450401470433",
+    "uikName": "УИК №616",
     "tikTvd": "350301070357",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1879,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10847,8 +12827,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "450401470434",
+    "uikName": "УИК №617",
     "tikTvd": "350301070357",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 236,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -10896,8 +12885,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 999,
     "uikTvd": "450402270343",
+    "uikName": "УИК №999",
     "tikTvd": "350301070362",
     "tikName": "Красноармейская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2871,
       "Число бюллетеней, полученных участковыми комиссиями": 2890,
@@ -10945,8 +12943,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1000,
     "uikTvd": "450402270344",
+    "uikName": "УИК №1000",
     "tikTvd": "350301070362",
     "tikName": "Красноармейская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3004,
       "Число бюллетеней, полученных участковыми комиссиями": 2990,
@@ -10994,8 +13001,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1001,
     "uikTvd": "450402270345",
+    "uikName": "УИК №1001",
     "tikTvd": "350301070362",
     "tikName": "Красноармейская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2872,
       "Число бюллетеней, полученных участковыми комиссиями": 2870,
@@ -11043,8 +13059,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1002,
     "uikTvd": "450402270346",
+    "uikName": "УИК №1002",
     "tikTvd": "350301070362",
     "tikName": "Красноармейская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2675,
       "Число бюллетеней, полученных участковыми комиссиями": 2680,
@@ -11092,8 +13117,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1003,
     "uikTvd": "450402270347",
+    "uikName": "УИК №1003",
     "tikTvd": "350301070362",
     "tikName": "Красноармейская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2827,
       "Число бюллетеней, полученных участковыми комиссиями": 2840,
@@ -11141,8 +13175,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1004,
     "uikTvd": "450402270348",
+    "uikName": "УИК №1004",
     "tikTvd": "350301070362",
     "tikName": "Красноармейская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2557,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -11190,8 +13233,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1005,
     "uikTvd": "450402270349",
+    "uikName": "УИК №1005",
     "tikTvd": "350301070362",
     "tikName": "Красноармейская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1481,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -11239,8 +13291,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 1006,
     "uikTvd": "450402270350",
+    "uikName": "УИК №1006",
     "tikTvd": "350301070362",
     "tikName": "Красноармейская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2612,
       "Число бюллетеней, полученных участковыми комиссиями": 2580,
@@ -11288,8 +13349,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2399,
     "uikTvd": "450404670545",
+    "uikName": "УИК №2399",
     "tikTvd": "350301070365",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2417,
       "Число бюллетеней, полученных участковыми комиссиями": 2423,
@@ -11337,8 +13407,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2400,
     "uikTvd": "450404670546",
+    "uikName": "УИК №2400",
     "tikTvd": "350301070365",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2528,
       "Число бюллетеней, полученных участковыми комиссиями": 2549,
@@ -11386,8 +13465,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2401,
     "uikTvd": "450404670547",
+    "uikName": "УИК №2401",
     "tikTvd": "350301070365",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2292,
       "Число бюллетеней, полученных участковыми комиссиями": 2308,
@@ -11435,8 +13523,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2402,
     "uikTvd": "450404670548",
+    "uikName": "УИК №2402",
     "tikTvd": "350301070365",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2345,
       "Число бюллетеней, полученных участковыми комиссиями": 2357,
@@ -11484,8 +13581,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2403,
     "uikTvd": "450404670549",
+    "uikName": "УИК №2403",
     "tikTvd": "350301070365",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2458,
       "Число бюллетеней, полученных участковыми комиссиями": 2478,
@@ -11533,8 +13639,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2404,
     "uikTvd": "450404670550",
+    "uikName": "УИК №2404",
     "tikTvd": "350301070365",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2428,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -11582,8 +13697,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2405,
     "uikTvd": "450404670551",
+    "uikName": "УИК №2405",
     "tikTvd": "350301070365",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2491,
       "Число бюллетеней, полученных участковыми комиссиями": 2493,
@@ -11631,8 +13755,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2406,
     "uikTvd": "450404670552",
+    "uikName": "УИК №2406",
     "tikTvd": "350301070365",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2607,
       "Число бюллетеней, полученных участковыми комиссиями": 2511,
@@ -11680,8 +13813,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2407,
     "uikTvd": "450404670553",
+    "uikName": "УИК №2407",
     "tikTvd": "350301070365",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2448,
       "Число бюллетеней, полученных участковыми комиссиями": 2436,
@@ -11729,8 +13871,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2408,
     "uikTvd": "450404670554",
+    "uikName": "УИК №2408",
     "tikTvd": "350301070365",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2403,
       "Число бюллетеней, полученных участковыми комиссиями": 2382,
@@ -11778,8 +13929,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2409,
     "uikTvd": "450404670555",
+    "uikName": "УИК №2409",
     "tikTvd": "350301070365",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2344,
       "Число бюллетеней, полученных участковыми комиссиями": 2362,
@@ -11827,8 +13987,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2410,
     "uikTvd": "450404670556",
+    "uikName": "УИК №2410",
     "tikTvd": "350301070365",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2460,
       "Число бюллетеней, полученных участковыми комиссиями": 2421,
@@ -11876,8 +14045,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2411,
     "uikTvd": "450404670557",
+    "uikName": "УИК №2411",
     "tikTvd": "350301070365",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2384,
       "Число бюллетеней, полученных участковыми комиссиями": 2394,
@@ -11925,8 +14103,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2412,
     "uikTvd": "450404670558",
+    "uikName": "УИК №2412",
     "tikTvd": "350301070365",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2346,
       "Число бюллетеней, полученных участковыми комиссиями": 2357,
@@ -11974,8 +14161,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2413,
     "uikTvd": "450404670559",
+    "uikName": "УИК №2413",
     "tikTvd": "350301070365",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2292,
       "Число бюллетеней, полученных участковыми комиссиями": 2311,
@@ -12023,8 +14219,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2414,
     "uikTvd": "450404670560",
+    "uikName": "УИК №2414",
     "tikTvd": "350301070365",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2356,
       "Число бюллетеней, полученных участковыми комиссиями": 2360,
@@ -12072,8 +14277,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2415,
     "uikTvd": "450404670561",
+    "uikName": "УИК №2415",
     "tikTvd": "350301070365",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2480,
       "Число бюллетеней, полученных участковыми комиссиями": 2472,
@@ -12121,8 +14335,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2416,
     "uikTvd": "450404670562",
+    "uikName": "УИК №2416",
     "tikTvd": "350301070365",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2263,
       "Число бюллетеней, полученных участковыми комиссиями": 2255,
@@ -12170,8 +14393,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2417,
     "uikTvd": "450404670563",
+    "uikName": "УИК №2417",
     "tikTvd": "350301070365",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2396,
       "Число бюллетеней, полученных участковыми комиссиями": 2398,
@@ -12219,8 +14451,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2418,
     "uikTvd": "450404670564",
+    "uikName": "УИК №2418",
     "tikTvd": "350301070365",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2380,
       "Число бюллетеней, полученных участковыми комиссиями": 2381,
@@ -12268,8 +14509,17 @@ export const duma_2003_uik_428_region_50_part_012 = [
     "ballot": "single-member",
     "uikNumber": 2419,
     "uikTvd": "450404670565",
+    "uikName": "УИК №2419",
     "tikTvd": "350301070365",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2249,
       "Число бюллетеней, полученных участковыми комиссиями": 2259,

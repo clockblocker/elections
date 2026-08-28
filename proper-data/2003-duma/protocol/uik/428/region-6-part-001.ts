@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "406400670466",
+    "uikName": "УИК №51",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1089,
       "Число бюллетеней, полученных участковыми комиссиями": 1026,
@@ -64,8 +73,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "406400670467",
+    "uikName": "УИК №52",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1209,
       "Число бюллетеней, полученных участковыми комиссиями": 1186,
@@ -117,8 +135,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "406400670468",
+    "uikName": "УИК №53",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 987,
       "Число бюллетеней, полученных участковыми комиссиями": 987,
@@ -170,8 +197,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "406400670469",
+    "uikName": "УИК №54",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2096,
       "Число бюллетеней, полученных участковыми комиссиями": 2096,
@@ -223,8 +259,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "406400670470",
+    "uikName": "УИК №55",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2230,
       "Число бюллетеней, полученных участковыми комиссиями": 2230,
@@ -276,8 +321,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "406400670471",
+    "uikName": "УИК №56",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1947,
       "Число бюллетеней, полученных участковыми комиссиями": 1947,
@@ -329,8 +383,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "406400670472",
+    "uikName": "УИК №57",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1181,
       "Число бюллетеней, полученных участковыми комиссиями": 1181,
@@ -382,8 +445,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "406400670473",
+    "uikName": "УИК №58",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1441,
       "Число бюллетеней, полученных участковыми комиссиями": 1441,
@@ -435,8 +507,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "406400670474",
+    "uikName": "УИК №59",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1746,
       "Число бюллетеней, полученных участковыми комиссиями": 1746,
@@ -488,8 +569,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "406400670475",
+    "uikName": "УИК №60",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2046,
       "Число бюллетеней, полученных участковыми комиссиями": 1969,
@@ -541,8 +631,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "406400670476",
+    "uikName": "УИК №61",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2418,
       "Число бюллетеней, полученных участковыми комиссиями": 2328,
@@ -594,8 +693,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "406400670477",
+    "uikName": "УИК №62",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2578,
       "Число бюллетеней, полученных участковыми комиссиями": 2576,
@@ -647,8 +755,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "406400670478",
+    "uikName": "УИК №63",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2420,
       "Число бюллетеней, полученных участковыми комиссиями": 2381,
@@ -700,8 +817,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "406400670479",
+    "uikName": "УИК №64",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2187,
       "Число бюллетеней, полученных участковыми комиссиями": 2174,
@@ -753,8 +879,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "406400670480",
+    "uikName": "УИК №65",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1150,
       "Число бюллетеней, полученных участковыми комиссиями": 1131,
@@ -806,8 +941,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "406400670481",
+    "uikName": "УИК №66",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 943,
       "Число бюллетеней, полученных участковыми комиссиями": 943,
@@ -859,8 +1003,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "406400670482",
+    "uikName": "УИК №67",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2464,
       "Число бюллетеней, полученных участковыми комиссиями": 2464,
@@ -912,8 +1065,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "406400670483",
+    "uikName": "УИК №68",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2272,
       "Число бюллетеней, полученных участковыми комиссиями": 2264,
@@ -965,8 +1127,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "406400670484",
+    "uikName": "УИК №69",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 396,
       "Число бюллетеней, полученных участковыми комиссиями": 396,
@@ -1018,8 +1189,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "406400670485",
+    "uikName": "УИК №70",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1048,
       "Число бюллетеней, полученных участковыми комиссиями": 1006,
@@ -1071,8 +1251,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "406400670486",
+    "uikName": "УИК №71",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1443,
       "Число бюллетеней, полученных участковыми комиссиями": 1443,
@@ -1124,8 +1313,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "406400670487",
+    "uikName": "УИК №72",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1515,
       "Число бюллетеней, полученных участковыми комиссиями": 1489,
@@ -1177,8 +1375,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "406400670488",
+    "uikName": "УИК №73",
     "tikTvd": "206200073661",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 812,
       "Число бюллетеней, полученных участковыми комиссиями": 812,
@@ -1230,8 +1437,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "406400370484",
+    "uikName": "УИК №74",
     "tikTvd": "206200073662",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1216,
       "Число бюллетеней, полученных участковыми комиссиями": 1216,
@@ -1283,8 +1499,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "406400370485",
+    "uikName": "УИК №75",
     "tikTvd": "206200073662",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1749,
       "Число бюллетеней, полученных участковыми комиссиями": 1682,
@@ -1336,8 +1561,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "406400370486",
+    "uikName": "УИК №76",
     "tikTvd": "206200073662",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1672,
       "Число бюллетеней, полученных участковыми комиссиями": 1604,
@@ -1389,8 +1623,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "406400370487",
+    "uikName": "УИК №77",
     "tikTvd": "206200073662",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 654,
       "Число бюллетеней, полученных участковыми комиссиями": 646,
@@ -1442,8 +1685,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "406400370488",
+    "uikName": "УИК №78",
     "tikTvd": "206200073662",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 973,
       "Число бюллетеней, полученных участковыми комиссиями": 973,
@@ -1495,8 +1747,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "406400370489",
+    "uikName": "УИК №79",
     "tikTvd": "206200073662",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1966,
       "Число бюллетеней, полученных участковыми комиссиями": 1966,
@@ -1548,8 +1809,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "406400370490",
+    "uikName": "УИК №80",
     "tikTvd": "206200073662",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2235,
       "Число бюллетеней, полученных участковыми комиссиями": 2134,
@@ -1601,8 +1871,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "406400370491",
+    "uikName": "УИК №81",
     "tikTvd": "206200073662",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 599,
       "Число бюллетеней, полученных участковыми комиссиями": 1566,
@@ -1654,8 +1933,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "406400370492",
+    "uikName": "УИК №82",
     "tikTvd": "206200073662",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1479,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -1707,8 +1995,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "406400370493",
+    "uikName": "УИК №83",
     "tikTvd": "206200073662",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1850,
       "Число бюллетеней, полученных участковыми комиссиями": 1798,
@@ -1760,8 +2057,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "406400370494",
+    "uikName": "УИК №84",
     "tikTvd": "206200073662",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 627,
       "Число бюллетеней, полученных участковыми комиссиями": 639,
@@ -1813,8 +2119,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "406400370495",
+    "uikName": "УИК №85",
     "tikTvd": "206200073662",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2767,
       "Число бюллетеней, полученных участковыми комиссиями": 2642,
@@ -1866,8 +2181,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "406400370496",
+    "uikName": "УИК №86",
     "tikTvd": "206200073662",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2020,
       "Число бюллетеней, полученных участковыми комиссиями": 1953,
@@ -1919,8 +2243,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "406400370497",
+    "uikName": "УИК №87",
     "tikTvd": "206200073662",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2342,
       "Число бюллетеней, полученных участковыми комиссиями": 2239,
@@ -1972,8 +2305,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "406400370498",
+    "uikName": "УИК №88",
     "tikTvd": "206200073662",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1463,
       "Число бюллетеней, полученных участковыми комиссиями": 1421,
@@ -2025,8 +2367,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "406400370499",
+    "uikName": "УИК №89",
     "tikTvd": "206200073662",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1819,
       "Число бюллетеней, полученных участковыми комиссиями": 1760,
@@ -2078,8 +2429,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "406400370500",
+    "uikName": "УИК №90",
     "tikTvd": "206200073662",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 977,
       "Число бюллетеней, полученных участковыми комиссиями": 978,
@@ -2131,8 +2491,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "406400370501",
+    "uikName": "УИК №91",
     "tikTvd": "206200073662",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1884,
       "Число бюллетеней, полученных участковыми комиссиями": 1657,
@@ -2184,8 +2553,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "406400370502",
+    "uikName": "УИК №92",
     "tikTvd": "206200073662",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2332,
       "Число бюллетеней, полученных участковыми комиссиями": 2302,
@@ -2237,8 +2615,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "406400370503",
+    "uikName": "УИК №93",
     "tikTvd": "206200073662",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2159,
       "Число бюллетеней, полученных участковыми комиссиями": 2010,
@@ -2290,8 +2677,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "406400370504",
+    "uikName": "УИК №94",
     "tikTvd": "206200073662",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1690,
       "Число бюллетеней, полученных участковыми комиссиями": 1595,
@@ -2343,8 +2739,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "406400370505",
+    "uikName": "УИК №95",
     "tikTvd": "206200073662",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1230,
       "Число бюллетеней, полученных участковыми комиссиями": 1214,
@@ -2396,8 +2801,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "406400470547",
+    "uikName": "УИК №96",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1562,
       "Число бюллетеней, полученных участковыми комиссиями": 1426,
@@ -2449,8 +2863,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "406400470548",
+    "uikName": "УИК №97",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 719,
       "Число бюллетеней, полученных участковыми комиссиями": 719,
@@ -2502,8 +2925,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "406400470549",
+    "uikName": "УИК №98",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 978,
       "Число бюллетеней, полученных участковыми комиссиями": 978,
@@ -2555,8 +2987,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "406400470550",
+    "uikName": "УИК №99",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1405,
       "Число бюллетеней, полученных участковыми комиссиями": 1125,
@@ -2608,8 +3049,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "406400470551",
+    "uikName": "УИК №100",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1173,
       "Число бюллетеней, полученных участковыми комиссиями": 1038,
@@ -2661,8 +3111,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "406400470552",
+    "uikName": "УИК №101",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1100,
       "Число бюллетеней, полученных участковыми комиссиями": 1084,
@@ -2714,8 +3173,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "406400470553",
+    "uikName": "УИК №102",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2041,
       "Число бюллетеней, полученных участковыми комиссиями": 2016,
@@ -2767,8 +3235,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "406400470554",
+    "uikName": "УИК №103",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1998,
       "Число бюллетеней, полученных участковыми комиссиями": 1974,
@@ -2820,8 +3297,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "406400470555",
+    "uikName": "УИК №104",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1275,
       "Число бюллетеней, полученных участковыми комиссиями": 1161,
@@ -2873,8 +3359,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "406400470556",
+    "uikName": "УИК №105",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1632,
       "Число бюллетеней, полученных участковыми комиссиями": 1432,
@@ -2926,8 +3421,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "406400470557",
+    "uikName": "УИК №106",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1589,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -2979,8 +3483,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "406400470558",
+    "uikName": "УИК №107",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 502,
       "Число бюллетеней, полученных участковыми комиссиями": 1040,
@@ -3032,8 +3545,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "406400470559",
+    "uikName": "УИК №108",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2249,
       "Число бюллетеней, полученных участковыми комиссиями": 1960,
@@ -3085,8 +3607,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "406400470560",
+    "uikName": "УИК №109",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2358,
       "Число бюллетеней, полученных участковыми комиссиями": 1901,
@@ -3138,8 +3669,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "406400470561",
+    "uikName": "УИК №110",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1238,
       "Число бюллетеней, полученных участковыми комиссиями": 1168,
@@ -3191,8 +3731,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "406400470562",
+    "uikName": "УИК №111",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 789,
       "Число бюллетеней, полученных участковыми комиссиями": 789,
@@ -3244,8 +3793,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "406400470563",
+    "uikName": "УИК №112",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 754,
       "Число бюллетеней, полученных участковыми комиссиями": 698,
@@ -3297,8 +3855,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "406400470564",
+    "uikName": "УИК №113",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1369,
       "Число бюллетеней, полученных участковыми комиссиями": 1347,
@@ -3350,8 +3917,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "406400470565",
+    "uikName": "УИК №114",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 732,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -3403,8 +3979,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "406400470566",
+    "uikName": "УИК №115",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 646,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -3456,8 +4041,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "406400470567",
+    "uikName": "УИК №116",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 396,
       "Число бюллетеней, полученных участковыми комиссиями": 396,
@@ -3509,8 +4103,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "406400470568",
+    "uikName": "УИК №117",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 298,
@@ -3562,8 +4165,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "406400470569",
+    "uikName": "УИК №118",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 566,
       "Число бюллетеней, полученных участковыми комиссиями": 586,
@@ -3615,8 +4227,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "406400470570",
+    "uikName": "УИК №119",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -3668,8 +4289,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "406400470571",
+    "uikName": "УИК №120",
     "tikTvd": "206200073663",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1985,
       "Число бюллетеней, полученных участковыми комиссиями": 1778,
@@ -3721,8 +4351,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "406400570388",
+    "uikName": "УИК №7",
     "tikTvd": "206200073664",
     "tikName": "Карабулакская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2132,
       "Число бюллетеней, полученных участковыми комиссиями": 1632,
@@ -3774,8 +4413,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "406400570389",
+    "uikName": "УИК №8",
     "tikTvd": "206200073664",
     "tikName": "Карабулакская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1857,
       "Число бюллетеней, полученных участковыми комиссиями": 1577,
@@ -3827,8 +4475,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "406400570390",
+    "uikName": "УИК №9",
     "tikTvd": "206200073664",
     "tikName": "Карабулакская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2353,
       "Число бюллетеней, полученных участковыми комиссиями": 2010,
@@ -3880,8 +4537,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "406400570391",
+    "uikName": "УИК №10",
     "tikTvd": "206200073664",
     "tikName": "Карабулакская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1110,
       "Число бюллетеней, полученных участковыми комиссиями": 939,
@@ -3933,8 +4599,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "406400570392",
+    "uikName": "УИК №11",
     "tikTvd": "206200073664",
     "tikName": "Карабулакская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1355,
       "Число бюллетеней, полученных участковыми комиссиями": 1203,
@@ -3986,8 +4661,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "406400570393",
+    "uikName": "УИК №12",
     "tikTvd": "206200073664",
     "tikName": "Карабулакская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 871,
       "Число бюллетеней, полученных участковыми комиссиями": 711,
@@ -4039,8 +4723,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "406400270467",
+    "uikName": "УИК №29",
     "tikTvd": "206200073665",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1851,
       "Число бюллетеней, полученных участковыми комиссиями": 1309,
@@ -4092,8 +4785,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "406400270468",
+    "uikName": "УИК №30",
     "tikTvd": "206200073665",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1364,
       "Число бюллетеней, полученных участковыми комиссиями": 990,
@@ -4145,8 +4847,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "406400270469",
+    "uikName": "УИК №31",
     "tikTvd": "206200073665",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1565,
       "Число бюллетеней, полученных участковыми комиссиями": 1210,
@@ -4198,8 +4909,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "406400270470",
+    "uikName": "УИК №32",
     "tikTvd": "206200073665",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 901,
       "Число бюллетеней, полученных участковыми комиссиями": 617,
@@ -4251,8 +4971,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "406400270471",
+    "uikName": "УИК №33",
     "tikTvd": "206200073665",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 978,
       "Число бюллетеней, полученных участковыми комиссиями": 684,
@@ -4304,8 +5033,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "406400270472",
+    "uikName": "УИК №34",
     "tikTvd": "206200073665",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 788,
       "Число бюллетеней, полученных участковыми комиссиями": 641,
@@ -4357,8 +5095,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "406400270473",
+    "uikName": "УИК №35",
     "tikTvd": "206200073665",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1342,
       "Число бюллетеней, полученных участковыми комиссиями": 1229,
@@ -4410,8 +5157,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "406400270474",
+    "uikName": "УИК №36",
     "tikTvd": "206200073665",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1288,
       "Число бюллетеней, полученных участковыми комиссиями": 1119,
@@ -4463,8 +5219,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "406400270475",
+    "uikName": "УИК №37",
     "tikTvd": "206200073665",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 858,
       "Число бюллетеней, полученных участковыми комиссиями": 786,
@@ -4516,8 +5281,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "406400270476",
+    "uikName": "УИК №38",
     "tikTvd": "206200073665",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 822,
       "Число бюллетеней, полученных участковыми комиссиями": 579,
@@ -4569,8 +5343,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "406400270477",
+    "uikName": "УИК №39",
     "tikTvd": "206200073665",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 255,
       "Число бюллетеней, полученных участковыми комиссиями": 255,
@@ -4622,8 +5405,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "406400270478",
+    "uikName": "УИК №40",
     "tikTvd": "206200073665",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 710,
       "Число бюллетеней, полученных участковыми комиссиями": 664,
@@ -4675,8 +5467,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "406400270479",
+    "uikName": "УИК №41",
     "tikTvd": "206200073665",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 987,
       "Число бюллетеней, полученных участковыми комиссиями": 777,
@@ -4728,8 +5529,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "406400270480",
+    "uikName": "УИК №42",
     "tikTvd": "206200073665",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1479,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -4781,8 +5591,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "406400270481",
+    "uikName": "УИК №43",
     "tikTvd": "206200073665",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1306,
       "Число бюллетеней, полученных участковыми комиссиями": 1216,
@@ -4834,8 +5653,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "406400270482",
+    "uikName": "УИК №44",
     "tikTvd": "206200073665",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 929,
       "Число бюллетеней, полученных участковыми комиссиями": 921,
@@ -4887,8 +5715,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "406400270483",
+    "uikName": "УИК №45",
     "tikTvd": "206200073665",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1424,
       "Число бюллетеней, полученных участковыми комиссиями": 1009,
@@ -4940,8 +5777,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "406400270484",
+    "uikName": "УИК №46",
     "tikTvd": "206200073665",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 797,
       "Число бюллетеней, полученных участковыми комиссиями": 645,
@@ -4993,8 +5839,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "406400270485",
+    "uikName": "УИК №47",
     "tikTvd": "206200073665",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 998,
       "Число бюллетеней, полученных участковыми комиссиями": 832,
@@ -5046,8 +5901,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "406400270486",
+    "uikName": "УИК №48",
     "tikTvd": "206200073665",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1135,
       "Число бюллетеней, полученных участковыми комиссиями": 991,
@@ -5099,8 +5963,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "406400270487",
+    "uikName": "УИК №49",
     "tikTvd": "206200073665",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2905,
       "Число бюллетеней, полученных участковыми комиссиями": 2219,
@@ -5152,8 +6025,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "406400270488",
+    "uikName": "УИК №50",
     "tikTvd": "206200073665",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 436,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -5205,8 +6087,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "406400170562",
+    "uikName": "УИК №1",
     "tikTvd": "206200073666",
     "tikName": "Джейрахская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 731,
       "Число бюллетеней, полученных участковыми комиссиями": 721,
@@ -5258,8 +6149,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "406400170563",
+    "uikName": "УИК №2",
     "tikTvd": "206200073666",
     "tikName": "Джейрахская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 88,
@@ -5311,8 +6211,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "406400170564",
+    "uikName": "УИК №3",
     "tikTvd": "206200073666",
     "tikName": "Джейрахская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 87,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -5364,8 +6273,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "406400170565",
+    "uikName": "УИК №4",
     "tikTvd": "206200073666",
     "tikName": "Джейрахская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 194,
@@ -5417,8 +6335,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "406400170566",
+    "uikName": "УИК №5",
     "tikTvd": "206200073666",
     "tikName": "Джейрахская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 224,
@@ -5470,8 +6397,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "406400170567",
+    "uikName": "УИК №6",
     "tikTvd": "206200073666",
     "tikName": "Джейрахская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 518,
       "Число бюллетеней, полученных участковыми комиссиями": 542,
@@ -5523,8 +6459,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "406400870460",
+    "uikName": "УИК №14",
     "tikTvd": "206200073667",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 875,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -5576,8 +6521,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "406400870461",
+    "uikName": "УИК №15",
     "tikTvd": "206200073667",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1179,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -5629,8 +6583,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "406400870462",
+    "uikName": "УИК №16",
     "tikTvd": "206200073667",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1461,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -5682,8 +6645,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "406400870463",
+    "uikName": "УИК №17",
     "tikTvd": "206200073667",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1794,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5735,8 +6707,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "406400870464",
+    "uikName": "УИК №18",
     "tikTvd": "206200073667",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1719,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -5788,8 +6769,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "406400870465",
+    "uikName": "УИК №19",
     "tikTvd": "206200073667",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1469,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -5841,8 +6831,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "406400870466",
+    "uikName": "УИК №20",
     "tikTvd": "206200073667",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1335,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -5894,8 +6893,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "406400870467",
+    "uikName": "УИК №21",
     "tikTvd": "206200073667",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2000,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5947,8 +6955,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "406400870468",
+    "uikName": "УИК №22",
     "tikTvd": "206200073667",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1326,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6000,8 +7017,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "406400870469",
+    "uikName": "УИК №23",
     "tikTvd": "206200073667",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1041,
       "Число бюллетеней, полученных участковыми комиссиями": 931,
@@ -6053,8 +7079,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "406400870470",
+    "uikName": "УИК №24",
     "tikTvd": "206200073667",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 510,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -6106,8 +7141,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "406400870471",
+    "uikName": "УИК №25",
     "tikTvd": "206200073667",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 362,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -6159,8 +7203,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "406400870472",
+    "uikName": "УИК №26",
     "tikTvd": "206200073667",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 466,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -6212,8 +7265,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "406400870473",
+    "uikName": "УИК №27",
     "tikTvd": "206200073667",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 700,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -6265,8 +7327,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "406400870474",
+    "uikName": "УИК №28",
     "tikTvd": "206200073667",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1642,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -6318,8 +7389,17 @@ export const duma_2003_uik_428_region_6_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "406400770529",
+    "uikName": "УИК №13",
     "tikTvd": "206200073668",
     "tikName": "Магасская",
+    "regionCode": "6",
+    "regionTvd": "100100095737",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100095738",
+      "oikName": "Ингушский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 85,

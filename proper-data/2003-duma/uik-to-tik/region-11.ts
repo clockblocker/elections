@@ -7,4201 +7,10501 @@ export const duma_2003_uik_to_tik_region_11 = [
   {
     "uikNumber": 1,
     "uikTvd": "411400170445",
+    "uikName": "УИК №1",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "411400170453",
+    "uikName": "УИК №2",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "411400170455",
+    "uikName": "УИК №3",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "411400170482",
+    "uikName": "УИК №4",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "411400170483",
+    "uikName": "УИК №5",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "411400170484",
+    "uikName": "УИК №6",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "411400170485",
+    "uikName": "УИК №7",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "411400170486",
+    "uikName": "УИК №8",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "411400170487",
+    "uikName": "УИК №9",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "411400170488",
+    "uikName": "УИК №10",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "411400170489",
+    "uikName": "УИК №11",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "411400170490",
+    "uikName": "УИК №12",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "411400170491",
+    "uikName": "УИК №13",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "411400170492",
+    "uikName": "УИК №14",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "411400170493",
+    "uikName": "УИК №15",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "411400170494",
+    "uikName": "УИК №16",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "411400170495",
+    "uikName": "УИК №17",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "411400170496",
+    "uikName": "УИК №18",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "411400170497",
+    "uikName": "УИК №19",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "411400170498",
+    "uikName": "УИК №20",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "411400170499",
+    "uikName": "УИК №21",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "411400170500",
+    "uikName": "УИК №22",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "411400170501",
+    "uikName": "УИК №23",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "411400170502",
+    "uikName": "УИК №24",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "411400170503",
+    "uikName": "УИК №25",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "411400170504",
+    "uikName": "УИК №26",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "411400170505",
+    "uikName": "УИК №27",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "411400170506",
+    "uikName": "УИК №28",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "411400170507",
+    "uikName": "УИК №29",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "411400170508",
+    "uikName": "УИК №30",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "411400170509",
+    "uikName": "УИК №31",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "411400170510",
+    "uikName": "УИК №32",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "411400170511",
+    "uikName": "УИК №33",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "411400170512",
+    "uikName": "УИК №34",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "411400170513",
+    "uikName": "УИК №35",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "411400170514",
+    "uikName": "УИК №36",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "411400170515",
+    "uikName": "УИК №37",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "411400170516",
+    "uikName": "УИК №38",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "411400170517",
+    "uikName": "УИК №39",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "411400170518",
+    "uikName": "УИК №40",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "411400170519",
+    "uikName": "УИК №41",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "411400170520",
+    "uikName": "УИК №42",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "411400170521",
+    "uikName": "УИК №43",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "411400170522",
+    "uikName": "УИК №44",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "411400170523",
+    "uikName": "УИК №45",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "411400170524",
+    "uikName": "УИК №46",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "411400170525",
+    "uikName": "УИК №47",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "411400170526",
+    "uikName": "УИК №48",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "411400170527",
+    "uikName": "УИК №49",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "411400170528",
+    "uikName": "УИК №50",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "411400170529",
+    "uikName": "УИК №51",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "411400170530",
+    "uikName": "УИК №52",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "411400170531",
+    "uikName": "УИК №53",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "411400170532",
+    "uikName": "УИК №54",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "411400170533",
+    "uikName": "УИК №55",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "411400170534",
+    "uikName": "УИК №56",
     "tikTvd": "211200070628",
-    "tikName": "Воркутинская городская"
+    "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "411400270380",
+    "uikName": "УИК №57",
     "tikTvd": "211200070627",
-    "tikName": "Вуктыльская городская"
+    "tikName": "Вуктыльская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "411400270381",
+    "uikName": "УИК №58",
     "tikTvd": "211200070627",
-    "tikName": "Вуктыльская городская"
+    "tikName": "Вуктыльская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "411400270382",
+    "uikName": "УИК №59",
     "tikTvd": "211200070627",
-    "tikName": "Вуктыльская городская"
+    "tikName": "Вуктыльская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "411400270383",
+    "uikName": "УИК №60",
     "tikTvd": "211200070627",
-    "tikName": "Вуктыльская городская"
+    "tikName": "Вуктыльская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "411400270384",
+    "uikName": "УИК №61",
     "tikTvd": "211200070627",
-    "tikName": "Вуктыльская городская"
+    "tikName": "Вуктыльская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "411400270385",
+    "uikName": "УИК №62",
     "tikTvd": "211200070627",
-    "tikName": "Вуктыльская городская"
+    "tikName": "Вуктыльская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "411400270386",
+    "uikName": "УИК №63",
     "tikTvd": "211200070627",
-    "tikName": "Вуктыльская городская"
+    "tikName": "Вуктыльская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "411400270387",
+    "uikName": "УИК №64",
     "tikTvd": "211200070627",
-    "tikName": "Вуктыльская городская"
+    "tikName": "Вуктыльская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "411400270388",
+    "uikName": "УИК №65",
     "tikTvd": "211200070627",
-    "tikName": "Вуктыльская городская"
+    "tikName": "Вуктыльская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "411400270389",
+    "uikName": "УИК №66",
     "tikTvd": "211200070627",
-    "tikName": "Вуктыльская городская"
+    "tikName": "Вуктыльская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "411400270390",
+    "uikName": "УИК №67",
     "tikTvd": "211200070627",
-    "tikName": "Вуктыльская городская"
+    "tikName": "Вуктыльская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "411400270391",
+    "uikName": "УИК №68",
     "tikTvd": "211200070627",
-    "tikName": "Вуктыльская городская"
+    "tikName": "Вуктыльская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "411400470393",
+    "uikName": "УИК №69",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "411400470394",
+    "uikName": "УИК №70",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "411400470395",
+    "uikName": "УИК №71",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "411400470396",
+    "uikName": "УИК №72",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "411400470397",
+    "uikName": "УИК №73",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "411400470398",
+    "uikName": "УИК №74",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "411400470399",
+    "uikName": "УИК №75",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "411400470400",
+    "uikName": "УИК №76",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "411400470401",
+    "uikName": "УИК №77",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "411400470402",
+    "uikName": "УИК №78",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "411400470403",
+    "uikName": "УИК №79",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "411400470404",
+    "uikName": "УИК №80",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "411400470405",
+    "uikName": "УИК №81",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "411400470406",
+    "uikName": "УИК №82",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "411400470407",
+    "uikName": "УИК №83",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "411400470408",
+    "uikName": "УИК №84",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "411400470409",
+    "uikName": "УИК №85",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "411400470410",
+    "uikName": "УИК №86",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "411400470411",
+    "uikName": "УИК №87",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "411400470412",
+    "uikName": "УИК №88",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "411400470413",
+    "uikName": "УИК №89",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "411400470414",
+    "uikName": "УИК №90",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "411400470415",
+    "uikName": "УИК №91",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "411400470416",
+    "uikName": "УИК №92",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "411400470391",
+    "uikName": "УИК №93",
     "tikTvd": "211200070624",
-    "tikName": "Интинская городская"
+    "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "411400870517",
+    "uikName": "УИК №94",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "411400870518",
+    "uikName": "УИК №95",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "411400870519",
+    "uikName": "УИК №96",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "411400870520",
+    "uikName": "УИК №97",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "411400870521",
+    "uikName": "УИК №98",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "411400870522",
+    "uikName": "УИК №99",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "411400870523",
+    "uikName": "УИК №100",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "411400870524",
+    "uikName": "УИК №101",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "411400870525",
+    "uikName": "УИК №102",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "411400870526",
+    "uikName": "УИК №103",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "411400870527",
+    "uikName": "УИК №104",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "411400870528",
+    "uikName": "УИК №105",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "411400870529",
+    "uikName": "УИК №106",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "411400870530",
+    "uikName": "УИК №107",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "411400870531",
+    "uikName": "УИК №108",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "411400870532",
+    "uikName": "УИК №109",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "411400870533",
+    "uikName": "УИК №110",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "411400870534",
+    "uikName": "УИК №111",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "411400870535",
+    "uikName": "УИК №112",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "411400870536",
+    "uikName": "УИК №113",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "411400870537",
+    "uikName": "УИК №114",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "411400870538",
+    "uikName": "УИК №115",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "411400870539",
+    "uikName": "УИК №116",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "411400870540",
+    "uikName": "УИК №117",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "411400870541",
+    "uikName": "УИК №118",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "411400870542",
+    "uikName": "УИК №119",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "411400870543",
+    "uikName": "УИК №120",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "411400870544",
+    "uikName": "УИК №121",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "411400870545",
+    "uikName": "УИК №122",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "411400870546",
+    "uikName": "УИК №123",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "411400870547",
+    "uikName": "УИК №124",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "411400870548",
+    "uikName": "УИК №125",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "411400870549",
+    "uikName": "УИК №126",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "411400870550",
+    "uikName": "УИК №127",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "411400870551",
+    "uikName": "УИК №128",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "411400870552",
+    "uikName": "УИК №129",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "411400870553",
+    "uikName": "УИК №130",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "411400870554",
+    "uikName": "УИК №131",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "411400870555",
+    "uikName": "УИК №132",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "411400870556",
+    "uikName": "УИК №133",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "411400870557",
+    "uikName": "УИК №134",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "411400870558",
+    "uikName": "УИК №135",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "411400870559",
+    "uikName": "УИК №136",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "411400870560",
+    "uikName": "УИК №137",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "411400870561",
+    "uikName": "УИК №138",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "411400870562",
+    "uikName": "УИК №139",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "411400870563",
+    "uikName": "УИК №140",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "411400870564",
+    "uikName": "УИК №141",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "411400870565",
+    "uikName": "УИК №142",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "411400870566",
+    "uikName": "УИК №143",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "411400870567",
+    "uikName": "УИК №144",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "411400870515",
+    "uikName": "УИК №145",
     "tikTvd": "211200070621",
-    "tikName": "Печорская городская"
+    "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "411401070517",
+    "uikName": "УИК №146",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "411401070518",
+    "uikName": "УИК №147",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "411401070519",
+    "uikName": "УИК №148",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "411401070520",
+    "uikName": "УИК №149",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "411401070521",
+    "uikName": "УИК №150",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "411401070522",
+    "uikName": "УИК №151",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "411401070523",
+    "uikName": "УИК №152",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "411401070524",
+    "uikName": "УИК №153",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "411401070525",
+    "uikName": "УИК №154",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "411401070526",
+    "uikName": "УИК №155",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "411401070527",
+    "uikName": "УИК №156",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "411401070528",
+    "uikName": "УИК №157",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "411401070529",
+    "uikName": "УИК №158",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "411401070530",
+    "uikName": "УИК №159",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "411401070531",
+    "uikName": "УИК №160",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "411401070532",
+    "uikName": "УИК №161",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "411401070533",
+    "uikName": "УИК №162",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "411401070534",
+    "uikName": "УИК №163",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "411401070535",
+    "uikName": "УИК №164",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "411401070536",
+    "uikName": "УИК №165",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "411401070537",
+    "uikName": "УИК №166",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "411401070538",
+    "uikName": "УИК №167",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "411401070539",
+    "uikName": "УИК №168",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "411401070540",
+    "uikName": "УИК №169",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "411401070541",
+    "uikName": "УИК №170",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "411401070542",
+    "uikName": "УИК №171",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "411401070543",
+    "uikName": "УИК №172",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "411401070544",
+    "uikName": "УИК №173",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "411401070545",
+    "uikName": "УИК №174",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "411401070546",
+    "uikName": "УИК №175",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "411401070547",
+    "uikName": "УИК №176",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "411401070548",
+    "uikName": "УИК №177",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "411401070549",
+    "uikName": "УИК №178",
     "tikTvd": "211200070618",
-    "tikName": "Сосногорская городская"
+    "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "411401270979",
+    "uikName": "УИК №179",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "411401270980",
+    "uikName": "УИК №180",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "411401270981",
+    "uikName": "УИК №181",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "411401270982",
+    "uikName": "УИК №182",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "411401270983",
+    "uikName": "УИК №183",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "411401270984",
+    "uikName": "УИК №184",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "411401270985",
+    "uikName": "УИК №185",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "411401270986",
+    "uikName": "УИК №186",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "411401270987",
+    "uikName": "УИК №187",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "411401270988",
+    "uikName": "УИК №188",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "411401270989",
+    "uikName": "УИК №189",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "411401270990",
+    "uikName": "УИК №190",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "411401270991",
+    "uikName": "УИК №191",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "411401270992",
+    "uikName": "УИК №192",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "411401270993",
+    "uikName": "УИК №193",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "411401270994",
+    "uikName": "УИК №194",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "411401270995",
+    "uikName": "УИК №195",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "411401270996",
+    "uikName": "УИК №196",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "411401270997",
+    "uikName": "УИК №197",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "411401270998",
+    "uikName": "УИК №198",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "411401270999",
+    "uikName": "УИК №199",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "411401271000",
+    "uikName": "УИК №200",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "411401271001",
+    "uikName": "УИК №201",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "411401271002",
+    "uikName": "УИК №202",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "411401271003",
+    "uikName": "УИК №203",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "411401271004",
+    "uikName": "УИК №204",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "411401271005",
+    "uikName": "УИК №205",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "411401271006",
+    "uikName": "УИК №206",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "411401271007",
+    "uikName": "УИК №207",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "411401271008",
+    "uikName": "УИК №208",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "411401271009",
+    "uikName": "УИК №209",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "411401271010",
+    "uikName": "УИК №210",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "411401271011",
+    "uikName": "УИК №211",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "411401271012",
+    "uikName": "УИК №212",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "411401271013",
+    "uikName": "УИК №213",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "411401271014",
+    "uikName": "УИК №214",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "411401271015",
+    "uikName": "УИК №215",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "411401271016",
+    "uikName": "УИК №216",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "411401271017",
+    "uikName": "УИК №217",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "411401271018",
+    "uikName": "УИК №218",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "411401271019",
+    "uikName": "УИК №219",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "411401271020",
+    "uikName": "УИК №220",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "411401271021",
+    "uikName": "УИК №221",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "411401271022",
+    "uikName": "УИК №222",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "411401271023",
+    "uikName": "УИК №223",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "411401271024",
+    "uikName": "УИК №224",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "411401271025",
+    "uikName": "УИК №225",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "411401271026",
+    "uikName": "УИК №226",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "411401271027",
+    "uikName": "УИК №227",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "411401271028",
+    "uikName": "УИК №228",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "411401271029",
+    "uikName": "УИК №229",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "411401271030",
+    "uikName": "УИК №230",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "411401271031",
+    "uikName": "УИК №231",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "411401271032",
+    "uikName": "УИК №232",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "411401271033",
+    "uikName": "УИК №233",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "411401271034",
+    "uikName": "УИК №234",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "411401271035",
+    "uikName": "УИК №235",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "411401271036",
+    "uikName": "УИК №236",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "411401271037",
+    "uikName": "УИК №237",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "411401271038",
+    "uikName": "УИК №238",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "411401271039",
+    "uikName": "УИК №239",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "411401271040",
+    "uikName": "УИК №240",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "411401271041",
+    "uikName": "УИК №241",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "411401271042",
+    "uikName": "УИК №242",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "411401271043",
+    "uikName": "УИК №243",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "411401271044",
+    "uikName": "УИК №244",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "411401271045",
+    "uikName": "УИК №245",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "411401271046",
+    "uikName": "УИК №246",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "411401271047",
+    "uikName": "УИК №247",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "411401271048",
+    "uikName": "УИК №248",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "411401271049",
+    "uikName": "УИК №249",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "411401271050",
+    "uikName": "УИК №250",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "411401271051",
+    "uikName": "УИК №251",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "411401271052",
+    "uikName": "УИК №252",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "411401271053",
+    "uikName": "УИК №253",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "411401271054",
+    "uikName": "УИК №254",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "411401271055",
+    "uikName": "УИК №255",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "411401271056",
+    "uikName": "УИК №256",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "411401271057",
+    "uikName": "УИК №257",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "411401270977",
+    "uikName": "УИК №258",
     "tikTvd": "211200070615",
-    "tikName": "Сыктывкарская городская"
+    "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "411401370523",
+    "uikName": "УИК №259",
     "tikTvd": "211200070616",
-    "tikName": "Эжвинская"
+    "tikName": "Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "411401370524",
+    "uikName": "УИК №260",
     "tikTvd": "211200070616",
-    "tikName": "Эжвинская"
+    "tikName": "Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "411401370525",
+    "uikName": "УИК №261",
     "tikTvd": "211200070616",
-    "tikName": "Эжвинская"
+    "tikName": "Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "411401370526",
+    "uikName": "УИК №262",
     "tikTvd": "211200070616",
-    "tikName": "Эжвинская"
+    "tikName": "Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "411401370527",
+    "uikName": "УИК №263",
     "tikTvd": "211200070616",
-    "tikName": "Эжвинская"
+    "tikName": "Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "411401370528",
+    "uikName": "УИК №264",
     "tikTvd": "211200070616",
-    "tikName": "Эжвинская"
+    "tikName": "Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "411401370529",
+    "uikName": "УИК №265",
     "tikTvd": "211200070616",
-    "tikName": "Эжвинская"
+    "tikName": "Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "411401370530",
+    "uikName": "УИК №266",
     "tikTvd": "211200070616",
-    "tikName": "Эжвинская"
+    "tikName": "Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "411401370531",
+    "uikName": "УИК №267",
     "tikTvd": "211200070616",
-    "tikName": "Эжвинская"
+    "tikName": "Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "411401370532",
+    "uikName": "УИК №268",
     "tikTvd": "211200070616",
-    "tikName": "Эжвинская"
+    "tikName": "Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "411401370533",
+    "uikName": "УИК №269",
     "tikTvd": "211200070616",
-    "tikName": "Эжвинская"
+    "tikName": "Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "411401370534",
+    "uikName": "УИК №270",
     "tikTvd": "211200070616",
-    "tikName": "Эжвинская"
+    "tikName": "Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "411401370535",
+    "uikName": "УИК №271",
     "tikTvd": "211200070616",
-    "tikName": "Эжвинская"
+    "tikName": "Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "411401370536",
+    "uikName": "УИК №272",
     "tikTvd": "211200070616",
-    "tikName": "Эжвинская"
+    "tikName": "Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "411401370537",
+    "uikName": "УИК №273",
     "tikTvd": "211200070616",
-    "tikName": "Эжвинская"
+    "tikName": "Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "411401370538",
+    "uikName": "УИК №274",
     "tikTvd": "211200070616",
-    "tikName": "Эжвинская"
+    "tikName": "Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "411401370539",
+    "uikName": "УИК №275",
     "tikTvd": "211200070616",
-    "tikName": "Эжвинская"
+    "tikName": "Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "411401370540",
+    "uikName": "УИК №276",
     "tikTvd": "211200070616",
-    "tikName": "Эжвинская"
+    "tikName": "Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "411401370541",
+    "uikName": "УИК №277",
     "tikTvd": "211200070616",
-    "tikName": "Эжвинская"
+    "tikName": "Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "411401370542",
+    "uikName": "УИК №278",
     "tikTvd": "211200070616",
-    "tikName": "Эжвинская"
+    "tikName": "Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "411401770406",
+    "uikName": "УИК №279",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "411401770407",
+    "uikName": "УИК №280",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "411401770408",
+    "uikName": "УИК №281",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "411401770409",
+    "uikName": "УИК №282",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "411401770410",
+    "uikName": "УИК №283",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "411401770411",
+    "uikName": "УИК №284",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "411401770412",
+    "uikName": "УИК №285",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "411401770413",
+    "uikName": "УИК №286",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "411401770414",
+    "uikName": "УИК №287",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "411401770415",
+    "uikName": "УИК №288",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "411401770416",
+    "uikName": "УИК №289",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "411401770417",
+    "uikName": "УИК №290",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "411401770418",
+    "uikName": "УИК №291",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "411401770419",
+    "uikName": "УИК №292",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "411401770420",
+    "uikName": "УИК №293",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "411401770421",
+    "uikName": "УИК №294",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "411401770422",
+    "uikName": "УИК №295",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "411401770423",
+    "uikName": "УИК №296",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "411401770424",
+    "uikName": "УИК №297",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "411401770425",
+    "uikName": "УИК №298",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "411401770426",
+    "uikName": "УИК №299",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "411401770427",
+    "uikName": "УИК №300",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "411401770428",
+    "uikName": "УИК №301",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "411401770429",
+    "uikName": "УИК №302",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "411401770430",
+    "uikName": "УИК №303",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "411401770431",
+    "uikName": "УИК №304",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "411401770432",
+    "uikName": "УИК №305",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "411401770433",
+    "uikName": "УИК №306",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "411401770434",
+    "uikName": "УИК №307",
     "tikTvd": "211200070612",
-    "tikName": "Усинская городская"
+    "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "411402170417",
+    "uikName": "УИК №308",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "411402170418",
+    "uikName": "УИК №309",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "411402170419",
+    "uikName": "УИК №310",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "411402170420",
+    "uikName": "УИК №311",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "411402170421",
+    "uikName": "УИК №312",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "411402170422",
+    "uikName": "УИК №313",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "411402170423",
+    "uikName": "УИК №314",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "411402170424",
+    "uikName": "УИК №315",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "411402170425",
+    "uikName": "УИК №316",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "411402170426",
+    "uikName": "УИК №317",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "411402170427",
+    "uikName": "УИК №318",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "411402170428",
+    "uikName": "УИК №319",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "411402170429",
+    "uikName": "УИК №320",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "411402170430",
+    "uikName": "УИК №321",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "411402170431",
+    "uikName": "УИК №322",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "411402170432",
+    "uikName": "УИК №323",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "411402170433",
+    "uikName": "УИК №324",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "411402170434",
+    "uikName": "УИК №325",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "411402170435",
+    "uikName": "УИК №326",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "411402170436",
+    "uikName": "УИК №327",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "411402170437",
+    "uikName": "УИК №328",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "411402170438",
+    "uikName": "УИК №329",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "411402170439",
+    "uikName": "УИК №330",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "411402170440",
+    "uikName": "УИК №331",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "411402170441",
+    "uikName": "УИК №332",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "411402170442",
+    "uikName": "УИК №333",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "411402170443",
+    "uikName": "УИК №334",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "411402170444",
+    "uikName": "УИК №335",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "411402170445",
+    "uikName": "УИК №336",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "411402170446",
+    "uikName": "УИК №337",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "411402170447",
+    "uikName": "УИК №338",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "411402170448",
+    "uikName": "УИК №339",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "411402170449",
+    "uikName": "УИК №340",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "411402170450",
+    "uikName": "УИК №341",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "411402170451",
+    "uikName": "УИК №342",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "411402170452",
+    "uikName": "УИК №343",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "411402170453",
+    "uikName": "УИК №344",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "411402170454",
+    "uikName": "УИК №345",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "411402170455",
+    "uikName": "УИК №346",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "411402170456",
+    "uikName": "УИК №347",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "411402170457",
+    "uikName": "УИК №348",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "411402170458",
+    "uikName": "УИК №349",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "411402170459",
+    "uikName": "УИК №350",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "411402170460",
+    "uikName": "УИК №351",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "411402170461",
+    "uikName": "УИК №352",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "411402170462",
+    "uikName": "УИК №353",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "411402170463",
+    "uikName": "УИК №354",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "411402170464",
+    "uikName": "УИК №355",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "411402170465",
+    "uikName": "УИК №356",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "411402170466",
+    "uikName": "УИК №357",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "411402170467",
+    "uikName": "УИК №358",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "411402170468",
+    "uikName": "УИК №359",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "411402170469",
+    "uikName": "УИК №360",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "411402170470",
+    "uikName": "УИК №361",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "411402170471",
+    "uikName": "УИК №362",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "411402170472",
+    "uikName": "УИК №363",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "411402170473",
+    "uikName": "УИК №364",
     "tikTvd": "211200070608",
-    "tikName": "Ухтинская городская"
+    "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "411400370377",
+    "uikName": "УИК №365",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "411400370378",
+    "uikName": "УИК №366",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "411400370379",
+    "uikName": "УИК №367",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "411400370380",
+    "uikName": "УИК №368",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "411400370381",
+    "uikName": "УИК №369",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "411400370382",
+    "uikName": "УИК №370",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "411400370383",
+    "uikName": "УИК №371",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "411400370384",
+    "uikName": "УИК №372",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "411400370385",
+    "uikName": "УИК №373",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "411400370386",
+    "uikName": "УИК №374",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "411400370387",
+    "uikName": "УИК №375",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "411400370388",
+    "uikName": "УИК №376",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "411400370389",
+    "uikName": "УИК №377",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "411400370390",
+    "uikName": "УИК №378",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "411400370391",
+    "uikName": "УИК №379",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "411400370392",
+    "uikName": "УИК №380",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "411400370393",
+    "uikName": "УИК №381",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "411400370394",
+    "uikName": "УИК №382",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "411400370395",
+    "uikName": "УИК №383",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "411400370396",
+    "uikName": "УИК №384",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "411400370397",
+    "uikName": "УИК №385",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "411400370398",
+    "uikName": "УИК №386",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "411400370399",
+    "uikName": "УИК №387",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "411400370400",
+    "uikName": "УИК №388",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "411400370401",
+    "uikName": "УИК №389",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "411400370402",
+    "uikName": "УИК №390",
     "tikTvd": "211200070625",
-    "tikName": "Ижемская"
+    "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "411400570479",
+    "uikName": "УИК №391",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "411400570480",
+    "uikName": "УИК №392",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "411400570481",
+    "uikName": "УИК №393",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "411400570482",
+    "uikName": "УИК №394",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "411400570483",
+    "uikName": "УИК №395",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "411400570484",
+    "uikName": "УИК №396",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "411400570485",
+    "uikName": "УИК №397",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "411400570486",
+    "uikName": "УИК №398",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "411400570487",
+    "uikName": "УИК №399",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "411400570488",
+    "uikName": "УИК №400",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "411400570489",
+    "uikName": "УИК №401",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "411400570490",
+    "uikName": "УИК №402",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "411400570491",
+    "uikName": "УИК №403",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "411400570492",
+    "uikName": "УИК №404",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "411400570493",
+    "uikName": "УИК №405",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "411400570494",
+    "uikName": "УИК №406",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "411400570497",
+    "uikName": "УИК №407",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "411400570501",
+    "uikName": "УИК №408",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "411400570502",
+    "uikName": "УИК №409",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "411400570503",
+    "uikName": "УИК №410",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "411400570504",
+    "uikName": "УИК №411",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "411400570505",
+    "uikName": "УИК №412",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "411400570506",
+    "uikName": "УИК №413",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "411400570507",
+    "uikName": "УИК №414",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "411400570508",
+    "uikName": "УИК №415",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "411400570509",
+    "uikName": "УИК №416",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "411400570510",
+    "uikName": "УИК №417",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "411400570511",
+    "uikName": "УИК №418",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "411400570512",
+    "uikName": "УИК  419",
     "tikTvd": "211200070626",
-    "tikName": "Княжпогостская"
+    "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "411400670401",
+    "uikName": "УИК №420",
     "tikTvd": "211200070622",
-    "tikName": "Койгородская"
+    "tikName": "Койгородская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "411400670402",
+    "uikName": "УИК №421",
     "tikTvd": "211200070622",
-    "tikName": "Койгородская"
+    "tikName": "Койгородская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "411400670403",
+    "uikName": "УИК №422",
     "tikTvd": "211200070622",
-    "tikName": "Койгородская"
+    "tikName": "Койгородская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "411400670404",
+    "uikName": "УИК №423",
     "tikTvd": "211200070622",
-    "tikName": "Койгородская"
+    "tikName": "Койгородская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "411400670405",
+    "uikName": "УИК №424",
     "tikTvd": "211200070622",
-    "tikName": "Койгородская"
+    "tikName": "Койгородская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "411400670406",
+    "uikName": "УИК №425",
     "tikTvd": "211200070622",
-    "tikName": "Койгородская"
+    "tikName": "Койгородская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "411400670407",
+    "uikName": "УИК №426",
     "tikTvd": "211200070622",
-    "tikName": "Койгородская"
+    "tikName": "Койгородская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "411400670408",
+    "uikName": "УИК №427",
     "tikTvd": "211200070622",
-    "tikName": "Койгородская"
+    "tikName": "Койгородская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "411400670409",
+    "uikName": "УИК №428",
     "tikTvd": "211200070622",
-    "tikName": "Койгородская"
+    "tikName": "Койгородская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "411400670410",
+    "uikName": "УИК №429",
     "tikTvd": "211200070622",
-    "tikName": "Койгородская"
+    "tikName": "Койгородская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "411400670411",
+    "uikName": "УИК №430",
     "tikTvd": "211200070622",
-    "tikName": "Койгородская"
+    "tikName": "Койгородская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "411400670412",
+    "uikName": "УИК №431",
     "tikTvd": "211200070622",
-    "tikName": "Койгородская"
+    "tikName": "Койгородская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "411400670413",
+    "uikName": "УИК №432",
     "tikTvd": "211200070622",
-    "tikName": "Койгородская"
+    "tikName": "Койгородская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "411400670414",
+    "uikName": "УИК №433",
     "tikTvd": "211200070622",
-    "tikName": "Койгородская"
+    "tikName": "Койгородская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "411400670415",
+    "uikName": "УИК №434",
     "tikTvd": "211200070622",
-    "tikName": "Койгородская"
+    "tikName": "Койгородская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "411400670416",
+    "uikName": "УИК №435",
     "tikTvd": "211200070622",
-    "tikName": "Койгородская"
+    "tikName": "Койгородская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "411400770459",
+    "uikName": "УИК №436",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "411400770460",
+    "uikName": "УИК №437",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "411400770461",
+    "uikName": "УИК №438",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "411400770462",
+    "uikName": "УИК №439",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "411400770463",
+    "uikName": "УИК №440",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "411400770464",
+    "uikName": "УИК №441",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "411400770465",
+    "uikName": "УИК №442",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "411400770466",
+    "uikName": "УИК №443",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "411400770467",
+    "uikName": "УИК №444",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "411400770468",
+    "uikName": "УИК №445",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "411400770469",
+    "uikName": "УИК №446",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "411400770470",
+    "uikName": "УИК №447",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "411400770471",
+    "uikName": "УИК №448",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "411400770472",
+    "uikName": "УИК №449",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "411400770473",
+    "uikName": "УИК №450",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "411400770474",
+    "uikName": "УИК №451",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "411400770475",
+    "uikName": "УИК №452",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "411400770476",
+    "uikName": "УИК №453",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "411400770477",
+    "uikName": "УИК №454",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "411400770478",
+    "uikName": "УИК №455",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "411400770479",
+    "uikName": "УИК №456",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "411400770480",
+    "uikName": "УИК №457",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "411400770481",
+    "uikName": "УИК №458",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "411400770482",
+    "uikName": "УИК №459",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "411400770483",
+    "uikName": "УИК №460",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "411400770484",
+    "uikName": "УИК №461",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "411400770485",
+    "uikName": "УИК №462",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "411400770486",
+    "uikName": "УИК №463",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "411400770487",
+    "uikName": "УИК №464",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "411400770488",
+    "uikName": "УИК №465",
     "tikTvd": "211200070623",
-    "tikName": "Корткеросская"
+    "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "411400970452",
+    "uikName": "УИК №466",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "411400970453",
+    "uikName": "УИК №467",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "411400970454",
+    "uikName": "УИК №468",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "411400970455",
+    "uikName": "УИК №469",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "411400970456",
+    "uikName": "УИК №470",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "411400970457",
+    "uikName": "УИК №471",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "411400970458",
+    "uikName": "УИК №472",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "411400970459",
+    "uikName": "УИК №473",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "411400970460",
+    "uikName": "УИК №474",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "411400970461",
+    "uikName": "УИК №475",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "411400970462",
+    "uikName": "УИК №476",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "411400970463",
+    "uikName": "УИК №477",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "411400970464",
+    "uikName": "УИК №478",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "411400970465",
+    "uikName": "УИК №479",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "411400970466",
+    "uikName": "УИК №480",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "411400970467",
+    "uikName": "УИК №481",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "411400970468",
+    "uikName": "УИК №482",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "411400970469",
+    "uikName": "УИК №483",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "411400970470",
+    "uikName": "УИК №484",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "411400970471",
+    "uikName": "УИК №485",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "411400970472",
+    "uikName": "УИК №486",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "411400970473",
+    "uikName": "УИК №487",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "411400970474",
+    "uikName": "УИК №488",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "411400970475",
+    "uikName": "УИК №489",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "411400970476",
+    "uikName": "УИК №490",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "411400970477",
+    "uikName": "УИК №491",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "411400970478",
+    "uikName": "УИК №492",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "411400970479",
+    "uikName": "УИК №493",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "411400970480",
+    "uikName": "УИК №494",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "411400970481",
+    "uikName": "УИК №495",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "411400970482",
+    "uikName": "УИК №496",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "411400970483",
+    "uikName": "УИК №497",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "411400970484",
+    "uikName": "УИК №498",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "411400970485",
+    "uikName": "УИК №499",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "411400970486",
+    "uikName": "УИК №500",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "411400970487",
+    "uikName": "УИК №501",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "411400970488",
+    "uikName": "УИК №502",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "411400970489",
+    "uikName": "УИК №503",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "411400970490",
+    "uikName": "УИК №504",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "411400970491",
+    "uikName": "УИК №505",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "411400970492",
+    "uikName": "УИК №506",
     "tikTvd": "211200070619",
-    "tikName": "Прилузская"
+    "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "411401170488",
+    "uikName": "УИК №507",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "411401170489",
+    "uikName": "УИК №508",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "411401170490",
+    "uikName": "УИК №509",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "411401170491",
+    "uikName": "УИК №510",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "411401170492",
+    "uikName": "УИК №511",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "411401170493",
+    "uikName": "УИК №512",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "411401170494",
+    "uikName": "УИК №513",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "411401170495",
+    "uikName": "УИК №514",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "411401170496",
+    "uikName": "УИК №515",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "411401170497",
+    "uikName": "УИК №516",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "411401170498",
+    "uikName": "УИК №517",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "411401170499",
+    "uikName": "УИК №518",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "411401170500",
+    "uikName": "УИК №519",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "411401170501",
+    "uikName": "УИК №520",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "411401170502",
+    "uikName": "УИК №521",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "411401170503",
+    "uikName": "УИК №522",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "411401170504",
+    "uikName": "УИК №523",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "411401170505",
+    "uikName": "УИК №524",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "411401170506",
+    "uikName": "УИК №525",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "411401170507",
+    "uikName": "УИК №526",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "411401170508",
+    "uikName": "УИК №527",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "411401170509",
+    "uikName": "УИК №528",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "411401170510",
+    "uikName": "УИК №529",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "411401170511",
+    "uikName": "УИК №530",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "411401170512",
+    "uikName": "УИК №531",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "411401170513",
+    "uikName": "УИК №532",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "411401170514",
+    "uikName": "УИК №533",
     "tikTvd": "211200070620",
-    "tikName": "Сыктывдинская"
+    "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "411401470428",
+    "uikName": "УИК №534",
     "tikTvd": "211200070617",
-    "tikName": "Сысольская"
+    "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "411401470429",
+    "uikName": "УИК №535",
     "tikTvd": "211200070617",
-    "tikName": "Сысольская"
+    "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "411401470430",
+    "uikName": "УИК №536",
     "tikTvd": "211200070617",
-    "tikName": "Сысольская"
+    "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "411401470431",
+    "uikName": "УИК №537",
     "tikTvd": "211200070617",
-    "tikName": "Сысольская"
+    "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "411401470432",
+    "uikName": "УИК №538",
     "tikTvd": "211200070617",
-    "tikName": "Сысольская"
+    "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "411401470433",
+    "uikName": "УИК №539",
     "tikTvd": "211200070617",
-    "tikName": "Сысольская"
+    "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "411401470434",
+    "uikName": "УИК №540",
     "tikTvd": "211200070617",
-    "tikName": "Сысольская"
+    "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "411401470435",
+    "uikName": "УИК №541",
     "tikTvd": "211200070617",
-    "tikName": "Сысольская"
+    "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "411401470436",
+    "uikName": "УИК №542",
     "tikTvd": "211200070617",
-    "tikName": "Сысольская"
+    "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "411401470437",
+    "uikName": "УИК №543",
     "tikTvd": "211200070617",
-    "tikName": "Сысольская"
+    "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "411401470438",
+    "uikName": "УИК №544",
     "tikTvd": "211200070617",
-    "tikName": "Сысольская"
+    "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "411401470439",
+    "uikName": "УИК №545",
     "tikTvd": "211200070617",
-    "tikName": "Сысольская"
+    "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "411401470440",
+    "uikName": "УИК №546",
     "tikTvd": "211200070617",
-    "tikName": "Сысольская"
+    "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "411401470441",
+    "uikName": "УИК №547",
     "tikTvd": "211200070617",
-    "tikName": "Сысольская"
+    "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "411401470442",
+    "uikName": "УИК №548",
     "tikTvd": "211200070617",
-    "tikName": "Сысольская"
+    "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "411401470443",
+    "uikName": "УИК №549",
     "tikTvd": "211200070617",
-    "tikName": "Сысольская"
+    "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "411401470444",
+    "uikName": "УИК №550",
     "tikTvd": "211200070617",
-    "tikName": "Сысольская"
+    "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "411401470445",
+    "uikName": "УИК №551",
     "tikTvd": "211200070617",
-    "tikName": "Сысольская"
+    "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "411401470446",
+    "uikName": "УИК №552",
     "tikTvd": "211200070617",
-    "tikName": "Сысольская"
+    "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "411401470447",
+    "uikName": "УИК №553",
     "tikTvd": "211200070617",
-    "tikName": "Сысольская"
+    "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "411401470448",
+    "uikName": "УИК №554",
     "tikTvd": "211200070617",
-    "tikName": "Сысольская"
+    "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "411401470449",
+    "uikName": "УИК №555",
     "tikTvd": "211200070617",
-    "tikName": "Сысольская"
+    "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "411401570388",
+    "uikName": "УИК №556",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "411401570389",
+    "uikName": "УИК №557",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "411401570390",
+    "uikName": "УИК №558",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "411401570391",
+    "uikName": "УИК №559",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "411401570392",
+    "uikName": "УИК №560",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "411401570393",
+    "uikName": "УИК №561",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "411401570394",
+    "uikName": "УИК №562",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "411401570395",
+    "uikName": "УИК №563",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "411401570396",
+    "uikName": "УИК №564",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "411401570397",
+    "uikName": "УИК №565",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "411401570398",
+    "uikName": "УИК №566",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "411401570399",
+    "uikName": "УИК №567",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "411401570400",
+    "uikName": "УИК №568",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "411401570401",
+    "uikName": "УИК №569",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "411401570402",
+    "uikName": "УИК №570",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "411401570403",
+    "uikName": "УИК №571",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "411401570404",
+    "uikName": "УИК №572",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "411401570405",
+    "uikName": "УИК №573",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "411401570406",
+    "uikName": "УИК №574",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "411401570407",
+    "uikName": "УИК №575",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "411401570408",
+    "uikName": "УИК №576",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "411401570409",
+    "uikName": "УИК №577",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "411401570410",
+    "uikName": "УИК №578",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "411401570411",
+    "uikName": "УИК №579",
     "tikTvd": "211200070614",
-    "tikName": "Троицко-Печорская"
+    "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "411401670420",
+    "uikName": "УИК №580",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "411401670421",
+    "uikName": "УИК №581",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "411401670422",
+    "uikName": "УИК №582",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "411401670423",
+    "uikName": "УИК №583",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "411401670424",
+    "uikName": "УИК №584",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "411401670425",
+    "uikName": "УИК №585",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "411401670426",
+    "uikName": "УИК №586",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "411401670427",
+    "uikName": "УИК №587",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "411401670428",
+    "uikName": "УИК №588",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "411401670429",
+    "uikName": "УИК №589",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "411401670430",
+    "uikName": "УИК №590",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "411401670431",
+    "uikName": "УИК №591",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "411401670432",
+    "uikName": "УИК №592",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "411401670433",
+    "uikName": "УИК №593",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "411401670434",
+    "uikName": "УИК №594",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "411401670435",
+    "uikName": "УИК №595",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "411401670436",
+    "uikName": "УИК №596",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "411401670437",
+    "uikName": "УИК №597",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "411401670438",
+    "uikName": "УИК №598",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "411401670439",
+    "uikName": "УИК №599",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "411401670440",
+    "uikName": "УИК №600",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "411401670441",
+    "uikName": "УИК №601",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "411401670442",
+    "uikName": "УИК №602",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "411401670443",
+    "uikName": "УИК №603",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "411401670444",
+    "uikName": "УИК №604",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "411401670445",
+    "uikName": "УИК №605",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "411401670446",
+    "uikName": "УИК №606",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "411401670447",
+    "uikName": "УИК №607",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "411401670448",
+    "uikName": "УИК №608",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "411401670449",
+    "uikName": "УИК №609",
     "tikTvd": "211200070613",
-    "tikName": "Удорская"
+    "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "411401870378",
+    "uikName": "УИК №610",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "411401870379",
+    "uikName": "УИК №611",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "411401870380",
+    "uikName": "УИК №612",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "411401870381",
+    "uikName": "УИК №613",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "411401870382",
+    "uikName": "УИК №614",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "411401870383",
+    "uikName": "УИК №615",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "411401870384",
+    "uikName": "УИК №616",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "411401870385",
+    "uikName": "УИК №617",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "411401870386",
+    "uikName": "УИК №618",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "411401870387",
+    "uikName": "УИК №619",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "411401870388",
+    "uikName": "УИК №620",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "411401870389",
+    "uikName": "УИК №621",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "411401870390",
+    "uikName": "УИК №622",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "411401870391",
+    "uikName": "УИК №623",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "411401870392",
+    "uikName": "УИК №624",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "411401870393",
+    "uikName": "УИК №625",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "411401870394",
+    "uikName": "УИК №626",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "411401870395",
+    "uikName": "УИК №627",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "411401870396",
+    "uikName": "УИК №628",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "411401870397",
+    "uikName": "УИК №629",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "411401870398",
+    "uikName": "УИК №630",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "411401870399",
+    "uikName": "УИК №631",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "411401870400",
+    "uikName": "УИК №632",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "411401870401",
+    "uikName": "УИК №633",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "411401870402",
+    "uikName": "УИК №634",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "411401870403",
+    "uikName": "УИК №635",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "411401870404",
+    "uikName": "УИК №636",
     "tikTvd": "211200070609",
-    "tikName": "Усть-Вымская"
+    "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "411401970390",
+    "uikName": "УИК №637",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "411401970391",
+    "uikName": "УИК №638",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "411401970392",
+    "uikName": "УИК №639",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "411401970393",
+    "uikName": "УИК №640",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "411401970394",
+    "uikName": "УИК №641",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "411401970395",
+    "uikName": "УИК №642",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "411401970396",
+    "uikName": "УИК №643",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "411401970397",
+    "uikName": "УИК №644",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "411401970398",
+    "uikName": "УИК №645",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "411401970399",
+    "uikName": "УИК №646",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "411401970400",
+    "uikName": "УИК №647",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "411401970401",
+    "uikName": "УИК №648",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "411401970402",
+    "uikName": "УИК №649",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "411401970403",
+    "uikName": "УИК №650",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "411401970404",
+    "uikName": "УИК №651",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "411401970405",
+    "uikName": "УИК №652",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "411401970406",
+    "uikName": "УИК №653",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "411401970407",
+    "uikName": "УИК №654",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "411401970408",
+    "uikName": "УИК №655",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "411401970409",
+    "uikName": "УИК №656",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "411401970410",
+    "uikName": "УИК №657",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "411401970411",
+    "uikName": "УИК №658",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "411401970412",
+    "uikName": "УИК №659",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "411401970413",
+    "uikName": "УИК №660",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "411401970414",
+    "uikName": "УИК №661",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "411401970415",
+    "uikName": "УИК №662",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "411401970416",
+    "uikName": "УИК №663",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "411401970417",
+    "uikName": "УИК №664",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "411401970418",
+    "uikName": "УИК №665",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "411401970419",
+    "uikName": "УИК №666",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "411401970420",
+    "uikName": "УИК №667",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "411401970421",
+    "uikName": "УИК №668",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "411401970422",
+    "uikName": "УИК №669",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "411401970423",
+    "uikName": "УИК №670",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "411401970424",
+    "uikName": "УИК №671",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "411401970425",
+    "uikName": "УИК №672",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "411401970426",
+    "uikName": "УИК №673",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "411401970427",
+    "uikName": "УИК №674",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "411401970428",
+    "uikName": "УИК №675",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "411401970429",
+    "uikName": "УИК №676",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "411401970430",
+    "uikName": "УИК №677",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "411401970431",
+    "uikName": "УИК №678",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "411401970432",
+    "uikName": "УИК №679",
     "tikTvd": "211200070610",
-    "tikName": "Усть-Куломская"
+    "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "411402070370",
+    "uikName": "УИК №680",
     "tikTvd": "211200070611",
-    "tikName": "Усть-Цилемская"
+    "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 681,
     "uikTvd": "411402070371",
+    "uikName": "УИК №681",
     "tikTvd": "211200070611",
-    "tikName": "Усть-Цилемская"
+    "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "411402070372",
+    "uikName": "УИК №682",
     "tikTvd": "211200070611",
-    "tikName": "Усть-Цилемская"
+    "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "411402070373",
+    "uikName": "УИК №683",
     "tikTvd": "211200070611",
-    "tikName": "Усть-Цилемская"
+    "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 684,
     "uikTvd": "411402070374",
+    "uikName": "УИК №684",
     "tikTvd": "211200070611",
-    "tikName": "Усть-Цилемская"
+    "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "411402070375",
+    "uikName": "УИК №685",
     "tikTvd": "211200070611",
-    "tikName": "Усть-Цилемская"
+    "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "411402070376",
+    "uikName": "УИК №686",
     "tikTvd": "211200070611",
-    "tikName": "Усть-Цилемская"
+    "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "411402070377",
+    "uikName": "УИК №687",
     "tikTvd": "211200070611",
-    "tikName": "Усть-Цилемская"
+    "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 688,
     "uikTvd": "411402070378",
+    "uikName": "УИК №688",
     "tikTvd": "211200070611",
-    "tikName": "Усть-Цилемская"
+    "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 689,
     "uikTvd": "411402070379",
+    "uikName": "УИК №689",
     "tikTvd": "211200070611",
-    "tikName": "Усть-Цилемская"
+    "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "411402070380",
+    "uikName": "УИК №690",
     "tikTvd": "211200070611",
-    "tikName": "Усть-Цилемская"
+    "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "411402070381",
+    "uikName": "УИК №691",
     "tikTvd": "211200070611",
-    "tikName": "Усть-Цилемская"
+    "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "411402070382",
+    "uikName": "УИК №692",
     "tikTvd": "211200070611",
-    "tikName": "Усть-Цилемская"
+    "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "411402070383",
+    "uikName": "УИК №693",
     "tikTvd": "211200070611",
-    "tikName": "Усть-Цилемская"
+    "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "411402070384",
+    "uikName": "УИК №694",
     "tikTvd": "211200070611",
-    "tikName": "Усть-Цилемская"
+    "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "411402070385",
+    "uikName": "УИК №695",
     "tikTvd": "211200070611",
-    "tikName": "Усть-Цилемская"
+    "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "411402070386",
+    "uikName": "УИК №696",
     "tikTvd": "211200070611",
-    "tikName": "Усть-Цилемская"
+    "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "411402070387",
+    "uikName": "УИК №697",
     "tikTvd": "211200070611",
-    "tikName": "Усть-Цилемская"
+    "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "411402070388",
+    "uikName": "УИК №698",
     "tikTvd": "211200070611",
-    "tikName": "Усть-Цилемская"
+    "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "411402070389",
+    "uikName": "УИК №699",
     "tikTvd": "211200070611",
-    "tikName": "Усть-Цилемская"
+    "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "411402070390",
+    "uikName": "УИК №700",
     "tikTvd": "211200070611",
-    "tikName": "Усть-Цилемская"
+    "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100095752",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100095753",
+      "oikName": "Сыктывкарский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

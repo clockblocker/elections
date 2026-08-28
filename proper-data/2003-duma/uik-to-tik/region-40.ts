@@ -7,4477 +7,11191 @@ export const duma_2003_uik_to_tik_region_40 = [
   {
     "uikNumber": 1,
     "uikTvd": "440400170329",
+    "uikName": "УИК  1",
     "tikTvd": "240200070703",
-    "tikName": "Бабынинская"
+    "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "440400170330",
+    "uikName": "УИК  2",
     "tikTvd": "240200070703",
-    "tikName": "Бабынинская"
+    "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "440400170331",
+    "uikName": "УИК  3",
     "tikTvd": "240200070703",
-    "tikName": "Бабынинская"
+    "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "440400170332",
+    "uikName": "УИК  4",
     "tikTvd": "240200070703",
-    "tikName": "Бабынинская"
+    "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "440400170333",
+    "uikName": "УИК  5",
     "tikTvd": "240200070703",
-    "tikName": "Бабынинская"
+    "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "440400170334",
+    "uikName": "УИК  6",
     "tikTvd": "240200070703",
-    "tikName": "Бабынинская"
+    "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "440400170335",
+    "uikName": "УИК  7",
     "tikTvd": "240200070703",
-    "tikName": "Бабынинская"
+    "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "440400170336",
+    "uikName": "УИК  8",
     "tikTvd": "240200070703",
-    "tikName": "Бабынинская"
+    "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "440400170337",
+    "uikName": "УИК  9",
     "tikTvd": "240200070703",
-    "tikName": "Бабынинская"
+    "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "440400170338",
+    "uikName": "УИК  10",
     "tikTvd": "240200070703",
-    "tikName": "Бабынинская"
+    "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "440400170339",
+    "uikName": "УИК  11",
     "tikTvd": "240200070703",
-    "tikName": "Бабынинская"
+    "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "440400170340",
+    "uikName": "УИК  12",
     "tikTvd": "240200070703",
-    "tikName": "Бабынинская"
+    "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "440400170341",
+    "uikName": "УИК  13",
     "tikTvd": "240200070703",
-    "tikName": "Бабынинская"
+    "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "440400170342",
+    "uikName": "УИК  14",
     "tikTvd": "240200070703",
-    "tikName": "Бабынинская"
+    "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "440400170343",
+    "uikName": "УИК  15",
     "tikTvd": "240200070703",
-    "tikName": "Бабынинская"
+    "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "440400170344",
+    "uikName": "УИК  16",
     "tikTvd": "240200070703",
-    "tikName": "Бабынинская"
+    "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "440400170345",
+    "uikName": "УИК  17",
     "tikTvd": "240200070703",
-    "tikName": "Бабынинская"
+    "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "440400170346",
+    "uikName": "УИК  18",
     "tikTvd": "240200070703",
-    "tikName": "Бабынинская"
+    "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "440400170347",
+    "uikName": "УИК  19",
     "tikTvd": "240200070703",
-    "tikName": "Бабынинская"
+    "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "440400170348",
+    "uikName": "УИК  20",
     "tikTvd": "240200070703",
-    "tikName": "Бабынинская"
+    "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "440400170349",
+    "uikName": "УИК  21",
     "tikTvd": "240200070703",
-    "tikName": "Бабынинская"
+    "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "440400170350",
+    "uikName": "УИК  22",
     "tikTvd": "240200070703",
-    "tikName": "Бабынинская"
+    "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "440400270403",
+    "uikName": "УИК №23",
     "tikTvd": "240200070677",
-    "tikName": "Барятинская"
+    "tikName": "Барятинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "440400270404",
+    "uikName": "УИК №24",
     "tikTvd": "240200070677",
-    "tikName": "Барятинская"
+    "tikName": "Барятинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "440400270405",
+    "uikName": "УИК №25",
     "tikTvd": "240200070677",
-    "tikName": "Барятинская"
+    "tikName": "Барятинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "440400270406",
+    "uikName": "УИК №26",
     "tikTvd": "240200070677",
-    "tikName": "Барятинская"
+    "tikName": "Барятинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "440400270407",
+    "uikName": "УИК №27",
     "tikTvd": "240200070677",
-    "tikName": "Барятинская"
+    "tikName": "Барятинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "440400270408",
+    "uikName": "УИК №28",
     "tikTvd": "240200070677",
-    "tikName": "Барятинская"
+    "tikName": "Барятинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "440400270409",
+    "uikName": "УИК №29",
     "tikTvd": "240200070677",
-    "tikName": "Барятинская"
+    "tikName": "Барятинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "440400270410",
+    "uikName": "УИК №30",
     "tikTvd": "240200070677",
-    "tikName": "Барятинская"
+    "tikName": "Барятинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "440400270411",
+    "uikName": "УИК №31",
     "tikTvd": "240200070677",
-    "tikName": "Барятинская"
+    "tikName": "Барятинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "440400270412",
+    "uikName": "УИК №32",
     "tikTvd": "240200070677",
-    "tikName": "Барятинская"
+    "tikName": "Барятинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "440400270413",
+    "uikName": "УИК №33",
     "tikTvd": "240200070677",
-    "tikName": "Барятинская"
+    "tikName": "Барятинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "440400270414",
+    "uikName": "УИК №34",
     "tikTvd": "240200070677",
-    "tikName": "Барятинская"
+    "tikName": "Барятинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "440400270415",
+    "uikName": "УИК №35",
     "tikTvd": "240200070677",
-    "tikName": "Барятинская"
+    "tikName": "Барятинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "440400270416",
+    "uikName": "УИК №36",
     "tikTvd": "240200070677",
-    "tikName": "Барятинская"
+    "tikName": "Барятинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "440400270417",
+    "uikName": "УИК №37",
     "tikTvd": "240200070677",
-    "tikName": "Барятинская"
+    "tikName": "Барятинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "440400370341",
+    "uikName": "УИК  38",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "440400370375",
+    "uikName": "УИК №39",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "440400370376",
+    "uikName": "УИК №40",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "440400370377",
+    "uikName": "УИК №41",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "440400370378",
+    "uikName": "УИК №42",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "440400370379",
+    "uikName": "УИК №43",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "440400370380",
+    "uikName": "УИК №44",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "440400370381",
+    "uikName": "УИК №45",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "440400370382",
+    "uikName": "УИК №46",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "440400370383",
+    "uikName": "УИК №47",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "440400370384",
+    "uikName": "УИК №48",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "440400370385",
+    "uikName": "УИК №49",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "440400370386",
+    "uikName": "УИК №50",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "440400370387",
+    "uikName": "УИК №51",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "440400370388",
+    "uikName": "УИК №52",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "440400370389",
+    "uikName": "УИК №53",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "440400370390",
+    "uikName": "УИК №54",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "440400370391",
+    "uikName": "УИК №55",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "440400370392",
+    "uikName": "УИК №56",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "440400370393",
+    "uikName": "УИК №57",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "440400370394",
+    "uikName": "УИК №58",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "440400370395",
+    "uikName": "УИК №59",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "440400370396",
+    "uikName": "УИК №60",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "440400370397",
+    "uikName": "УИК №61",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "440400370398",
+    "uikName": "УИК №62",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "440400370399",
+    "uikName": "УИК №63",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "440400370400",
+    "uikName": "УИК №64",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "440400370401",
+    "uikName": "УИК №65",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "440400370402",
+    "uikName": "УИК №66",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "440400370403",
+    "uikName": "УИК №67",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "440400370404",
+    "uikName": "УИК №68",
     "tikTvd": "240200070675",
-    "tikName": "Боровская"
+    "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "440400470501",
+    "uikName": "УИК  69",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "440400470502",
+    "uikName": "УИК  70",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "440400470503",
+    "uikName": "УИК  71",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "440400470504",
+    "uikName": "УИК  72",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "440400470505",
+    "uikName": "УИК  73",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "440400470506",
+    "uikName": "УИК  74",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "440400470507",
+    "uikName": "УИК  75",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "440400470508",
+    "uikName": "УИК  76",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "440400470509",
+    "uikName": "УИК  77",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "440400470510",
+    "uikName": "УИК  78",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "440400470511",
+    "uikName": "УИК  79",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "440400470512",
+    "uikName": "УИК  80",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "440400470513",
+    "uikName": "УИК  81",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "440400470514",
+    "uikName": "УИК  82",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "440400470515",
+    "uikName": "УИК  83",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "440400470516",
+    "uikName": "УИК  84",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "440400470517",
+    "uikName": "УИК  85",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "440400470518",
+    "uikName": "УИК  86",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "440400470519",
+    "uikName": "УИК  87",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "440400470520",
+    "uikName": "УИК  88",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "440400470521",
+    "uikName": "УИК  89",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "440400470522",
+    "uikName": "УИК  90",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "440400470523",
+    "uikName": "УИК  91",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "440400470524",
+    "uikName": "УИК  92",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "440400470525",
+    "uikName": "УИК  93",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "440400470526",
+    "uikName": "УИК  94",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "440400470527",
+    "uikName": "УИК  95",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "440400470528",
+    "uikName": "УИК  96",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "440400470529",
+    "uikName": "УИК  97",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "440400470530",
+    "uikName": "УИК  98",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "440400470531",
+    "uikName": "УИК  99",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "440400470532",
+    "uikName": "УИК  100",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "440400470533",
+    "uikName": "УИК  101",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "440400470534",
+    "uikName": "УИК  102",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "440400470535",
+    "uikName": "УИК  103",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "440400470536",
+    "uikName": "УИК  104",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "440400470537",
+    "uikName": "УИК  105",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "440400470538",
+    "uikName": "УИК  106",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "440400470539",
+    "uikName": "УИК  107",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "440400470540",
+    "uikName": "УИК  108",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "440400470541",
+    "uikName": "УИК  109",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "440400470542",
+    "uikName": "УИК  110",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "440400570392",
+    "uikName": "УИК  111",
     "tikTvd": "240200070707",
-    "tikName": "Думиничская"
+    "tikName": "Думиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "440400570393",
+    "uikName": "УИК  112",
     "tikTvd": "240200070707",
-    "tikName": "Думиничская"
+    "tikName": "Думиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "440400570394",
+    "uikName": "УИК  113",
     "tikTvd": "240200070707",
-    "tikName": "Думиничская"
+    "tikName": "Думиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "440400570395",
+    "uikName": "УИК  114",
     "tikTvd": "240200070707",
-    "tikName": "Думиничская"
+    "tikName": "Думиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "440400570396",
+    "uikName": "УИК  115",
     "tikTvd": "240200070707",
-    "tikName": "Думиничская"
+    "tikName": "Думиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "440400570397",
+    "uikName": "УИК  116",
     "tikTvd": "240200070707",
-    "tikName": "Думиничская"
+    "tikName": "Думиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "440400570398",
+    "uikName": "УИК  117",
     "tikTvd": "240200070707",
-    "tikName": "Думиничская"
+    "tikName": "Думиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "440400570399",
+    "uikName": "УИК  118",
     "tikTvd": "240200070707",
-    "tikName": "Думиничская"
+    "tikName": "Думиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "440400570400",
+    "uikName": "УИК  119",
     "tikTvd": "240200070707",
-    "tikName": "Думиничская"
+    "tikName": "Думиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "440400570401",
+    "uikName": "УИК  120",
     "tikTvd": "240200070707",
-    "tikName": "Думиничская"
+    "tikName": "Думиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "440400570402",
+    "uikName": "УИК  121",
     "tikTvd": "240200070707",
-    "tikName": "Думиничская"
+    "tikName": "Думиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "440400570403",
+    "uikName": "УИК  122",
     "tikTvd": "240200070707",
-    "tikName": "Думиничская"
+    "tikName": "Думиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "440400570404",
+    "uikName": "УИК  123",
     "tikTvd": "240200070707",
-    "tikName": "Думиничская"
+    "tikName": "Думиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "440400570405",
+    "uikName": "УИК  124",
     "tikTvd": "240200070707",
-    "tikName": "Думиничская"
+    "tikName": "Думиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "440400570406",
+    "uikName": "УИК  125",
     "tikTvd": "240200070707",
-    "tikName": "Думиничская"
+    "tikName": "Думиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "440400570407",
+    "uikName": "УИК  126",
     "tikTvd": "240200070707",
-    "tikName": "Думиничская"
+    "tikName": "Думиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "440400570408",
+    "uikName": "УИК  127",
     "tikTvd": "240200070707",
-    "tikName": "Думиничская"
+    "tikName": "Думиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "440400570409",
+    "uikName": "УИК  128",
     "tikTvd": "240200070707",
-    "tikName": "Думиничская"
+    "tikName": "Думиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "440400570410",
+    "uikName": "УИК  129",
     "tikTvd": "240200070707",
-    "tikName": "Думиничская"
+    "tikName": "Думиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "440400670422",
+    "uikName": "УИК №130",
     "tikTvd": "240200070714",
-    "tikName": "Жиздринская"
+    "tikName": "Жиздринская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "440400670423",
+    "uikName": "УИК №131",
     "tikTvd": "240200070714",
-    "tikName": "Жиздринская"
+    "tikName": "Жиздринская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "440400670424",
+    "uikName": "УИК №132",
     "tikTvd": "240200070714",
-    "tikName": "Жиздринская"
+    "tikName": "Жиздринская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "440400670425",
+    "uikName": "УИК №133",
     "tikTvd": "240200070714",
-    "tikName": "Жиздринская"
+    "tikName": "Жиздринская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "440400670426",
+    "uikName": "УИК №134",
     "tikTvd": "240200070714",
-    "tikName": "Жиздринская"
+    "tikName": "Жиздринская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "440400670427",
+    "uikName": "УИК №135",
     "tikTvd": "240200070714",
-    "tikName": "Жиздринская"
+    "tikName": "Жиздринская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "440400670428",
+    "uikName": "УИК №136",
     "tikTvd": "240200070714",
-    "tikName": "Жиздринская"
+    "tikName": "Жиздринская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "440400670429",
+    "uikName": "УИК №137",
     "tikTvd": "240200070714",
-    "tikName": "Жиздринская"
+    "tikName": "Жиздринская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "440400670430",
+    "uikName": "УИК №138",
     "tikTvd": "240200070714",
-    "tikName": "Жиздринская"
+    "tikName": "Жиздринская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "440400670431",
+    "uikName": "УИК №139",
     "tikTvd": "240200070714",
-    "tikName": "Жиздринская"
+    "tikName": "Жиздринская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "440400670432",
+    "uikName": "УИК №140",
     "tikTvd": "240200070714",
-    "tikName": "Жиздринская"
+    "tikName": "Жиздринская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "440400670433",
+    "uikName": "УИК №141",
     "tikTvd": "240200070714",
-    "tikName": "Жиздринская"
+    "tikName": "Жиздринская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "440400670434",
+    "uikName": "УИК №142",
     "tikTvd": "240200070714",
-    "tikName": "Жиздринская"
+    "tikName": "Жиздринская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "440400670435",
+    "uikName": "УИК №143",
     "tikTvd": "240200070714",
-    "tikName": "Жиздринская"
+    "tikName": "Жиздринская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "440400670436",
+    "uikName": "УИК №144",
     "tikTvd": "240200070714",
-    "tikName": "Жиздринская"
+    "tikName": "Жиздринская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "440400670437",
+    "uikName": "УИК №145",
     "tikTvd": "240200070714",
-    "tikName": "Жиздринская"
+    "tikName": "Жиздринская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "440400770617",
+    "uikName": "УИК №146",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "440400770618",
+    "uikName": "УИК №147",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "440400770619",
+    "uikName": "УИК №148",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "440400770620",
+    "uikName": "УИК №149",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "440400770621",
+    "uikName": "УИК №150",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "440400770622",
+    "uikName": "УИК №151",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "440400770623",
+    "uikName": "УИК №152",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "440400770624",
+    "uikName": "УИК №153",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "440400770625",
+    "uikName": "УИК №154",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "440400770626",
+    "uikName": "УИК №155",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "440400770627",
+    "uikName": "УИК №156",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "440400770628",
+    "uikName": "УИК №157",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "440400770629",
+    "uikName": "УИК №158",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "440400770630",
+    "uikName": "УИК №159",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "440400770631",
+    "uikName": "УИК №160",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "440400770632",
+    "uikName": "УИК №161",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "440400770633",
+    "uikName": "УИК №162",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "440400770634",
+    "uikName": "УИК №163",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "440400770635",
+    "uikName": "УИК №164",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "440400770636",
+    "uikName": "УИК №165",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "440400770637",
+    "uikName": "УИК №166",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "440400770638",
+    "uikName": "УИК №167",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "440400770639",
+    "uikName": "УИК №168",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "440400770640",
+    "uikName": "УИК №169",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "440400770641",
+    "uikName": "УИК №170",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "440400770642",
+    "uikName": "УИК №171",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "440400770643",
+    "uikName": "УИК №172",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "440400770644",
+    "uikName": "УИК №173",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "440400770645",
+    "uikName": "УИК №174",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "440400770646",
+    "uikName": "УИК №175",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "440400770647",
+    "uikName": "УИК №176",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "440400770648",
+    "uikName": "УИК №177",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "440400770649",
+    "uikName": "УИК №178",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "440400770650",
+    "uikName": "УИК №179",
     "tikTvd": "240200070681",
-    "tikName": "Жуковская"
+    "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "440400870397",
+    "uikName": "УИК №180",
     "tikTvd": "240200070680",
-    "tikName": "Износковская"
+    "tikName": "Износковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "440400870398",
+    "uikName": "УИК №181",
     "tikTvd": "240200070680",
-    "tikName": "Износковская"
+    "tikName": "Износковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "440400870399",
+    "uikName": "УИК №182",
     "tikTvd": "240200070680",
-    "tikName": "Износковская"
+    "tikName": "Износковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "440400870400",
+    "uikName": "УИК №183",
     "tikTvd": "240200070680",
-    "tikName": "Износковская"
+    "tikName": "Износковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "440400870401",
+    "uikName": "УИК №184",
     "tikTvd": "240200070680",
-    "tikName": "Износковская"
+    "tikName": "Износковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "440400870402",
+    "uikName": "УИК №185",
     "tikTvd": "240200070680",
-    "tikName": "Износковская"
+    "tikName": "Износковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "440400870403",
+    "uikName": "УИК №186",
     "tikTvd": "240200070680",
-    "tikName": "Износковская"
+    "tikName": "Износковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "440400870404",
+    "uikName": "УИК №187",
     "tikTvd": "240200070680",
-    "tikName": "Износковская"
+    "tikName": "Износковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "440400870405",
+    "uikName": "УИК №188",
     "tikTvd": "240200070680",
-    "tikName": "Износковская"
+    "tikName": "Износковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "440400870406",
+    "uikName": "УИК №189",
     "tikTvd": "240200070680",
-    "tikName": "Износковская"
+    "tikName": "Износковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "440400870407",
+    "uikName": "УИК №190",
     "tikTvd": "240200070680",
-    "tikName": "Износковская"
+    "tikName": "Износковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "440400870408",
+    "uikName": "УИК №191",
     "tikTvd": "240200070680",
-    "tikName": "Износковская"
+    "tikName": "Износковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "440400970484",
+    "uikName": "УИК №192",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "440400970485",
+    "uikName": "УИК №193",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "440400970486",
+    "uikName": "УИК №194",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "440400970487",
+    "uikName": "УИК №195",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "440400970488",
+    "uikName": "УИК №196",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "440400970489",
+    "uikName": "УИК №197",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "440400970490",
+    "uikName": "УИК №198",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "440400970491",
+    "uikName": "УИК №199",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "440400970492",
+    "uikName": "УИК №200",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "440400970493",
+    "uikName": "УИК №201",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "440400970494",
+    "uikName": "УИК №202",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "440400970495",
+    "uikName": "УИК №203",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "440400970496",
+    "uikName": "УИК №204",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "440400970497",
+    "uikName": "УИК №205",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "440400970498",
+    "uikName": "УИК №206",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "440400970499",
+    "uikName": "УИК №207",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "440400970500",
+    "uikName": "УИК №208",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "440400970501",
+    "uikName": "УИК №209",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "440400970502",
+    "uikName": "УИК №210",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "440400970503",
+    "uikName": "УИК №211",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "440400970504",
+    "uikName": "УИК №212",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "440400970505",
+    "uikName": "УИК №213",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "440400970506",
+    "uikName": "УИК №214",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "440400970507",
+    "uikName": "УИК №215",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "440400970508",
+    "uikName": "УИК №216",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "440400970509",
+    "uikName": "УИК №217",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "440400970510",
+    "uikName": "УИК №218",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "440400970511",
+    "uikName": "УИК №219",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "440400970512",
+    "uikName": "УИК №220",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "440400970513",
+    "uikName": "УИК №221",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "440400970514",
+    "uikName": "УИК №222",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "440400970515",
+    "uikName": "УИК №223",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "440400970516",
+    "uikName": "УИК №224",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "440400970517",
+    "uikName": "УИК №225",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "440400970518",
+    "uikName": "УИК №226",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "440400970519",
+    "uikName": "УИК №227",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "440400970520",
+    "uikName": "УИК №228",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "440400970521",
+    "uikName": "УИК №229",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "440400970522",
+    "uikName": "УИК №230",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "440400970523",
+    "uikName": "УИК №231",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "440400970524",
+    "uikName": "УИК №232",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "440400970525",
+    "uikName": "УИК №233",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "440400970526",
+    "uikName": "УИК №234",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "440400970527",
+    "uikName": "УИК №235",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "440400970528",
+    "uikName": "УИК №236",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "440400970529",
+    "uikName": "УИК №237",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "440400970530",
+    "uikName": "УИК №238",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "440400970531",
+    "uikName": "УИК №239",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "440400970532",
+    "uikName": "УИК №240",
     "tikTvd": "240200070706",
-    "tikName": "Калуга, Ленинская"
+    "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "440401070396",
+    "uikName": "УИК  241",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "440401070397",
+    "uikName": "УИК  242",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "440401070398",
+    "uikName": "УИК  243",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "440401070399",
+    "uikName": "УИК  244",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "440401070400",
+    "uikName": "УИК  245",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "440401070401",
+    "uikName": "УИК  246",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "440401070402",
+    "uikName": "УИК  247",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "440401070403",
+    "uikName": "УИК  248",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "440401070404",
+    "uikName": "УИК  249",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "440401070405",
+    "uikName": "УИК  250",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "440401070406",
+    "uikName": "УИК  251",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "440401070407",
+    "uikName": "УИК  252",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "440401070408",
+    "uikName": "УИК  253",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "440401070409",
+    "uikName": "УИК  254",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "440401070410",
+    "uikName": "УИК  255",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "440401070411",
+    "uikName": "УИК  256",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "440401070412",
+    "uikName": "УИК  257",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "440401070413",
+    "uikName": "УИК  258",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "440401070414",
+    "uikName": "УИК  259",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "440401070415",
+    "uikName": "УИК  260",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "440401070416",
+    "uikName": "УИК  261",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "440401070417",
+    "uikName": "УИК  262",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "440401070418",
+    "uikName": "УИК  263",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "440401070419",
+    "uikName": "УИК  264",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "440401070420",
+    "uikName": "УИК  265",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "440401070421",
+    "uikName": "УИК  266",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "440401070422",
+    "uikName": "УИК  267",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "440401070423",
+    "uikName": "УИК  268",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "440401070424",
+    "uikName": "УИК  269",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "440401070425",
+    "uikName": "УИК  270",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "440401070426",
+    "uikName": "УИК  271",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "440401070427",
+    "uikName": "УИК  272",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "440401070428",
+    "uikName": "УИК  273",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "440401070429",
+    "uikName": "УИК  274",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "440401070430",
+    "uikName": "УИК  275",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "440401070431",
+    "uikName": "УИК  276",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "440401070432",
+    "uikName": "УИК  277",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "440401070433",
+    "uikName": "УИК  278",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "440401070434",
+    "uikName": "УИК  279",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "440401070435",
+    "uikName": "УИК  280",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "440401070436",
+    "uikName": "УИК  281",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "440401070437",
+    "uikName": "УИК  282",
     "tikTvd": "240200070704",
-    "tikName": "Калуга, Московская"
+    "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "440401170375",
+    "uikName": "УИК  283",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "440401170376",
+    "uikName": "УИК  284",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "440401170377",
+    "uikName": "УИК  285",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "440401170378",
+    "uikName": "УИК  286",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "440401170379",
+    "uikName": "УИК  287",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "440401170380",
+    "uikName": "УИК  288",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "440401170381",
+    "uikName": "УИК  289",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "440401170382",
+    "uikName": "УИК  290",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "440401170383",
+    "uikName": "УИК  291",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "440401170384",
+    "uikName": "УИК  292",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "440401170385",
+    "uikName": "УИК  293",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "440401170386",
+    "uikName": "УИК  294",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "440401170387",
+    "uikName": "УИК  295",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "440401170388",
+    "uikName": "УИК  296",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "440401170389",
+    "uikName": "УИК  297",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "440401170390",
+    "uikName": "УИК  298",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "440401170391",
+    "uikName": "УИК  299",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "440401170392",
+    "uikName": "УИК  300",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "440401170393",
+    "uikName": "УИК  301",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "440401170394",
+    "uikName": "УИК  302",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "440401170395",
+    "uikName": "УИК  303",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "440401170396",
+    "uikName": "УИК  304",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "440401170397",
+    "uikName": "УИК  305",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "440401170398",
+    "uikName": "УИК  306",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "440401170399",
+    "uikName": "УИК  307",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "440401170400",
+    "uikName": "УИК  308",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "440401170401",
+    "uikName": "УИК  309",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "440401170402",
+    "uikName": "УИК  310",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "440401170403",
+    "uikName": "УИК  311",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "440401170404",
+    "uikName": "УИК  312",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "440401170405",
+    "uikName": "УИК  313",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "440401170406",
+    "uikName": "УИК  314",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "440401170407",
+    "uikName": "УИК  315",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "440401170408",
+    "uikName": "УИК  316",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "440401170409",
+    "uikName": "УИК  317",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "440401170410",
+    "uikName": "УИК  318",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "440401170411",
+    "uikName": "УИК  319",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "440401170412",
+    "uikName": "УИК  320",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "440401170413",
+    "uikName": "УИК  321",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "440401170414",
+    "uikName": "УИК  322",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "440401170415",
+    "uikName": "УИК  323",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "440401170416",
+    "uikName": "УИК  324",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "440401170417",
+    "uikName": "УИК  325",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "440401170418",
+    "uikName": "УИК  326",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "440401270481",
+    "uikName": "УИК  327",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "440401270364",
+    "uikName": "УИК  328",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "440401270365",
+    "uikName": "УИК  329",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "440401270482",
+    "uikName": "УИК  330",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "440401270483",
+    "uikName": "УИК  331",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "440401270484",
+    "uikName": "УИК  332",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "440401270485",
+    "uikName": "УИК  333",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "440401270486",
+    "uikName": "УИК  334",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "440401270487",
+    "uikName": "УИК  335",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "440401270488",
+    "uikName": "УИК  336",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "440401270489",
+    "uikName": "УИК  337",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "440401270490",
+    "uikName": "УИК  338",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "440401270491",
+    "uikName": "УИК  339",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "440401270492",
+    "uikName": "УИК  340",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "440401270493",
+    "uikName": "УИК  341",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "440401270494",
+    "uikName": "УИК  342",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "440401270495",
+    "uikName": "УИК  343",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "440401270496",
+    "uikName": "УИК  344",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "440401270497",
+    "uikName": "УИК  345",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "440401270498",
+    "uikName": "УИК  346",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "440401270499",
+    "uikName": "УИК  347",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "440401270500",
+    "uikName": "УИК  348",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "440401270501",
+    "uikName": "УИК  349",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "440401270502",
+    "uikName": "УИК  350",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "440401270503",
+    "uikName": "УИК  351",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "440401270504",
+    "uikName": "УИК  352",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "440401270505",
+    "uikName": "УИК  353",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "440401270506",
+    "uikName": "УИК  354",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "440401270507",
+    "uikName": "УИК  355",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "440401270508",
+    "uikName": "УИК  356",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "440401270509",
+    "uikName": "УИК  357",
     "tikTvd": "240200070691",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "440401370921",
+    "uikName": "УИК  358",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "440401370823",
+    "uikName": "УИК  359",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "440401370358",
+    "uikName": "УИК  360",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "440401370360",
+    "uikName": "УИК  361",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "440401370362",
+    "uikName": "УИК  362",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "440401370363",
+    "uikName": "УИК  363",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "440401370364",
+    "uikName": "УИК  364",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "440401370365",
+    "uikName": "УИК  365",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "440401370366",
+    "uikName": "УИК  366",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "440401370367",
+    "uikName": "УИК  367",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "440401370368",
+    "uikName": "УИК  368",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "440401370369",
+    "uikName": "УИК  369",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "440401370370",
+    "uikName": "УИК  370",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "440401370371",
+    "uikName": "УИК  371",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "440401370372",
+    "uikName": "УИК  372",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "440401370373",
+    "uikName": "УИК  373",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "440401370374",
+    "uikName": "УИК  374",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "440401370375",
+    "uikName": "УИК  375",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "440401370376",
+    "uikName": "УИК  376",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "440401370377",
+    "uikName": "УИК  377",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "440401370378",
+    "uikName": "УИК  378",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "440401370379",
+    "uikName": "УИК  379",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "440401370380",
+    "uikName": "УИК  380",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "440401370381",
+    "uikName": "УИК  381",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "440401370382",
+    "uikName": "УИК  382",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "440401370383",
+    "uikName": "УИК  383",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "440401370384",
+    "uikName": "УИК  384",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "440401370385",
+    "uikName": "УИК  385",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "440401370386",
+    "uikName": "УИК  386",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "440401370387",
+    "uikName": "УИК  387",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "440401370388",
+    "uikName": "УИК  388",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "440401370389",
+    "uikName": "УИК  389",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "440401370390",
+    "uikName": "УИК  390",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "440401370391",
+    "uikName": "УИК  391",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "440401370392",
+    "uikName": "УИК  392",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "440401370393",
+    "uikName": "УИК  393",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "440401370394",
+    "uikName": "УИК  394",
     "tikTvd": "240200070708",
-    "tikName": "Козельская"
+    "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "440401470361",
+    "uikName": "УИК  395",
     "tikTvd": "240200070692",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "440401470362",
+    "uikName": "УИК  396",
     "tikTvd": "240200070692",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "440401470363",
+    "uikName": "УИК  397",
     "tikTvd": "240200070692",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "440401470364",
+    "uikName": "УИК  398",
     "tikTvd": "240200070692",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "440401470365",
+    "uikName": "УИК  399",
     "tikTvd": "240200070692",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "440401470366",
+    "uikName": "УИК  400",
     "tikTvd": "240200070692",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "440401470367",
+    "uikName": "УИК  401",
     "tikTvd": "240200070692",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "440401470368",
+    "uikName": "УИК  402",
     "tikTvd": "240200070692",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "440401470369",
+    "uikName": "УИК  403",
     "tikTvd": "240200070692",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "440401470370",
+    "uikName": "УИК  404",
     "tikTvd": "240200070692",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "440401470371",
+    "uikName": "УИК  405",
     "tikTvd": "240200070692",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "440401470372",
+    "uikName": "УИК  406",
     "tikTvd": "240200070692",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "440401470373",
+    "uikName": "УИК  407",
     "tikTvd": "240200070692",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "440401470374",
+    "uikName": "УИК  408",
     "tikTvd": "240200070692",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "440401470375",
+    "uikName": "УИК  409",
     "tikTvd": "240200070692",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "440401470376",
+    "uikName": "УИК  410",
     "tikTvd": "240200070692",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "440401470377",
+    "uikName": "УИК  411",
     "tikTvd": "240200070692",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "440401470378",
+    "uikName": "УИК  412",
     "tikTvd": "240200070692",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "440401570355",
+    "uikName": "УИК  413",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "440401570356",
+    "uikName": "УИК  414",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "440401570357",
+    "uikName": "УИК  415",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "440401570358",
+    "uikName": "УИК  416",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "440401570359",
+    "uikName": "УИК  417",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "440401570360",
+    "uikName": "УИК  418",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "440401570361",
+    "uikName": "УИК  419",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "440401570362",
+    "uikName": "УИК  420",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "440401570363",
+    "uikName": "УИК  421",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "440401570364",
+    "uikName": "УИК  422",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "440401570365",
+    "uikName": "УИК  423",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "440401570366",
+    "uikName": "УИК  424",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "440401570367",
+    "uikName": "УИК  425",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "440401570368",
+    "uikName": "УИК  426",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "440401570369",
+    "uikName": "УИК  427",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "440401570370",
+    "uikName": "УИК  428",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "440401570371",
+    "uikName": "УИК  429",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "440401570372",
+    "uikName": "УИК  430",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "440401570373",
+    "uikName": "УИК  431",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "440401570374",
+    "uikName": "УИК  432",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "440401570375",
+    "uikName": "УИК  433",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "440401570376",
+    "uikName": "УИК  434",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "440401570377",
+    "uikName": "УИК  435",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "440401570378",
+    "uikName": "УИК  436",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "440401570379",
+    "uikName": "УИК  437",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "440401570380",
+    "uikName": "УИК  438",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "440401570381",
+    "uikName": "УИК  439",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "440401570382",
+    "uikName": "УИК  440",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "440401570383",
+    "uikName": "УИК  441",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "440401570384",
+    "uikName": "УИК  442",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "440401570385",
+    "uikName": "УИК  443",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "440401570386",
+    "uikName": "УИК  444",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "440401570387",
+    "uikName": "УИК  445",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "440401570388",
+    "uikName": "УИК  446",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "440401570389",
+    "uikName": "УИК  447",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "440401570390",
+    "uikName": "УИК  448",
     "tikTvd": "240200070688",
-    "tikName": "Людиновская"
+    "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "440401670345",
+    "uikName": "УИК  449",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "440401670346",
+    "uikName": "УИК  450",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "440401670347",
+    "uikName": "УИК  451",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "440401670348",
+    "uikName": "УИК  452",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "440401670349",
+    "uikName": "УИК  453",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "440401670350",
+    "uikName": "УИК  454",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "440401670351",
+    "uikName": "УИК  455",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "440401670352",
+    "uikName": "УИК  456",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "440401670353",
+    "uikName": "УИК  457",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "440401670354",
+    "uikName": "УИК  458",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "440401670355",
+    "uikName": "УИК  459",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "440401670356",
+    "uikName": "УИК  460",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "440401670357",
+    "uikName": "УИК  461",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "440401670358",
+    "uikName": "УИК  462",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "440401670359",
+    "uikName": "УИК  463",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "440401670361",
+    "uikName": "УИК  464",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "440401670362",
+    "uikName": "УИК  465",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "440401670363",
+    "uikName": "УИК  466",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "440401670364",
+    "uikName": "УИК  467",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "440401670365",
+    "uikName": "УИК  468",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "440401670366",
+    "uikName": "УИК  469",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "440401670367",
+    "uikName": "УИК  470",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "440401670368",
+    "uikName": "УИК  471",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "440401670369",
+    "uikName": "УИК  472",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "440401670370",
+    "uikName": "УИК  473",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "440401670371",
+    "uikName": "УИК  474",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "440401670372",
+    "uikName": "УИК  475",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "440401670373",
+    "uikName": "УИК  476",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "440401670374",
+    "uikName": "УИК  477",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "440401670375",
+    "uikName": "УИК  478",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "440401670376",
+    "uikName": "УИК  479",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "440401670377",
+    "uikName": "УИК  480",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "440401670378",
+    "uikName": "УИК  481",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "440401670379",
+    "uikName": "УИК  482",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "440401670380",
+    "uikName": "УИК  483",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "440401670381",
+    "uikName": "УИК  484",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "440401670382",
+    "uikName": "УИК  485",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "440401670383",
+    "uikName": "УИК  486",
     "tikTvd": "240200070689",
-    "tikName": "Малоярославецкая"
+    "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "440401770465",
+    "uikName": "УИК  487",
     "tikTvd": "240200070687",
-    "tikName": "Медынская"
+    "tikName": "Медынская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "440401770466",
+    "uikName": "УИК  488",
     "tikTvd": "240200070687",
-    "tikName": "Медынская"
+    "tikName": "Медынская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "440401770467",
+    "uikName": "УИК  489",
     "tikTvd": "240200070687",
-    "tikName": "Медынская"
+    "tikName": "Медынская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "440401770468",
+    "uikName": "УИК  490",
     "tikTvd": "240200070687",
-    "tikName": "Медынская"
+    "tikName": "Медынская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "440401770469",
+    "uikName": "УИК  491",
     "tikTvd": "240200070687",
-    "tikName": "Медынская"
+    "tikName": "Медынская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "440401770470",
+    "uikName": "УИК  492",
     "tikTvd": "240200070687",
-    "tikName": "Медынская"
+    "tikName": "Медынская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "440401770471",
+    "uikName": "УИК  493",
     "tikTvd": "240200070687",
-    "tikName": "Медынская"
+    "tikName": "Медынская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "440401770472",
+    "uikName": "УИК  494",
     "tikTvd": "240200070687",
-    "tikName": "Медынская"
+    "tikName": "Медынская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "440401770473",
+    "uikName": "УИК  495",
     "tikTvd": "240200070687",
-    "tikName": "Медынская"
+    "tikName": "Медынская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "440401770474",
+    "uikName": "УИК  496",
     "tikTvd": "240200070687",
-    "tikName": "Медынская"
+    "tikName": "Медынская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "440401770475",
+    "uikName": "УИК  497",
     "tikTvd": "240200070687",
-    "tikName": "Медынская"
+    "tikName": "Медынская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "440401770476",
+    "uikName": "УИК  498",
     "tikTvd": "240200070687",
-    "tikName": "Медынская"
+    "tikName": "Медынская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "440401770477",
+    "uikName": "УИК  499",
     "tikTvd": "240200070687",
-    "tikName": "Медынская"
+    "tikName": "Медынская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "440401770478",
+    "uikName": "УИК  500",
     "tikTvd": "240200070687",
-    "tikName": "Медынская"
+    "tikName": "Медынская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "440401770479",
+    "uikName": "УИК  501",
     "tikTvd": "240200070687",
-    "tikName": "Медынская"
+    "tikName": "Медынская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "440401870367",
+    "uikName": "УИК №502",
     "tikTvd": "240200070686",
-    "tikName": "Мещовская"
+    "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "440401870368",
+    "uikName": "УИК №503",
     "tikTvd": "240200070686",
-    "tikName": "Мещовская"
+    "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "440401870369",
+    "uikName": "УИК №504",
     "tikTvd": "240200070686",
-    "tikName": "Мещовская"
+    "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "440401870370",
+    "uikName": "УИК №505",
     "tikTvd": "240200070686",
-    "tikName": "Мещовская"
+    "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "440401870371",
+    "uikName": "УИК №506",
     "tikTvd": "240200070686",
-    "tikName": "Мещовская"
+    "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "440401870372",
+    "uikName": "УИК №507",
     "tikTvd": "240200070686",
-    "tikName": "Мещовская"
+    "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "440401870373",
+    "uikName": "УИК №508",
     "tikTvd": "240200070686",
-    "tikName": "Мещовская"
+    "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "440401870374",
+    "uikName": "УИК №509",
     "tikTvd": "240200070686",
-    "tikName": "Мещовская"
+    "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "440401870375",
+    "uikName": "УИК №510",
     "tikTvd": "240200070686",
-    "tikName": "Мещовская"
+    "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "440401870376",
+    "uikName": "УИК №511",
     "tikTvd": "240200070686",
-    "tikName": "Мещовская"
+    "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "440401870377",
+    "uikName": "УИК №512",
     "tikTvd": "240200070686",
-    "tikName": "Мещовская"
+    "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "440401870378",
+    "uikName": "УИК №513",
     "tikTvd": "240200070686",
-    "tikName": "Мещовская"
+    "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "440401870379",
+    "uikName": "УИК №514",
     "tikTvd": "240200070686",
-    "tikName": "Мещовская"
+    "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "440401870380",
+    "uikName": "УИК №515",
     "tikTvd": "240200070686",
-    "tikName": "Мещовская"
+    "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "440401870381",
+    "uikName": "УИК №516",
     "tikTvd": "240200070686",
-    "tikName": "Мещовская"
+    "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "440401870382",
+    "uikName": "УИК №517",
     "tikTvd": "240200070686",
-    "tikName": "Мещовская"
+    "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "440401870383",
+    "uikName": "УИК №518",
     "tikTvd": "240200070686",
-    "tikName": "Мещовская"
+    "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "440401870384",
+    "uikName": "УИК №519",
     "tikTvd": "240200070686",
-    "tikName": "Мещовская"
+    "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "440401870385",
+    "uikName": "УИК №520",
     "tikTvd": "240200070686",
-    "tikName": "Мещовская"
+    "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "440401870386",
+    "uikName": "УИК №521",
     "tikTvd": "240200070686",
-    "tikName": "Мещовская"
+    "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "440401870365",
+    "uikName": "УИК №522",
     "tikTvd": "240200070686",
-    "tikName": "Мещовская"
+    "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "440401970390",
+    "uikName": "УИК  523",
     "tikTvd": "240200070702",
-    "tikName": "Мосальская"
+    "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "440401970391",
+    "uikName": "УИК  524",
     "tikTvd": "240200070702",
-    "tikName": "Мосальская"
+    "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "440401970392",
+    "uikName": "УИК  525",
     "tikTvd": "240200070702",
-    "tikName": "Мосальская"
+    "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "440401970393",
+    "uikName": "УИК  526",
     "tikTvd": "240200070702",
-    "tikName": "Мосальская"
+    "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "440401970394",
+    "uikName": "УИК  527",
     "tikTvd": "240200070702",
-    "tikName": "Мосальская"
+    "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "440401970395",
+    "uikName": "УИК  528",
     "tikTvd": "240200070702",
-    "tikName": "Мосальская"
+    "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "440401970396",
+    "uikName": "УИК  529",
     "tikTvd": "240200070702",
-    "tikName": "Мосальская"
+    "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "440401970397",
+    "uikName": "УИК  530",
     "tikTvd": "240200070702",
-    "tikName": "Мосальская"
+    "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "440401970398",
+    "uikName": "УИК  531",
     "tikTvd": "240200070702",
-    "tikName": "Мосальская"
+    "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "440401970399",
+    "uikName": "УИК  532",
     "tikTvd": "240200070702",
-    "tikName": "Мосальская"
+    "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "440401970400",
+    "uikName": "УИК  533",
     "tikTvd": "240200070702",
-    "tikName": "Мосальская"
+    "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "440401970401",
+    "uikName": "УИК  534",
     "tikTvd": "240200070702",
-    "tikName": "Мосальская"
+    "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "440401970402",
+    "uikName": "УИК  535",
     "tikTvd": "240200070702",
-    "tikName": "Мосальская"
+    "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "440401970403",
+    "uikName": "УИК  536",
     "tikTvd": "240200070702",
-    "tikName": "Мосальская"
+    "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "440401970404",
+    "uikName": "УИК  537",
     "tikTvd": "240200070702",
-    "tikName": "Мосальская"
+    "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "440401970405",
+    "uikName": "УИК  538",
     "tikTvd": "240200070702",
-    "tikName": "Мосальская"
+    "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "440401970406",
+    "uikName": "УИК  539",
     "tikTvd": "240200070702",
-    "tikName": "Мосальская"
+    "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "440401970407",
+    "uikName": "УИК  540",
     "tikTvd": "240200070702",
-    "tikName": "Мосальская"
+    "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "440401970408",
+    "uikName": "УИК  541",
     "tikTvd": "240200070702",
-    "tikName": "Мосальская"
+    "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "440401970409",
+    "uikName": "УИК  542",
     "tikTvd": "240200070702",
-    "tikName": "Мосальская"
+    "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "440401970410",
+    "uikName": "УИК  543",
     "tikTvd": "240200070702",
-    "tikName": "Мосальская"
+    "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "440402070356",
+    "uikName": "УИК  544",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "440402070357",
+    "uikName": "УИК  545",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "440402070358",
+    "uikName": "УИК  546",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "440402070359",
+    "uikName": "УИК  547",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "440402070360",
+    "uikName": "УИК  548",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "440402070361",
+    "uikName": "УИК  549",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "440402070362",
+    "uikName": "УИК  550",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "440402070363",
+    "uikName": "УИК  551",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "440402070364",
+    "uikName": "УИК  552",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "440402070365",
+    "uikName": "УИК  553",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "440402070366",
+    "uikName": "УИК  554",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "440402070367",
+    "uikName": "УИК  555",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "440402070368",
+    "uikName": "УИК  556",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "440402070369",
+    "uikName": "УИК  557",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "440402070370",
+    "uikName": "УИК  558",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "440402070371",
+    "uikName": "УИК  559",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "440402070372",
+    "uikName": "УИК  560",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "440402070373",
+    "uikName": "УИК  561",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "440402070374",
+    "uikName": "УИК  562",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "440402070375",
+    "uikName": "УИК  563",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "440402070376",
+    "uikName": "УИК  564",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "440402070377",
+    "uikName": "УИК  565",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "440402070378",
+    "uikName": "УИК  566",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "440402070379",
+    "uikName": "УИК  567",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "440402070393",
+    "uikName": "УИК  568",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "440402070394",
+    "uikName": "УИК  569",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "440402070395",
+    "uikName": "УИК  570",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "440402070396",
+    "uikName": "УИК  571",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "440402070397",
+    "uikName": "УИК  572",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "440402070398",
+    "uikName": "УИК  573",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "440402070399",
+    "uikName": "УИК  574",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "440402070400",
+    "uikName": "УИК  575",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "440402070401",
+    "uikName": "УИК  576",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "440402070402",
+    "uikName": "УИК  577",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "440402070403",
+    "uikName": "УИК  578",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "440402070404",
+    "uikName": "УИК  579",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "440402070405",
+    "uikName": "УИК  580",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "440402070406",
+    "uikName": "УИК  581",
     "tikTvd": "240200070685",
-    "tikName": "Обнинская городская"
+    "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "440402170521",
+    "uikName": "УИК  582",
     "tikTvd": "240200070713",
-    "tikName": "Перемышльская"
+    "tikName": "Перемышльская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "440402170522",
+    "uikName": "УИК  583",
     "tikTvd": "240200070713",
-    "tikName": "Перемышльская"
+    "tikName": "Перемышльская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "440402170523",
+    "uikName": "УИК  584",
     "tikTvd": "240200070713",
-    "tikName": "Перемышльская"
+    "tikName": "Перемышльская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "440402170524",
+    "uikName": "УИК  585",
     "tikTvd": "240200070713",
-    "tikName": "Перемышльская"
+    "tikName": "Перемышльская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "440402170525",
+    "uikName": "УИК  586",
     "tikTvd": "240200070713",
-    "tikName": "Перемышльская"
+    "tikName": "Перемышльская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "440402170526",
+    "uikName": "УИК  587",
     "tikTvd": "240200070713",
-    "tikName": "Перемышльская"
+    "tikName": "Перемышльская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "440402170527",
+    "uikName": "УИК  588",
     "tikTvd": "240200070713",
-    "tikName": "Перемышльская"
+    "tikName": "Перемышльская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "440402170528",
+    "uikName": "УИК  589",
     "tikTvd": "240200070713",
-    "tikName": "Перемышльская"
+    "tikName": "Перемышльская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "440402170529",
+    "uikName": "УИК  590",
     "tikTvd": "240200070713",
-    "tikName": "Перемышльская"
+    "tikName": "Перемышльская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "440402170530",
+    "uikName": "УИК  591",
     "tikTvd": "240200070713",
-    "tikName": "Перемышльская"
+    "tikName": "Перемышльская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "440402170531",
+    "uikName": "УИК  592",
     "tikTvd": "240200070713",
-    "tikName": "Перемышльская"
+    "tikName": "Перемышльская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "440402170532",
+    "uikName": "УИК  593",
     "tikTvd": "240200070713",
-    "tikName": "Перемышльская"
+    "tikName": "Перемышльская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "440402170533",
+    "uikName": "УИК  594",
     "tikTvd": "240200070713",
-    "tikName": "Перемышльская"
+    "tikName": "Перемышльская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "440402170534",
+    "uikName": "УИК  595",
     "tikTvd": "240200070713",
-    "tikName": "Перемышльская"
+    "tikName": "Перемышльская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "440402170535",
+    "uikName": "УИК  596",
     "tikTvd": "240200070713",
-    "tikName": "Перемышльская"
+    "tikName": "Перемышльская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "440402170536",
+    "uikName": "УИК  597",
     "tikTvd": "240200070713",
-    "tikName": "Перемышльская"
+    "tikName": "Перемышльская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "440402170537",
+    "uikName": "УИК  598",
     "tikTvd": "240200070713",
-    "tikName": "Перемышльская"
+    "tikName": "Перемышльская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "440402170538",
+    "uikName": "УИК  599",
     "tikTvd": "240200070713",
-    "tikName": "Перемышльская"
+    "tikName": "Перемышльская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "440402170539",
+    "uikName": "УИК  600",
     "tikTvd": "240200070713",
-    "tikName": "Перемышльская"
+    "tikName": "Перемышльская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "440402270436",
+    "uikName": "УИК  601",
     "tikTvd": "240200070699",
-    "tikName": "Спас-Деменская"
+    "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "440402270437",
+    "uikName": "УИК  602",
     "tikTvd": "240200070699",
-    "tikName": "Спас-Деменская"
+    "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "440402270438",
+    "uikName": "УИК  603",
     "tikTvd": "240200070699",
-    "tikName": "Спас-Деменская"
+    "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "440402270439",
+    "uikName": "УИК  604",
     "tikTvd": "240200070699",
-    "tikName": "Спас-Деменская"
+    "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "440402270440",
+    "uikName": "УИК  605",
     "tikTvd": "240200070699",
-    "tikName": "Спас-Деменская"
+    "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "440402270441",
+    "uikName": "УИК  606",
     "tikTvd": "240200070699",
-    "tikName": "Спас-Деменская"
+    "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "440402270442",
+    "uikName": "УИК  607",
     "tikTvd": "240200070699",
-    "tikName": "Спас-Деменская"
+    "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "440402270443",
+    "uikName": "УИК  608",
     "tikTvd": "240200070699",
-    "tikName": "Спас-Деменская"
+    "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "440402270444",
+    "uikName": "УИК  609",
     "tikTvd": "240200070699",
-    "tikName": "Спас-Деменская"
+    "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "440402270445",
+    "uikName": "УИК  610",
     "tikTvd": "240200070699",
-    "tikName": "Спас-Деменская"
+    "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "440402270446",
+    "uikName": "УИК  611",
     "tikTvd": "240200070699",
-    "tikName": "Спас-Деменская"
+    "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "440402270447",
+    "uikName": "УИК  612",
     "tikTvd": "240200070699",
-    "tikName": "Спас-Деменская"
+    "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "440402270448",
+    "uikName": "УИК  613",
     "tikTvd": "240200070699",
-    "tikName": "Спас-Деменская"
+    "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "440402270449",
+    "uikName": "УИК  614",
     "tikTvd": "240200070699",
-    "tikName": "Спас-Деменская"
+    "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "440402270450",
+    "uikName": "УИК  615",
     "tikTvd": "240200070699",
-    "tikName": "Спас-Деменская"
+    "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "440402370456",
+    "uikName": "УИК №616",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "440402370457",
+    "uikName": "УИК №617",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "440402370458",
+    "uikName": "УИК №618",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "440402370459",
+    "uikName": "УИК №619",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "440402370460",
+    "uikName": "УИК №620",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "440402370461",
+    "uikName": "УИК №621",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "440402370462",
+    "uikName": "УИК №622",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "440402370463",
+    "uikName": "УИК №623",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "440402370464",
+    "uikName": "УИК №624",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "440402370465",
+    "uikName": "УИК №625",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "440402370466",
+    "uikName": "УИК №626",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "440402370467",
+    "uikName": "УИК №627",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "440402370468",
+    "uikName": "УИК №628",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "440402370469",
+    "uikName": "УИК №629",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "440402370470",
+    "uikName": "УИК №630",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "440402370471",
+    "uikName": "УИК №631",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "440402370472",
+    "uikName": "УИК №632",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "440402370473",
+    "uikName": "УИК №633",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "440402370474",
+    "uikName": "УИК №634",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "440402370475",
+    "uikName": "УИК №635",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "440402370476",
+    "uikName": "УИК №636",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "440402370477",
+    "uikName": "УИК №637",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "440402370478",
+    "uikName": "УИК №638",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "440402370479",
+    "uikName": "УИК №639",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "440402370480",
+    "uikName": "УИК №640",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "440402370481",
+    "uikName": "УИК №641",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "440402370482",
+    "uikName": "УИК №642",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "440402370483",
+    "uikName": "УИК №643",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "440402370484",
+    "uikName": "УИК №644",
     "tikTvd": "240200070697",
-    "tikName": "Сухиничская"
+    "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "440402470453",
+    "uikName": "УИК  645",
     "tikTvd": "240200070711",
-    "tikName": "Тарусская"
+    "tikName": "Тарусская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "440402470454",
+    "uikName": "УИК  646",
     "tikTvd": "240200070711",
-    "tikName": "Тарусская"
+    "tikName": "Тарусская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "440402470456",
+    "uikName": "УИК  647",
     "tikTvd": "240200070711",
-    "tikName": "Тарусская"
+    "tikName": "Тарусская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "440402470457",
+    "uikName": "УИК  648",
     "tikTvd": "240200070711",
-    "tikName": "Тарусская"
+    "tikName": "Тарусская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "440402470458",
+    "uikName": "УИК  649",
     "tikTvd": "240200070711",
-    "tikName": "Тарусская"
+    "tikName": "Тарусская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "440402470459",
+    "uikName": "УИК  650",
     "tikTvd": "240200070711",
-    "tikName": "Тарусская"
+    "tikName": "Тарусская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "440402470460",
+    "uikName": "УИК  651",
     "tikTvd": "240200070711",
-    "tikName": "Тарусская"
+    "tikName": "Тарусская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "440402470461",
+    "uikName": "УИК  652",
     "tikTvd": "240200070711",
-    "tikName": "Тарусская"
+    "tikName": "Тарусская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "440402470462",
+    "uikName": "УИК  653",
     "tikTvd": "240200070711",
-    "tikName": "Тарусская"
+    "tikName": "Тарусская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "440402470463",
+    "uikName": "УИК  654",
     "tikTvd": "240200070711",
-    "tikName": "Тарусская"
+    "tikName": "Тарусская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "440402470464",
+    "uikName": "УИК  655",
     "tikTvd": "240200070711",
-    "tikName": "Тарусская"
+    "tikName": "Тарусская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "440402470465",
+    "uikName": "УИК  656",
     "tikTvd": "240200070711",
-    "tikName": "Тарусская"
+    "tikName": "Тарусская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "440402470466",
+    "uikName": "УИК  657",
     "tikTvd": "240200070711",
-    "tikName": "Тарусская"
+    "tikName": "Тарусская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "440402470467",
+    "uikName": "УИК  658",
     "tikTvd": "240200070711",
-    "tikName": "Тарусская"
+    "tikName": "Тарусская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "440402570639",
+    "uikName": "УИК  659",
     "tikTvd": "240200070712",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "440402570640",
+    "uikName": "УИК  660",
     "tikTvd": "240200070712",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "440402570641",
+    "uikName": "УИК  661",
     "tikTvd": "240200070712",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "440402570642",
+    "uikName": "УИК  662",
     "tikTvd": "240200070712",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "440402570643",
+    "uikName": "УИК  663",
     "tikTvd": "240200070712",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "440402570644",
+    "uikName": "УИК  664",
     "tikTvd": "240200070712",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "440402570645",
+    "uikName": "УИК  665",
     "tikTvd": "240200070712",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "440402570646",
+    "uikName": "УИК  666",
     "tikTvd": "240200070712",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "440402570647",
+    "uikName": "УИК  667",
     "tikTvd": "240200070712",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "440402570648",
+    "uikName": "УИК  668",
     "tikTvd": "240200070712",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "440402570649",
+    "uikName": "УИК  669",
     "tikTvd": "240200070712",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "440402570650",
+    "uikName": "УИК  670",
     "tikTvd": "240200070712",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "440402570651",
+    "uikName": "УИК  671",
     "tikTvd": "240200070712",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "440402570652",
+    "uikName": "УИК  672",
     "tikTvd": "240200070712",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "440402570653",
+    "uikName": "УИК  673",
     "tikTvd": "240200070712",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "440402570654",
+    "uikName": "УИК  674",
     "tikTvd": "240200070712",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "440402570655",
+    "uikName": "УИК  675",
     "tikTvd": "240200070712",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "440402570656",
+    "uikName": "УИК  676",
     "tikTvd": "240200070712",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "440402570657",
+    "uikName": "УИК  677",
     "tikTvd": "240200070712",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "440402670486",
+    "uikName": "УИК  678",
     "tikTvd": "240200070710",
-    "tikName": "Ферзиковская"
+    "tikName": "Ферзиковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "440402670487",
+    "uikName": "УИК  679",
     "tikTvd": "240200070710",
-    "tikName": "Ферзиковская"
+    "tikName": "Ферзиковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "440402670488",
+    "uikName": "УИК  680",
     "tikTvd": "240200070710",
-    "tikName": "Ферзиковская"
+    "tikName": "Ферзиковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 681,
     "uikTvd": "440402670489",
+    "uikName": "УИК  681",
     "tikTvd": "240200070710",
-    "tikName": "Ферзиковская"
+    "tikName": "Ферзиковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "440402670490",
+    "uikName": "УИК  682",
     "tikTvd": "240200070710",
-    "tikName": "Ферзиковская"
+    "tikName": "Ферзиковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "440402670491",
+    "uikName": "УИК  683",
     "tikTvd": "240200070710",
-    "tikName": "Ферзиковская"
+    "tikName": "Ферзиковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 684,
     "uikTvd": "440402670492",
+    "uikName": "УИК  684",
     "tikTvd": "240200070710",
-    "tikName": "Ферзиковская"
+    "tikName": "Ферзиковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "440402670493",
+    "uikName": "УИК  685",
     "tikTvd": "240200070710",
-    "tikName": "Ферзиковская"
+    "tikName": "Ферзиковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "440402670494",
+    "uikName": "УИК  686",
     "tikTvd": "240200070710",
-    "tikName": "Ферзиковская"
+    "tikName": "Ферзиковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "440402670495",
+    "uikName": "УИК  687",
     "tikTvd": "240200070710",
-    "tikName": "Ферзиковская"
+    "tikName": "Ферзиковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 688,
     "uikTvd": "440402670496",
+    "uikName": "УИК  688",
     "tikTvd": "240200070710",
-    "tikName": "Ферзиковская"
+    "tikName": "Ферзиковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 689,
     "uikTvd": "440402670497",
+    "uikName": "УИК  689",
     "tikTvd": "240200070710",
-    "tikName": "Ферзиковская"
+    "tikName": "Ферзиковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "440402670498",
+    "uikName": "УИК  690",
     "tikTvd": "240200070710",
-    "tikName": "Ферзиковская"
+    "tikName": "Ферзиковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "440402670499",
+    "uikName": "УИК  691",
     "tikTvd": "240200070710",
-    "tikName": "Ферзиковская"
+    "tikName": "Ферзиковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "440402670500",
+    "uikName": "УИК  692",
     "tikTvd": "240200070710",
-    "tikName": "Ферзиковская"
+    "tikName": "Ферзиковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "440402670501",
+    "uikName": "УИК  693",
     "tikTvd": "240200070710",
-    "tikName": "Ферзиковская"
+    "tikName": "Ферзиковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "440402670502",
+    "uikName": "УИК  694",
     "tikTvd": "240200070710",
-    "tikName": "Ферзиковская"
+    "tikName": "Ферзиковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "440402670503",
+    "uikName": "УИК  695",
     "tikTvd": "240200070710",
-    "tikName": "Ферзиковская"
+    "tikName": "Ферзиковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "440402670504",
+    "uikName": "УИК  696",
     "tikTvd": "240200070710",
-    "tikName": "Ферзиковская"
+    "tikName": "Ферзиковская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "440402770527",
+    "uikName": "УИК №697",
     "tikTvd": "240200070709",
-    "tikName": "Хвастовичская"
+    "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "440402770529",
+    "uikName": "УИК №698",
     "tikTvd": "240200070709",
-    "tikName": "Хвастовичская"
+    "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "440402770531",
+    "uikName": "УИК №699",
     "tikTvd": "240200070709",
-    "tikName": "Хвастовичская"
+    "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "440402770533",
+    "uikName": "УИК №700",
     "tikTvd": "240200070709",
-    "tikName": "Хвастовичская"
+    "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "440402770535",
+    "uikName": "УИК №701",
     "tikTvd": "240200070709",
-    "tikName": "Хвастовичская"
+    "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "440402770537",
+    "uikName": "УИК №702",
     "tikTvd": "240200070709",
-    "tikName": "Хвастовичская"
+    "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "440402770539",
+    "uikName": "УИК №703",
     "tikTvd": "240200070709",
-    "tikName": "Хвастовичская"
+    "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "440402770540",
+    "uikName": "УИК №704",
     "tikTvd": "240200070709",
-    "tikName": "Хвастовичская"
+    "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "440402770541",
+    "uikName": "УИК №705",
     "tikTvd": "240200070709",
-    "tikName": "Хвастовичская"
+    "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "440402770542",
+    "uikName": "УИК №706",
     "tikTvd": "240200070709",
-    "tikName": "Хвастовичская"
+    "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "440402770543",
+    "uikName": "УИК №707",
     "tikTvd": "240200070709",
-    "tikName": "Хвастовичская"
+    "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "440402770544",
+    "uikName": "УИК №708",
     "tikTvd": "240200070709",
-    "tikName": "Хвастовичская"
+    "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "440402770545",
+    "uikName": "УИК №709",
     "tikTvd": "240200070709",
-    "tikName": "Хвастовичская"
+    "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "440402770546",
+    "uikName": "УИК №710",
     "tikTvd": "240200070709",
-    "tikName": "Хвастовичская"
+    "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "440402770547",
+    "uikName": "УИК №711",
     "tikTvd": "240200070709",
-    "tikName": "Хвастовичская"
+    "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "440402770548",
+    "uikName": "УИК №712",
     "tikTvd": "240200070709",
-    "tikName": "Хвастовичская"
+    "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "440402770549",
+    "uikName": "УИК №713",
     "tikTvd": "240200070709",
-    "tikName": "Хвастовичская"
+    "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "440402770550",
+    "uikName": "УИК №714",
     "tikTvd": "240200070709",
-    "tikName": "Хвастовичская"
+    "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "440402770551",
+    "uikName": "УИК №715",
     "tikTvd": "240200070709",
-    "tikName": "Хвастовичская"
+    "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "440402770552",
+    "uikName": "УИК №716",
     "tikTvd": "240200070709",
-    "tikName": "Хвастовичская"
+    "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "440402770553",
+    "uikName": "УИК №717",
     "tikTvd": "240200070709",
-    "tikName": "Хвастовичская"
+    "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "440402870395",
+    "uikName": "УИК  718",
     "tikTvd": "240200070694",
-    "tikName": "Юхновская"
+    "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "440402870396",
+    "uikName": "УИК  719",
     "tikTvd": "240200070694",
-    "tikName": "Юхновская"
+    "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "440402870397",
+    "uikName": "УИК  720",
     "tikTvd": "240200070694",
-    "tikName": "Юхновская"
+    "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "440402870398",
+    "uikName": "УИК  721",
     "tikTvd": "240200070694",
-    "tikName": "Юхновская"
+    "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "440402870399",
+    "uikName": "УИК  722",
     "tikTvd": "240200070694",
-    "tikName": "Юхновская"
+    "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "440402870400",
+    "uikName": "УИК  723",
     "tikTvd": "240200070694",
-    "tikName": "Юхновская"
+    "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "440402870401",
+    "uikName": "УИК  724",
     "tikTvd": "240200070694",
-    "tikName": "Юхновская"
+    "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "440402870402",
+    "uikName": "УИК  725",
     "tikTvd": "240200070694",
-    "tikName": "Юхновская"
+    "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "440402870403",
+    "uikName": "УИК  726",
     "tikTvd": "240200070694",
-    "tikName": "Юхновская"
+    "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "440402870404",
+    "uikName": "УИК  727",
     "tikTvd": "240200070694",
-    "tikName": "Юхновская"
+    "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "440402870405",
+    "uikName": "УИК  728",
     "tikTvd": "240200070694",
-    "tikName": "Юхновская"
+    "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "440402870406",
+    "uikName": "УИК  729",
     "tikTvd": "240200070694",
-    "tikName": "Юхновская"
+    "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "440402870407",
+    "uikName": "УИК  730",
     "tikTvd": "240200070694",
-    "tikName": "Юхновская"
+    "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "440402870408",
+    "uikName": "УИК  731",
     "tikTvd": "240200070694",
-    "tikName": "Юхновская"
+    "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "440402870409",
+    "uikName": "УИК  732",
     "tikTvd": "240200070694",
-    "tikName": "Юхновская"
+    "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "440402870410",
+    "uikName": "УИК  733",
     "tikTvd": "240200070694",
-    "tikName": "Юхновская"
+    "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "440402870411",
+    "uikName": "УИК  734",
     "tikTvd": "240200070694",
-    "tikName": "Юхновская"
+    "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 5175,
     "uikTvd": "440400470761",
+    "uikName": "УИК  5175",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 5176,
     "uikTvd": "440400470762",
+    "uikName": "УИК  5176",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 5177,
     "uikTvd": "440400470763",
+    "uikName": "УИК  5177",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 5178,
     "uikTvd": "440400470764",
+    "uikName": "УИК  5178",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 5179,
     "uikTvd": "440400470765",
+    "uikName": "УИК  5179",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 5180,
     "uikTvd": "440400470766",
+    "uikName": "УИК  5180",
     "tikTvd": "240200070684",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    }
   },
   {
     "uikNumber": 5181,
     "uikTvd": "440401170926",
+    "uikName": "УИК  5181",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 5182,
     "uikTvd": "440401170921",
+    "uikName": "УИК  5182",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 5183,
     "uikTvd": "440401170922",
+    "uikName": "УИК  5183",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 5184,
     "uikTvd": "440401170923",
+    "uikName": "УИК  5184",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 5185,
     "uikTvd": "440401170924",
+    "uikName": "УИК  5185",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   },
   {
     "uikNumber": 5186,
     "uikTvd": "440401170925",
+    "uikName": "УИК  5186",
     "tikTvd": "240200070705",
-    "tikName": "Калуга, Октябрьская"
+    "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

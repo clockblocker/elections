@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2342,
     "uikTvd": "450404570678",
+    "uikName": "УИК №2342",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2492,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -58,8 +67,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2343,
     "uikTvd": "450404570680",
+    "uikName": "УИК №2343",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2351,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -105,8 +123,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2344,
     "uikTvd": "450404570682",
+    "uikName": "УИК №2344",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2032,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -152,8 +179,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2345,
     "uikTvd": "450404570684",
+    "uikName": "УИК №2345",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1176,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -199,8 +235,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2346,
     "uikTvd": "450404570686",
+    "uikName": "УИК №2346",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2025,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -246,8 +291,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2347,
     "uikTvd": "450404570688",
+    "uikName": "УИК №2347",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1065,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -293,8 +347,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2348,
     "uikTvd": "450404570690",
+    "uikName": "УИК №2348",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 686,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -340,8 +403,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2349,
     "uikTvd": "450404570692",
+    "uikName": "УИК №2349",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2334,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -387,8 +459,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2350,
     "uikTvd": "450404570694",
+    "uikName": "УИК №2350",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1591,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -434,8 +515,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2351,
     "uikTvd": "450404570696",
+    "uikName": "УИК №2351",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2380,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -481,8 +571,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2352,
     "uikTvd": "450404570698",
+    "uikName": "УИК №2352",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 772,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -528,8 +627,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2353,
     "uikTvd": "450404570700",
+    "uikName": "УИК №2353",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1381,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -575,8 +683,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2354,
     "uikTvd": "450404570702",
+    "uikName": "УИК №2354",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 781,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -622,8 +739,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2355,
     "uikTvd": "450404570704",
+    "uikName": "УИК №2355",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1736,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -669,8 +795,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2356,
     "uikTvd": "450404570706",
+    "uikName": "УИК №2356",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 687,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -716,8 +851,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2357,
     "uikTvd": "450404570708",
+    "uikName": "УИК №2357",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1066,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -763,8 +907,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2358,
     "uikTvd": "450404570710",
+    "uikName": "УИК №2358",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1528,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -810,8 +963,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2359,
     "uikTvd": "450404570712",
+    "uikName": "УИК №2359",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 373,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -857,8 +1019,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2360,
     "uikTvd": "450404570714",
+    "uikName": "УИК №2360",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1901,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -904,8 +1075,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2361,
     "uikTvd": "450404570716",
+    "uikName": "УИК №2361",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2687,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -951,8 +1131,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2362,
     "uikTvd": "450404570718",
+    "uikName": "УИК №2362",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 886,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -998,8 +1187,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2363,
     "uikTvd": "450404570720",
+    "uikName": "УИК №2363",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2924,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -1045,8 +1243,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2364,
     "uikTvd": "450404570722",
+    "uikName": "УИК №2364",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -1092,8 +1299,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2365,
     "uikTvd": "450404570724",
+    "uikName": "УИК №2365",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1494,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1139,8 +1355,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2366,
     "uikTvd": "450404570726",
+    "uikName": "УИК №2366",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1508,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1186,8 +1411,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2367,
     "uikTvd": "450404570728",
+    "uikName": "УИК №2367",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1060,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1233,8 +1467,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2368,
     "uikTvd": "450404570730",
+    "uikName": "УИК №2368",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 501,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -1280,8 +1523,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2369,
     "uikTvd": "450404570732",
+    "uikName": "УИК №2369",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1750,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -1327,8 +1579,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2370,
     "uikTvd": "450404570734",
+    "uikName": "УИК №2370",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1459,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1374,8 +1635,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2371,
     "uikTvd": "450404570736",
+    "uikName": "УИК №2371",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1051,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1421,8 +1691,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2372,
     "uikTvd": "450404570738",
+    "uikName": "УИК №2372",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1167,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -1468,8 +1747,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2373,
     "uikTvd": "450404570740",
+    "uikName": "УИК №2373",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2122,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1515,8 +1803,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2374,
     "uikTvd": "450404570742",
+    "uikName": "УИК №2374",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2718,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1562,8 +1859,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2375,
     "uikTvd": "450404570744",
+    "uikName": "УИК №2375",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1194,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -1609,8 +1915,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2376,
     "uikTvd": "450404570746",
+    "uikName": "УИК №2376",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 746,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -1656,8 +1971,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2377,
     "uikTvd": "450404570748",
+    "uikName": "УИК №2377",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2468,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1703,8 +2027,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2378,
     "uikTvd": "450404570750",
+    "uikName": "УИК №2378",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 290,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -1750,8 +2083,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2379,
     "uikTvd": "450404570752",
+    "uikName": "УИК №2379",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -1797,8 +2139,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2380,
     "uikTvd": "450404570754",
+    "uikName": "УИК №2380",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1735,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1844,8 +2195,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2381,
     "uikTvd": "450404570756",
+    "uikName": "УИК №2381",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 552,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -1891,8 +2251,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2382,
     "uikTvd": "450404570758",
+    "uikName": "УИК №2382",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1458,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1938,8 +2307,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2383,
     "uikTvd": "450404570760",
+    "uikName": "УИК №2383",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2680,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1985,8 +2363,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2384,
     "uikTvd": "450404570762",
+    "uikName": "УИК №2384",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1755,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2032,8 +2419,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2385,
     "uikTvd": "450404570764",
+    "uikName": "УИК №2385",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 766,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -2079,8 +2475,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2386,
     "uikTvd": "450404570766",
+    "uikName": "УИК №2386",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 974,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -2126,8 +2531,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2387,
     "uikTvd": "450404570768",
+    "uikName": "УИК №2387",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2179,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2173,8 +2587,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2388,
     "uikTvd": "450404570770",
+    "uikName": "УИК №2388",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 912,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -2220,8 +2643,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2389,
     "uikTvd": "450404570772",
+    "uikName": "УИК №2389",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 718,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -2267,8 +2699,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2390,
     "uikTvd": "450404570774",
+    "uikName": "УИК №2390",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 995,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -2314,8 +2755,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2391,
     "uikTvd": "450404570776",
+    "uikName": "УИК №2391",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1448,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2361,8 +2811,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2392,
     "uikTvd": "450404570778",
+    "uikName": "УИК №2392",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1382,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -2408,8 +2867,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2393,
     "uikTvd": "450404570780",
+    "uikName": "УИК №2393",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2028,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2455,8 +2923,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2394,
     "uikTvd": "450404570782",
+    "uikName": "УИК №2394",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1815,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2502,8 +2979,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2395,
     "uikTvd": "450404570784",
+    "uikName": "УИК №2395",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 825,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -2549,8 +3035,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2396,
     "uikTvd": "450404570786",
+    "uikName": "УИК №2396",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 572,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -2596,8 +3091,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2397,
     "uikTvd": "450404570788",
+    "uikName": "УИК №2397",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1744,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2643,8 +3147,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2398,
     "uikTvd": "450404570790",
+    "uikName": "УИК №2398",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 511,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -2690,8 +3203,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1435,
     "uikTvd": "450403170690",
+    "uikName": "УИК №1435",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1741,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2739,8 +3261,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1436,
     "uikTvd": "450403170691",
+    "uikName": "УИК №1436",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1420,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2788,8 +3319,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1437,
     "uikTvd": "450403170692",
+    "uikName": "УИК №1437",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1432,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2837,8 +3377,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1438,
     "uikTvd": "450403170693",
+    "uikName": "УИК №1438",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1622,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2886,8 +3435,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1439,
     "uikTvd": "450403170694",
+    "uikName": "УИК №1439",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2263,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2935,8 +3493,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1440,
     "uikTvd": "450403170695",
+    "uikName": "УИК №1440",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2510,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2984,8 +3551,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1441,
     "uikTvd": "450403170696",
+    "uikName": "УИК №1441",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1961,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3033,8 +3609,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1442,
     "uikTvd": "450403170697",
+    "uikName": "УИК №1442",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1913,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3082,8 +3667,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1443,
     "uikTvd": "450403170698",
+    "uikName": "УИК №1443",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2045,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3131,8 +3725,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1444,
     "uikTvd": "450403170699",
+    "uikName": "УИК №1444",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2217,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3180,8 +3783,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1445,
     "uikTvd": "450403170700",
+    "uikName": "УИК №1445",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2610,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3229,8 +3841,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1446,
     "uikTvd": "450403170701",
+    "uikName": "УИК №1446",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1834,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3278,8 +3899,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1447,
     "uikTvd": "450403170702",
+    "uikName": "УИК №1447",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1885,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3327,8 +3957,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1448,
     "uikTvd": "450403170703",
+    "uikName": "УИК №1448",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 927,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -3376,8 +4015,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1449,
     "uikTvd": "450403170704",
+    "uikName": "УИК №1449",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1047,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -3425,8 +4073,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1450,
     "uikTvd": "450403170705",
+    "uikName": "УИК №1450",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1770,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3474,8 +4131,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1451,
     "uikTvd": "450403170706",
+    "uikName": "УИК №1451",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1806,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3523,8 +4189,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1452,
     "uikTvd": "450403170707",
+    "uikName": "УИК №1452",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2070,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3572,8 +4247,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1453,
     "uikTvd": "450403170708",
+    "uikName": "УИК №1453",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2053,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3621,8 +4305,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1454,
     "uikTvd": "450403170709",
+    "uikName": "УИК №1454",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2207,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3670,8 +4363,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1455,
     "uikTvd": "450403170710",
+    "uikName": "УИК №1455",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2085,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3719,8 +4421,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1456,
     "uikTvd": "450403170711",
+    "uikName": "УИК №1456",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1999,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -3768,8 +4479,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1457,
     "uikTvd": "450403170712",
+    "uikName": "УИК №1457",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2399,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3817,8 +4537,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1458,
     "uikTvd": "450403170713",
+    "uikName": "УИК №1458",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2390,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3866,8 +4595,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1459,
     "uikTvd": "450403170714",
+    "uikName": "УИК №1459",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2774,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3915,8 +4653,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1460,
     "uikTvd": "450403170715",
+    "uikName": "УИК №1460",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2804,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3964,8 +4711,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1461,
     "uikTvd": "450403170716",
+    "uikName": "УИК №1461",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2761,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4013,8 +4769,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1462,
     "uikTvd": "450403170717",
+    "uikName": "УИК №1462",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2442,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4062,8 +4827,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1463,
     "uikTvd": "450403170718",
+    "uikName": "УИК №1463",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1850,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4111,8 +4885,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1464,
     "uikTvd": "450403170719",
+    "uikName": "УИК №1464",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1456,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -4160,8 +4943,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1465,
     "uikTvd": "450403170720",
+    "uikName": "УИК №1465",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1985,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4209,8 +5001,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1466,
     "uikTvd": "450403170721",
+    "uikName": "УИК №1466",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2548,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4258,8 +5059,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1467,
     "uikTvd": "450403170722",
+    "uikName": "УИК №1467",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1691,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4307,8 +5117,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1468,
     "uikTvd": "450403170723",
+    "uikName": "УИК №1468",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 744,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -4356,8 +5175,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1469,
     "uikTvd": "450403170724",
+    "uikName": "УИК №1469",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2336,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -4405,8 +5233,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1470,
     "uikTvd": "450403170725",
+    "uikName": "УИК №1470",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2408,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4454,8 +5291,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1471,
     "uikTvd": "450403170726",
+    "uikName": "УИК №1471",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1998,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4503,8 +5349,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1472,
     "uikTvd": "450403170727",
+    "uikName": "УИК №1472",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2336,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4552,8 +5407,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1473,
     "uikTvd": "450403170728",
+    "uikName": "УИК №1473",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1901,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -4601,8 +5465,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1474,
     "uikTvd": "450403170729",
+    "uikName": "УИК №1474",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2555,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -4650,8 +5523,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1475,
     "uikTvd": "450403170730",
+    "uikName": "УИК №1475",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2092,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4699,8 +5581,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1476,
     "uikTvd": "450403170731",
+    "uikName": "УИК №1476",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1818,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4748,8 +5639,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1477,
     "uikTvd": "450403170732",
+    "uikName": "УИК №1477",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2700,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4797,8 +5697,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1478,
     "uikTvd": "450403170733",
+    "uikName": "УИК №1478",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2216,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4846,8 +5755,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1479,
     "uikTvd": "450403170734",
+    "uikName": "УИК №1479",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2273,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4895,8 +5813,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1480,
     "uikTvd": "450403170735",
+    "uikName": "УИК №1480",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2330,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4944,8 +5871,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1481,
     "uikTvd": "450403170736",
+    "uikName": "УИК №1481",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2064,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4993,8 +5929,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1482,
     "uikTvd": "450403170737",
+    "uikName": "УИК №1482",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2502,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5042,8 +5987,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1483,
     "uikTvd": "450403170738",
+    "uikName": "УИК №1483",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2125,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -5091,8 +6045,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1484,
     "uikTvd": "450403170739",
+    "uikName": "УИК №1484",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2334,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -5140,8 +6103,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1485,
     "uikTvd": "450403170740",
+    "uikName": "УИК №1485",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2273,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5189,8 +6161,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1486,
     "uikTvd": "450403170741",
+    "uikName": "УИК №1486",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2553,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5238,8 +6219,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1487,
     "uikTvd": "450403170742",
+    "uikName": "УИК №1487",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2387,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5287,8 +6277,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1488,
     "uikTvd": "450403170743",
+    "uikName": "УИК №1488",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2586,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -5336,8 +6335,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1489,
     "uikTvd": "450403170744",
+    "uikName": "УИК №1489",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2279,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5385,8 +6393,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1490,
     "uikTvd": "450403170745",
+    "uikName": "УИК №1490",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2795,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -5434,8 +6451,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1491,
     "uikTvd": "450403170746",
+    "uikName": "УИК №1491",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -5483,8 +6509,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1492,
     "uikTvd": "450403170747",
+    "uikName": "УИК №1492",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2962,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -5532,8 +6567,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1493,
     "uikTvd": "450403170748",
+    "uikName": "УИК №1493",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2387,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5581,8 +6625,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1494,
     "uikTvd": "450403170749",
+    "uikName": "УИК №1494",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2297,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5630,8 +6683,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1495,
     "uikTvd": "450403170750",
+    "uikName": "УИК №1495",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2039,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5679,8 +6741,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1496,
     "uikTvd": "450403170751",
+    "uikName": "УИК №1496",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1493,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -5728,8 +6799,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1497,
     "uikTvd": "450403170752",
+    "uikName": "УИК №1497",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2204,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5777,8 +6857,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1498,
     "uikTvd": "450403170753",
+    "uikName": "УИК №1498",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 769,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -5826,8 +6915,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1499,
     "uikTvd": "450403170754",
+    "uikName": "УИК №1499",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 660,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -5875,8 +6973,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1500,
     "uikTvd": "450403170755",
+    "uikName": "УИК №1500",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -5924,8 +7031,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1501,
     "uikTvd": "450403170756",
+    "uikName": "УИК №1501",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -5973,8 +7089,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1502,
     "uikTvd": "450403170757",
+    "uikName": "УИК №1502",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2277,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -6022,8 +7147,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1503,
     "uikTvd": "450403170758",
+    "uikName": "УИК №1503",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1858,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6071,8 +7205,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1504,
     "uikTvd": "450403170759",
+    "uikName": "УИК №1504",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2948,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6120,8 +7263,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1505,
     "uikTvd": "450403170760",
+    "uikName": "УИК №1505",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 968,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -6169,8 +7321,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1506,
     "uikTvd": "450403170761",
+    "uikName": "УИК №1506",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1356,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -6218,8 +7379,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1507,
     "uikTvd": "450403170762",
+    "uikName": "УИК №1507",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -6267,8 +7437,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1508,
     "uikTvd": "450403170763",
+    "uikName": "УИК №1508",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 974,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -6316,8 +7495,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1509,
     "uikTvd": "450403170764",
+    "uikName": "УИК №1509",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -6365,8 +7553,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1510,
     "uikTvd": "450403170765",
+    "uikName": "УИК №1510",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2224,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6414,8 +7611,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1511,
     "uikTvd": "450403170766",
+    "uikName": "УИК №1511",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 724,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -6463,8 +7669,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1512,
     "uikTvd": "450403170767",
+    "uikName": "УИК №1512",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 10,
       "Число бюллетеней, полученных участковыми комиссиями": 20,
@@ -6512,8 +7727,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1513,
     "uikTvd": "450403170768",
+    "uikName": "УИК №1513",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 358,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6561,8 +7785,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1514,
     "uikTvd": "450403170769",
+    "uikName": "УИК №1514",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -6610,8 +7843,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1515,
     "uikTvd": "450403170770",
+    "uikName": "УИК №1515",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 548,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6659,8 +7901,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1516,
     "uikTvd": "450403170771",
+    "uikName": "УИК №1516",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 531,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6708,8 +7959,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1517,
     "uikTvd": "450403170772",
+    "uikName": "УИК №1517",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 780,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -6757,8 +8017,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1518,
     "uikTvd": "450403170773",
+    "uikName": "УИК №1518",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2012,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -6806,8 +8075,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1519,
     "uikTvd": "450403170774",
+    "uikName": "УИК №1519",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1024,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6855,8 +8133,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1520,
     "uikTvd": "450403170775",
+    "uikName": "УИК №1520",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -6904,8 +8191,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2704,
     "uikTvd": "450405270497",
+    "uikName": "УИК №2704",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2191,
       "Число бюллетеней, полученных участковыми комиссиями": 1910,
@@ -6953,8 +8249,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2705,
     "uikTvd": "450405270498",
+    "uikName": "УИК №2705",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2064,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -7002,8 +8307,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2706,
     "uikTvd": "450405270499",
+    "uikName": "УИК №2706",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1816,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7051,8 +8365,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2707,
     "uikTvd": "450405270500",
+    "uikName": "УИК №2707",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1675,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7100,8 +8423,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2708,
     "uikTvd": "450405270501",
+    "uikName": "УИК №2708",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1882,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -7149,8 +8481,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2709,
     "uikTvd": "450405270502",
+    "uikName": "УИК №2709",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1912,
       "Число бюллетеней, полученных участковыми комиссиями": 1730,
@@ -7198,8 +8539,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2710,
     "uikTvd": "450405270503",
+    "uikName": "УИК №2710",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2099,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7247,8 +8597,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2711,
     "uikTvd": "450405270504",
+    "uikName": "УИК №2711",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2211,
       "Число бюллетеней, полученных участковыми комиссиями": 2010,
@@ -7296,8 +8655,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2712,
     "uikTvd": "450405270505",
+    "uikName": "УИК №2712",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2812,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7345,8 +8713,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2713,
     "uikTvd": "450405270506",
+    "uikName": "УИК №2713",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2688,
       "Число бюллетеней, полученных участковыми комиссиями": 2670,
@@ -7394,8 +8771,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2714,
     "uikTvd": "450405270507",
+    "uikName": "УИК №2714",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2019,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7443,8 +8829,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2715,
     "uikTvd": "450405270508",
+    "uikName": "УИК №2715",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1439,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7492,8 +8887,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2716,
     "uikTvd": "450405270509",
+    "uikName": "УИК №2716",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2111,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7541,8 +8945,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2717,
     "uikTvd": "450405270510",
+    "uikName": "УИК №2717",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2248,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -7590,8 +9003,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2718,
     "uikTvd": "450405270511",
+    "uikName": "УИК №2718",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 747,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -7639,8 +9061,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2719,
     "uikTvd": "450405270512",
+    "uikName": "УИК №2719",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1248,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -7688,8 +9119,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2720,
     "uikTvd": "450405270513",
+    "uikName": "УИК №2720",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1496,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7737,8 +9177,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2721,
     "uikTvd": "450405270514",
+    "uikName": "УИК №2721",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2297,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -7786,8 +9235,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2722,
     "uikTvd": "450405270515",
+    "uikName": "УИК №2722",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -7835,8 +9293,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2723,
     "uikTvd": "450405270516",
+    "uikName": "УИК №2723",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1675,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7884,8 +9351,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2724,
     "uikTvd": "450405270517",
+    "uikName": "УИК №2724",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 450,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -7933,8 +9409,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2725,
     "uikTvd": "450405270518",
+    "uikName": "УИК №2725",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 401,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -7982,8 +9467,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2726,
     "uikTvd": "450405270519",
+    "uikName": "УИК №2726",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 273,
       "Число бюллетеней, полученных участковыми комиссиями": 417,
@@ -8031,8 +9525,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2727,
     "uikTvd": "450405270520",
+    "uikName": "УИК №2727",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1464,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -8080,8 +9583,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2728,
     "uikTvd": "450405270521",
+    "uikName": "УИК №2728",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1814,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -8129,8 +9641,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2729,
     "uikTvd": "450405270522",
+    "uikName": "УИК №2729",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 264,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -8178,8 +9699,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2730,
     "uikTvd": "450405270523",
+    "uikName": "УИК №2730",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 683,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -8227,8 +9757,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2731,
     "uikTvd": "450405270524",
+    "uikName": "УИК №2731",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 399,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -8276,8 +9815,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2732,
     "uikTvd": "450405270525",
+    "uikName": "УИК №2732",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 783,
       "Число бюллетеней, полученных участковыми комиссиями": 766,
@@ -8325,8 +9873,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2733,
     "uikTvd": "450405270526",
+    "uikName": "УИК №2733",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 307,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -8374,8 +9931,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2734,
     "uikTvd": "450405270527",
+    "uikName": "УИК №2734",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 918,
       "Число бюллетеней, полученных участковыми комиссиями": 810,
@@ -8423,8 +9989,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2735,
     "uikTvd": "450405270528",
+    "uikName": "УИК №2735",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 514,
       "Число бюллетеней, полученных участковыми комиссиями": 492,
@@ -8472,8 +10047,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2736,
     "uikTvd": "450405270529",
+    "uikName": "УИК №2736",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 329,
       "Число бюллетеней, полученных участковыми комиссиями": 315,
@@ -8521,8 +10105,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2737,
     "uikTvd": "450405270530",
+    "uikName": "УИК №2737",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2321,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -8570,8 +10163,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2738,
     "uikTvd": "450405270531",
+    "uikName": "УИК №2738",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2053,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -8619,8 +10221,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2739,
     "uikTvd": "450405270532",
+    "uikName": "УИК №2739",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2789,
       "Число бюллетеней, полученных участковыми комиссиями": 2516,
@@ -8668,8 +10279,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2740,
     "uikTvd": "450405270533",
+    "uikName": "УИК №2740",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2878,
       "Число бюллетеней, полученных участковыми комиссиями": 2697,
@@ -8717,8 +10337,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2741,
     "uikTvd": "450405270534",
+    "uikName": "УИК №2741",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 859,
       "Число бюллетеней, полученных участковыми комиссиями": 832,
@@ -8766,8 +10395,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2742,
     "uikTvd": "450405270535",
+    "uikName": "УИК №2742",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 709,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -8815,8 +10453,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2743,
     "uikTvd": "450405270536",
+    "uikName": "УИК №2743",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 634,
       "Число бюллетеней, полученных участковыми комиссиями": 597,
@@ -8864,8 +10511,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2744,
     "uikTvd": "450405270537",
+    "uikName": "УИК №2744",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 676,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -8913,8 +10569,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2745,
     "uikTvd": "450405270538",
+    "uikName": "УИК №2745",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1947,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -8962,8 +10627,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2746,
     "uikTvd": "450405270539",
+    "uikName": "УИК №2746",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2554,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9011,8 +10685,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2747,
     "uikTvd": "450405270540",
+    "uikName": "УИК №2747",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2380,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -9060,8 +10743,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2748,
     "uikTvd": "450405270541",
+    "uikName": "УИК №2748",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1262,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -9109,8 +10801,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2749,
     "uikTvd": "450405270542",
+    "uikName": "УИК №2749",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2172,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -9158,8 +10859,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2750,
     "uikTvd": "450405270543",
+    "uikName": "УИК №2750",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 227,
@@ -9207,8 +10917,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2751,
     "uikTvd": "450405270544",
+    "uikName": "УИК №2751",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1288,
       "Число бюллетеней, полученных участковыми комиссиями": 1129,
@@ -9256,8 +10975,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2752,
     "uikTvd": "450405270545",
+    "uikName": "УИК №2752",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 713,
       "Число бюллетеней, полученных участковыми комиссиями": 611,
@@ -9305,8 +11033,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2753,
     "uikTvd": "450405270546",
+    "uikName": "УИК №2753",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2783,
       "Число бюллетеней, полученных участковыми комиссиями": 2530,
@@ -9354,8 +11091,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2754,
     "uikTvd": "450405270547",
+    "uikName": "УИК №2754",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1238,
       "Число бюллетеней, полученных участковыми комиссиями": 1130,
@@ -9403,8 +11149,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2755,
     "uikTvd": "450405270548",
+    "uikName": "УИК №2755",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 703,
       "Число бюллетеней, полученных участковыми комиссиями": 687,
@@ -9452,8 +11207,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2756,
     "uikTvd": "450405270549",
+    "uikName": "УИК №2756",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2198,
       "Число бюллетеней, полученных участковыми комиссиями": 1955,
@@ -9501,8 +11265,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2757,
     "uikTvd": "450405270550",
+    "uikName": "УИК №2757",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2426,
       "Число бюллетеней, полученных участковыми комиссиями": 2165,
@@ -9550,8 +11323,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2758,
     "uikTvd": "450405270551",
+    "uikName": "УИК №2758",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1249,
       "Число бюллетеней, полученных участковыми комиссиями": 1090,
@@ -9599,8 +11381,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2759,
     "uikTvd": "450405270552",
+    "uikName": "УИК №2759",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1022,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -9648,8 +11439,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2760,
     "uikTvd": "450405270553",
+    "uikName": "УИК №2760",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 889,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -9697,8 +11497,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2761,
     "uikTvd": "450405270554",
+    "uikName": "УИК №2761",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1674,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9746,8 +11555,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2762,
     "uikTvd": "450405270555",
+    "uikName": "УИК №2762",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1402,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -9795,8 +11613,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2763,
     "uikTvd": "450405270556",
+    "uikName": "УИК №2763",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1955,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9844,8 +11671,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2764,
     "uikTvd": "450405270557",
+    "uikName": "УИК №2764",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1606,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -9893,8 +11729,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2765,
     "uikTvd": "450405270558",
+    "uikName": "УИК №2765",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2255,
       "Число бюллетеней, полученных участковыми комиссиями": 2289,
@@ -9942,8 +11787,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2766,
     "uikTvd": "450405270559",
+    "uikName": "УИК №2766",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2539,
       "Число бюллетеней, полученных участковыми комиссиями": 2137,
@@ -9991,8 +11845,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2767,
     "uikTvd": "450405270560",
+    "uikName": "УИК №2767",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2947,
       "Число бюллетеней, полученных участковыми комиссиями": 2714,
@@ -10040,8 +11903,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2768,
     "uikTvd": "450405270561",
+    "uikName": "УИК №2768",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2921,
       "Число бюллетеней, полученных участковыми комиссиями": 2628,
@@ -10089,8 +11961,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2769,
     "uikTvd": "450405270562",
+    "uikName": "УИК №2769",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 639,
       "Число бюллетеней, полученных участковыми комиссиями": 587,
@@ -10138,8 +12019,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2770,
     "uikTvd": "450405270563",
+    "uikName": "УИК №2770",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1397,
       "Число бюллетеней, полученных участковыми комиссиями": 1406,
@@ -10187,8 +12077,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2771,
     "uikTvd": "450405270564",
+    "uikName": "УИК №2771",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 888,
       "Число бюллетеней, полученных участковыми комиссиями": 883,
@@ -10236,8 +12135,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2772,
     "uikTvd": "450405270565",
+    "uikName": "УИК №2772",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1979,
       "Число бюллетеней, полученных участковыми комиссиями": 1942,
@@ -10285,8 +12193,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 919,
     "uikTvd": "450401670476",
+    "uikName": "УИК №919",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1624,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10334,8 +12251,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 920,
     "uikTvd": "450401670477",
+    "uikName": "УИК №920",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1633,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10383,8 +12309,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 921,
     "uikTvd": "450401670478",
+    "uikName": "УИК №921",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2149,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10432,8 +12367,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 922,
     "uikTvd": "450401670479",
+    "uikName": "УИК №922",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2222,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10481,8 +12425,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 923,
     "uikTvd": "450401670480",
+    "uikName": "УИК №923",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1787,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10530,8 +12483,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 924,
     "uikTvd": "450401670481",
+    "uikName": "УИК №924",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1865,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10579,8 +12541,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 925,
     "uikTvd": "450401670482",
+    "uikName": "УИК №925",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1840,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10628,8 +12599,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 926,
     "uikTvd": "450401670483",
+    "uikName": "УИК №926",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2077,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10677,8 +12657,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 927,
     "uikTvd": "450401670484",
+    "uikName": "УИК №927",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2293,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10726,8 +12715,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 928,
     "uikTvd": "450401670485",
+    "uikName": "УИК №928",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1118,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10775,8 +12773,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 929,
     "uikTvd": "450401670486",
+    "uikName": "УИК №929",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1587,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10824,8 +12831,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 930,
     "uikTvd": "450401670487",
+    "uikName": "УИК №930",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1537,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10873,8 +12889,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 931,
     "uikTvd": "450401670488",
+    "uikName": "УИК №931",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1727,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10922,8 +12947,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 932,
     "uikTvd": "450401670489",
+    "uikName": "УИК №932",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1400,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -10971,8 +13005,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 933,
     "uikTvd": "450401670490",
+    "uikName": "УИК №933",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1371,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -11020,8 +13063,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 934,
     "uikTvd": "450401670491",
+    "uikName": "УИК №934",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1953,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11069,8 +13121,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 935,
     "uikTvd": "450401670492",
+    "uikName": "УИК №935",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1654,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -11118,8 +13179,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 936,
     "uikTvd": "450401670493",
+    "uikName": "УИК №936",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2482,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11167,8 +13237,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 937,
     "uikTvd": "450401670494",
+    "uikName": "УИК №937",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2432,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11216,8 +13295,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 938,
     "uikTvd": "450401670495",
+    "uikName": "УИК №938",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2549,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11265,8 +13353,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 939,
     "uikTvd": "450401670496",
+    "uikName": "УИК №939",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1946,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11314,8 +13411,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 940,
     "uikTvd": "450401670497",
+    "uikName": "УИК №940",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2383,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11363,8 +13469,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 941,
     "uikTvd": "450401670498",
+    "uikName": "УИК №941",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1766,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11412,8 +13527,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 942,
     "uikTvd": "450401670499",
+    "uikName": "УИК №942",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2088,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11461,8 +13585,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 943,
     "uikTvd": "450401670500",
+    "uikName": "УИК №943",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2165,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11510,8 +13643,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 944,
     "uikTvd": "450401670501",
+    "uikName": "УИК №944",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2101,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11559,8 +13701,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 945,
     "uikTvd": "450401670502",
+    "uikName": "УИК №945",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1841,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11608,8 +13759,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 946,
     "uikTvd": "450401670503",
+    "uikName": "УИК №946",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1992,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11657,8 +13817,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 947,
     "uikTvd": "450401670504",
+    "uikName": "УИК №947",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1989,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11706,8 +13875,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 948,
     "uikTvd": "450401670505",
+    "uikName": "УИК №948",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2565,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11755,8 +13933,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 949,
     "uikTvd": "450401670506",
+    "uikName": "УИК №949",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2742,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11804,8 +13991,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 950,
     "uikTvd": "450401670507",
+    "uikName": "УИК №950",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 558,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -11853,8 +14049,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 951,
     "uikTvd": "450401670508",
+    "uikName": "УИК №951",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2097,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11902,8 +14107,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 952,
     "uikTvd": "450401670509",
+    "uikName": "УИК №952",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1926,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11951,8 +14165,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 953,
     "uikTvd": "450401670510",
+    "uikName": "УИК №953",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2492,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -12000,8 +14223,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 954,
     "uikTvd": "450401670511",
+    "uikName": "УИК №954",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2756,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -12049,8 +14281,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 955,
     "uikTvd": "450401670512",
+    "uikName": "УИК №955",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2263,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -12098,8 +14339,17 @@ export const duma_2003_uik_428_region_50_part_006 = [
     "ballot": "single-member",
     "uikNumber": 956,
     "uikTvd": "450401670513",
+    "uikName": "УИК №956",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2354,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,

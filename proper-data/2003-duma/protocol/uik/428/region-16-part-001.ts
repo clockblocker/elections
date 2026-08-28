@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 526,
     "uikTvd": "416405266907",
+    "uikName": "УИК  526",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 649,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -60,8 +69,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 527,
     "uikTvd": "416405266908",
+    "uikName": "УИК  527",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2186,
       "Число бюллетеней, полученных участковыми комиссиями": 2072,
@@ -109,8 +127,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 528,
     "uikTvd": "416405266909",
+    "uikName": "УИК  528",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1928,
       "Число бюллетеней, полученных участковыми комиссиями": 1935,
@@ -158,8 +185,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 529,
     "uikTvd": "416405266910",
+    "uikName": "УИК  529",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2480,
       "Число бюллетеней, полученных участковыми комиссиями": 2389,
@@ -207,8 +243,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 530,
     "uikTvd": "416405266911",
+    "uikName": "УИК  530",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 537,
       "Число бюллетеней, полученных участковыми комиссиями": 523,
@@ -256,8 +301,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 531,
     "uikTvd": "416405266912",
+    "uikName": "УИК  531",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 255,
       "Число бюллетеней, полученных участковыми комиссиями": 256,
@@ -305,8 +359,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 532,
     "uikTvd": "416405266913",
+    "uikName": "УИК  532",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 389,
       "Число бюллетеней, полученных участковыми комиссиями": 397,
@@ -354,8 +417,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 533,
     "uikTvd": "416405266914",
+    "uikName": "УИК  533",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 365,
@@ -403,8 +475,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 534,
     "uikTvd": "416405266915",
+    "uikName": "УИК  534",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 323,
@@ -452,8 +533,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 535,
     "uikTvd": "416405266916",
+    "uikName": "УИК  535",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 646,
       "Число бюллетеней, полученных участковыми комиссиями": 663,
@@ -501,8 +591,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 536,
     "uikTvd": "416405266917",
+    "uikName": "УИК  536",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 449,
       "Число бюллетеней, полученных участковыми комиссиями": 447,
@@ -550,8 +649,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 537,
     "uikTvd": "416405266918",
+    "uikName": "УИК  537",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -599,8 +707,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 538,
     "uikTvd": "416405266919",
+    "uikName": "УИК  538",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 227,
@@ -648,8 +765,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 539,
     "uikTvd": "416405266920",
+    "uikName": "УИК  539",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -697,8 +823,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 540,
     "uikTvd": "416405266921",
+    "uikName": "УИК  540",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 634,
       "Число бюллетеней, полученных участковыми комиссиями": 678,
@@ -746,8 +881,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 541,
     "uikTvd": "416405266922",
+    "uikName": "УИК  541",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 342,
       "Число бюллетеней, полученных участковыми комиссиями": 335,
@@ -795,8 +939,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 542,
     "uikTvd": "416405266923",
+    "uikName": "УИК  542",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 452,
       "Число бюллетеней, полученных участковыми комиссиями": 446,
@@ -844,8 +997,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 543,
     "uikTvd": "416405266924",
+    "uikName": "УИК  543",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 307,
       "Число бюллетеней, полученных участковыми комиссиями": 313,
@@ -893,8 +1055,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 544,
     "uikTvd": "416405266925",
+    "uikName": "УИК  544",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 399,
       "Число бюллетеней, полученных участковыми комиссиями": 402,
@@ -942,8 +1113,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 545,
     "uikTvd": "416405266926",
+    "uikName": "УИК  545",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 428,
       "Число бюллетеней, полученных участковыми комиссиями": 425,
@@ -991,8 +1171,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 546,
     "uikTvd": "416405266927",
+    "uikName": "УИК  546",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 267,
@@ -1040,8 +1229,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 547,
     "uikTvd": "416405266928",
+    "uikName": "УИК  547",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 101,
@@ -1089,8 +1287,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 548,
     "uikTvd": "416405266929",
+    "uikName": "УИК  548",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 447,
       "Число бюллетеней, полученных участковыми комиссиями": 442,
@@ -1138,8 +1345,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 549,
     "uikTvd": "416405266930",
+    "uikName": "УИК  549",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 180,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -1187,8 +1403,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 550,
     "uikTvd": "416405266931",
+    "uikName": "УИК  550",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 673,
       "Число бюллетеней, полученных участковыми комиссиями": 678,
@@ -1236,8 +1461,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 551,
     "uikTvd": "416405266932",
+    "uikName": "УИК  551",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 241,
@@ -1285,8 +1519,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 552,
     "uikTvd": "416405266933",
+    "uikName": "УИК  552",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 538,
       "Число бюллетеней, полученных участковыми комиссиями": 537,
@@ -1334,8 +1577,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 553,
     "uikTvd": "416405266934",
+    "uikName": "УИК  553",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 529,
       "Число бюллетеней, полученных участковыми комиссиями": 533,
@@ -1383,8 +1635,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 554,
     "uikTvd": "416405266935",
+    "uikName": "УИК  554",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -1432,8 +1693,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 555,
     "uikTvd": "416405266936",
+    "uikName": "УИК  555",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 374,
@@ -1481,8 +1751,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 556,
     "uikTvd": "416405266937",
+    "uikName": "УИК  556",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 244,
       "Число бюллетеней, полученных участковыми комиссиями": 255,
@@ -1530,8 +1809,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 557,
     "uikTvd": "416405266938",
+    "uikName": "УИК  557",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1160,
       "Число бюллетеней, полученных участковыми комиссиями": 1165,
@@ -1579,8 +1867,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 558,
     "uikTvd": "416405266939",
+    "uikName": "УИК  558",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 546,
       "Число бюллетеней, полученных участковыми комиссиями": 557,
@@ -1628,8 +1925,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 559,
     "uikTvd": "416405266940",
+    "uikName": "УИК  559",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 146,
@@ -1677,8 +1983,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 560,
     "uikTvd": "416405266941",
+    "uikName": "УИК  560",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 524,
       "Число бюллетеней, полученных участковыми комиссиями": 525,
@@ -1726,8 +2041,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 561,
     "uikTvd": "416405266942",
+    "uikName": "УИК  561",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 429,
       "Число бюллетеней, полученных участковыми комиссиями": 426,
@@ -1775,8 +2099,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 562,
     "uikTvd": "416405266943",
+    "uikName": "УИК  562",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 724,
       "Число бюллетеней, полученных участковыми комиссиями": 716,
@@ -1824,8 +2157,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 563,
     "uikTvd": "416405266944",
+    "uikName": "УИК  563",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 389,
       "Число бюллетеней, полученных участковыми комиссиями": 386,
@@ -1873,8 +2215,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 564,
     "uikTvd": "416405266945",
+    "uikName": "УИК  564",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 334,
       "Число бюллетеней, полученных участковыми комиссиями": 329,
@@ -1922,8 +2273,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 565,
     "uikTvd": "416405266946",
+    "uikName": "УИК  565",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 236,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -1971,8 +2331,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 566,
     "uikTvd": "416405266947",
+    "uikName": "УИК  566",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 167,
       "Число бюллетеней, полученных участковыми комиссиями": 169,
@@ -2020,8 +2389,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 567,
     "uikTvd": "416405266948",
+    "uikName": "УИК  567",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -2069,8 +2447,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 816,
     "uikTvd": "416405366843",
+    "uikName": "УИК  816",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1842,
       "Число бюллетеней, полученных участковыми комиссиями": 1849,
@@ -2118,8 +2505,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 817,
     "uikTvd": "416405366844",
+    "uikName": "УИК  817",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1155,
       "Число бюллетеней, полученных участковыми комиссиями": 1194,
@@ -2167,8 +2563,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 818,
     "uikTvd": "416405366845",
+    "uikName": "УИК  818",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 801,
       "Число бюллетеней, полученных участковыми комиссиями": 819,
@@ -2216,8 +2621,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 819,
     "uikTvd": "416405366846",
+    "uikName": "УИК  819",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1391,
       "Число бюллетеней, полученных участковыми комиссиями": 1387,
@@ -2265,8 +2679,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 820,
     "uikTvd": "416405366847",
+    "uikName": "УИК  820",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 558,
       "Число бюллетеней, полученных участковыми комиссиями": 569,
@@ -2314,8 +2737,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 821,
     "uikTvd": "416405366848",
+    "uikName": "УИК  821",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 465,
       "Число бюллетеней, полученных участковыми комиссиями": 449,
@@ -2363,8 +2795,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 822,
     "uikTvd": "416405366849",
+    "uikName": "УИК  822",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 516,
       "Число бюллетеней, полученных участковыми комиссиями": 517,
@@ -2412,8 +2853,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 823,
     "uikTvd": "416405366850",
+    "uikName": "УИК  823",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 702,
       "Число бюллетеней, полученных участковыми комиссиями": 699,
@@ -2461,8 +2911,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 824,
     "uikTvd": "416405366851",
+    "uikName": "УИК  824",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 424,
       "Число бюллетеней, полученных участковыми комиссиями": 419,
@@ -2510,8 +2969,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 825,
     "uikTvd": "416405366852",
+    "uikName": "УИК  825",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 657,
       "Число бюллетеней, полученных участковыми комиссиями": 653,
@@ -2559,8 +3027,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 826,
     "uikTvd": "416405366853",
+    "uikName": "УИК  826",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2608,8 +3085,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 827,
     "uikTvd": "416405366854",
+    "uikName": "УИК  827",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 498,
       "Число бюллетеней, полученных участковыми комиссиями": 511,
@@ -2657,8 +3143,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 828,
     "uikTvd": "416405366855",
+    "uikName": "УИК  828",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 198,
       "Число бюллетеней, полученных участковыми комиссиями": 191,
@@ -2706,8 +3201,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 829,
     "uikTvd": "416405366856",
+    "uikName": "УИК  829",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1018,
       "Число бюллетеней, полученных участковыми комиссиями": 1017,
@@ -2755,8 +3259,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 830,
     "uikTvd": "416405366857",
+    "uikName": "УИК  830",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 820,
       "Число бюллетеней, полученных участковыми комиссиями": 808,
@@ -2804,8 +3317,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 831,
     "uikTvd": "416405366858",
+    "uikName": "УИК  831",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 613,
       "Число бюллетеней, полученных участковыми комиссиями": 615,
@@ -2853,8 +3375,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 832,
     "uikTvd": "416405366859",
+    "uikName": "УИК  832",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 522,
       "Число бюллетеней, полученных участковыми комиссиями": 506,
@@ -2902,8 +3433,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 833,
     "uikTvd": "416405366860",
+    "uikName": "УИК  833",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 785,
       "Число бюллетеней, полученных участковыми комиссиями": 773,
@@ -2951,8 +3491,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 834,
     "uikTvd": "416405366861",
+    "uikName": "УИК  834",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 689,
       "Число бюллетеней, полученных участковыми комиссиями": 679,
@@ -3000,8 +3549,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 835,
     "uikTvd": "416405366862",
+    "uikName": "УИК  835",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 439,
       "Число бюллетеней, полученных участковыми комиссиями": 433,
@@ -3049,8 +3607,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 836,
     "uikTvd": "416405366863",
+    "uikName": "УИК  836",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 196,
       "Число бюллетеней, полученных участковыми комиссиями": 188,
@@ -3098,8 +3665,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 837,
     "uikTvd": "416405366864",
+    "uikName": "УИК  837",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 598,
       "Число бюллетеней, полученных участковыми комиссиями": 591,
@@ -3147,8 +3723,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 838,
     "uikTvd": "416405366865",
+    "uikName": "УИК  838",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 257,
@@ -3196,8 +3781,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 839,
     "uikTvd": "416405366866",
+    "uikName": "УИК  839",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -3245,8 +3839,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 840,
     "uikTvd": "416405366867",
+    "uikName": "УИК  840",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 371,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -3294,8 +3897,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 841,
     "uikTvd": "416405366868",
+    "uikName": "УИК  841",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 96,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -3343,8 +3955,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 842,
     "uikTvd": "416405366869",
+    "uikName": "УИК  842",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 437,
@@ -3392,8 +4013,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 843,
     "uikTvd": "416405366870",
+    "uikName": "УИК  843",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 268,
@@ -3441,8 +4071,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 844,
     "uikTvd": "416405366871",
+    "uikName": "УИК  844",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 425,
       "Число бюллетеней, полученных участковыми комиссиями": 416,
@@ -3490,8 +4129,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 845,
     "uikTvd": "416405366872",
+    "uikName": "УИК  845",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 492,
       "Число бюллетеней, полученных участковыми комиссиями": 482,
@@ -3539,8 +4187,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 846,
     "uikTvd": "416405366873",
+    "uikName": "УИК  846",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1609,
       "Число бюллетеней, полученных участковыми комиссиями": 1581,
@@ -3588,8 +4245,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 847,
     "uikTvd": "416405366874",
+    "uikName": "УИК  847",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1185,
       "Число бюллетеней, полученных участковыми комиссиями": 1192,
@@ -3637,8 +4303,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 848,
     "uikTvd": "416405366875",
+    "uikName": "УИК  848",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 211,
@@ -3686,8 +4361,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 849,
     "uikTvd": "416405366876",
+    "uikName": "УИК  849",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 245,
@@ -3735,8 +4419,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 850,
     "uikTvd": "416405366877",
+    "uikName": "УИК  850",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 247,
       "Число бюллетеней, полученных участковыми комиссиями": 241,
@@ -3784,8 +4477,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 851,
     "uikTvd": "416405366878",
+    "uikName": "УИК  851",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 314,
@@ -3833,8 +4535,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 852,
     "uikTvd": "416405366879",
+    "uikName": "УИК  852",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -3882,8 +4593,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 853,
     "uikTvd": "416405366880",
+    "uikName": "УИК  853",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 464,
       "Число бюллетеней, полученных участковыми комиссиями": 469,
@@ -3931,8 +4651,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 854,
     "uikTvd": "416405366881",
+    "uikName": "УИК  854",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 410,
       "Число бюллетеней, полученных участковыми комиссиями": 422,
@@ -3980,8 +4709,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 855,
     "uikTvd": "416405366882",
+    "uikName": "УИК  855",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -4029,8 +4767,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 856,
     "uikTvd": "416405366883",
+    "uikName": "УИК  856",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 595,
       "Число бюллетеней, полученных участковыми комиссиями": 583,
@@ -4078,8 +4825,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 857,
     "uikTvd": "416405366884",
+    "uikName": "УИК  857",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 844,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -4127,8 +4883,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 858,
     "uikTvd": "416405366885",
+    "uikName": "УИК  858",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 307,
       "Число бюллетеней, полученных участковыми комиссиями": 311,
@@ -4176,8 +4941,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 859,
     "uikTvd": "416405366886",
+    "uikName": "УИК  859",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 118,
@@ -4225,8 +4999,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 860,
     "uikTvd": "416405366887",
+    "uikName": "УИК  860",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 722,
       "Число бюллетеней, полученных участковыми комиссиями": 705,
@@ -4274,8 +5057,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 861,
     "uikTvd": "416405366888",
+    "uikName": "УИК  861",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 735,
       "Число бюллетеней, полученных участковыми комиссиями": 717,
@@ -4323,8 +5115,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 862,
     "uikTvd": "416405366889",
+    "uikName": "УИК  862",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 289,
       "Число бюллетеней, полученных участковыми комиссиями": 289,
@@ -4372,8 +5173,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 863,
     "uikTvd": "416405366890",
+    "uikName": "УИК  863",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 113,
       "Число бюллетеней, полученных участковыми комиссиями": 114,
@@ -4421,8 +5231,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 864,
     "uikTvd": "416405366891",
+    "uikName": "УИК  864",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 401,
       "Число бюллетеней, полученных участковыми комиссиями": 401,
@@ -4470,8 +5289,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 865,
     "uikTvd": "416405366892",
+    "uikName": "УИК  865",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 417,
       "Число бюллетеней, полученных участковыми комиссиями": 414,
@@ -4519,8 +5347,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 761,
     "uikTvd": "416400767925",
+    "uikName": "УИК  761",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2420,
       "Число бюллетеней, полученных участковыми комиссиями": 2404,
@@ -4568,8 +5405,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 762,
     "uikTvd": "416400767926",
+    "uikName": "УИК  762",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2306,
       "Число бюллетеней, полученных участковыми комиссиями": 2301,
@@ -4617,8 +5463,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 763,
     "uikTvd": "416400767927",
+    "uikName": "УИК  763",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1140,
       "Число бюллетеней, полученных участковыми комиссиями": 1146,
@@ -4666,8 +5521,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 764,
     "uikTvd": "416400767928",
+    "uikName": "УИК  764",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2060,
       "Число бюллетеней, полученных участковыми комиссиями": 2081,
@@ -4715,8 +5579,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 765,
     "uikTvd": "416400767929",
+    "uikName": "УИК  765",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1858,
       "Число бюллетеней, полученных участковыми комиссиями": 1866,
@@ -4764,8 +5637,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 766,
     "uikTvd": "416400767930",
+    "uikName": "УИК  766",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1981,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4813,8 +5695,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 767,
     "uikTvd": "416400767931",
+    "uikName": "УИК  767",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1972,
       "Число бюллетеней, полученных участковыми комиссиями": 1929,
@@ -4862,8 +5753,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 768,
     "uikTvd": "416400767932",
+    "uikName": "УИК  768",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1951,
       "Число бюллетеней, полученных участковыми комиссиями": 1960,
@@ -4911,8 +5811,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 769,
     "uikTvd": "416400767933",
+    "uikName": "УИК  769",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2167,
       "Число бюллетеней, полученных участковыми комиссиями": 2142,
@@ -4960,8 +5869,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 770,
     "uikTvd": "416400767934",
+    "uikName": "УИК  770",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2042,
       "Число бюллетеней, полученных участковыми комиссиями": 2042,
@@ -5009,8 +5927,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 771,
     "uikTvd": "416400767935",
+    "uikName": "УИК  771",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2207,
       "Число бюллетеней, полученных участковыми комиссиями": 2234,
@@ -5058,8 +5985,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 772,
     "uikTvd": "416400767936",
+    "uikName": "УИК  772",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1870,
       "Число бюллетеней, полученных участковыми комиссиями": 1873,
@@ -5107,8 +6043,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 773,
     "uikTvd": "416400767937",
+    "uikName": "УИК  773",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2010,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -5156,8 +6101,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 774,
     "uikTvd": "416400767938",
+    "uikName": "УИК  774",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2250,
       "Число бюллетеней, полученных участковыми комиссиями": 2241,
@@ -5205,8 +6159,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 775,
     "uikTvd": "416400767939",
+    "uikName": "УИК  775",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2200,
       "Число бюллетеней, полученных участковыми комиссиями": 2194,
@@ -5254,8 +6217,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 776,
     "uikTvd": "416400767940",
+    "uikName": "УИК  776",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2050,
       "Число бюллетеней, полученных участковыми комиссиями": 2077,
@@ -5303,8 +6275,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 777,
     "uikTvd": "416400767941",
+    "uikName": "УИК  777",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2251,
       "Число бюллетеней, полученных участковыми комиссиями": 2269,
@@ -5352,8 +6333,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 778,
     "uikTvd": "416400767942",
+    "uikName": "УИК  778",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2482,
       "Число бюллетеней, полученных участковыми комиссиями": 2401,
@@ -5401,8 +6391,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 779,
     "uikTvd": "416400767943",
+    "uikName": "УИК  779",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1583,
       "Число бюллетеней, полученных участковыми комиссиями": 1569,
@@ -5450,8 +6449,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 780,
     "uikTvd": "416400767944",
+    "uikName": "УИК  780",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1772,
       "Число бюллетеней, полученных участковыми комиссиями": 1809,
@@ -5499,8 +6507,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 781,
     "uikTvd": "416400767945",
+    "uikName": "УИК  781",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1937,
       "Число бюллетеней, полученных участковыми комиссиями": 1940,
@@ -5548,8 +6565,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 782,
     "uikTvd": "416400767946",
+    "uikName": "УИК  782",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1962,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -5597,8 +6623,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 783,
     "uikTvd": "416400767947",
+    "uikName": "УИК  783",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2002,
       "Число бюллетеней, полученных участковыми комиссиями": 1998,
@@ -5646,8 +6681,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 784,
     "uikTvd": "416400767948",
+    "uikName": "УИК  784",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2520,
       "Число бюллетеней, полученных участковыми комиссиями": 2528,
@@ -5695,8 +6739,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 785,
     "uikTvd": "416400767949",
+    "uikName": "УИК  785",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1605,
       "Число бюллетеней, полученных участковыми комиссиями": 1625,
@@ -5744,8 +6797,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 786,
     "uikTvd": "416400767950",
+    "uikName": "УИК  786",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2436,
       "Число бюллетеней, полученных участковыми комиссиями": 2436,
@@ -5793,8 +6855,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 787,
     "uikTvd": "416400767951",
+    "uikName": "УИК  787",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2329,
       "Число бюллетеней, полученных участковыми комиссиями": 2312,
@@ -5842,8 +6913,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 788,
     "uikTvd": "416400767952",
+    "uikName": "УИК  788",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1902,
       "Число бюллетеней, полученных участковыми комиссиями": 1907,
@@ -5891,8 +6971,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 789,
     "uikTvd": "416400767953",
+    "uikName": "УИК  789",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2241,
       "Число бюллетеней, полученных участковыми комиссиями": 2257,
@@ -5940,8 +7029,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 790,
     "uikTvd": "416400767954",
+    "uikName": "УИК  790",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1777,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -5989,8 +7087,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 791,
     "uikTvd": "416400767955",
+    "uikName": "УИК  791",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2286,
       "Число бюллетеней, полученных участковыми комиссиями": 2279,
@@ -6038,8 +7145,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 792,
     "uikTvd": "416400767956",
+    "uikName": "УИК  792",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2115,
       "Число бюллетеней, полученных участковыми комиссиями": 2123,
@@ -6087,8 +7203,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 793,
     "uikTvd": "416400767957",
+    "uikName": "УИК  793",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2030,
       "Число бюллетеней, полученных участковыми комиссиями": 2059,
@@ -6136,8 +7261,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 794,
     "uikTvd": "416400767958",
+    "uikName": "УИК  794",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2068,
       "Число бюллетеней, полученных участковыми комиссиями": 2085,
@@ -6185,8 +7319,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 795,
     "uikTvd": "416400767959",
+    "uikName": "УИК  795",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2309,
       "Число бюллетеней, полученных участковыми комиссиями": 2312,
@@ -6234,8 +7377,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 796,
     "uikTvd": "416400767960",
+    "uikName": "УИК  796",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1130,
       "Число бюллетеней, полученных участковыми комиссиями": 1126,
@@ -6283,8 +7435,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 797,
     "uikTvd": "416400767961",
+    "uikName": "УИК  797",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2576,
       "Число бюллетеней, полученных участковыми комиссиями": 2575,
@@ -6332,8 +7493,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 798,
     "uikTvd": "416400767962",
+    "uikName": "УИК  798",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2040,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -6381,8 +7551,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 799,
     "uikTvd": "416400767963",
+    "uikName": "УИК  799",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2070,
       "Число бюллетеней, полученных участковыми комиссиями": 2071,
@@ -6430,8 +7609,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 800,
     "uikTvd": "416400767964",
+    "uikName": "УИК  800",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2165,
       "Число бюллетеней, полученных участковыми комиссиями": 2151,
@@ -6479,8 +7667,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 801,
     "uikTvd": "416400767965",
+    "uikName": "УИК  801",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2158,
       "Число бюллетеней, полученных участковыми комиссиями": 2140,
@@ -6528,8 +7725,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 802,
     "uikTvd": "416400767966",
+    "uikName": "УИК  802",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2125,
       "Число бюллетеней, полученных участковыми комиссиями": 2111,
@@ -6577,8 +7783,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 803,
     "uikTvd": "416400767967",
+    "uikName": "УИК  803",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2167,
       "Число бюллетеней, полученных участковыми комиссиями": 2167,
@@ -6626,8 +7841,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 804,
     "uikTvd": "416400767968",
+    "uikName": "УИК  804",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2290,
       "Число бюллетеней, полученных участковыми комиссиями": 2269,
@@ -6675,8 +7899,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 805,
     "uikTvd": "416400767969",
+    "uikName": "УИК  805",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2301,
       "Число бюллетеней, полученных участковыми комиссиями": 2306,
@@ -6724,8 +7957,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 806,
     "uikTvd": "416400767970",
+    "uikName": "УИК  806",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2129,
       "Число бюллетеней, полученных участковыми комиссиями": 2139,
@@ -6773,8 +8015,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 807,
     "uikTvd": "416400767971",
+    "uikName": "УИК  807",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2262,
       "Число бюллетеней, полученных участковыми комиссиями": 2234,
@@ -6822,8 +8073,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 808,
     "uikTvd": "416400767972",
+    "uikName": "УИК  808",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2738,
       "Число бюллетеней, полученных участковыми комиссиями": 2704,
@@ -6871,8 +8131,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 809,
     "uikTvd": "416400767973",
+    "uikName": "УИК  809",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2623,
       "Число бюллетеней, полученных участковыми комиссиями": 2632,
@@ -6920,8 +8189,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 810,
     "uikTvd": "416400767974",
+    "uikName": "УИК  810",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2112,
       "Число бюллетеней, полученных участковыми комиссиями": 2128,
@@ -6969,8 +8247,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 811,
     "uikTvd": "416400767975",
+    "uikName": "УИК  811",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1638,
       "Число бюллетеней, полученных участковыми комиссиями": 1647,
@@ -7018,8 +8305,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 812,
     "uikTvd": "416400767976",
+    "uikName": "УИК  812",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1928,
       "Число бюллетеней, полученных участковыми комиссиями": 1909,
@@ -7067,8 +8363,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 813,
     "uikTvd": "416400767977",
+    "uikName": "УИК  813",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 821,
       "Число бюллетеней, полученных участковыми комиссиями": 807,
@@ -7116,8 +8421,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 814,
     "uikTvd": "416400768991",
+    "uikName": "УИК №814",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 291,
       "Число бюллетеней, полученных участковыми комиссиями": 294,
@@ -7165,8 +8479,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 815,
     "uikTvd": "416400768993",
+    "uikName": "УИК №815",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 247,
@@ -7214,8 +8537,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1844,
     "uikTvd": "416405867017",
+    "uikName": "УИК №1844",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 429,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -7263,8 +8595,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1845,
     "uikTvd": "416405867018",
+    "uikName": "УИК №1845",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 598,
       "Число бюллетеней, полученных участковыми комиссиями": 615,
@@ -7312,8 +8653,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1846,
     "uikTvd": "416405866979",
+    "uikName": "УИК №1846",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 378,
       "Число бюллетеней, полученных участковыми комиссиями": 368,
@@ -7361,8 +8711,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1847,
     "uikTvd": "416405866980",
+    "uikName": "УИК №1847",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 109,
@@ -7410,8 +8769,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1848,
     "uikTvd": "416405866981",
+    "uikName": "УИК №1848",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 97,
       "Число бюллетеней, полученных участковыми комиссиями": 97,
@@ -7459,8 +8827,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1849,
     "uikTvd": "416405866982",
+    "uikName": "УИК №1849",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 256,
@@ -7508,8 +8885,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1850,
     "uikTvd": "416405866983",
+    "uikName": "УИК №1850",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 586,
       "Число бюллетеней, полученных участковыми комиссиями": 594,
@@ -7557,8 +8943,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1851,
     "uikTvd": "416405866984",
+    "uikName": "УИК №1851",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 702,
       "Число бюллетеней, полученных участковыми комиссиями": 709,
@@ -7606,8 +9001,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1852,
     "uikTvd": "416405866985",
+    "uikName": "УИК №1852",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 601,
       "Число бюллетеней, полученных участковыми комиссиями": 605,
@@ -7655,8 +9059,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1853,
     "uikTvd": "416405866986",
+    "uikName": "УИК №1853",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 445,
       "Число бюллетеней, полученных участковыми комиссиями": 447,
@@ -7704,8 +9117,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1854,
     "uikTvd": "416405866987",
+    "uikName": "УИК №1854",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 946,
       "Число бюллетеней, полученных участковыми комиссиями": 948,
@@ -7753,8 +9175,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1855,
     "uikTvd": "416405866988",
+    "uikName": "УИК №1855",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 372,
@@ -7802,8 +9233,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1856,
     "uikTvd": "416405866989",
+    "uikName": "УИК №1856",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 262,
@@ -7851,8 +9291,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1857,
     "uikTvd": "416405866990",
+    "uikName": "УИК №1857",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 640,
       "Число бюллетеней, полученных участковыми комиссиями": 645,
@@ -7900,8 +9349,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1858,
     "uikTvd": "416405866991",
+    "uikName": "УИК №1858",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 681,
       "Число бюллетеней, полученных участковыми комиссиями": 677,
@@ -7949,8 +9407,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1859,
     "uikTvd": "416405866992",
+    "uikName": "УИК №1859",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 610,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -7998,8 +9465,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1860,
     "uikTvd": "416405866993",
+    "uikName": "УИК №1860",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -8047,8 +9523,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1861,
     "uikTvd": "416405866994",
+    "uikName": "УИК №1861",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 784,
       "Число бюллетеней, полученных участковыми комиссиями": 772,
@@ -8096,8 +9581,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1862,
     "uikTvd": "416405866995",
+    "uikName": "УИК №1862",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 592,
       "Число бюллетеней, полученных участковыми комиссиями": 567,
@@ -8145,8 +9639,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1863,
     "uikTvd": "416405866996",
+    "uikName": "УИК №1863",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 159,
       "Число бюллетеней, полученных участковыми комиссиями": 159,
@@ -8194,8 +9697,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1864,
     "uikTvd": "416405866997",
+    "uikName": "УИК №1864",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 511,
       "Число бюллетеней, полученных участковыми комиссиями": 524,
@@ -8243,8 +9755,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1865,
     "uikTvd": "416405866998",
+    "uikName": "УИК №1865",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 542,
       "Число бюллетеней, полученных участковыми комиссиями": 536,
@@ -8292,8 +9813,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1866,
     "uikTvd": "416405866999",
+    "uikName": "УИК №1866",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 262,
@@ -8341,8 +9871,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1867,
     "uikTvd": "416405867000",
+    "uikName": "УИК №1867",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 711,
       "Число бюллетеней, полученных участковыми комиссиями": 728,
@@ -8390,8 +9929,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1868,
     "uikTvd": "416405867001",
+    "uikName": "УИК №1868",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 264,
       "Число бюллетеней, полученных участковыми комиссиями": 308,
@@ -8439,8 +9987,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1869,
     "uikTvd": "416405867002",
+    "uikName": "УИК №1869",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 727,
       "Число бюллетеней, полученных участковыми комиссиями": 722,
@@ -8488,8 +10045,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1870,
     "uikTvd": "416405867003",
+    "uikName": "УИК №1870",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 736,
       "Число бюллетеней, полученных участковыми комиссиями": 734,
@@ -8537,8 +10103,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1871,
     "uikTvd": "416405867004",
+    "uikName": "УИК №1871",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 359,
@@ -8586,8 +10161,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1872,
     "uikTvd": "416405867005",
+    "uikName": "УИК №1872",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 116,
       "Число бюллетеней, полученных участковыми комиссиями": 118,
@@ -8635,8 +10219,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1873,
     "uikTvd": "416405867006",
+    "uikName": "УИК №1873",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 635,
       "Число бюллетеней, полученных участковыми комиссиями": 629,
@@ -8684,8 +10277,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1874,
     "uikTvd": "416405867007",
+    "uikName": "УИК №1874",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 233,
       "Число бюллетеней, полученных участковыми комиссиями": 233,
@@ -8733,8 +10335,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1875,
     "uikTvd": "416405867008",
+    "uikName": "УИК №1875",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 281,
       "Число бюллетеней, полученных участковыми комиссиями": 279,
@@ -8782,8 +10393,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1876,
     "uikTvd": "416405867009",
+    "uikName": "УИК №1876",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 348,
       "Число бюллетеней, полученных участковыми комиссиями": 352,
@@ -8831,8 +10451,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1877,
     "uikTvd": "416405867010",
+    "uikName": "УИК №1877",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 518,
       "Число бюллетеней, полученных участковыми комиссиями": 518,
@@ -8880,8 +10509,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1878,
     "uikTvd": "416405867011",
+    "uikName": "УИК №1878",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 381,
       "Число бюллетеней, полученных участковыми комиссиями": 377,
@@ -8929,8 +10567,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1879,
     "uikTvd": "416405867012",
+    "uikName": "УИК №1879",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 402,
       "Число бюллетеней, полученных участковыми комиссиями": 402,
@@ -8978,8 +10625,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1800,
     "uikTvd": "416403270507",
+    "uikName": "УИК №1800",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 802,
       "Число бюллетеней, полученных участковыми комиссиями": 727,
@@ -9027,8 +10683,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1801,
     "uikTvd": "416403270508",
+    "uikName": "УИК №1801",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1124,
       "Число бюллетеней, полученных участковыми комиссиями": 984,
@@ -9076,8 +10741,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1802,
     "uikTvd": "416403270509",
+    "uikName": "УИК №1802",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 854,
       "Число бюллетеней, полученных участковыми комиссиями": 768,
@@ -9125,8 +10799,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1803,
     "uikTvd": "416403270510",
+    "uikName": "УИК №1803",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1163,
       "Число бюллетеней, полученных участковыми комиссиями": 1016,
@@ -9174,8 +10857,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1804,
     "uikTvd": "416403270511",
+    "uikName": "УИК №1804",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1120,
       "Число бюллетеней, полученных участковыми комиссиями": 975,
@@ -9223,8 +10915,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1805,
     "uikTvd": "416403270512",
+    "uikName": "УИК №1805",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 747,
       "Число бюллетеней, полученных участковыми комиссиями": 833,
@@ -9272,8 +10973,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1806,
     "uikTvd": "416403270513",
+    "uikName": "УИК №1806",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1060,
       "Число бюллетеней, полученных участковыми комиссиями": 923,
@@ -9321,8 +11031,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1807,
     "uikTvd": "416403270514",
+    "uikName": "УИК №1807",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 968,
       "Число бюллетеней, полученных участковыми комиссиями": 865,
@@ -9370,8 +11089,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1808,
     "uikTvd": "416403270515",
+    "uikName": "УИК №1808",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1529,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -9419,8 +11147,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1809,
     "uikTvd": "416403270516",
+    "uikName": "УИК №1809",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1358,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -9468,8 +11205,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1810,
     "uikTvd": "416403270517",
+    "uikName": "УИК №1810",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 941,
       "Число бюллетеней, полученных участковыми комиссиями": 821,
@@ -9517,8 +11263,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1811,
     "uikTvd": "416403270518",
+    "uikName": "УИК №1811",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1185,
       "Число бюллетеней, полученных участковыми комиссиями": 1067,
@@ -9566,8 +11321,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1812,
     "uikTvd": "416403270519",
+    "uikName": "УИК №1812",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 914,
       "Число бюллетеней, полученных участковыми комиссиями": 827,
@@ -9615,8 +11379,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1813,
     "uikTvd": "416403270520",
+    "uikName": "УИК №1813",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1079,
       "Число бюллетеней, полученных участковыми комиссиями": 965,
@@ -9664,8 +11437,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1814,
     "uikTvd": "416403270521",
+    "uikName": "УИК №1814",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1474,
       "Число бюллетеней, полученных участковыми комиссиями": 1310,
@@ -9713,8 +11495,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1815,
     "uikTvd": "416403270522",
+    "uikName": "УИК №1815",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1326,
       "Число бюллетеней, полученных участковыми комиссиями": 1175,
@@ -9762,8 +11553,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1816,
     "uikTvd": "416403270523",
+    "uikName": "УИК №1816",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1355,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -9811,8 +11611,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1817,
     "uikTvd": "416403270524",
+    "uikName": "УИК №1817",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1391,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -9860,8 +11669,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1818,
     "uikTvd": "416403270525",
+    "uikName": "УИК №1818",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1091,
       "Число бюллетеней, полученных участковыми комиссиями": 994,
@@ -9909,8 +11727,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1819,
     "uikTvd": "416403270526",
+    "uikName": "УИК №1819",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1016,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -9958,8 +11785,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1820,
     "uikTvd": "416403270527",
+    "uikName": "УИК №1820",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 987,
       "Число бюллетеней, полученных участковыми комиссиями": 875,
@@ -10007,8 +11843,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1821,
     "uikTvd": "416403270528",
+    "uikName": "УИК №1821",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1199,
       "Число бюллетеней, полученных участковыми комиссиями": 1057,
@@ -10056,8 +11901,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1822,
     "uikTvd": "416403270529",
+    "uikName": "УИК №1822",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 861,
       "Число бюллетеней, полученных участковыми комиссиями": 762,
@@ -10105,8 +11959,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1823,
     "uikTvd": "416403270530",
+    "uikName": "УИК №1823",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1087,
       "Число бюллетеней, полученных участковыми комиссиями": 976,
@@ -10154,8 +12017,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1824,
     "uikTvd": "416403270531",
+    "uikName": "УИК №1824",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1030,
       "Число бюллетеней, полученных участковыми комиссиями": 923,
@@ -10203,8 +12075,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1825,
     "uikTvd": "416403270532",
+    "uikName": "УИК №1825",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1041,
       "Число бюллетеней, полученных участковыми комиссиями": 928,
@@ -10252,8 +12133,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1826,
     "uikTvd": "416403270533",
+    "uikName": "УИК №1826",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 936,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -10301,8 +12191,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1827,
     "uikTvd": "416403270534",
+    "uikName": "УИК №1827",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1037,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -10350,8 +12249,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1828,
     "uikTvd": "416403270535",
+    "uikName": "УИК №1828",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1363,
       "Число бюллетеней, полученных участковыми комиссиями": 1213,
@@ -10399,8 +12307,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1829,
     "uikTvd": "416403270536",
+    "uikName": "УИК №1829",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1026,
       "Число бюллетеней, полученных участковыми комиссиями": 926,
@@ -10448,8 +12365,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1830,
     "uikTvd": "416403270537",
+    "uikName": "УИК №1830",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1022,
       "Число бюллетеней, полученных участковыми комиссиями": 918,
@@ -10497,8 +12423,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1831,
     "uikTvd": "416403270538",
+    "uikName": "УИК №1831",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1527,
       "Число бюллетеней, полученных участковыми комиссиями": 1377,
@@ -10546,8 +12481,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1832,
     "uikTvd": "416403270539",
+    "uikName": "УИК №1832",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 954,
       "Число бюллетеней, полученных участковыми комиссиями": 862,
@@ -10595,8 +12539,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1833,
     "uikTvd": "416403270540",
+    "uikName": "УИК №1833",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1006,
       "Число бюллетеней, полученных участковыми комиссиями": 897,
@@ -10644,8 +12597,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1834,
     "uikTvd": "416403270541",
+    "uikName": "УИК №1834",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1300,
       "Число бюллетеней, полученных участковыми комиссиями": 1161,
@@ -10693,8 +12655,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1835,
     "uikTvd": "416403270542",
+    "uikName": "УИК №1835",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1136,
       "Число бюллетеней, полученных участковыми комиссиями": 1024,
@@ -10742,8 +12713,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1836,
     "uikTvd": "416403270543",
+    "uikName": "УИК №1836",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1224,
       "Число бюллетеней, полученных участковыми комиссиями": 1095,
@@ -10791,8 +12771,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1837,
     "uikTvd": "416403270544",
+    "uikName": "УИК №1837",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1309,
       "Число бюллетеней, полученных участковыми комиссиями": 1157,
@@ -10840,8 +12829,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1838,
     "uikTvd": "416403270545",
+    "uikName": "УИК №1838",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1466,
       "Число бюллетеней, полученных участковыми комиссиями": 1332,
@@ -10889,8 +12887,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1839,
     "uikTvd": "416403270546",
+    "uikName": "УИК №1839",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 798,
       "Число бюллетеней, полученных участковыми комиссиями": 715,
@@ -10938,8 +12945,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1840,
     "uikTvd": "416403270547",
+    "uikName": "УИК №1840",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1085,
       "Число бюллетеней, полученных участковыми комиссиями": 977,
@@ -10987,8 +13003,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1841,
     "uikTvd": "416403270548",
+    "uikName": "УИК №1841",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 241,
       "Число бюллетеней, полученных участковыми комиссиями": 211,
@@ -11036,8 +13061,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1842,
     "uikTvd": "416403270549",
+    "uikName": "УИК №1842",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 934,
       "Число бюллетеней, полученных участковыми комиссиями": 843,
@@ -11085,8 +13119,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1843,
     "uikTvd": "416403270550",
+    "uikName": "УИК №1843",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 454,
       "Число бюллетеней, полученных участковыми комиссиями": 435,
@@ -11134,8 +13177,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 568,
     "uikTvd": "416400366890",
+    "uikName": "УИК №568",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1513,
       "Число бюллетеней, полученных участковыми комиссиями": 1464,
@@ -11183,8 +13235,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 569,
     "uikTvd": "416400366891",
+    "uikName": "УИК №569",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1998,
       "Число бюллетеней, полученных участковыми комиссиями": 1935,
@@ -11232,8 +13293,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 570,
     "uikTvd": "416400366892",
+    "uikName": "УИК №570",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1318,
       "Число бюллетеней, полученных участковыми комиссиями": 1277,
@@ -11281,8 +13351,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 571,
     "uikTvd": "416400366893",
+    "uikName": "УИК №571",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1475,
       "Число бюллетеней, полученных участковыми комиссиями": 1497,
@@ -11330,8 +13409,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 572,
     "uikTvd": "416400366894",
+    "uikName": "УИК №572",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 322,
       "Число бюллетеней, полученных участковыми комиссиями": 322,
@@ -11379,8 +13467,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 573,
     "uikTvd": "416400366895",
+    "uikName": "УИК №573",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 239,
@@ -11428,8 +13525,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 574,
     "uikTvd": "416400366896",
+    "uikName": "УИК №574",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 457,
       "Число бюллетеней, полученных участковыми комиссиями": 458,
@@ -11477,8 +13583,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 575,
     "uikTvd": "416400366897",
+    "uikName": "УИК №575",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 462,
       "Число бюллетеней, полученных участковыми комиссиями": 454,
@@ -11526,8 +13641,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 576,
     "uikTvd": "416400366898",
+    "uikName": "УИК №576",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 491,
       "Число бюллетеней, полученных участковыми комиссиями": 491,
@@ -11575,8 +13699,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 577,
     "uikTvd": "416400366899",
+    "uikName": "УИК №577",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 525,
       "Число бюллетеней, полученных участковыми комиссиями": 518,
@@ -11624,8 +13757,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 578,
     "uikTvd": "416400366900",
+    "uikName": "УИК №578",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 156,
@@ -11673,8 +13815,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 579,
     "uikTvd": "416400366901",
+    "uikName": "УИК №579",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 408,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -11722,8 +13873,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 580,
     "uikTvd": "416400366902",
+    "uikName": "УИК №580",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1425,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -11771,8 +13931,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 581,
     "uikTvd": "416400366903",
+    "uikName": "УИК №581",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1106,
       "Число бюллетеней, полученных участковыми комиссиями": 1109,
@@ -11820,8 +13989,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 582,
     "uikTvd": "416400366904",
+    "uikName": "УИК №582",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -11869,8 +14047,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 583,
     "uikTvd": "416400366905",
+    "uikName": "УИК №583",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 141,
@@ -11918,8 +14105,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 584,
     "uikTvd": "416400366906",
+    "uikName": "УИК №584",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 306,
@@ -11967,8 +14163,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 585,
     "uikTvd": "416400366907",
+    "uikName": "УИК №585",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 693,
       "Число бюллетеней, полученных участковыми комиссиями": 672,
@@ -12016,8 +14221,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 586,
     "uikTvd": "416400366908",
+    "uikName": "УИК №586",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 413,
       "Число бюллетеней, полученных участковыми комиссиями": 433,
@@ -12065,8 +14279,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 587,
     "uikTvd": "416400366909",
+    "uikName": "УИК №587",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 301,
@@ -12114,8 +14337,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 588,
     "uikTvd": "416400366910",
+    "uikName": "УИК №588",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -12163,8 +14395,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 589,
     "uikTvd": "416400366911",
+    "uikName": "УИК №589",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 193,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -12212,8 +14453,17 @@ export const duma_2003_uik_428_region_16_part_001 = [
     "ballot": "single-member",
     "uikNumber": 590,
     "uikTvd": "416400366912",
+    "uikName": "УИК №590",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 412,
       "Число бюллетеней, полученных участковыми комиссиями": 401,

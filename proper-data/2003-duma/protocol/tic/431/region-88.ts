@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_88 = [
     "ballot": "party",
     "tikTvd": "288200067032",
     "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки": 3727,
@@ -87,6 +90,9 @@ export const duma_2003_tic_431_region_88 = [
     "ballot": "party",
     "tikTvd": "288200067033",
     "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки": 6760,
@@ -165,6 +171,9 @@ export const duma_2003_tic_431_region_88 = [
     "ballot": "party",
     "tikTvd": "288200068927",
     "tikName": "Тунгусско-Чунская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в списки": 2771,

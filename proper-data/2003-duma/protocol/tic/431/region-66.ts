@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "266200066925",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки": 71206,
@@ -124,6 +127,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "266200066926",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 17859,
@@ -214,6 +220,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "266200066927",
     "tikName": "Североуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 39825,
@@ -298,6 +307,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "266200066928",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 17640,
@@ -389,6 +401,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "266200066929",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки": 24728,
@@ -472,6 +487,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "266200066930",
     "tikName": "Лесная городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 46318,
@@ -561,6 +579,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "266200066931",
     "tikName": "Кушвинская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 39911,
@@ -650,6 +671,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "266200066932",
     "tikName": "Красноуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 24375,
@@ -734,6 +758,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "266200066933",
     "tikName": "Краснотурьинская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки": 53877,
@@ -840,6 +867,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "266200066934",
     "tikName": "Качканарская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 36890,
@@ -925,6 +955,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "266200066935",
     "tikName": "Карпинская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки": 25717,
@@ -1008,6 +1041,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "266200066936",
     "tikName": "Ивдельская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки": 19380,
@@ -1096,6 +1132,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "266200066937",
     "tikName": "Гаринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки": 3712,
@@ -1174,6 +1213,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "266200066938",
     "tikName": "Волчанская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в списки": 8792,
@@ -1244,6 +1286,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "266200066939",
     "tikName": "Верхотурская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 12767,
@@ -1328,6 +1373,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300166836",
     "tikName": "Екатеринбург, Верх-Исетская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 80,
     "accounting": {
       "Число избирателей, внесенных в списки": 147189,
@@ -1473,6 +1521,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300166837",
     "tikName": "Екатеринбург, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, внесенных в списки": 125191,
@@ -1608,6 +1659,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300166838",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки": 91984,
@@ -1718,6 +1772,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300166839",
     "tikName": "Екатеринбург, Чкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 88,
     "accounting": {
       "Число избирателей, внесенных в списки": 181993,
@@ -1871,6 +1928,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300266714",
     "tikName": "Арамильская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в списки": 12313,
@@ -1945,6 +2005,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300266715",
     "tikName": "Асбестовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 62750,
@@ -2035,6 +2098,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300266716",
     "tikName": "Березовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки": 46345,
@@ -2138,6 +2204,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300266717",
     "tikName": "Заречная городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки": 24088,
@@ -2215,6 +2284,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, внесенных в списки": 149286,
@@ -2351,6 +2423,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки": 37226,
@@ -2447,6 +2522,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300266720",
     "tikName": "Верхнедубровская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в списки": 3712,
@@ -2514,6 +2592,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300266721",
     "tikName": "Малышевская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в списки": 10198,
@@ -2584,6 +2665,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300266722",
     "tikName": "Рефтинская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки": 13729,
@@ -2655,6 +2739,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки": 25720,
@@ -2755,6 +2842,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки": 22366,
@@ -2852,6 +2942,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки": 38914,
@@ -2948,6 +3041,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки": 45377,
@@ -3052,6 +3148,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300366742",
     "tikName": "Верх-Нейвинская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в списки": 3964,
@@ -3119,6 +3218,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300366743",
     "tikName": "Верхнетагильская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки": 12058,
@@ -3190,6 +3292,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки": 98900,
@@ -3300,6 +3405,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки": 93780,
@@ -3415,6 +3523,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки": 100255,
@@ -3532,6 +3643,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки": 31735,
@@ -3643,6 +3757,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки": 35961,
@@ -3744,6 +3861,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300366749",
     "tikName": "Кировградская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки": 25140,
@@ -3822,6 +3942,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки": 79626,
@@ -3928,6 +4051,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки": 34074,
@@ -4020,6 +4146,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки": 23071,
@@ -4135,6 +4264,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300466956",
     "tikName": "Бисертская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в списки": 8161,
@@ -4209,6 +4341,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки": 24821,
@@ -4326,6 +4461,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки": 52926,
@@ -4425,6 +4563,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки": 56902,
@@ -4525,6 +4666,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки": 14478,
@@ -4624,6 +4768,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300466964",
     "tikName": "Староуткинская поселковая ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в списки": 2468,
@@ -4690,6 +4837,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300466965",
     "tikName": "Нижнесергинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки": 38653,
@@ -4805,6 +4955,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300466966",
     "tikName": "Дегтярская  городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки": 12384,
@@ -4876,6 +5029,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300467203",
     "tikName": "Ревдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки": 50809,
@@ -4970,6 +5126,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300467204",
     "tikName": "Среднеуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в списки": 15364,
@@ -5043,6 +5202,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300467205",
     "tikName": "Шалинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 16486,
@@ -5129,6 +5291,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300467206",
     "tikName": "Первоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в списки": 124577,
@@ -5267,6 +5432,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300567029",
     "tikName": "Верхнетуринская городская  ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки": 8453,
@@ -5338,6 +5506,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300666774",
     "tikName": "Екатеринбург,  Железнодорожная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в списки": 112524,
@@ -5462,6 +5633,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 90,
     "accounting": {
       "Число избирателей, внесенных в списки": 177351,
@@ -5617,6 +5791,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 100,
     "accounting": {
       "Число избирателей, внесенных в списки": 207544,
@@ -5782,6 +5959,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки": 30289,
@@ -5899,6 +6079,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки": 51791,
@@ -6003,6 +6186,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 14243,
@@ -6090,6 +6276,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки": 23928,
@@ -6206,6 +6395,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300766747",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки": 34968,
@@ -6286,6 +6478,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки": 39294,
@@ -6384,6 +6579,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300766749",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 12298,
@@ -6470,6 +6668,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300766750",
     "tikName": "Таборинская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки": 3498,
@@ -6547,6 +6748,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки": 18348,
@@ -6643,6 +6847,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки": 37601,
@@ -6743,6 +6950,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300766753",
     "tikName": "Пышминская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки": 17142,
@@ -6835,6 +7045,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300766754",
     "tikName": "Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 25646,
@@ -6925,6 +7138,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300766755",
     "tikName": "Верхнесалдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки": 42452,
@@ -7021,6 +7237,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300766756",
     "tikName": "Нижнесалдинская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки": 14904,
@@ -7096,6 +7315,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300766757",
     "tikName": "Камышловская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки": 24142,
@@ -7178,6 +7400,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300766758",
     "tikName": "Алапаевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки": 38490,
@@ -7272,6 +7497,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300766759",
     "tikName": "Талицкая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в списки": 40977,
@@ -7397,6 +7625,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300766760",
     "tikName": "Камышловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 19630,
@@ -7486,6 +7717,9 @@ export const duma_2003_tic_431_region_66 = [
     "ballot": "party",
     "tikTvd": "366300766912",
     "tikName": "Свободненская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки": 7031,

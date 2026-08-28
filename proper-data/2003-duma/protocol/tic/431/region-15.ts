@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_15 = [
     "ballot": "party",
     "tikTvd": "215200070922",
     "tikName": " Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 34036,
@@ -96,6 +99,9 @@ export const duma_2003_tic_431_region_15 = [
     "ballot": "party",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в списки": 114498,
@@ -218,6 +224,9 @@ export const duma_2003_tic_431_region_15 = [
     "ballot": "party",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки": 52666,
@@ -319,6 +328,9 @@ export const duma_2003_tic_431_region_15 = [
     "ballot": "party",
     "tikTvd": "215200070925",
     "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки": 15153,
@@ -397,6 +409,9 @@ export const duma_2003_tic_431_region_15 = [
     "ballot": "party",
     "tikTvd": "215200070926",
     "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 10806,
@@ -482,6 +497,9 @@ export const duma_2003_tic_431_region_15 = [
     "ballot": "party",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки": 62289,
@@ -590,6 +608,9 @@ export const duma_2003_tic_431_region_15 = [
     "ballot": "party",
     "tikTvd": "215200070928",
     "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки": 14179,
@@ -668,6 +689,9 @@ export const duma_2003_tic_431_region_15 = [
     "ballot": "party",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в списки": 92171,
@@ -797,6 +821,9 @@ export const duma_2003_tic_431_region_15 = [
     "ballot": "party",
     "tikTvd": "215200070930",
     "tikName": "Ардонская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки": 18923,
@@ -876,6 +903,9 @@ export const duma_2003_tic_431_region_15 = [
     "ballot": "party",
     "tikTvd": "215200070931",
     "tikName": " Алагирская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки": 25502,

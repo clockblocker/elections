@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 846,
     "uikTvd": "472401967793",
+    "uikName": "УИК №846",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2510,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -60,8 +69,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 847,
     "uikTvd": "472401967794",
+    "uikName": "УИК №847",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2195,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -109,8 +127,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 848,
     "uikTvd": "472401967795",
+    "uikName": "УИК №848",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1712,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -158,8 +185,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 849,
     "uikTvd": "472401967796",
+    "uikName": "УИК №849",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2638,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -207,8 +243,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 850,
     "uikTvd": "472401967797",
+    "uikName": "УИК №850",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2096,
       "Число бюллетеней, полученных участковыми комиссиями": 2060,
@@ -256,8 +301,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 851,
     "uikTvd": "472401967798",
+    "uikName": "УИК №851",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2299,
       "Число бюллетеней, полученных участковыми комиссиями": 2270,
@@ -305,8 +359,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 852,
     "uikTvd": "472401967799",
+    "uikName": "УИК №852",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2025,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -354,8 +417,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 853,
     "uikTvd": "472401967800",
+    "uikName": "УИК №853",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2357,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -403,8 +475,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 854,
     "uikTvd": "472401967801",
+    "uikName": "УИК №854",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2005,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -452,8 +533,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 855,
     "uikTvd": "472401967802",
+    "uikName": "УИК №855",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2784,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -501,8 +591,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 856,
     "uikTvd": "472401967803",
+    "uikName": "УИК №856",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2317,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -550,8 +649,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 857,
     "uikTvd": "472401967804",
+    "uikName": "УИК №857",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2279,
       "Число бюллетеней, полученных участковыми комиссиями": 2280,
@@ -599,8 +707,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 858,
     "uikTvd": "472401967805",
+    "uikName": "УИК №858",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1830,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -648,8 +765,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 859,
     "uikTvd": "472401967806",
+    "uikName": "УИК №859",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2003,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -697,8 +823,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 860,
     "uikTvd": "472401967807",
+    "uikName": "УИК №860",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2683,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -746,8 +881,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 861,
     "uikTvd": "472401967808",
+    "uikName": "УИК №861",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1795,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -795,8 +939,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 862,
     "uikTvd": "472401967809",
+    "uikName": "УИК №862",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 42,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -844,8 +997,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 863,
     "uikTvd": "472401967810",
+    "uikName": "УИК №863",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2085,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -893,8 +1055,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 864,
     "uikTvd": "472401967811",
+    "uikName": "УИК №864",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2309,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -942,8 +1113,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 865,
     "uikTvd": "472401967812",
+    "uikName": "УИК №865",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2484,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -991,8 +1171,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 866,
     "uikTvd": "472401967813",
+    "uikName": "УИК №866",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2078,
       "Число бюллетеней, полученных участковыми комиссиями": 2090,
@@ -1040,8 +1229,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 867,
     "uikTvd": "472401967814",
+    "uikName": "УИК №867",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2287,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1089,8 +1287,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 868,
     "uikTvd": "472401967815",
+    "uikName": "УИК №868",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2042,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -1138,8 +1345,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 869,
     "uikTvd": "472401967816",
+    "uikName": "УИК №869",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 273,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -1187,8 +1403,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 870,
     "uikTvd": "472401967817",
+    "uikName": "УИК №870",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 42,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -1236,8 +1461,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 871,
     "uikTvd": "472401967818",
+    "uikName": "УИК №871",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1387,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -1285,8 +1519,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 872,
     "uikTvd": "472401967819",
+    "uikName": "УИК №872",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1744,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -1334,8 +1577,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 873,
     "uikTvd": "472401967820",
+    "uikName": "УИК №873",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1500,
       "Число бюллетеней, полученных участковыми комиссиями": 1490,
@@ -1383,8 +1635,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 874,
     "uikTvd": "472401967821",
+    "uikName": "УИК №874",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2045,
       "Число бюллетеней, полученных участковыми комиссиями": 2040,
@@ -1432,8 +1693,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 875,
     "uikTvd": "472401967822",
+    "uikName": "УИК №875",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1949,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -1481,8 +1751,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 876,
     "uikTvd": "472401967823",
+    "uikName": "УИК №876",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2577,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1530,8 +1809,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 877,
     "uikTvd": "472401967824",
+    "uikName": "УИК №877",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1518,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1579,8 +1867,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 878,
     "uikTvd": "472401967825",
+    "uikName": "УИК №878",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2820,
       "Число бюллетеней, полученных участковыми комиссиями": 2770,
@@ -1628,8 +1925,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 879,
     "uikTvd": "472401967826",
+    "uikName": "УИК №879",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2782,
       "Число бюллетеней, полученных участковыми комиссиями": 2770,
@@ -1677,8 +1983,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 880,
     "uikTvd": "472401967827",
+    "uikName": "УИК №880",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1679,
       "Число бюллетеней, полученных участковыми комиссиями": 1670,
@@ -1726,8 +2041,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 881,
     "uikTvd": "472401967828",
+    "uikName": "УИК №881",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1606,
       "Число бюллетеней, полученных участковыми комиссиями": 1590,
@@ -1775,8 +2099,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 882,
     "uikTvd": "472401967829",
+    "uikName": "УИК №882",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2302,
       "Число бюллетеней, полученных участковыми комиссиями": 2260,
@@ -1824,8 +2157,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 883,
     "uikTvd": "472401967830",
+    "uikName": "УИК №883",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2182,
       "Число бюллетеней, полученных участковыми комиссиями": 2160,
@@ -1873,8 +2215,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 884,
     "uikTvd": "472401967831",
+    "uikName": "УИК №884",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1815,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1922,8 +2273,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 885,
     "uikTvd": "472401967832",
+    "uikName": "УИК №885",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -1971,8 +2331,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 886,
     "uikTvd": "472401967833",
+    "uikName": "УИК №886",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2190,
       "Число бюллетеней, полученных участковыми комиссиями": 2190,
@@ -2020,8 +2389,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 887,
     "uikTvd": "472401967834",
+    "uikName": "УИК №887",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2247,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -2069,8 +2447,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 888,
     "uikTvd": "472401967835",
+    "uikName": "УИК №888",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1809,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2118,8 +2505,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 889,
     "uikTvd": "472401967836",
+    "uikName": "УИК №889",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2491,
       "Число бюллетеней, полученных участковыми комиссиями": 2480,
@@ -2167,8 +2563,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 890,
     "uikTvd": "472401967837",
+    "uikName": "УИК №890",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1823,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2216,8 +2621,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 891,
     "uikTvd": "472401967838",
+    "uikName": "УИК №891",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2256,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -2265,8 +2679,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 892,
     "uikTvd": "472401967839",
+    "uikName": "УИК №892",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 335,
@@ -2314,8 +2737,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 893,
     "uikTvd": "472401967840",
+    "uikName": "УИК №893",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 231,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -2363,8 +2795,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 894,
     "uikTvd": "472401967841",
+    "uikName": "УИК №894",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1821,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2412,8 +2853,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 895,
     "uikTvd": "472401967842",
+    "uikName": "УИК №895",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1466,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2461,8 +2911,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 896,
     "uikTvd": "472401967843",
+    "uikName": "УИК №896",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2757,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -2510,8 +2969,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 897,
     "uikTvd": "472401967844",
+    "uikName": "УИК №897",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1647,
       "Число бюллетеней, полученных участковыми комиссиями": 1630,
@@ -2559,8 +3027,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 898,
     "uikTvd": "472401967845",
+    "uikName": "УИК №898",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 985,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -2608,8 +3085,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 899,
     "uikTvd": "472401967846",
+    "uikName": "УИК №899",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 548,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -2657,8 +3143,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 900,
     "uikTvd": "472401967847",
+    "uikName": "УИК №900",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2554,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2706,8 +3201,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 901,
     "uikTvd": "472401967848",
+    "uikName": "УИК №901",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1765,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -2755,8 +3259,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 902,
     "uikTvd": "472401967849",
+    "uikName": "УИК №902",
     "tikTvd": "372300266743",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 821,
       "Число бюллетеней, полученных участковыми комиссиями": 565,
@@ -2804,8 +3317,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 903,
     "uikTvd": "472402068006",
+    "uikName": "УИК №903",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2673,
       "Число бюллетеней, полученных участковыми комиссиями": 2664,
@@ -2853,8 +3375,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 904,
     "uikTvd": "472402068007",
+    "uikName": "УИК №904",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1519,
       "Число бюллетеней, полученных участковыми комиссиями": 1509,
@@ -2902,8 +3433,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 905,
     "uikTvd": "472402068008",
+    "uikName": "УИК №905",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2185,
       "Число бюллетеней, полученных участковыми комиссиями": 2176,
@@ -2951,8 +3491,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 906,
     "uikTvd": "472402068009",
+    "uikName": "УИК №906",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2453,
       "Число бюллетеней, полученных участковыми комиссиями": 2445,
@@ -3000,8 +3549,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 907,
     "uikTvd": "472402068010",
+    "uikName": "УИК №907",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2583,
       "Число бюллетеней, полученных участковыми комиссиями": 2576,
@@ -3049,8 +3607,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 908,
     "uikTvd": "472402068011",
+    "uikName": "УИК №908",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2452,
       "Число бюллетеней, полученных участковыми комиссиями": 2433,
@@ -3098,8 +3665,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 909,
     "uikTvd": "472402068012",
+    "uikName": "УИК №909",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2070,
       "Число бюллетеней, полученных участковыми комиссиями": 2021,
@@ -3147,8 +3723,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 910,
     "uikTvd": "472402068013",
+    "uikName": "УИК №910",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1498,
       "Число бюллетеней, полученных участковыми комиссиями": 1486,
@@ -3196,8 +3781,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 911,
     "uikTvd": "472402068014",
+    "uikName": "УИК №911",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 877,
       "Число бюллетеней, полученных участковыми комиссиями": 868,
@@ -3245,8 +3839,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 912,
     "uikTvd": "472402068015",
+    "uikName": "УИК №912",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 877,
       "Число бюллетеней, полученных участковыми комиссиями": 866,
@@ -3294,8 +3897,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 913,
     "uikTvd": "472402068016",
+    "uikName": "УИК №913",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 817,
       "Число бюллетеней, полученных участковыми комиссиями": 801,
@@ -3343,8 +3955,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 914,
     "uikTvd": "472402068017",
+    "uikName": "УИК №914",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1846,
       "Число бюллетеней, полученных участковыми комиссиями": 1838,
@@ -3392,8 +4013,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 915,
     "uikTvd": "472402068018",
+    "uikName": "УИК №915",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2299,
       "Число бюллетеней, полученных участковыми комиссиями": 2254,
@@ -3441,8 +4071,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 916,
     "uikTvd": "472402068019",
+    "uikName": "УИК №916",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1560,
       "Число бюллетеней, полученных участковыми комиссиями": 1581,
@@ -3490,8 +4129,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 917,
     "uikTvd": "472402068020",
+    "uikName": "УИК №917",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1018,
       "Число бюллетеней, полученных участковыми комиссиями": 946,
@@ -3539,8 +4187,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 918,
     "uikTvd": "472402068021",
+    "uikName": "УИК №918",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1250,
       "Число бюллетеней, полученных участковыми комиссиями": 1226,
@@ -3588,8 +4245,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 919,
     "uikTvd": "472402068022",
+    "uikName": "УИК №919",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 816,
       "Число бюллетеней, полученных участковыми комиссиями": 810,
@@ -3637,8 +4303,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 920,
     "uikTvd": "472402068023",
+    "uikName": "УИК №920",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1332,
       "Число бюллетеней, полученных участковыми комиссиями": 1320,
@@ -3686,8 +4361,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 921,
     "uikTvd": "472402068024",
+    "uikName": "УИК №921",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2215,
       "Число бюллетеней, полученных участковыми комиссиями": 2235,
@@ -3735,8 +4419,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 922,
     "uikTvd": "472402068025",
+    "uikName": "УИК №922",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2131,
       "Число бюллетеней, полученных участковыми комиссиями": 2089,
@@ -3784,8 +4477,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 923,
     "uikTvd": "472402068026",
+    "uikName": "УИК №923",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2076,
       "Число бюллетеней, полученных участковыми комиссиями": 2064,
@@ -3833,8 +4535,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 924,
     "uikTvd": "472402068027",
+    "uikName": "УИК №924",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2248,
       "Число бюллетеней, полученных участковыми комиссиями": 2247,
@@ -3882,8 +4593,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 925,
     "uikTvd": "472402068028",
+    "uikName": "УИК №925",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1933,
       "Число бюллетеней, полученных участковыми комиссиями": 1918,
@@ -3931,8 +4651,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 926,
     "uikTvd": "472402068029",
+    "uikName": "УИК №926",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2307,
       "Число бюллетеней, полученных участковыми комиссиями": 2273,
@@ -3980,8 +4709,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 927,
     "uikTvd": "472402068030",
+    "uikName": "УИК №927",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1174,
       "Число бюллетеней, полученных участковыми комиссиями": 1174,
@@ -4029,8 +4767,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 928,
     "uikTvd": "472402068031",
+    "uikName": "УИК №928",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 991,
       "Число бюллетеней, полученных участковыми комиссиями": 975,
@@ -4078,8 +4825,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 929,
     "uikTvd": "472402068032",
+    "uikName": "УИК №929",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 994,
       "Число бюллетеней, полученных участковыми комиссиями": 987,
@@ -4127,8 +4883,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 930,
     "uikTvd": "472402068033",
+    "uikName": "УИК №930",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1052,
       "Число бюллетеней, полученных участковыми комиссиями": 1038,
@@ -4176,8 +4941,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 931,
     "uikTvd": "472402068034",
+    "uikName": "УИК №931",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1607,
       "Число бюллетеней, полученных участковыми комиссиями": 1602,
@@ -4225,8 +4999,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 932,
     "uikTvd": "472402068035",
+    "uikName": "УИК №932",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1988,
       "Число бюллетеней, полученных участковыми комиссиями": 1954,
@@ -4274,8 +5057,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 933,
     "uikTvd": "472402068036",
+    "uikName": "УИК №933",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2197,
       "Число бюллетеней, полученных участковыми комиссиями": 2196,
@@ -4323,8 +5115,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 934,
     "uikTvd": "472402068037",
+    "uikName": "УИК №934",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1816,
       "Число бюллетеней, полученных участковыми комиссиями": 1819,
@@ -4372,8 +5173,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 935,
     "uikTvd": "472402068038",
+    "uikName": "УИК №935",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1821,
       "Число бюллетеней, полученных участковыми комиссиями": 1810,
@@ -4421,8 +5231,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 936,
     "uikTvd": "472402068039",
+    "uikName": "УИК №936",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2193,
       "Число бюллетеней, полученных участковыми комиссиями": 2181,
@@ -4470,8 +5289,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 937,
     "uikTvd": "472402068040",
+    "uikName": "УИК №937",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2030,
       "Число бюллетеней, полученных участковыми комиссиями": 2028,
@@ -4519,8 +5347,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 938,
     "uikTvd": "472402068041",
+    "uikName": "УИК №938",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1330,
       "Число бюллетеней, полученных участковыми комиссиями": 1329,
@@ -4568,8 +5405,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 939,
     "uikTvd": "472402068042",
+    "uikName": "УИК №939",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1640,
       "Число бюллетеней, полученных участковыми комиссиями": 1623,
@@ -4617,8 +5463,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 940,
     "uikTvd": "472402068043",
+    "uikName": "УИК №940",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2260,
       "Число бюллетеней, полученных участковыми комиссиями": 2288,
@@ -4666,8 +5521,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 941,
     "uikTvd": "472402068044",
+    "uikName": "УИК №941",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1397,
       "Число бюллетеней, полученных участковыми комиссиями": 1386,
@@ -4715,8 +5579,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 942,
     "uikTvd": "472402068045",
+    "uikName": "УИК №942",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1942,
       "Число бюллетеней, полученных участковыми комиссиями": 1928,
@@ -4764,8 +5637,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 943,
     "uikTvd": "472402068046",
+    "uikName": "УИК №943",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2041,
       "Число бюллетеней, полученных участковыми комиссиями": 2032,
@@ -4813,8 +5695,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 944,
     "uikTvd": "472402068047",
+    "uikName": "УИК №944",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2284,
       "Число бюллетеней, полученных участковыми комиссиями": 2241,
@@ -4862,8 +5753,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 945,
     "uikTvd": "472402068048",
+    "uikName": "УИК №945",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2329,
       "Число бюллетеней, полученных участковыми комиссиями": 2313,
@@ -4911,8 +5811,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 946,
     "uikTvd": "472402068049",
+    "uikName": "УИК №946",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2015,
       "Число бюллетеней, полученных участковыми комиссиями": 2004,
@@ -4960,8 +5869,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 947,
     "uikTvd": "472402068050",
+    "uikName": "УИК №947",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1755,
       "Число бюллетеней, полученных участковыми комиссиями": 1751,
@@ -5009,8 +5927,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 948,
     "uikTvd": "472402068051",
+    "uikName": "УИК №948",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1521,
       "Число бюллетеней, полученных участковыми комиссиями": 1527,
@@ -5058,8 +5985,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 949,
     "uikTvd": "472402068052",
+    "uikName": "УИК №949",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2075,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -5107,8 +6043,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 950,
     "uikTvd": "472402068053",
+    "uikName": "УИК №950",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1925,
       "Число бюллетеней, полученных участковыми комиссиями": 1908,
@@ -5156,8 +6101,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 951,
     "uikTvd": "472402068054",
+    "uikName": "УИК №951",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1531,
       "Число бюллетеней, полученных участковыми комиссиями": 1489,
@@ -5205,8 +6159,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 952,
     "uikTvd": "472402068055",
+    "uikName": "УИК №952",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1694,
       "Число бюллетеней, полученных участковыми комиссиями": 1660,
@@ -5254,8 +6217,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 953,
     "uikTvd": "472402068056",
+    "uikName": "УИК №953",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1958,
       "Число бюллетеней, полученных участковыми комиссиями": 1916,
@@ -5303,8 +6275,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 954,
     "uikTvd": "472402068057",
+    "uikName": "УИК №954",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1856,
       "Число бюллетеней, полученных участковыми комиссиями": 1815,
@@ -5352,8 +6333,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 955,
     "uikTvd": "472402068058",
+    "uikName": "УИК №955",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1696,
       "Число бюллетеней, полученных участковыми комиссиями": 1624,
@@ -5401,8 +6391,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 956,
     "uikTvd": "472402068059",
+    "uikName": "УИК №956",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2088,
       "Число бюллетеней, полученных участковыми комиссиями": 2060,
@@ -5450,8 +6449,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 957,
     "uikTvd": "472402068060",
+    "uikName": "УИК №957",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 994,
       "Число бюллетеней, полученных участковыми комиссиями": 987,
@@ -5499,8 +6507,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 958,
     "uikTvd": "472402068061",
+    "uikName": "УИК №958",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1845,
       "Число бюллетеней, полученных участковыми комиссиями": 1810,
@@ -5548,8 +6565,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 959,
     "uikTvd": "472402068062",
+    "uikName": "УИК №959",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2193,
       "Число бюллетеней, полученных участковыми комиссиями": 2183,
@@ -5597,8 +6623,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 960,
     "uikTvd": "472402068063",
+    "uikName": "УИК №960",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1623,
       "Число бюллетеней, полученных участковыми комиссиями": 1616,
@@ -5646,8 +6681,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 961,
     "uikTvd": "472402068064",
+    "uikName": "УИК №961",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2018,
       "Число бюллетеней, полученных участковыми комиссиями": 2006,
@@ -5695,8 +6739,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 962,
     "uikTvd": "472402068065",
+    "uikName": "УИК №962",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1514,
       "Число бюллетеней, полученных участковыми комиссиями": 1492,
@@ -5744,8 +6797,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 963,
     "uikTvd": "472402068066",
+    "uikName": "УИК №963",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1263,
       "Число бюллетеней, полученных участковыми комиссиями": 1253,
@@ -5793,8 +6855,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 964,
     "uikTvd": "472402068067",
+    "uikName": "УИК №964",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1642,
       "Число бюллетеней, полученных участковыми комиссиями": 1603,
@@ -5842,8 +6913,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 965,
     "uikTvd": "472402068068",
+    "uikName": "УИК №965",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1236,
       "Число бюллетеней, полученных участковыми комиссиями": 1179,
@@ -5891,8 +6971,17 @@ export const duma_2003_uik_428_region_72_part_005 = [
     "ballot": "single-member",
     "uikNumber": 966,
     "uikTvd": "472402068069",
+    "uikName": "УИК №966",
     "tikTvd": "372300266744",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100095869",
+      "oikName": "Тюменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 200,

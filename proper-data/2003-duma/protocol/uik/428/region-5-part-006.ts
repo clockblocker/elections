@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1272,
     "uikTvd": "405403470437",
+    "uikName": "УИК №1272",
     "tikTvd": "205200070579",
     "tikName": "Сулейман-Стальская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 255,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -57,8 +66,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1273,
     "uikTvd": "405403470438",
+    "uikName": "УИК №1273",
     "tikTvd": "205200070579",
     "tikName": "Сулейман-Стальская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 134,
@@ -103,8 +121,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1274,
     "uikTvd": "405403470439",
+    "uikName": "УИК №1274",
     "tikTvd": "205200070579",
     "tikName": "Сулейман-Стальская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -149,8 +176,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1275,
     "uikTvd": "405403470440",
+    "uikName": "УИК №1275",
     "tikTvd": "205200070579",
     "tikName": "Сулейман-Стальская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 155,
       "Число бюллетеней, полученных участковыми комиссиями": 147,
@@ -195,8 +231,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1276,
     "uikTvd": "405403470441",
+    "uikName": "УИК №1276",
     "tikTvd": "205200070579",
     "tikName": "Сулейман-Стальская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 87,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -241,8 +286,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1277,
     "uikTvd": "405403470442",
+    "uikName": "УИК №1277",
     "tikTvd": "205200070579",
     "tikName": "Сулейман-Стальская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 285,
       "Число бюллетеней, полученных участковыми комиссиями": 285,
@@ -287,8 +341,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1278,
     "uikTvd": "405403470443",
+    "uikName": "УИК №1278",
     "tikTvd": "205200070579",
     "tikName": "Сулейман-Стальская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 256,
@@ -333,8 +396,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1279,
     "uikTvd": "405403470444",
+    "uikName": "УИК №1279",
     "tikTvd": "205200070579",
     "tikName": "Сулейман-Стальская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 180,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -379,8 +451,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1280,
     "uikTvd": "405403470445",
+    "uikName": "УИК №1280",
     "tikTvd": "205200070579",
     "tikName": "Сулейман-Стальская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 62,
       "Число бюллетеней, полученных участковыми комиссиями": 62,
@@ -425,8 +506,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1281,
     "uikTvd": "405403470446",
+    "uikName": "УИК №1281",
     "tikTvd": "205200070579",
     "tikName": "Сулейман-Стальская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 71,
       "Число бюллетеней, полученных участковыми комиссиями": 71,
@@ -471,8 +561,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1282,
     "uikTvd": "405403470447",
+    "uikName": "УИК №1282",
     "tikTvd": "205200070579",
     "tikName": "Сулейман-Стальская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -517,8 +616,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1283,
     "uikTvd": "405403470448",
+    "uikName": "УИК №1283",
     "tikTvd": "205200070579",
     "tikName": "Сулейман-Стальская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 437,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -563,8 +671,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1284,
     "uikTvd": "405403470449",
+    "uikName": "УИК №1284",
     "tikTvd": "205200070579",
     "tikName": "Сулейман-Стальская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 169,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -609,8 +726,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1285,
     "uikTvd": "405403570737",
+    "uikName": "УИК №1285",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 283,
       "Число бюллетеней, полученных участковыми комиссиями": 283,
@@ -655,8 +781,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1286,
     "uikTvd": "405403570738",
+    "uikName": "УИК №1286",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 281,
@@ -701,8 +836,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1287,
     "uikTvd": "405403570739",
+    "uikName": "УИК №1287",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 316,
@@ -747,8 +891,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1288,
     "uikTvd": "405403570740",
+    "uikName": "УИК №1288",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 114,
       "Число бюллетеней, полученных участковыми комиссиями": 114,
@@ -793,8 +946,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1289,
     "uikTvd": "405403570741",
+    "uikName": "УИК №1289",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 346,
       "Число бюллетеней, полученных участковыми комиссиями": 346,
@@ -839,8 +1001,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1290,
     "uikTvd": "405403570742",
+    "uikName": "УИК №1290",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 174,
@@ -885,8 +1056,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1291,
     "uikTvd": "405403570743",
+    "uikName": "УИК №1291",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -931,8 +1111,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1292,
     "uikTvd": "405403570744",
+    "uikName": "УИК №1292",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -977,8 +1166,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1293,
     "uikTvd": "405403570745",
+    "uikName": "УИК №1293",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 331,
       "Число бюллетеней, полученных участковыми комиссиями": 319,
@@ -1023,8 +1221,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1294,
     "uikTvd": "405403570746",
+    "uikName": "УИК №1294",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 134,
@@ -1069,8 +1276,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1295,
     "uikTvd": "405403570747",
+    "uikName": "УИК №1295",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 430,
       "Число бюллетеней, полученных участковыми комиссиями": 424,
@@ -1115,8 +1331,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1296,
     "uikTvd": "405403570748",
+    "uikName": "УИК №1296",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 390,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -1161,8 +1386,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1297,
     "uikTvd": "405403570749",
+    "uikName": "УИК №1297",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 234,
@@ -1207,8 +1441,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1298,
     "uikTvd": "405403570750",
+    "uikName": "УИК №1298",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 592,
       "Число бюллетеней, полученных участковыми комиссиями": 579,
@@ -1253,8 +1496,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1299,
     "uikTvd": "405403570751",
+    "uikName": "УИК №1299",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 426,
       "Число бюллетеней, полученных участковыми комиссиями": 426,
@@ -1299,8 +1551,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1300,
     "uikTvd": "405403570752",
+    "uikName": "УИК №1300",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 866,
       "Число бюллетеней, полученных участковыми комиссиями": 866,
@@ -1345,8 +1606,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1301,
     "uikTvd": "405403570753",
+    "uikName": "УИК №1301",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 606,
       "Число бюллетеней, полученных участковыми комиссиями": 606,
@@ -1391,8 +1661,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1302,
     "uikTvd": "405403570754",
+    "uikName": "УИК №1302",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 396,
       "Число бюллетеней, полученных участковыми комиссиями": 411,
@@ -1437,8 +1716,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1303,
     "uikTvd": "405403570755",
+    "uikName": "УИК №1303",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 755,
       "Число бюллетеней, полученных участковыми комиссиями": 752,
@@ -1483,8 +1771,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1304,
     "uikTvd": "405403570756",
+    "uikName": "УИК №1304",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 329,
       "Число бюллетеней, полученных участковыми комиссиями": 329,
@@ -1529,8 +1826,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1305,
     "uikTvd": "405403570757",
+    "uikName": "УИК №1305",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 973,
       "Число бюллетеней, полученных участковыми комиссиями": 965,
@@ -1575,8 +1881,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1306,
     "uikTvd": "405403570758",
+    "uikName": "УИК №1306",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1240,
       "Число бюллетеней, полученных участковыми комиссиями": 1203,
@@ -1621,8 +1936,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1307,
     "uikTvd": "405403570759",
+    "uikName": "УИК №1307",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 404,
@@ -1667,8 +1991,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1308,
     "uikTvd": "405403570760",
+    "uikName": "УИК №1308",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 218,
@@ -1713,8 +2046,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1309,
     "uikTvd": "405403570761",
+    "uikName": "УИК №1309",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 380,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -1759,8 +2101,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1310,
     "uikTvd": "405403570762",
+    "uikName": "УИК №1310",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -1805,8 +2156,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1311,
     "uikTvd": "405403570763",
+    "uikName": "УИК №1311",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 244,
       "Число бюллетеней, полученных участковыми комиссиями": 245,
@@ -1851,8 +2211,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1312,
     "uikTvd": "405403570764",
+    "uikName": "УИК №1312",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 149,
@@ -1897,8 +2266,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1313,
     "uikTvd": "405403570765",
+    "uikName": "УИК №1313",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 374,
@@ -1943,8 +2321,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1314,
     "uikTvd": "405403570766",
+    "uikName": "УИК №1314",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 486,
       "Число бюллетеней, полученных участковыми комиссиями": 486,
@@ -1989,8 +2376,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1315,
     "uikTvd": "405403570767",
+    "uikName": "УИК №1315",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 351,
       "Число бюллетеней, полученных участковыми комиссиями": 351,
@@ -2035,8 +2431,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1316,
     "uikTvd": "405403570768",
+    "uikName": "УИК №1316",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 399,
       "Число бюллетеней, полученных участковыми комиссиями": 417,
@@ -2081,8 +2486,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1317,
     "uikTvd": "405403570769",
+    "uikName": "УИК №1317",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 360,
       "Число бюллетеней, полученных участковыми комиссиями": 339,
@@ -2127,8 +2541,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1318,
     "uikTvd": "405403570770",
+    "uikName": "УИК №1318",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 179,
@@ -2173,8 +2596,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1319,
     "uikTvd": "405403570771",
+    "uikName": "УИК №1319",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 104,
@@ -2219,8 +2651,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1320,
     "uikTvd": "405403570772",
+    "uikName": "УИК №1320",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1314,
       "Число бюллетеней, полученных участковыми комиссиями": 1314,
@@ -2265,8 +2706,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1321,
     "uikTvd": "405403570773",
+    "uikName": "УИК №1321",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 899,
       "Число бюллетеней, полученных участковыми комиссиями": 899,
@@ -2311,8 +2761,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1322,
     "uikTvd": "405403570774",
+    "uikName": "УИК №1322",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 606,
       "Число бюллетеней, полученных участковыми комиссиями": 529,
@@ -2357,8 +2816,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1323,
     "uikTvd": "405403570775",
+    "uikName": "УИК №1323",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 818,
       "Число бюллетеней, полученных участковыми комиссиями": 818,
@@ -2403,8 +2871,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1324,
     "uikTvd": "405403570776",
+    "uikName": "УИК №1324",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 728,
       "Число бюллетеней, полученных участковыми комиссиями": 728,
@@ -2449,8 +2926,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1325,
     "uikTvd": "405403570777",
+    "uikName": "УИК №1325",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 275,
@@ -2495,8 +2981,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1326,
     "uikTvd": "405403570778",
+    "uikName": "УИК №1326",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 224,
@@ -2541,8 +3036,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1327,
     "uikTvd": "405403570779",
+    "uikName": "УИК №1327",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -2587,8 +3091,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1328,
     "uikTvd": "405403570780",
+    "uikName": "УИК №1328",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -2633,8 +3146,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1329,
     "uikTvd": "405403570781",
+    "uikName": "УИК №1329",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 203,
@@ -2679,8 +3201,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1330,
     "uikTvd": "405403570782",
+    "uikName": "УИК №1330",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 477,
       "Число бюллетеней, полученных участковыми комиссиями": 461,
@@ -2725,8 +3256,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1331,
     "uikTvd": "405403570783",
+    "uikName": "УИК №1331",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 871,
       "Число бюллетеней, полученных участковыми комиссиями": 871,
@@ -2771,8 +3311,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1332,
     "uikTvd": "405403570784",
+    "uikName": "УИК №1332",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 149,
       "Число бюллетеней, полученных участковыми комиссиями": 137,
@@ -2817,8 +3366,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1333,
     "uikTvd": "405403570785",
+    "uikName": "УИК №1333",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 502,
       "Число бюллетеней, полученных участковыми комиссиями": 458,
@@ -2863,8 +3421,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1334,
     "uikTvd": "405403570786",
+    "uikName": "УИК №1334",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 321,
       "Число бюллетеней, полученных участковыми комиссиями": 321,
@@ -2909,8 +3476,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1335,
     "uikTvd": "405403570787",
+    "uikName": "УИК №1335",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 671,
       "Число бюллетеней, полученных участковыми комиссиями": 671,
@@ -2955,8 +3531,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1336,
     "uikTvd": "405403570788",
+    "uikName": "УИК №1336",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1222,
       "Число бюллетеней, полученных участковыми комиссиями": 1242,
@@ -3001,8 +3586,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1337,
     "uikTvd": "405403570789",
+    "uikName": "УИК №1337",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 228,
@@ -3047,8 +3641,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1338,
     "uikTvd": "405403570790",
+    "uikName": "УИК №1338",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 284,
       "Число бюллетеней, полученных участковыми комиссиями": 266,
@@ -3093,8 +3696,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1339,
     "uikTvd": "405403570791",
+    "uikName": "УИК №1339",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1037,
       "Число бюллетеней, полученных участковыми комиссиями": 1037,
@@ -3139,8 +3751,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1340,
     "uikTvd": "405403570792",
+    "uikName": "УИК №1340",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 791,
       "Число бюллетеней, полученных участковыми комиссиями": 791,
@@ -3185,8 +3806,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1341,
     "uikTvd": "405403570793",
+    "uikName": "УИК №1341",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 361,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -3231,8 +3861,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1342,
     "uikTvd": "405403570794",
+    "uikName": "УИК №1342",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 514,
       "Число бюллетеней, полученных участковыми комиссиями": 497,
@@ -3277,8 +3916,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1343,
     "uikTvd": "405403570795",
+    "uikName": "УИК №1343",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 188,
@@ -3323,8 +3971,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1344,
     "uikTvd": "405403570796",
+    "uikName": "УИК №1344",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 222,
@@ -3369,8 +4026,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1345,
     "uikTvd": "405403570797",
+    "uikName": "УИК №1345",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 367,
@@ -3415,8 +4081,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1346,
     "uikTvd": "405403570798",
+    "uikName": "УИК №1346",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 611,
       "Число бюллетеней, полученных участковыми комиссиями": 612,
@@ -3461,8 +4136,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1347,
     "uikTvd": "405403570799",
+    "uikName": "УИК №1347",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 262,
@@ -3507,8 +4191,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1348,
     "uikTvd": "405403570800",
+    "uikName": "УИК №1348",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 305,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -3553,8 +4246,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1349,
     "uikTvd": "405403570801",
+    "uikName": "УИК №1349",
     "tikTvd": "205200070581",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100095730",
+      "oikName": "Дербентский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 450,
       "Число бюллетеней, полученных участковыми комиссиями": 448,
@@ -3599,8 +4301,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1409,
     "uikTvd": "405401970529",
+    "uikName": "УИК №1409",
     "tikTvd": "205200070608",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2631,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3642,8 +4353,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1410,
     "uikTvd": "405401970530",
+    "uikName": "УИК №1410",
     "tikTvd": "205200070608",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2150,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3685,8 +4405,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1411,
     "uikTvd": "405401970531",
+    "uikName": "УИК №1411",
     "tikTvd": "205200070608",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2760,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -3728,8 +4457,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1412,
     "uikTvd": "405401970532",
+    "uikName": "УИК №1412",
     "tikTvd": "205200070608",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1821,
       "Число бюллетеней, полученных участковыми комиссиями": 1765,
@@ -3771,8 +4509,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1413,
     "uikTvd": "405401970533",
+    "uikName": "УИК №1413",
     "tikTvd": "205200070608",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2145,
       "Число бюллетеней, полученных участковыми комиссиями": 2125,
@@ -3814,8 +4561,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1414,
     "uikTvd": "405401970534",
+    "uikName": "УИК №1414",
     "tikTvd": "205200070608",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2480,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3857,8 +4613,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1415,
     "uikTvd": "405401970535",
+    "uikName": "УИК №1415",
     "tikTvd": "205200070608",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 963,
       "Число бюллетеней, полученных участковыми комиссиями": 945,
@@ -3900,8 +4665,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1416,
     "uikTvd": "405401970536",
+    "uikName": "УИК №1416",
     "tikTvd": "205200070608",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2402,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3943,8 +4717,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1417,
     "uikTvd": "405401970537",
+    "uikName": "УИК №1417",
     "tikTvd": "205200070608",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2634,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3986,8 +4769,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1418,
     "uikTvd": "405401970538",
+    "uikName": "УИК №1418",
     "tikTvd": "205200070608",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2270,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4029,8 +4821,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1419,
     "uikTvd": "405401970539",
+    "uikName": "УИК №1419",
     "tikTvd": "205200070608",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2350,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4072,8 +4873,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1420,
     "uikTvd": "405401970540",
+    "uikName": "УИК №1420",
     "tikTvd": "205200070608",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2296,
       "Число бюллетеней, полученных участковыми комиссиями": 2296,
@@ -4115,8 +4925,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1421,
     "uikTvd": "405401970541",
+    "uikName": "УИК №1421",
     "tikTvd": "205200070608",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2073,
       "Число бюллетеней, полученных участковыми комиссиями": 2039,
@@ -4158,8 +4977,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1422,
     "uikTvd": "405401970542",
+    "uikName": "УИК №1422",
     "tikTvd": "205200070608",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2209,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4201,8 +5029,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1423,
     "uikTvd": "405401970543",
+    "uikName": "УИК №1423",
     "tikTvd": "205200070608",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2094,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4244,8 +5081,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1424,
     "uikTvd": "405401970544",
+    "uikName": "УИК №1424",
     "tikTvd": "205200070608",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2929,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -4287,8 +5133,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1425,
     "uikTvd": "405401970545",
+    "uikName": "УИК №1425",
     "tikTvd": "205200070608",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1500,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4330,8 +5185,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1426,
     "uikTvd": "405401970546",
+    "uikName": "УИК №1426",
     "tikTvd": "205200070608",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2548,
       "Число бюллетеней, полученных участковыми комиссиями": 2548,
@@ -4373,8 +5237,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1427,
     "uikTvd": "405401970547",
+    "uikName": "УИК №1427",
     "tikTvd": "205200070608",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2394,
       "Число бюллетеней, полученных участковыми комиссиями": 2339,
@@ -4416,8 +5289,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1428,
     "uikTvd": "405401970548",
+    "uikName": "УИК №1428",
     "tikTvd": "205200070608",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1415,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4459,8 +5341,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1429,
     "uikTvd": "405401970549",
+    "uikName": "УИК №1429",
     "tikTvd": "205200070608",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1755,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4502,8 +5393,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1464,
     "uikTvd": "405402170507",
+    "uikName": "УИК №1464",
     "tikTvd": "205200070610",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1205,
       "Число бюллетеней, полученных участковыми комиссиями": 1173,
@@ -4545,8 +5445,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1465,
     "uikTvd": "405402170508",
+    "uikName": "УИК №1465",
     "tikTvd": "205200070610",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1202,
       "Число бюллетеней, полученных участковыми комиссиями": 1176,
@@ -4588,8 +5497,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1466,
     "uikTvd": "405402170509",
+    "uikName": "УИК №1466",
     "tikTvd": "205200070610",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1238,
       "Число бюллетеней, полученных участковыми комиссиями": 1210,
@@ -4631,8 +5549,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1467,
     "uikTvd": "405402170510",
+    "uikName": "УИК №1467",
     "tikTvd": "205200070610",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 285,
@@ -4674,8 +5601,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1468,
     "uikTvd": "405402170511",
+    "uikName": "УИК №1468",
     "tikTvd": "205200070610",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 934,
       "Число бюллетеней, полученных участковыми комиссиями": 902,
@@ -4717,8 +5653,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1469,
     "uikTvd": "405402170512",
+    "uikName": "УИК №1469",
     "tikTvd": "205200070610",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 888,
       "Число бюллетеней, полученных участковыми комиссиями": 888,
@@ -4760,8 +5705,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1470,
     "uikTvd": "405402170513",
+    "uikName": "УИК №1470",
     "tikTvd": "205200070610",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1036,
       "Число бюллетеней, полученных участковыми комиссиями": 1025,
@@ -4803,8 +5757,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1471,
     "uikTvd": "405402170514",
+    "uikName": "УИК №1471",
     "tikTvd": "205200070610",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 743,
       "Число бюллетеней, полученных участковыми комиссиями": 723,
@@ -4846,8 +5809,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1472,
     "uikTvd": "405402170515",
+    "uikName": "УИК №1472",
     "tikTvd": "205200070610",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1152,
       "Число бюллетеней, полученных участковыми комиссиями": 1138,
@@ -4889,8 +5861,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1473,
     "uikTvd": "405402170516",
+    "uikName": "УИК №1473",
     "tikTvd": "205200070610",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1089,
       "Число бюллетеней, полученных участковыми комиссиями": 1075,
@@ -4932,8 +5913,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1474,
     "uikTvd": "405402170517",
+    "uikName": "УИК №1474",
     "tikTvd": "205200070610",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1211,
       "Число бюллетеней, полученных участковыми комиссиями": 1211,
@@ -4975,8 +5965,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1475,
     "uikTvd": "405402170518",
+    "uikName": "УИК №1475",
     "tikTvd": "205200070610",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1081,
       "Число бюллетеней, полученных участковыми комиссиями": 1056,
@@ -5018,8 +6017,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1476,
     "uikTvd": "405402170519",
+    "uikName": "УИК №1476",
     "tikTvd": "205200070610",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 951,
       "Число бюллетеней, полученных участковыми комиссиями": 951,
@@ -5061,8 +6069,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1477,
     "uikTvd": "405402170520",
+    "uikName": "УИК №1477",
     "tikTvd": "205200070610",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1063,
       "Число бюллетеней, полученных участковыми комиссиями": 1053,
@@ -5104,8 +6121,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1478,
     "uikTvd": "405402170521",
+    "uikName": "УИК №1478",
     "tikTvd": "205200070610",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1229,
       "Число бюллетеней, полученных участковыми комиссиями": 1219,
@@ -5147,8 +6173,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1479,
     "uikTvd": "405402170522",
+    "uikName": "УИК №1479",
     "tikTvd": "205200070610",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 912,
       "Число бюллетеней, полученных участковыми комиссиями": 912,
@@ -5190,8 +6225,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1480,
     "uikTvd": "405402170523",
+    "uikName": "УИК №1480",
     "tikTvd": "205200070610",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1677,
       "Число бюллетеней, полученных участковыми комиссиями": 1677,
@@ -5233,8 +6277,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1481,
     "uikTvd": "405402170524",
+    "uikName": "УИК №1481",
     "tikTvd": "205200070610",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 868,
       "Число бюллетеней, полученных участковыми комиссиями": 868,
@@ -5276,8 +6329,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1482,
     "uikTvd": "405402170525",
+    "uikName": "УИК №1482",
     "tikTvd": "205200070610",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1365,
       "Число бюллетеней, полученных участковыми комиссиями": 1365,
@@ -5319,8 +6381,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1483,
     "uikTvd": "405402170526",
+    "uikName": "УИК №1483",
     "tikTvd": "205200070610",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 922,
       "Число бюллетеней, полученных участковыми комиссиями": 904,
@@ -5362,8 +6433,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1484,
     "uikTvd": "405402170527",
+    "uikName": "УИК №1484",
     "tikTvd": "205200070610",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1997,
       "Число бюллетеней, полученных участковыми комиссиями": 1997,
@@ -5405,8 +6485,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1485,
     "uikTvd": "405402170528",
+    "uikName": "УИК №1485",
     "tikTvd": "205200070610",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1317,
       "Число бюллетеней, полученных участковыми комиссиями": 1302,
@@ -5448,8 +6537,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1430,
     "uikTvd": "405404970405",
+    "uikName": "УИК №1430",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2072,
       "Число бюллетеней, полученных участковыми комиссиями": 2072,
@@ -5491,8 +6589,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1431,
     "uikTvd": "405404970406",
+    "uikName": "УИК №1431",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1051,
       "Число бюллетеней, полученных участковыми комиссиями": 1051,
@@ -5534,8 +6641,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1432,
     "uikTvd": "405404970463",
+    "uikName": "УИК №1432",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1007,
       "Число бюллетеней, полученных участковыми комиссиями": 1007,
@@ -5577,8 +6693,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1433,
     "uikTvd": "405404970407",
+    "uikName": "УИК №1433",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1522,
       "Число бюллетеней, полученных участковыми комиссиями": 1522,
@@ -5620,8 +6745,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1434,
     "uikTvd": "405404970408",
+    "uikName": "УИК №1434",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 540,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -5663,8 +6797,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1435,
     "uikTvd": "405404970409",
+    "uikName": "УИК №1435",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 216,
@@ -5706,8 +6849,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1436,
     "uikTvd": "405404970410",
+    "uikName": "УИК №1436",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 628,
       "Число бюллетеней, полученных участковыми комиссиями": 628,
@@ -5749,8 +6901,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1437,
     "uikTvd": "405404970411",
+    "uikName": "УИК №1437",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 912,
       "Число бюллетеней, полученных участковыми комиссиями": 912,
@@ -5792,8 +6953,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1438,
     "uikTvd": "405404970412",
+    "uikName": "УИК №1438",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 702,
       "Число бюллетеней, полученных участковыми комиссиями": 702,
@@ -5835,8 +7005,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1439,
     "uikTvd": "405404970413",
+    "uikName": "УИК №1439",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1602,
       "Число бюллетеней, полученных участковыми комиссиями": 1602,
@@ -5878,8 +7057,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1440,
     "uikTvd": "405404970414",
+    "uikName": "УИК №1440",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2046,
       "Число бюллетеней, полученных участковыми комиссиями": 2046,
@@ -5921,8 +7109,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1441,
     "uikTvd": "405404970415",
+    "uikName": "УИК №1441",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1812,
       "Число бюллетеней, полученных участковыми комиссиями": 1812,
@@ -5964,8 +7161,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1442,
     "uikTvd": "405404970416",
+    "uikName": "УИК №1442",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 507,
       "Число бюллетеней, полученных участковыми комиссиями": 507,
@@ -6007,8 +7213,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1443,
     "uikTvd": "405404970417",
+    "uikName": "УИК №1443",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1469,
       "Число бюллетеней, полученных участковыми комиссиями": 1469,
@@ -6050,8 +7265,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1444,
     "uikTvd": "405404970418",
+    "uikName": "УИК №1444",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1381,
       "Число бюллетеней, полученных участковыми комиссиями": 1381,
@@ -6093,8 +7317,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1445,
     "uikTvd": "405404970419",
+    "uikName": "УИК №1445",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1144,
       "Число бюллетеней, полученных участковыми комиссиями": 1144,
@@ -6136,8 +7369,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1446,
     "uikTvd": "405404970420",
+    "uikName": "УИК №1446",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1167,
       "Число бюллетеней, полученных участковыми комиссиями": 1167,
@@ -6179,8 +7421,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1447,
     "uikTvd": "405404970421",
+    "uikName": "УИК №1447",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 204,
@@ -6222,8 +7473,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1448,
     "uikTvd": "405404970422",
+    "uikName": "УИК №1448",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 940,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -6265,8 +7525,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1449,
     "uikTvd": "405404970423",
+    "uikName": "УИК №1449",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1834,
       "Число бюллетеней, полученных участковыми комиссиями": 1834,
@@ -6308,8 +7577,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1450,
     "uikTvd": "405404970424",
+    "uikName": "УИК №1450",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 895,
       "Число бюллетеней, полученных участковыми комиссиями": 895,
@@ -6351,8 +7629,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1451,
     "uikTvd": "405404970425",
+    "uikName": "УИК №1451",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1585,
       "Число бюллетеней, полученных участковыми комиссиями": 1585,
@@ -6394,8 +7681,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1452,
     "uikTvd": "405404970426",
+    "uikName": "УИК №1452",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1319,
       "Число бюллетеней, полученных участковыми комиссиями": 1319,
@@ -6437,8 +7733,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1453,
     "uikTvd": "405404970427",
+    "uikName": "УИК №1453",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 961,
       "Число бюллетеней, полученных участковыми комиссиями": 961,
@@ -6480,8 +7785,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1454,
     "uikTvd": "405404970428",
+    "uikName": "УИК №1454",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1002,
       "Число бюллетеней, полученных участковыми комиссиями": 1002,
@@ -6523,8 +7837,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1455,
     "uikTvd": "405404970429",
+    "uikName": "УИК №1455",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1072,
       "Число бюллетеней, полученных участковыми комиссиями": 1072,
@@ -6566,8 +7889,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1456,
     "uikTvd": "405404970430",
+    "uikName": "УИК №1456",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1007,
       "Число бюллетеней, полученных участковыми комиссиями": 1007,
@@ -6609,8 +7941,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1457,
     "uikTvd": "405404970431",
+    "uikName": "УИК №1457",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1441,
       "Число бюллетеней, полученных участковыми комиссиями": 1441,
@@ -6652,8 +7993,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1458,
     "uikTvd": "405404970432",
+    "uikName": "УИК №1458",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 792,
       "Число бюллетеней, полученных участковыми комиссиями": 792,
@@ -6695,8 +8045,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1459,
     "uikTvd": "405404970433",
+    "uikName": "УИК №1459",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 985,
       "Число бюллетеней, полученных участковыми комиссиями": 985,
@@ -6738,8 +8097,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1460,
     "uikTvd": "405404970434",
+    "uikName": "УИК №1460",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 911,
       "Число бюллетеней, полученных участковыми комиссиями": 911,
@@ -6781,8 +8149,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1461,
     "uikTvd": "405404970435",
+    "uikName": "УИК №1461",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1423,
       "Число бюллетеней, полученных участковыми комиссиями": 1423,
@@ -6824,8 +8201,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1462,
     "uikTvd": "405404970436",
+    "uikName": "УИК №1462",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1330,
       "Число бюллетеней, полученных участковыми комиссиями": 1330,
@@ -6867,8 +8253,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1463,
     "uikTvd": "405404970437",
+    "uikName": "УИК №1463",
     "tikTvd": "205200070612",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1290,
       "Число бюллетеней, полученных участковыми комиссиями": 1290,
@@ -6910,8 +8305,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1535,
     "uikTvd": "405402270483",
+    "uikName": "УИК №1535",
     "tikTvd": "205200070614",
     "tikName": "Кизлярская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1729,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6953,8 +8357,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1536,
     "uikTvd": "405402270484",
+    "uikName": "УИК №1536",
     "tikTvd": "205200070614",
     "tikName": "Кизлярская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1655,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -6996,8 +8409,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1537,
     "uikTvd": "405402270485",
+    "uikName": "УИК №1537",
     "tikTvd": "205200070614",
     "tikName": "Кизлярская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1215,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -7039,8 +8461,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1538,
     "uikTvd": "405402270486",
+    "uikName": "УИК №1538",
     "tikTvd": "205200070614",
     "tikName": "Кизлярская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1703,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7082,8 +8513,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1539,
     "uikTvd": "405402270487",
+    "uikName": "УИК №1539",
     "tikTvd": "205200070614",
     "tikName": "Кизлярская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1635,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7125,8 +8565,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1540,
     "uikTvd": "405402270488",
+    "uikName": "УИК №1540",
     "tikTvd": "205200070614",
     "tikName": "Кизлярская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1352,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7168,8 +8617,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1541,
     "uikTvd": "405402270489",
+    "uikName": "УИК №1541",
     "tikTvd": "205200070614",
     "tikName": "Кизлярская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1568,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7211,8 +8669,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1542,
     "uikTvd": "405402270490",
+    "uikName": "УИК №1542",
     "tikTvd": "205200070614",
     "tikName": "Кизлярская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1681,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7254,8 +8721,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1543,
     "uikTvd": "405402270491",
+    "uikName": "УИК №1543",
     "tikTvd": "205200070614",
     "tikName": "Кизлярская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1368,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -7297,8 +8773,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1544,
     "uikTvd": "405402270492",
+    "uikName": "УИК №1544",
     "tikTvd": "205200070614",
     "tikName": "Кизлярская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1452,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -7340,8 +8825,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1545,
     "uikTvd": "405402270493",
+    "uikName": "УИК №1545",
     "tikTvd": "205200070614",
     "tikName": "Кизлярская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1269,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -7383,8 +8877,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1546,
     "uikTvd": "405402270494",
+    "uikName": "УИК №1546",
     "tikTvd": "205200070614",
     "tikName": "Кизлярская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1631,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7426,8 +8929,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1547,
     "uikTvd": "405402270495",
+    "uikName": "УИК №1547",
     "tikTvd": "205200070614",
     "tikName": "Кизлярская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1595,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7469,8 +8981,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1548,
     "uikTvd": "405402270496",
+    "uikName": "УИК №1548",
     "tikTvd": "205200070614",
     "tikName": "Кизлярская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1455,
       "Число бюллетеней, полученных участковыми комиссиями": 1433,
@@ -7512,8 +9033,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1549,
     "uikTvd": "405402270497",
+    "uikName": "УИК №1549",
     "tikTvd": "205200070614",
     "tikName": "Кизлярская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1610,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7555,8 +9085,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1550,
     "uikTvd": "405402270498",
+    "uikName": "УИК №1550",
     "tikTvd": "205200070614",
     "tikName": "Кизлярская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1497,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7598,8 +9137,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1551,
     "uikTvd": "405402270499",
+    "uikName": "УИК №1551",
     "tikTvd": "205200070614",
     "tikName": "Кизлярская городская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1711,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7641,8 +9189,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1486,
     "uikTvd": "405405070444",
+    "uikName": "УИК №1486",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1657,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -7684,8 +9241,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1487,
     "uikTvd": "405405070445",
+    "uikName": "УИК №1487",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 299,
       "Число бюллетеней, полученных участковыми комиссиями": 283,
@@ -7727,8 +9293,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1488,
     "uikTvd": "405405070446",
+    "uikName": "УИК №1488",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1410,
       "Число бюллетеней, полученных участковыми комиссиями": 1233,
@@ -7770,8 +9345,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1489,
     "uikTvd": "405405070447",
+    "uikName": "УИК №1489",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 215,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -7813,8 +9397,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1490,
     "uikTvd": "405405070448",
+    "uikName": "УИК №1490",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1068,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -7856,8 +9449,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1491,
     "uikTvd": "405405070449",
+    "uikName": "УИК №1491",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1295,
       "Число бюллетеней, полученных участковыми комиссиями": 1170,
@@ -7899,8 +9501,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1492,
     "uikTvd": "405405070450",
+    "uikName": "УИК №1492",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 389,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -7942,8 +9553,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1493,
     "uikTvd": "405405070451",
+    "uikName": "УИК №1493",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1027,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -7985,8 +9605,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1494,
     "uikTvd": "405405070452",
+    "uikName": "УИК №1494",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -8028,8 +9657,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1495,
     "uikTvd": "405405070453",
+    "uikName": "УИК №1495",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1059,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8071,8 +9709,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1496,
     "uikTvd": "405405070454",
+    "uikName": "УИК №1496",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -8114,8 +9761,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1497,
     "uikTvd": "405405070455",
+    "uikName": "УИК №1497",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1286,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -8157,8 +9813,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1498,
     "uikTvd": "405405070456",
+    "uikName": "УИК №1498",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 817,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -8200,8 +9865,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1499,
     "uikTvd": "405405070457",
+    "uikName": "УИК №1499",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -8243,8 +9917,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1500,
     "uikTvd": "405405070458",
+    "uikName": "УИК №1500",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 459,
       "Число бюллетеней, полученных участковыми комиссиями": 412,
@@ -8286,8 +9969,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1501,
     "uikTvd": "405405070459",
+    "uikName": "УИК №1501",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -8329,8 +10021,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1502,
     "uikTvd": "405405070460",
+    "uikName": "УИК №1502",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1212,
       "Число бюллетеней, полученных участковыми комиссиями": 1170,
@@ -8372,8 +10073,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1503,
     "uikTvd": "405405070461",
+    "uikName": "УИК №1503",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 987,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -8415,8 +10125,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1504,
     "uikTvd": "405405070462",
+    "uikName": "УИК №1504",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1324,
       "Число бюллетеней, полученных участковыми комиссиями": 1142,
@@ -8458,8 +10177,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1505,
     "uikTvd": "405405070463",
+    "uikName": "УИК №1505",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -8501,8 +10229,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1506,
     "uikTvd": "405405070464",
+    "uikName": "УИК №1506",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 529,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8544,8 +10281,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1507,
     "uikTvd": "405405070465",
+    "uikName": "УИК №1507",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1027,
       "Число бюллетеней, полученных участковыми комиссиями": 930,
@@ -8587,8 +10333,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1508,
     "uikTvd": "405405070466",
+    "uikName": "УИК №1508",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1047,
       "Число бюллетеней, полученных участковыми комиссиями": 930,
@@ -8630,8 +10385,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1509,
     "uikTvd": "405405070467",
+    "uikName": "УИК №1509",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 612,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -8673,8 +10437,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1510,
     "uikTvd": "405405070468",
+    "uikName": "УИК №1510",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 858,
       "Число бюллетеней, полученных участковыми комиссиями": 775,
@@ -8716,8 +10489,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1511,
     "uikTvd": "405405070469",
+    "uikName": "УИК №1511",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 555,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8759,8 +10541,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1512,
     "uikTvd": "405405070470",
+    "uikName": "УИК №1512",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1140,
       "Число бюллетеней, полученных участковыми комиссиями": 1032,
@@ -8802,8 +10593,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1513,
     "uikTvd": "405405070471",
+    "uikName": "УИК №1513",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 845,
       "Число бюллетеней, полученных участковыми комиссиями": 762,
@@ -8845,8 +10645,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1514,
     "uikTvd": "405405070472",
+    "uikName": "УИК №1514",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 853,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -8888,8 +10697,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1515,
     "uikTvd": "405405070473",
+    "uikName": "УИК №1515",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 548,
       "Число бюллетеней, полученных участковыми комиссиями": 486,
@@ -8931,8 +10749,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1516,
     "uikTvd": "405405070474",
+    "uikName": "УИК №1516",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 378,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -8974,8 +10801,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1517,
     "uikTvd": "405405070475",
+    "uikName": "УИК №1517",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 848,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -9017,8 +10853,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1518,
     "uikTvd": "405405070476",
+    "uikName": "УИК №1518",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 683,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -9060,8 +10905,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1519,
     "uikTvd": "405405070477",
+    "uikName": "УИК №1519",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 742,
       "Число бюллетеней, полученных участковыми комиссиями": 665,
@@ -9103,8 +10957,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1520,
     "uikTvd": "405405070478",
+    "uikName": "УИК №1520",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 340,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -9146,8 +11009,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1521,
     "uikTvd": "405405070479",
+    "uikName": "УИК №1521",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 597,
       "Число бюллетеней, полученных участковыми комиссиями": 539,
@@ -9189,8 +11061,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1522,
     "uikTvd": "405405070480",
+    "uikName": "УИК №1522",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -9232,8 +11113,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1523,
     "uikTvd": "405405070481",
+    "uikName": "УИК №1523",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 325,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -9275,8 +11165,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1524,
     "uikTvd": "405405070482",
+    "uikName": "УИК №1524",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 556,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -9318,8 +11217,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1525,
     "uikTvd": "405405070483",
+    "uikName": "УИК №1525",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1406,
       "Число бюллетеней, полученных участковыми комиссиями": 1340,
@@ -9361,8 +11269,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1526,
     "uikTvd": "405405070484",
+    "uikName": "УИК №1526",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 305,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -9404,8 +11321,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1527,
     "uikTvd": "405405070485",
+    "uikName": "УИК №1527",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 609,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -9447,8 +11373,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1528,
     "uikTvd": "405405070486",
+    "uikName": "УИК №1528",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1614,
       "Число бюллетеней, полученных участковыми комиссиями": 1490,
@@ -9490,8 +11425,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1529,
     "uikTvd": "405405070487",
+    "uikName": "УИК №1529",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -9533,8 +11477,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1530,
     "uikTvd": "405405070488",
+    "uikName": "УИК №1530",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 868,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -9576,8 +11529,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1531,
     "uikTvd": "405405070489",
+    "uikName": "УИК №1531",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 286,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -9619,8 +11581,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1532,
     "uikTvd": "405405070490",
+    "uikName": "УИК №1532",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 381,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -9662,8 +11633,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1533,
     "uikTvd": "405405070491",
+    "uikName": "УИК №1533",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 725,
       "Число бюллетеней, полученных участковыми комиссиями": 665,
@@ -9705,8 +11685,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1534,
     "uikTvd": "405405070492",
+    "uikName": "УИК №1534",
     "tikTvd": "205200070616",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 428,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -9748,8 +11737,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1552,
     "uikTvd": "405405170401",
+    "uikName": "УИК №1552",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1967,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9791,8 +11789,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1553,
     "uikTvd": "405405170402",
+    "uikName": "УИК №1553",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2061,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9834,8 +11841,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1554,
     "uikTvd": "405405170403",
+    "uikName": "УИК №1554",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2382,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9877,8 +11893,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1555,
     "uikTvd": "405405170404",
+    "uikName": "УИК №1555",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2402,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9920,8 +11945,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1556,
     "uikTvd": "405405170405",
+    "uikName": "УИК №1556",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2108,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9963,8 +11997,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1557,
     "uikTvd": "405405170406",
+    "uikName": "УИК №1557",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2069,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10006,8 +12049,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1558,
     "uikTvd": "405405170407",
+    "uikName": "УИК №1558",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2512,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10049,8 +12101,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1559,
     "uikTvd": "405405170408",
+    "uikName": "УИК №1559",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2493,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10092,8 +12153,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1560,
     "uikTvd": "405405170409",
+    "uikName": "УИК №1560",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3094,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -10135,8 +12205,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1561,
     "uikTvd": "405405170410",
+    "uikName": "УИК №1561",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2900,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -10178,8 +12257,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1562,
     "uikTvd": "405405170411",
+    "uikName": "УИК №1562",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2491,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10221,8 +12309,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1563,
     "uikTvd": "405405170412",
+    "uikName": "УИК №1563",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2805,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10264,8 +12361,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1564,
     "uikTvd": "405405170413",
+    "uikName": "УИК №1564",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2585,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10307,8 +12413,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1565,
     "uikTvd": "405405170414",
+    "uikName": "УИК №1565",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2666,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10350,8 +12465,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1566,
     "uikTvd": "405405170415",
+    "uikName": "УИК №1566",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2713,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10393,8 +12517,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1567,
     "uikTvd": "405405170416",
+    "uikName": "УИК №1567",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1846,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10436,8 +12569,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1568,
     "uikTvd": "405405170417",
+    "uikName": "УИК №1568",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2717,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10479,8 +12621,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1569,
     "uikTvd": "405405170418",
+    "uikName": "УИК №1569",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2613,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10522,8 +12673,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1570,
     "uikTvd": "405405170419",
+    "uikName": "УИК №1570",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2317,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10565,8 +12725,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1571,
     "uikTvd": "405405170420",
+    "uikName": "УИК №1571",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2688,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10608,8 +12777,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1572,
     "uikTvd": "405405170421",
+    "uikName": "УИК №1572",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2836,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -10651,8 +12829,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1573,
     "uikTvd": "405405170422",
+    "uikName": "УИК №1573",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2403,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10694,8 +12881,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1574,
     "uikTvd": "405405170423",
+    "uikName": "УИК №1574",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1804,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10737,8 +12933,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1575,
     "uikTvd": "405405170424",
+    "uikName": "УИК №1575",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1770,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10780,8 +12985,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1576,
     "uikTvd": "405405170425",
+    "uikName": "УИК №1576",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2447,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10823,8 +13037,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1577,
     "uikTvd": "405405170426",
+    "uikName": "УИК №1577",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2121,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10866,8 +13089,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1578,
     "uikTvd": "405405170427",
+    "uikName": "УИК №1578",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2998,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -10909,8 +13141,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1579,
     "uikTvd": "405405170428",
+    "uikName": "УИК №1579",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1417,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10952,8 +13193,17 @@ export const duma_2003_uik_428_region_5_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1580,
     "uikTvd": "405405170429",
+    "uikName": "УИК №1580",
     "tikTvd": "205200070618",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100095728",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100095731",
+      "oikName": "Махачкалинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2047,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,

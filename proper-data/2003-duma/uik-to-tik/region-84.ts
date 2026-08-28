@@ -7,199 +7,496 @@ export const duma_2003_uik_to_tik_region_84 = [
   {
     "uikNumber": 1,
     "uikTvd": "484400167826",
+    "uikName": "УИК №1",
     "tikTvd": "284200066705",
-    "tikName": "Диксонская"
+    "tikName": "Диксонская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "484400167828",
+    "uikName": "УИК №2",
     "tikTvd": "284200066705",
-    "tikName": "Диксонская"
+    "tikName": "Диксонская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "484400266669",
+    "uikName": "УИК №3",
     "tikTvd": "284200066703",
-    "tikName": "Дудинская"
+    "tikName": "Дудинская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "484400266670",
+    "uikName": "УИК №4",
     "tikTvd": "284200066703",
-    "tikName": "Дудинская"
+    "tikName": "Дудинская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "484400266671",
+    "uikName": "УИК №5",
     "tikTvd": "284200066703",
-    "tikName": "Дудинская"
+    "tikName": "Дудинская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "484400266672",
+    "uikName": "УИК №6",
     "tikTvd": "284200066703",
-    "tikName": "Дудинская"
+    "tikName": "Дудинская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "484400266673",
+    "uikName": "УИК №7",
     "tikTvd": "284200066703",
-    "tikName": "Дудинская"
+    "tikName": "Дудинская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "484400266674",
+    "uikName": "УИК №8",
     "tikTvd": "284200066703",
-    "tikName": "Дудинская"
+    "tikName": "Дудинская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "484400266675",
+    "uikName": "УИК №9",
     "tikTvd": "284200066703",
-    "tikName": "Дудинская"
+    "tikName": "Дудинская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "484400266676",
+    "uikName": "УИК №10",
     "tikTvd": "284200066703",
-    "tikName": "Дудинская"
+    "tikName": "Дудинская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "484400266677",
+    "uikName": "УИК №11",
     "tikTvd": "284200066703",
-    "tikName": "Дудинская"
+    "tikName": "Дудинская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "484400266678",
+    "uikName": "УИК №12",
     "tikTvd": "284200066703",
-    "tikName": "Дудинская"
+    "tikName": "Дудинская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "484400266679",
+    "uikName": "УИК №13",
     "tikTvd": "284200066703",
-    "tikName": "Дудинская"
+    "tikName": "Дудинская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "484400266680",
+    "uikName": "УИК №14",
     "tikTvd": "284200066703",
-    "tikName": "Дудинская"
+    "tikName": "Дудинская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "484400266681",
+    "uikName": "УИК №15",
     "tikTvd": "284200066703",
-    "tikName": "Дудинская"
+    "tikName": "Дудинская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "484400266682",
+    "uikName": "УИК №16",
     "tikTvd": "284200066703",
-    "tikName": "Дудинская"
+    "tikName": "Дудинская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "484400266683",
+    "uikName": "УИК №17",
     "tikTvd": "284200066703",
-    "tikName": "Дудинская"
+    "tikName": "Дудинская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "484400366700",
+    "uikName": "УИК  18",
     "tikTvd": "284200066704",
-    "tikName": "Усть-Енисейская"
+    "tikName": "Усть-Енисейская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "484400366701",
+    "uikName": "УИК  19",
     "tikTvd": "284200066704",
-    "tikName": "Усть-Енисейская"
+    "tikName": "Усть-Енисейская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "484400366702",
+    "uikName": "УИК  20",
     "tikTvd": "284200066704",
-    "tikName": "Усть-Енисейская"
+    "tikName": "Усть-Енисейская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "484400366703",
+    "uikName": "УИК  21",
     "tikTvd": "284200066704",
-    "tikName": "Усть-Енисейская"
+    "tikName": "Усть-Енисейская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "484400366704",
+    "uikName": "УИК  22",
     "tikTvd": "284200066704",
-    "tikName": "Усть-Енисейская"
+    "tikName": "Усть-Енисейская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "484400366705",
+    "uikName": "УИК  23",
     "tikTvd": "284200066704",
-    "tikName": "Усть-Енисейская"
+    "tikName": "Усть-Енисейская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "484400466625",
+    "uikName": "УИК №24",
     "tikTvd": "284200066702",
-    "tikName": "Хатангская"
+    "tikName": "Хатангская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "484400466626",
+    "uikName": "УИК №25",
     "tikTvd": "284200066702",
-    "tikName": "Хатангская"
+    "tikName": "Хатангская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "484400466627",
+    "uikName": "УИК №26",
     "tikTvd": "284200066702",
-    "tikName": "Хатангская"
+    "tikName": "Хатангская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "484400466628",
+    "uikName": "УИК №27",
     "tikTvd": "284200066702",
-    "tikName": "Хатангская"
+    "tikName": "Хатангская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "484400466629",
+    "uikName": "УИК №28",
     "tikTvd": "284200066702",
-    "tikName": "Хатангская"
+    "tikName": "Хатангская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "484400466630",
+    "uikName": "УИК №29",
     "tikTvd": "284200066702",
-    "tikName": "Хатангская"
+    "tikName": "Хатангская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "484400466631",
+    "uikName": "УИК №30",
     "tikTvd": "284200066702",
-    "tikName": "Хатангская"
+    "tikName": "Хатангская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "484400466632",
+    "uikName": "УИК №31",
     "tikTvd": "284200066702",
-    "tikName": "Хатангская"
+    "tikName": "Хатангская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "484400466633",
+    "uikName": "УИК №32",
     "tikTvd": "284200066702",
-    "tikName": "Хатангская"
+    "tikName": "Хатангская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "484400466634",
+    "uikName": "УИК №33",
     "tikTvd": "284200066702",
-    "tikName": "Хатангская"
+    "tikName": "Хатангская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    }
   }
 ] satisfies readonly UikTikRelation[];

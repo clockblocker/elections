@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070874",
     "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки": 57372,
@@ -127,6 +130,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070875",
     "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки": 13881,
@@ -221,6 +227,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070876",
     "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 14692,
@@ -312,6 +321,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070877",
     "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки": 35473,
@@ -414,6 +426,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070878",
     "tikName": "Похвистневская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки": 22748,
@@ -491,6 +506,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070879",
     "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки": 23329,
@@ -589,6 +607,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070880",
     "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки": 17396,
@@ -690,6 +711,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070881",
     "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 12145,
@@ -780,6 +804,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки": 38353,
@@ -873,6 +900,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 23036,
@@ -963,6 +993,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки": 35676,
@@ -1074,6 +1107,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070885",
     "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки": 8645,
@@ -1153,6 +1189,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 11000,
@@ -1243,6 +1282,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки": 59099,
@@ -1349,6 +1391,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070888",
     "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки": 36835,
@@ -1429,6 +1474,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки": 90574,
@@ -1544,6 +1592,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070890",
     "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 100,
     "accounting": {
       "Число избирателей, внесенных в списки": 213929,
@@ -1709,6 +1760,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070891",
     "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки": 67706,
@@ -1810,6 +1864,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070892",
     "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 91,
     "accounting": {
       "Число избирателей, внесенных в списки": 189533,
@@ -1966,6 +2023,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070893",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в списки": 39087,
@@ -2080,6 +2140,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070894",
     "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки": 7180,
@@ -2162,6 +2225,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в списки": 137489,
@@ -2287,6 +2353,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070896",
     "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки": 24815,
@@ -2365,6 +2434,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки": 95896,
@@ -2472,6 +2544,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 55780,
@@ -2561,6 +2636,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки": 59807,
@@ -2658,6 +2736,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки": 81479,
@@ -2767,6 +2848,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070901",
     "tikName": "Шигонская ",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 18305,
@@ -2856,6 +2940,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070902",
     "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 11077,
@@ -2941,6 +3028,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070903",
     "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 93,
     "accounting": {
       "Число избирателей, внесенных в списки": 142685,
@@ -3099,6 +3189,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070904",
     "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки": 18083,
@@ -3195,6 +3288,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070905",
     "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки": 33657,
@@ -3295,6 +3391,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070906",
     "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 18300,
@@ -3385,6 +3484,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070907",
     "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 13682,
@@ -3469,6 +3571,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070908",
     "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки": 23964,
@@ -3551,6 +3656,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070909",
     "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 25607,
@@ -3637,6 +3745,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070910",
     "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 14262,
@@ -3727,6 +3838,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070911",
     "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки": 47621,
@@ -3820,6 +3934,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070912",
     "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки": 18821,
@@ -3915,6 +4032,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070913",
     "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки": 15293,
@@ -4010,6 +4130,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070914",
     "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 15997,
@@ -4095,6 +4218,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070915",
     "tikName": "Богатовская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки": 12422,
@@ -4177,6 +4303,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070916",
     "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки": 33050,
@@ -4276,6 +4405,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200070917",
     "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 10149,
@@ -4367,6 +4499,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в списки": 124541,
@@ -4488,6 +4623,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки": 94874,
@@ -4597,6 +4735,9 @@ export const duma_2003_tic_431_region_63 = [
     "ballot": "party",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
     "uikCount": 134,
     "accounting": {
       "Число избирателей, внесенных в списки": 316780,

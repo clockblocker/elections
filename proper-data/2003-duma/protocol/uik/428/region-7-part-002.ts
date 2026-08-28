@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "407400470559",
+    "uikName": "УИК №163",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1089,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -58,8 +67,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "407400470560",
+    "uikName": "УИК №164",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1075,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -105,8 +123,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "407400470561",
+    "uikName": "УИК №165",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2130,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -152,8 +179,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "407400470562",
+    "uikName": "УИК №166",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1453,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -199,8 +235,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "407400470563",
+    "uikName": "УИК №167",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1218,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -246,8 +291,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "407400470564",
+    "uikName": "УИК №168",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2684,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -293,8 +347,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "407400470565",
+    "uikName": "УИК №169",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1228,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -340,8 +403,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "407400470566",
+    "uikName": "УИК №170",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1754,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -387,8 +459,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "407400470567",
+    "uikName": "УИК №171",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2036,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -434,8 +515,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "407400470568",
+    "uikName": "УИК №172",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1988,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -481,8 +571,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "407400470569",
+    "uikName": "УИК №173",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1457,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -528,8 +627,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "407400470570",
+    "uikName": "УИК №174",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1418,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -575,8 +683,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "407400470571",
+    "uikName": "УИК №175",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1372,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -622,8 +739,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "407400470572",
+    "uikName": "УИК №176",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1479,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -669,8 +795,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "407400470573",
+    "uikName": "УИК №177",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1964,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -716,8 +851,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "407400470574",
+    "uikName": "УИК №178",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1150,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -763,8 +907,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "407400470575",
+    "uikName": "УИК №179",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1903,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -810,8 +963,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "407400470576",
+    "uikName": "УИК №180",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1452,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -857,8 +1019,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "407400470577",
+    "uikName": "УИК №181",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 926,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -904,8 +1075,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "407400470578",
+    "uikName": "УИК №182",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1049,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -951,8 +1131,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "407400470579",
+    "uikName": "УИК №183",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2396,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -998,8 +1187,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "407400470580",
+    "uikName": "УИК №184",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 527,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1045,8 +1243,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "407400470581",
+    "uikName": "УИК №185",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1677,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1092,8 +1299,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "407400470582",
+    "uikName": "УИК №186",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1690,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1139,8 +1355,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "407400470583",
+    "uikName": "УИК №187",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1031,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -1186,8 +1411,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "407400270417",
+    "uikName": "УИК №32",
     "tikTvd": "207200071017",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2382,
       "Число бюллетеней, полученных участковыми комиссиями": 2343,
@@ -1233,8 +1467,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "407400270418",
+    "uikName": "УИК №33",
     "tikTvd": "207200071017",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2391,
       "Число бюллетеней, полученных участковыми комиссиями": 2371,
@@ -1280,8 +1523,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "407400270419",
+    "uikName": "УИК №34",
     "tikTvd": "207200071017",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 590,
       "Число бюллетеней, полученных участковыми комиссиями": 587,
@@ -1327,8 +1579,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "407400270420",
+    "uikName": "УИК №35",
     "tikTvd": "207200071017",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1363,
       "Число бюллетеней, полученных участковыми комиссиями": 1352,
@@ -1374,8 +1635,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "407400270421",
+    "uikName": "УИК №36",
     "tikTvd": "207200071017",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1077,
       "Число бюллетеней, полученных участковыми комиссиями": 1069,
@@ -1421,8 +1691,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "407400270422",
+    "uikName": "УИК №37",
     "tikTvd": "207200071017",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 399,
       "Число бюллетеней, полученных участковыми комиссиями": 398,
@@ -1468,8 +1747,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "407400270423",
+    "uikName": "УИК №38",
     "tikTvd": "207200071017",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 180,
       "Число бюллетеней, полученных участковыми комиссиями": 177,
@@ -1515,8 +1803,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "407400270424",
+    "uikName": "УИК №39",
     "tikTvd": "207200071017",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 934,
       "Число бюллетеней, полученных участковыми комиссиями": 928,
@@ -1562,8 +1859,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "407400270425",
+    "uikName": "УИК №40",
     "tikTvd": "207200071017",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 810,
       "Число бюллетеней, полученных участковыми комиссиями": 805,
@@ -1609,8 +1915,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "407400270426",
+    "uikName": "УИК №41",
     "tikTvd": "207200071017",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1522,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -1656,8 +1971,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "407400270427",
+    "uikName": "УИК №42",
     "tikTvd": "207200071017",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1165,
       "Число бюллетеней, полученных участковыми комиссиями": 1171,
@@ -1703,8 +2027,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "407400270428",
+    "uikName": "УИК №43",
     "tikTvd": "207200071017",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 711,
       "Число бюллетеней, полученных участковыми комиссиями": 707,
@@ -1750,8 +2083,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "407400270429",
+    "uikName": "УИК №44",
     "tikTvd": "207200071017",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2377,
       "Число бюллетеней, полученных участковыми комиссиями": 2392,
@@ -1797,8 +2139,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "407400270430",
+    "uikName": "УИК №45",
     "tikTvd": "207200071017",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1960,
       "Число бюллетеней, полученных участковыми комиссиями": 1945,
@@ -1844,8 +2195,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "407400270431",
+    "uikName": "УИК №46",
     "tikTvd": "207200071017",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2431,
       "Число бюллетеней, полученных участковыми комиссиями": 2460,
@@ -1891,8 +2251,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "407400270432",
+    "uikName": "УИК №47",
     "tikTvd": "207200071017",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2381,
       "Число бюллетеней, полученных участковыми комиссиями": 2367,
@@ -1938,8 +2307,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "407400270433",
+    "uikName": "УИК №48",
     "tikTvd": "207200071017",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 489,
       "Число бюллетеней, полученных участковыми комиссиями": 477,
@@ -1985,8 +2363,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "407400270434",
+    "uikName": "УИК №49",
     "tikTvd": "207200071017",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2139,
       "Число бюллетеней, полученных участковыми комиссиями": 2137,
@@ -2032,8 +2419,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "407400270435",
+    "uikName": "УИК №50",
     "tikTvd": "207200071017",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1296,
       "Число бюллетеней, полученных участковыми комиссиями": 1289,
@@ -2079,8 +2475,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "407400270436",
+    "uikName": "УИК №51",
     "tikTvd": "207200071017",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1117,
       "Число бюллетеней, полученных участковыми комиссиями": 1109,
@@ -2126,8 +2531,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "407400270437",
+    "uikName": "УИК №52",
     "tikTvd": "207200071017",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1022,
       "Число бюллетеней, полученных участковыми комиссиями": 1027,
@@ -2173,8 +2587,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "407400170397",
+    "uikName": "УИК №1",
     "tikTvd": "207200071018",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1285,
       "Число бюллетеней, полученных участковыми комиссиями": 1218,
@@ -2220,8 +2643,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "407400170398",
+    "uikName": "УИК №2",
     "tikTvd": "207200071018",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2315,
       "Число бюллетеней, полученных участковыми комиссиями": 2326,
@@ -2267,8 +2699,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "407400170399",
+    "uikName": "УИК №3",
     "tikTvd": "207200071018",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2443,
       "Число бюллетеней, полученных участковыми комиссиями": 2970,
@@ -2314,8 +2755,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "407400170400",
+    "uikName": "УИК №4",
     "tikTvd": "207200071018",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1187,
       "Число бюллетеней, полученных участковыми комиссиями": 1135,
@@ -2361,8 +2811,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "407400170401",
+    "uikName": "УИК №5",
     "tikTvd": "207200071018",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1105,
       "Число бюллетеней, полученных участковыми комиссиями": 1105,
@@ -2408,8 +2867,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "407400170402",
+    "uikName": "УИК №6",
     "tikTvd": "207200071018",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2189,
       "Число бюллетеней, полученных участковыми комиссиями": 2231,
@@ -2455,8 +2923,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "407400170403",
+    "uikName": "УИК №7",
     "tikTvd": "207200071018",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1111,
       "Число бюллетеней, полученных участковыми комиссиями": 1116,
@@ -2502,8 +2979,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "407400170404",
+    "uikName": "УИК №8",
     "tikTvd": "207200071018",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1767,
       "Число бюллетеней, полученных участковыми комиссиями": 1886,
@@ -2549,8 +3035,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "407400170405",
+    "uikName": "УИК №9",
     "tikTvd": "207200071018",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2188,
       "Число бюллетеней, полученных участковыми комиссиями": 2124,
@@ -2596,8 +3091,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "407400170406",
+    "uikName": "УИК №10",
     "tikTvd": "207200071018",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2470,
       "Число бюллетеней, полученных участковыми комиссиями": 2381,
@@ -2643,8 +3147,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "407400170407",
+    "uikName": "УИК №11",
     "tikTvd": "207200071018",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1150,
       "Число бюллетеней, полученных участковыми комиссиями": 1273,
@@ -2690,8 +3203,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "407400170408",
+    "uikName": "УИК №12",
     "tikTvd": "207200071018",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2138,
       "Число бюллетеней, полученных участковыми комиссиями": 2148,
@@ -2737,8 +3259,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "407400170409",
+    "uikName": "УИК №13",
     "tikTvd": "207200071018",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1594,
       "Число бюллетеней, полученных участковыми комиссиями": 1602,
@@ -2784,8 +3315,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "407400170410",
+    "uikName": "УИК №14",
     "tikTvd": "207200071018",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1540,
       "Число бюллетеней, полученных участковыми комиссиями": 1562,
@@ -2831,8 +3371,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "407400170411",
+    "uikName": "УИК №15",
     "tikTvd": "207200071018",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 754,
       "Число бюллетеней, полученных участковыми комиссиями": 754,
@@ -2878,8 +3427,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "407400170412",
+    "uikName": "УИК №16",
     "tikTvd": "207200071018",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 820,
       "Число бюллетеней, полученных участковыми комиссиями": 818,
@@ -2925,8 +3483,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "407400170413",
+    "uikName": "УИК №17",
     "tikTvd": "207200071018",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2637,
       "Число бюллетеней, полученных участковыми комиссиями": 2513,
@@ -2972,8 +3539,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "407400170414",
+    "uikName": "УИК №18",
     "tikTvd": "207200071018",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1942,
       "Число бюллетеней, полученных участковыми комиссиями": 1940,
@@ -3019,8 +3595,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "407400170415",
+    "uikName": "УИК №19",
     "tikTvd": "207200071018",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1243,
       "Число бюллетеней, полученных участковыми комиссиями": 1244,
@@ -3066,8 +3651,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "407400170416",
+    "uikName": "УИК №20",
     "tikTvd": "207200071018",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2312,
       "Число бюллетеней, полученных участковыми комиссиями": 2312,
@@ -3113,8 +3707,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "407401270374",
+    "uikName": "УИК №21",
     "tikTvd": "207200071019",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2560,
       "Число бюллетеней, полученных участковыми комиссиями": 2763,
@@ -3160,8 +3763,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "407401270375",
+    "uikName": "УИК №22",
     "tikTvd": "207200071019",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2745,
       "Число бюллетеней, полученных участковыми комиссиями": 2698,
@@ -3207,8 +3819,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "407401270376",
+    "uikName": "УИК №23",
     "tikTvd": "207200071019",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2742,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -3254,8 +3875,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "407401270377",
+    "uikName": "УИК №24",
     "tikTvd": "207200071019",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2926,
       "Число бюллетеней, полученных участковыми комиссиями": 2997,
@@ -3301,8 +3931,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "407401270378",
+    "uikName": "УИК №25",
     "tikTvd": "207200071019",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2686,
       "Число бюллетеней, полученных участковыми комиссиями": 2627,
@@ -3348,8 +3987,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "407401270379",
+    "uikName": "УИК №26",
     "tikTvd": "207200071019",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1627,
       "Число бюллетеней, полученных участковыми комиссиями": 1434,
@@ -3395,8 +4043,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "407401270380",
+    "uikName": "УИК №27",
     "tikTvd": "207200071019",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2794,
       "Число бюллетеней, полученных участковыми комиссиями": 2876,
@@ -3442,8 +4099,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "407401270381",
+    "uikName": "УИК №28",
     "tikTvd": "207200071019",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2674,
       "Число бюллетеней, полученных участковыми комиссиями": 2674,
@@ -3489,8 +4155,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "407401270382",
+    "uikName": "УИК №29",
     "tikTvd": "207200071019",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1281,
       "Число бюллетеней, полученных участковыми комиссиями": 1219,
@@ -3536,8 +4211,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "407401270383",
+    "uikName": "УИК №30",
     "tikTvd": "207200071019",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2603,
       "Число бюллетеней, полученных участковыми комиссиями": 2616,
@@ -3583,8 +4267,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "407401270384",
+    "uikName": "УИК №31",
     "tikTvd": "207200071019",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2853,
       "Число бюллетеней, полученных участковыми комиссиями": 2714,
@@ -3630,8 +4323,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "407401370505",
+    "uikName": "УИК №53",
     "tikTvd": "207200071020",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2300,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3677,8 +4379,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "407401370506",
+    "uikName": "УИК №54",
     "tikTvd": "207200071020",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2300,
       "Число бюллетеней, полученных участковыми комиссиями": 2290,
@@ -3724,8 +4435,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "407401370507",
+    "uikName": "УИК №55",
     "tikTvd": "207200071020",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1647,
       "Число бюллетеней, полученных участковыми комиссиями": 1647,
@@ -3771,8 +4491,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "407401370508",
+    "uikName": "УИК №56",
     "tikTvd": "207200071020",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 510,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -3818,8 +4547,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "407401370509",
+    "uikName": "УИК №57",
     "tikTvd": "207200071020",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 446,
       "Число бюллетеней, полученных участковыми комиссиями": 447,
@@ -3865,8 +4603,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "407401370510",
+    "uikName": "УИК №58",
     "tikTvd": "207200071020",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 124,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -3912,8 +4659,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "407401370511",
+    "uikName": "УИК №59",
     "tikTvd": "207200071020",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2002,
       "Число бюллетеней, полученных участковыми комиссиями": 1916,
@@ -3959,8 +4715,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "407401370512",
+    "uikName": "УИК №60",
     "tikTvd": "207200071020",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1982,
       "Число бюллетеней, полученных участковыми комиссиями": 1902,
@@ -4006,8 +4771,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "407401370513",
+    "uikName": "УИК №61",
     "tikTvd": "207200071020",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 851,
       "Число бюллетеней, полученных участковыми комиссиями": 851,
@@ -4053,8 +4827,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "407401370514",
+    "uikName": "УИК №62",
     "tikTvd": "207200071020",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2126,
       "Число бюллетеней, полученных участковыми комиссиями": 2126,
@@ -4100,8 +4883,17 @@ export const duma_2003_uik_428_region_7_part_002 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "407401370515",
+    "uikName": "УИК №63",
     "tikTvd": "207200071020",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2354,
       "Число бюллетеней, полученных участковыми комиссиями": 2268,

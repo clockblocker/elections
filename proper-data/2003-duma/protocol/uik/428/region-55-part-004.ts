@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 333,
     "uikTvd": "455401066756",
+    "uikName": "УИК №333",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -56,8 +65,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 334,
     "uikTvd": "455401066757",
+    "uikName": "УИК №334",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 75,
       "Число бюллетеней, полученных участковыми комиссиями": 74,
@@ -101,8 +119,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 335,
     "uikTvd": "455401066758",
+    "uikName": "УИК №335",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -146,8 +173,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 336,
     "uikTvd": "455401066759",
+    "uikName": "УИК №336",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 61,
       "Число бюллетеней, полученных участковыми комиссиями": 61,
@@ -191,8 +227,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 337,
     "uikTvd": "455401066760",
+    "uikName": "УИК №337",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 107,
@@ -236,8 +281,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 338,
     "uikTvd": "455401066761",
+    "uikName": "УИК №338",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 37,
       "Число бюллетеней, полученных участковыми комиссиями": 38,
@@ -281,8 +335,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 339,
     "uikTvd": "455401066762",
+    "uikName": "УИК №339",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 582,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -326,8 +389,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 340,
     "uikTvd": "455401066763",
+    "uikName": "УИК №340",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -371,8 +443,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 341,
     "uikTvd": "455401066764",
+    "uikName": "УИК №341",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 96,
       "Число бюллетеней, полученных участковыми комиссиями": 98,
@@ -416,8 +497,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 342,
     "uikTvd": "455401066765",
+    "uikName": "УИК №342",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 72,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -461,8 +551,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 343,
     "uikTvd": "455401066766",
+    "uikName": "УИК №343",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1120,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -506,8 +605,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 344,
     "uikTvd": "455401066767",
+    "uikName": "УИК №344",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 71,
       "Число бюллетеней, полученных участковыми комиссиями": 77,
@@ -551,8 +659,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 345,
     "uikTvd": "455401066768",
+    "uikName": "УИК №345",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 56,
       "Число бюллетеней, полученных участковыми комиссиями": 55,
@@ -596,8 +713,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 346,
     "uikTvd": "455401066769",
+    "uikName": "УИК №346",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 179,
@@ -641,8 +767,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 347,
     "uikTvd": "455401066770",
+    "uikName": "УИК №347",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 98,
@@ -686,8 +821,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 348,
     "uikTvd": "455401066771",
+    "uikName": "УИК №348",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 61,
       "Число бюллетеней, полученных участковыми комиссиями": 63,
@@ -731,8 +875,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 349,
     "uikTvd": "455401066772",
+    "uikName": "УИК №349",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 456,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -776,8 +929,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 350,
     "uikTvd": "455401066773",
+    "uikName": "УИК №350",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 135,
       "Число бюллетеней, полученных участковыми комиссиями": 133,
@@ -821,8 +983,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 351,
     "uikTvd": "455401066774",
+    "uikName": "УИК №351",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -866,8 +1037,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 352,
     "uikTvd": "455401066775",
+    "uikName": "УИК №352",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 64,
       "Число бюллетеней, полученных участковыми комиссиями": 66,
@@ -911,8 +1091,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 353,
     "uikTvd": "455401066776",
+    "uikName": "УИК №353",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 37,
       "Число бюллетеней, полученных участковыми комиссиями": 40,
@@ -956,8 +1145,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 354,
     "uikTvd": "455401066777",
+    "uikName": "УИК №354",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 43,
       "Число бюллетеней, полученных участковыми комиссиями": 45,
@@ -1001,8 +1199,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 355,
     "uikTvd": "455401166800",
+    "uikName": "УИК №355",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1166,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -1046,8 +1253,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 356,
     "uikTvd": "455401166801",
+    "uikName": "УИК №356",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -1091,8 +1307,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 357,
     "uikTvd": "455401166802",
+    "uikName": "УИК №357",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -1136,8 +1361,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 358,
     "uikTvd": "455401166803",
+    "uikName": "УИК №358",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 63,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -1181,8 +1415,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 359,
     "uikTvd": "455401166804",
+    "uikName": "УИК №359",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 217,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -1226,8 +1469,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 360,
     "uikTvd": "455401166805",
+    "uikName": "УИК №360",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 443,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -1271,8 +1523,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 361,
     "uikTvd": "455401166806",
+    "uikName": "УИК №361",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 82,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -1316,8 +1577,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 362,
     "uikTvd": "455401166807",
+    "uikName": "УИК №362",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -1361,8 +1631,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 363,
     "uikTvd": "455401166808",
+    "uikName": "УИК №363",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 65,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -1406,8 +1685,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 364,
     "uikTvd": "455401166809",
+    "uikName": "УИК №364",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 587,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -1451,8 +1739,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 365,
     "uikTvd": "455401166810",
+    "uikName": "УИК №365",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -1496,8 +1793,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 366,
     "uikTvd": "455401166811",
+    "uikName": "УИК №366",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -1541,8 +1847,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 367,
     "uikTvd": "455401166812",
+    "uikName": "УИК №367",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 47,
       "Число бюллетеней, полученных участковыми комиссиями": 47,
@@ -1586,8 +1901,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 368,
     "uikTvd": "455401166813",
+    "uikName": "УИК №368",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 70,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -1631,8 +1955,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 369,
     "uikTvd": "455401166814",
+    "uikName": "УИК №369",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 454,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -1676,8 +2009,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 370,
     "uikTvd": "455401166815",
+    "uikName": "УИК №370",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -1721,8 +2063,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 371,
     "uikTvd": "455401166816",
+    "uikName": "УИК №371",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -1766,8 +2117,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 372,
     "uikTvd": "455401166817",
+    "uikName": "УИК №372",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -1811,8 +2171,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 373,
     "uikTvd": "455401166818",
+    "uikName": "УИК №373",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -1856,8 +2225,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 374,
     "uikTvd": "455401166819",
+    "uikName": "УИК №374",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 520,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -1901,8 +2279,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 375,
     "uikTvd": "455401166820",
+    "uikName": "УИК №375",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 140,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -1946,8 +2333,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 376,
     "uikTvd": "455401166821",
+    "uikName": "УИК №376",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 135,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -1991,8 +2387,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 377,
     "uikTvd": "455401166822",
+    "uikName": "УИК №377",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -2036,8 +2441,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 378,
     "uikTvd": "455401166823",
+    "uikName": "УИК №378",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -2081,8 +2495,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 379,
     "uikTvd": "455401166824",
+    "uikName": "УИК №379",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 514,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2126,8 +2549,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 380,
     "uikTvd": "455401166825",
+    "uikName": "УИК №380",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 342,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -2171,8 +2603,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 381,
     "uikTvd": "455401166826",
+    "uikName": "УИК №381",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -2216,8 +2657,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 382,
     "uikTvd": "455401166827",
+    "uikName": "УИК №382",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 963,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -2261,8 +2711,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 383,
     "uikTvd": "455401166828",
+    "uikName": "УИК №383",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -2306,8 +2765,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 384,
     "uikTvd": "455401166829",
+    "uikName": "УИК №384",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 231,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -2351,8 +2819,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 385,
     "uikTvd": "455401166830",
+    "uikName": "УИК №385",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1448,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2396,8 +2873,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 386,
     "uikTvd": "455401166831",
+    "uikName": "УИК №386",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1263,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -2441,8 +2927,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 387,
     "uikTvd": "455401166832",
+    "uikName": "УИК №387",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1186,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2486,8 +2981,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 388,
     "uikTvd": "455401166833",
+    "uikName": "УИК №388",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 439,
       "Число бюллетеней, полученных участковыми комиссиями": 433,
@@ -2531,8 +3035,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 389,
     "uikTvd": "455401166834",
+    "uikName": "УИК №389",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1029,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2576,8 +3089,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 390,
     "uikTvd": "455401166835",
+    "uikName": "УИК №390",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1204,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2621,8 +3143,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 391,
     "uikTvd": "455401166836",
+    "uikName": "УИК №391",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 901,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -2666,8 +3197,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 392,
     "uikTvd": "455401166837",
+    "uikName": "УИК №392",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 999,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -2711,8 +3251,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 393,
     "uikTvd": "455401166838",
+    "uikName": "УИК №393",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1105,
       "Число бюллетеней, полученных участковыми комиссиями": 1090,
@@ -2756,8 +3305,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 394,
     "uikTvd": "455401166839",
+    "uikName": "УИК №394",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 578,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -2801,8 +3359,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "455401166840",
+    "uikName": "УИК №395",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 643,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -2846,8 +3413,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "455401166841",
+    "uikName": "УИК №396",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 536,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2891,8 +3467,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "455401166842",
+    "uikName": "УИК №397",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 735,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -2936,8 +3521,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 398,
     "uikTvd": "455401166843",
+    "uikName": "УИК №398",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -2981,8 +3575,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 399,
     "uikTvd": "455401166844",
+    "uikName": "УИК №399",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 742,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -3026,8 +3629,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 400,
     "uikTvd": "455401166845",
+    "uikName": "УИК №400",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 193,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -3071,8 +3683,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "455401166846",
+    "uikName": "УИК №401",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 282,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3116,8 +3737,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "455401166847",
+    "uikName": "УИК №402",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 909,
       "Число бюллетеней, полученных участковыми комиссиями": 905,
@@ -3161,8 +3791,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "455401166848",
+    "uikName": "УИК №403",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -3206,8 +3845,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "455401166849",
+    "uikName": "УИК №404",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 467,
       "Число бюллетеней, полученных участковыми комиссиями": 455,
@@ -3251,8 +3899,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "455401166850",
+    "uikName": "УИК №405",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 183,
@@ -3296,8 +3953,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "455401166851",
+    "uikName": "УИК №406",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 126,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -3341,8 +4007,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "455401166852",
+    "uikName": "УИК №407",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 408,
       "Число бюллетеней, полученных участковыми комиссиями": 429,
@@ -3386,8 +4061,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 408,
     "uikTvd": "455401166853",
+    "uikName": "УИК №408",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 122,
@@ -3431,8 +4115,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 409,
     "uikTvd": "455401166854",
+    "uikName": "УИК №409",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 95,
       "Число бюллетеней, полученных участковыми комиссиями": 98,
@@ -3476,8 +4169,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 410,
     "uikTvd": "455401166855",
+    "uikName": "УИК №410",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 340,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -3521,8 +4223,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 411,
     "uikTvd": "455401166856",
+    "uikName": "УИК №411",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -3566,8 +4277,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 412,
     "uikTvd": "455401166857",
+    "uikName": "УИК №412",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 188,
@@ -3611,8 +4331,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 413,
     "uikTvd": "455401166858",
+    "uikName": "УИК №413",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1133,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -3656,8 +4385,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 414,
     "uikTvd": "455401166859",
+    "uikName": "УИК №414",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3701,8 +4439,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 415,
     "uikTvd": "455401166860",
+    "uikName": "УИК №415",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 519,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -3746,8 +4493,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 416,
     "uikTvd": "455401166861",
+    "uikName": "УИК №416",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -3791,8 +4547,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 417,
     "uikTvd": "455401166862",
+    "uikName": "УИК №417",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 481,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -3836,8 +4601,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 418,
     "uikTvd": "455401166863",
+    "uikName": "УИК №418",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -3881,8 +4655,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 419,
     "uikTvd": "455401166864",
+    "uikName": "УИК №419",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -3926,8 +4709,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 420,
     "uikTvd": "455401166865",
+    "uikName": "УИК №420",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 775,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -3971,8 +4763,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 421,
     "uikTvd": "455401166866",
+    "uikName": "УИК №421",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -4016,8 +4817,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 422,
     "uikTvd": "455401166867",
+    "uikName": "УИК №422",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 114,
       "Число бюллетеней, полученных участковыми комиссиями": 114,
@@ -4061,8 +4871,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 423,
     "uikTvd": "455401166868",
+    "uikName": "УИК №423",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 129,
@@ -4106,8 +4925,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 424,
     "uikTvd": "455401166869",
+    "uikName": "УИК №424",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -4151,8 +4979,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 425,
     "uikTvd": "455401166870",
+    "uikName": "УИК №425",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -4196,8 +5033,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 426,
     "uikTvd": "455401166871",
+    "uikName": "УИК №426",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -4241,8 +5087,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 427,
     "uikTvd": "455401266690",
+    "uikName": "УИК  427",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1253,
       "Число бюллетеней, полученных участковыми комиссиями": 1196,
@@ -4286,8 +5141,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 428,
     "uikTvd": "455401266691",
+    "uikName": "УИК  428",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1510,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -4331,8 +5195,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 429,
     "uikTvd": "455401266692",
+    "uikName": "УИК  429",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1306,
       "Число бюллетеней, полученных участковыми комиссиями": 1240,
@@ -4376,8 +5249,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 430,
     "uikTvd": "455401266693",
+    "uikName": "УИК  430",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1396,
       "Число бюллетеней, полученных участковыми комиссиями": 1320,
@@ -4421,8 +5303,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 431,
     "uikTvd": "455401266694",
+    "uikName": "УИК  431",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1159,
       "Число бюллетеней, полученных участковыми комиссиями": 1138,
@@ -4466,8 +5357,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 432,
     "uikTvd": "455401266695",
+    "uikName": "УИК  432",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1518,
       "Число бюллетеней, полученных участковыми комиссиями": 1516,
@@ -4511,8 +5411,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 433,
     "uikTvd": "455401266696",
+    "uikName": "УИК  433",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 66,
       "Число бюллетеней, полученных участковыми комиссиями": 76,
@@ -4556,8 +5465,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 434,
     "uikTvd": "455401266697",
+    "uikName": "УИК  434",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 143,
@@ -4601,8 +5519,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 435,
     "uikTvd": "455401266698",
+    "uikName": "УИК  435",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 271,
       "Число бюллетеней, полученных участковыми комиссиями": 282,
@@ -4646,8 +5573,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 436,
     "uikTvd": "455401266699",
+    "uikName": "УИК  436",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -4691,8 +5627,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 437,
     "uikTvd": "455401266700",
+    "uikName": "УИК  437",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -4736,8 +5681,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 438,
     "uikTvd": "455401266701",
+    "uikName": "УИК  438",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 301,
       "Число бюллетеней, полученных участковыми комиссиями": 303,
@@ -4781,8 +5735,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 439,
     "uikTvd": "455401266702",
+    "uikName": "УИК  439",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 745,
       "Число бюллетеней, полученных участковыми комиссиями": 781,
@@ -4826,8 +5789,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 440,
     "uikTvd": "455401266703",
+    "uikName": "УИК  440",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 566,
       "Число бюллетеней, полученных участковыми комиссиями": 627,
@@ -4871,8 +5843,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 441,
     "uikTvd": "455401266704",
+    "uikName": "УИК  441",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -4916,8 +5897,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 442,
     "uikTvd": "455401266705",
+    "uikName": "УИК  442",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 361,
       "Число бюллетеней, полученных участковыми комиссиями": 367,
@@ -4961,8 +5951,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 443,
     "uikTvd": "455401266706",
+    "uikName": "УИК  443",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 133,
@@ -5006,8 +6005,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 444,
     "uikTvd": "455401266707",
+    "uikName": "УИК  444",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1534,
       "Число бюллетеней, полученных участковыми комиссиями": 1519,
@@ -5051,8 +6059,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 445,
     "uikTvd": "455401266708",
+    "uikName": "УИК  445",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 263,
@@ -5096,8 +6113,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 446,
     "uikTvd": "455401266709",
+    "uikName": "УИК  446",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 291,
       "Число бюллетеней, полученных участковыми комиссиями": 287,
@@ -5141,8 +6167,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 447,
     "uikTvd": "455401266710",
+    "uikName": "УИК  447",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 236,
@@ -5186,8 +6221,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 448,
     "uikTvd": "455401266711",
+    "uikName": "УИК  448",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 217,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -5231,8 +6275,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 449,
     "uikTvd": "455401266712",
+    "uikName": "УИК  449",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 728,
       "Число бюллетеней, полученных участковыми комиссиями": 714,
@@ -5276,8 +6329,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 450,
     "uikTvd": "455401266713",
+    "uikName": "УИК  450",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 93,
@@ -5321,8 +6383,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 451,
     "uikTvd": "455401266714",
+    "uikName": "УИК  451",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 94,
@@ -5366,8 +6437,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 452,
     "uikTvd": "455401266715",
+    "uikName": "УИК  452",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 271,
       "Число бюллетеней, полученных участковыми комиссиями": 274,
@@ -5411,8 +6491,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 453,
     "uikTvd": "455401266716",
+    "uikName": "УИК  453",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -5456,8 +6545,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 454,
     "uikTvd": "455401266717",
+    "uikName": "УИК  454",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 702,
       "Число бюллетеней, полученных участковыми комиссиями": 692,
@@ -5501,8 +6599,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 455,
     "uikTvd": "455401266718",
+    "uikName": "УИК  455",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 642,
       "Число бюллетеней, полученных участковыми комиссиями": 642,
@@ -5546,8 +6653,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 456,
     "uikTvd": "455401266719",
+    "uikName": "УИК  456",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 172,
@@ -5591,8 +6707,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 457,
     "uikTvd": "455401266720",
+    "uikName": "УИК  457",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 116,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -5636,8 +6761,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 458,
     "uikTvd": "455401266721",
+    "uikName": "УИК  458",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 794,
       "Число бюллетеней, полученных участковыми комиссиями": 812,
@@ -5681,8 +6815,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 459,
     "uikTvd": "455401266722",
+    "uikName": "УИК  459",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 289,
@@ -5726,8 +6869,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 460,
     "uikTvd": "455401266723",
+    "uikName": "УИК  460",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 819,
       "Число бюллетеней, полученных участковыми комиссиями": 823,
@@ -5771,8 +6923,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 461,
     "uikTvd": "455401266724",
+    "uikName": "УИК  461",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 199,
@@ -5816,8 +6977,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 462,
     "uikTvd": "455401266725",
+    "uikName": "УИК  462",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 162,
@@ -5861,8 +7031,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 463,
     "uikTvd": "455401266728",
+    "uikName": "УИК  463",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 550,
       "Число бюллетеней, полученных участковыми комиссиями": 545,
@@ -5906,8 +7085,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 464,
     "uikTvd": "455401266727",
+    "uikName": "УИК  464",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 158,
@@ -5951,8 +7139,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 465,
     "uikTvd": "455401366729",
+    "uikName": "УИК №465",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1347,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -5996,8 +7193,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 466,
     "uikTvd": "455401366730",
+    "uikName": "УИК №466",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1011,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6041,8 +7247,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 467,
     "uikTvd": "455401366731",
+    "uikName": "УИК №467",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 875,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -6086,8 +7301,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 468,
     "uikTvd": "455401366732",
+    "uikName": "УИК №468",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1292,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -6131,8 +7355,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 469,
     "uikTvd": "455401366733",
+    "uikName": "УИК №469",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 873,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -6176,8 +7409,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 470,
     "uikTvd": "455401366734",
+    "uikName": "УИК №470",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 673,
       "Число бюллетеней, полученных участковыми комиссиями": 610,
@@ -6221,8 +7463,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 471,
     "uikTvd": "455401366735",
+    "uikName": "УИК №471",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1350,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -6266,8 +7517,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "455401366736",
+    "uikName": "УИК №472",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 519,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -6311,8 +7571,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "455401366737",
+    "uikName": "УИК №473",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 862,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -6356,8 +7625,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 474,
     "uikTvd": "455401366738",
+    "uikName": "УИК №474",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 106,
@@ -6401,8 +7679,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 475,
     "uikTvd": "455401366739",
+    "uikName": "УИК №475",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 90,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -6446,8 +7733,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 476,
     "uikTvd": "455401366740",
+    "uikName": "УИК №476",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 724,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -6491,8 +7787,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 477,
     "uikTvd": "455401366741",
+    "uikName": "УИК №477",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 174,
@@ -6536,8 +7841,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 478,
     "uikTvd": "455401366742",
+    "uikName": "УИК №478",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 49,
       "Число бюллетеней, полученных участковыми комиссиями": 56,
@@ -6581,8 +7895,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 479,
     "uikTvd": "455401366743",
+    "uikName": "УИК №479",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 145,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -6626,8 +7949,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 480,
     "uikTvd": "455401366744",
+    "uikName": "УИК №480",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 51,
       "Число бюллетеней, полученных участковыми комиссиями": 61,
@@ -6671,8 +8003,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 481,
     "uikTvd": "455401366745",
+    "uikName": "УИК №481",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 495,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -6716,8 +8057,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 482,
     "uikTvd": "455401366746",
+    "uikName": "УИК №482",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 371,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -6761,8 +8111,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 483,
     "uikTvd": "455401366747",
+    "uikName": "УИК №483",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -6806,8 +8165,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 484,
     "uikTvd": "455401366748",
+    "uikName": "УИК №484",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 90,
       "Число бюллетеней, полученных участковыми комиссиями": 98,
@@ -6851,8 +8219,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 485,
     "uikTvd": "455401366749",
+    "uikName": "УИК №485",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -6896,8 +8273,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 486,
     "uikTvd": "455401366750",
+    "uikName": "УИК №486",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -6941,8 +8327,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 487,
     "uikTvd": "455401366751",
+    "uikName": "УИК №487",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 231,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -6986,8 +8381,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 488,
     "uikTvd": "455401366752",
+    "uikName": "УИК №488",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -7031,8 +8435,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 489,
     "uikTvd": "455401366753",
+    "uikName": "УИК №489",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 149,
@@ -7076,8 +8489,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 490,
     "uikTvd": "455401366754",
+    "uikName": "УИК №490",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 726,
       "Число бюллетеней, полученных участковыми комиссиями": 710,
@@ -7121,8 +8543,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 491,
     "uikTvd": "455401366755",
+    "uikName": "УИК №491",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 180,
       "Число бюллетеней, полученных участковыми комиссиями": 198,
@@ -7166,8 +8597,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 492,
     "uikTvd": "455401366756",
+    "uikName": "УИК №492",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 515,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7211,8 +8651,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 493,
     "uikTvd": "455401366757",
+    "uikName": "УИК №493",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 211,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -7256,8 +8705,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 494,
     "uikTvd": "455401366758",
+    "uikName": "УИК №494",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 123,
       "Число бюллетеней, полученных участковыми комиссиями": 126,
@@ -7301,8 +8759,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 495,
     "uikTvd": "455401366759",
+    "uikName": "УИК №495",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 513,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7346,8 +8813,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 496,
     "uikTvd": "455401366760",
+    "uikName": "УИК №496",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 168,
       "Число бюллетеней, полученных участковыми комиссиями": 176,
@@ -7391,8 +8867,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 497,
     "uikTvd": "455401366761",
+    "uikName": "УИК №497",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1016,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7436,8 +8921,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 498,
     "uikTvd": "455401366762",
+    "uikName": "УИК №498",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 199,
@@ -7481,8 +8975,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 499,
     "uikTvd": "455401366763",
+    "uikName": "УИК №499",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -7526,8 +9029,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 500,
     "uikTvd": "455401366764",
+    "uikName": "УИК №500",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 141,
@@ -7571,8 +9083,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "455401366765",
+    "uikName": "УИК №501",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -7616,8 +9137,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "455401366766",
+    "uikName": "УИК №502",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 192,
@@ -7661,8 +9191,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 503,
     "uikTvd": "455401366767",
+    "uikName": "УИК №503",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 529,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7706,8 +9245,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 504,
     "uikTvd": "455401366768",
+    "uikName": "УИК №504",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 311,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7751,8 +9299,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 505,
     "uikTvd": "455401366769",
+    "uikName": "УИК №505",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 106,
@@ -7796,8 +9353,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "455401366770",
+    "uikName": "УИК №506",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 280,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -7841,8 +9407,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 507,
     "uikTvd": "455401366771",
+    "uikName": "УИК №507",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 333,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -7886,8 +9461,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 508,
     "uikTvd": "455401366772",
+    "uikName": "УИК №508",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 153,
@@ -7931,8 +9515,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 509,
     "uikTvd": "455401366773",
+    "uikName": "УИК №509",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 708,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -7976,8 +9569,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 510,
     "uikTvd": "455401366774",
+    "uikName": "УИК №510",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 541,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8021,8 +9623,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 511,
     "uikTvd": "455401366775",
+    "uikName": "УИК №511",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 69,
       "Число бюллетеней, полученных участковыми комиссиями": 87,
@@ -8066,8 +9677,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 512,
     "uikTvd": "455401366776",
+    "uikName": "УИК №512",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 334,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -8111,8 +9731,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 513,
     "uikTvd": "455401366777",
+    "uikName": "УИК №513",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -8156,8 +9785,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 514,
     "uikTvd": "455401366778",
+    "uikName": "УИК №514",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -8201,8 +9839,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 515,
     "uikTvd": "455401366779",
+    "uikName": "УИК №515",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1223,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8246,8 +9893,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 516,
     "uikTvd": "455401466761",
+    "uikName": "УИК  516",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2100,
       "Число бюллетеней, полученных участковыми комиссиями": 1989,
@@ -8291,8 +9947,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 517,
     "uikTvd": "455401466762",
+    "uikName": "УИК  517",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1699,
       "Число бюллетеней, полученных участковыми комиссиями": 1558,
@@ -8336,8 +10001,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 518,
     "uikTvd": "455401466763",
+    "uikName": "УИК  518",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1128,
       "Число бюллетеней, полученных участковыми комиссиями": 1068,
@@ -8381,8 +10055,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 519,
     "uikTvd": "455401466764",
+    "uikName": "УИК  519",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1194,
       "Число бюллетеней, полученных участковыми комиссиями": 1128,
@@ -8426,8 +10109,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 520,
     "uikTvd": "455401466765",
+    "uikName": "УИК  520",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 571,
       "Число бюллетеней, полученных участковыми комиссиями": 561,
@@ -8471,8 +10163,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 521,
     "uikTvd": "455401466766",
+    "uikName": "УИК  521",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1365,
       "Число бюллетеней, полученных участковыми комиссиями": 1289,
@@ -8516,8 +10217,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 522,
     "uikTvd": "455401466767",
+    "uikName": "УИК  522",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1492,
       "Число бюллетеней, полученных участковыми комиссиями": 1465,
@@ -8561,8 +10271,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 523,
     "uikTvd": "455401466768",
+    "uikName": "УИК  523",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 167,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -8606,8 +10325,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 524,
     "uikTvd": "455401466769",
+    "uikName": "УИК  524",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 522,
       "Число бюллетеней, полученных участковыми комиссиями": 926,
@@ -8651,8 +10379,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 525,
     "uikTvd": "455401466770",
+    "uikName": "УИК  525",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 363,
       "Число бюллетеней, полученных участковыми комиссиями": 348,
@@ -8696,8 +10433,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 526,
     "uikTvd": "455401466771",
+    "uikName": "УИК  526",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 49,
       "Число бюллетеней, полученных участковыми комиссиями": 46,
@@ -8741,8 +10487,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 527,
     "uikTvd": "455401466772",
+    "uikName": "УИК  527",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 427,
       "Число бюллетеней, полученных участковыми комиссиями": 469,
@@ -8786,8 +10541,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 528,
     "uikTvd": "455401466773",
+    "uikName": "УИК  528",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 234,
@@ -8831,8 +10595,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 529,
     "uikTvd": "455401466774",
+    "uikName": "УИК  529",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 106,
@@ -8876,8 +10649,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 530,
     "uikTvd": "455401466775",
+    "uikName": "УИК  530",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 232,
@@ -8921,8 +10703,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 531,
     "uikTvd": "455401466776",
+    "uikName": "УИК  531",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 446,
       "Число бюллетеней, полученных участковыми комиссиями": 457,
@@ -8966,8 +10757,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 532,
     "uikTvd": "455401466777",
+    "uikName": "УИК  532",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 614,
       "Число бюллетеней, полученных участковыми комиссиями": 583,
@@ -9011,8 +10811,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 533,
     "uikTvd": "455401466778",
+    "uikName": "УИК  533",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 418,
       "Число бюллетеней, полученных участковыми комиссиями": 386,
@@ -9056,8 +10865,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 534,
     "uikTvd": "455401466779",
+    "uikName": "УИК  534",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 263,
@@ -9101,8 +10919,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 535,
     "uikTvd": "455401466780",
+    "uikName": "УИК  535",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 325,
       "Число бюллетеней, полученных участковыми комиссиями": 299,
@@ -9146,8 +10973,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 536,
     "uikTvd": "455401466781",
+    "uikName": "УИК  536",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -9191,8 +11027,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 537,
     "uikTvd": "455401466782",
+    "uikName": "УИК  537",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 407,
       "Число бюллетеней, полученных участковыми комиссиями": 376,
@@ -9236,8 +11081,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 538,
     "uikTvd": "455401466783",
+    "uikName": "УИК  538",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 69,
       "Число бюллетеней, полученных участковыми комиссиями": 61,
@@ -9281,8 +11135,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 539,
     "uikTvd": "455401466784",
+    "uikName": "УИК  539",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1015,
       "Число бюллетеней, полученных участковыми комиссиями": 974,
@@ -9326,8 +11189,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 540,
     "uikTvd": "455401466785",
+    "uikName": "УИК  540",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -9371,8 +11243,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 541,
     "uikTvd": "455401466786",
+    "uikName": "УИК  541",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 70,
       "Число бюллетеней, полученных участковыми комиссиями": 64,
@@ -9416,8 +11297,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 542,
     "uikTvd": "455401466787",
+    "uikName": "УИК  542",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 427,
       "Число бюллетеней, полученных участковыми комиссиями": 407,
@@ -9461,8 +11351,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 543,
     "uikTvd": "455401466788",
+    "uikName": "УИК  543",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 185,
       "Число бюллетеней, полученных участковыми комиссиями": 181,
@@ -9506,8 +11405,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 544,
     "uikTvd": "455401466789",
+    "uikName": "УИК  544",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -9551,8 +11459,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 545,
     "uikTvd": "455401466790",
+    "uikName": "УИК  545",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 78,
       "Число бюллетеней, полученных участковыми комиссиями": 78,
@@ -9596,8 +11513,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 546,
     "uikTvd": "455401466791",
+    "uikName": "УИК  546",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 50,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -9641,8 +11567,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 547,
     "uikTvd": "455401466792",
+    "uikName": "УИК  547",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 620,
       "Число бюллетеней, полученных участковыми комиссиями": 581,
@@ -9686,8 +11621,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 548,
     "uikTvd": "455401466793",
+    "uikName": "УИК  548",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 172,
       "Число бюллетеней, полученных участковыми комиссиями": 156,
@@ -9731,8 +11675,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 549,
     "uikTvd": "455401466794",
+    "uikName": "УИК  549",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 38,
       "Число бюллетеней, полученных участковыми комиссиями": 38,
@@ -9776,8 +11729,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 550,
     "uikTvd": "455401466795",
+    "uikName": "УИК  550",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 509,
       "Число бюллетеней, полученных участковыми комиссиями": 482,
@@ -9821,8 +11783,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 551,
     "uikTvd": "455401466796",
+    "uikName": "УИК  551",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -9866,8 +11837,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 552,
     "uikTvd": "455401466797",
+    "uikName": "УИК  552",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 159,
@@ -9911,8 +11891,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 553,
     "uikTvd": "455401466798",
+    "uikName": "УИК  553",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 433,
       "Число бюллетеней, полученных участковыми комиссиями": 424,
@@ -9956,8 +11945,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 554,
     "uikTvd": "455401466799",
+    "uikName": "УИК  554",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 58,
       "Число бюллетеней, полученных участковыми комиссиями": 71,
@@ -10001,8 +11999,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 555,
     "uikTvd": "455401466800",
+    "uikName": "УИК  555",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 622,
       "Число бюллетеней, полученных участковыми комиссиями": 585,
@@ -10046,8 +12053,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 556,
     "uikTvd": "455401466801",
+    "uikName": "УИК  556",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -10091,8 +12107,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 557,
     "uikTvd": "455401466802",
+    "uikName": "УИК  557",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 97,
       "Число бюллетеней, полученных участковыми комиссиями": 88,
@@ -10136,8 +12161,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 558,
     "uikTvd": "455401466803",
+    "uikName": "УИК  558",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 168,
@@ -10181,8 +12215,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 559,
     "uikTvd": "455401466804",
+    "uikName": "УИК  559",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 255,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -10226,8 +12269,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 560,
     "uikTvd": "455401466805",
+    "uikName": "УИК  560",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 79,
       "Число бюллетеней, полученных участковыми комиссиями": 77,
@@ -10271,8 +12323,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 561,
     "uikTvd": "455401466806",
+    "uikName": "УИК  561",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 78,
       "Число бюллетеней, полученных участковыми комиссиями": 78,
@@ -10316,8 +12377,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 562,
     "uikTvd": "455401466807",
+    "uikName": "УИК  562",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 318,
       "Число бюллетеней, полученных участковыми комиссиями": 289,
@@ -10361,8 +12431,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 563,
     "uikTvd": "455401466808",
+    "uikName": "УИК  563",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -10406,8 +12485,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 564,
     "uikTvd": "455401466809",
+    "uikName": "УИК  564",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 57,
       "Число бюллетеней, полученных участковыми комиссиями": 57,
@@ -10451,8 +12539,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 565,
     "uikTvd": "455401466810",
+    "uikName": "УИК  565",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -10496,8 +12593,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 566,
     "uikTvd": "455401466811",
+    "uikName": "УИК  566",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -10541,8 +12647,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 567,
     "uikTvd": "455401466812",
+    "uikName": "УИК  567",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 193,
@@ -10586,8 +12701,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 568,
     "uikTvd": "455401466813",
+    "uikName": "УИК  568",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 104,
@@ -10631,8 +12755,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 569,
     "uikTvd": "455401466814",
+    "uikName": "УИК  569",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 34,
       "Число бюллетеней, полученных участковыми комиссиями": 36,
@@ -10676,8 +12809,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 570,
     "uikTvd": "455401566703",
+    "uikName": "УИК №570",
     "tikTvd": "355300266785",
     "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1254,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -10721,8 +12863,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 571,
     "uikTvd": "455401566704",
+    "uikName": "УИК №571",
     "tikTvd": "355300266785",
     "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1255,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -10766,8 +12917,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 572,
     "uikTvd": "455401566705",
+    "uikName": "УИК №572",
     "tikTvd": "355300266785",
     "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1910,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10811,8 +12971,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 573,
     "uikTvd": "455401566706",
+    "uikName": "УИК №573",
     "tikTvd": "355300266785",
     "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1009,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10856,8 +13025,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 574,
     "uikTvd": "455401566707",
+    "uikName": "УИК №574",
     "tikTvd": "355300266785",
     "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 814,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -10901,8 +13079,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 575,
     "uikTvd": "455401566708",
+    "uikName": "УИК №575",
     "tikTvd": "355300266785",
     "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1300,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -10946,8 +13133,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 576,
     "uikTvd": "455401566709",
+    "uikName": "УИК №576",
     "tikTvd": "355300266785",
     "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1473,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10991,8 +13187,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 577,
     "uikTvd": "455401566710",
+    "uikName": "УИК №577",
     "tikTvd": "355300266785",
     "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1054,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -11036,8 +13241,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 578,
     "uikTvd": "455401566711",
+    "uikName": "УИК №578",
     "tikTvd": "355300266785",
     "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 547,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -11081,8 +13295,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 579,
     "uikTvd": "455401566712",
+    "uikName": "УИК №579",
     "tikTvd": "355300266785",
     "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 101,
@@ -11126,8 +13349,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 580,
     "uikTvd": "455401566713",
+    "uikName": "УИК №580",
     "tikTvd": "355300266785",
     "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 133,
@@ -11171,8 +13403,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 581,
     "uikTvd": "455401566714",
+    "uikName": "УИК №581",
     "tikTvd": "355300266785",
     "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 90,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -11216,8 +13457,17 @@ export const duma_2003_uik_428_region_55_part_004 = [
     "ballot": "single-member",
     "uikNumber": 582,
     "uikTvd": "455401566715",
+    "uikName": "УИК №582",
     "tikTvd": "355300266785",
     "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100095933",
+      "oikName": "Большереченский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 95,

@@ -67,6 +67,49 @@ def ballot_name(dataset: dict[str, Any], contest: str) -> str:
     )
 
 
+def region_identity(record: dict[str, Any]) -> dict[str, str]:
+    result = {
+        "regionCode": str(record.get("region_code") or ""),
+        "regionTvd": str(record.get("region_tvd") or ""),
+        "regionName": str(record.get("region_name") or ""),
+    }
+    if not all(result.values()):
+        entity = record.get("uik_tvd") or record.get("tik_tvd")
+        raise ValueError(f"incomplete region identity for {entity}")
+    return result
+
+
+def district_identity(record: dict[str, Any]) -> dict[str, Any] | None:
+    values = (
+        record.get("district_number"),
+        record.get("oik_tvd"),
+        record.get("oik_name"),
+    )
+    if not any(value is not None and value != "" for value in values):
+        return None
+    if values[0] is None or not values[1] or not values[2]:
+        raise ValueError(
+            f"incomplete district identity for {record.get('uik_tvd') or record.get('tik_tvd')}"
+        )
+    return {
+        "districtNumber": int(values[0]),
+        "oikTvd": str(values[1]),
+        "oikName": str(values[2]),
+    }
+
+
+def protocol_scope(
+    dataset: dict[str, Any], record: dict[str, Any], contest: str
+) -> dict[str, Any]:
+    result: dict[str, Any] = region_identity(record)
+    if ballot_name(dataset, contest) == "single-member":
+        district = district_identity(record)
+        if district is None:
+            raise ValueError("single-member protocol has no district identity")
+        result["district"] = district
+    return result
+
+
 def uik_value(
     dataset: dict[str, Any],
     record: dict[str, Any],
@@ -82,8 +125,10 @@ def uik_value(
         "ballot": ballot_name(dataset, contest),
         "uikNumber": record["uik_number"],
         "uikTvd": str(record["uik_tvd"]),
+        "uikName": record["uik_name"],
         "tikTvd": str(record["tik_tvd"]),
         "tikName": record["tik_name"],
+        **protocol_scope(dataset, record, contest),
         "accounting": record[f"{contest}_accounting"],
         "votes": record[f"{contest}_votes"],
         "source": source(
@@ -109,6 +154,7 @@ def tik_value(
         "ballot": ballot_name(dataset, contest),
         "tikTvd": tik_tvd,
         "tikName": tik_sources[tik_tvd].get("tik_name", ""),
+        **protocol_scope(dataset, tik_sources[tik_tvd], contest),
         "uikCount": aggregate["uik_count"],
         "accounting": aggregate["accounting"],
         "votes": aggregate["votes"],
@@ -128,19 +174,46 @@ def clean(roots: list[Path], expected: set[Path]) -> None:
 
 
 def write_types(dataset: dict[str, Any], output: Path) -> None:
-    tic_types = " | ".join(str(value["tic"]) for value in dataset["contests"].values())
-    uik_types = " | ".join(str(value["uik"]) for value in dataset["contests"].values())
     all_types = " | ".join(
         str(report_type)
         for value in dataset["contests"].values()
         for report_type in (value["tic"], value["uik"])
     )
-    ballots = " | ".join(
-        f'"{ballot_name(dataset, contest)}"' for contest in dataset["contests"]
-    )
+    uik_variants: list[str] = []
+    tic_variants: list[str] = []
+    variant_names: list[str] = []
+    for contest, types in dataset["contests"].items():
+        ballot = ballot_name(dataset, contest)
+        title = {
+            "party": "Party",
+            "single-member": "SingleMember",
+            "presidential": "Presidential",
+        }[ballot]
+        variant_names.append(title)
+        district_line = "\n  district: DistrictRef;" if ballot == "single-member" else ""
+        uik_variants.append(
+            f'''export type {title}UikProtocol = Readonly<UikProtocolBase & {{
+  reportType: {int(types["uik"])};
+  ballot: "{ballot}";{district_line}
+}}>;'''
+        )
+        tic_variants.append(
+            f'''export type {title}TicProtocol = Readonly<TicProtocolBase & {{
+  reportType: {int(types["tic"])};
+  ballot: "{ballot}";{district_line}
+}}>;'''
+        )
+    uik_union = " | ".join(f"{name}UikProtocol" for name in variant_names)
+    tic_union = " | ".join(f"{name}TicProtocol" for name in variant_names)
     content = f'''// Generated protocol files use these structural contracts. No database is involved.
 
 export type VoteMap = Readonly<Record<string, number>>;
+
+export type DistrictRef = Readonly<{{
+  districtNumber: number;
+  oikTvd: string;
+  oikName: string;
+}}>;
 
 export type ProtocolSource = Readonly<{{
   url: string;
@@ -152,27 +225,34 @@ export type ProtocolSource = Readonly<{{
   provenance?: "live-official" | "wayback";
 }}>;
 
-export type UikProtocol = Readonly<{{
+type UikProtocolBase = Readonly<{{
   election: "{dataset["election"]}";
   level: "uik";
-  reportType: {uik_types};
-  ballot: {ballots};
   uikNumber: number;
   uikTvd: string;
+  uikName: string;
   tikTvd: string;
   tikName: string;
+  regionCode: string;
+  regionTvd: string;
+  regionName: string;
   accounting: VoteMap;
   votes: VoteMap;
   source: ProtocolSource;
 }}>;
 
-export type TicProtocol = Readonly<{{
+{chr(10).join(uik_variants)}
+
+export type UikProtocol = {uik_union};
+
+type TicProtocolBase = Readonly<{{
   election: "{dataset["election"]}";
   level: "tic";
-  reportType: {tic_types};
-  ballot: {ballots};
   tikTvd: string;
   tikName: string;
+  regionCode: string;
+  regionTvd: string;
+  regionName: string;
   uikCount: number;
   accounting: VoteMap;
   votes: VoteMap;
@@ -180,11 +260,20 @@ export type TicProtocol = Readonly<{{
   source: ProtocolSource;
 }}>;
 
+{chr(10).join(tic_variants)}
+
+export type TicProtocol = {tic_union};
+
 export type UikTikRelation = Readonly<{{
   uikNumber: number;
   uikTvd: string;
+  uikName: string;
   tikTvd: string;
   tikName: string;
+  regionCode: string;
+  regionTvd: string;
+  regionName: string;
+  district: DistrictRef | null;
 }}>;
 '''
     atomic_write(output / "protocol" / "types.ts", content.encode("utf-8"))
@@ -195,6 +284,24 @@ def generate(
 ) -> dict[str, int]:
     if shard_size < 1:
         raise ValueError("shard-size must be positive")
+    relations = dataset["relations"]
+    has_districts = str(dataset["election"]).endswith("-duma") and "candidate" in dataset[
+        "contests"
+    ]
+    districts = {
+        (item.get("district_number"), item.get("oik_tvd"), item.get("oik_name"))
+        for item in relations
+        if item.get("district_number") is not None
+    }
+    if has_districts:
+        if (
+            len(districts) != 225
+            or {int(item[0]) for item in districts} != set(range(1, 226))
+            or any(district_identity(item) is None for item in relations)
+        ):
+            raise ValueError("single-member hierarchy is not a complete 225-district set")
+    elif districts or any(district_identity(item) is not None for item in relations):
+        raise ValueError("non-single-member hierarchy unexpectedly contains districts")
     records = sorted(
         dataset["records"],
         key=lambda item: (
@@ -208,7 +315,7 @@ def generate(
     records_by_region: defaultdict[str, list[dict[str, Any]]] = defaultdict(list)
     tiks_by_region: defaultdict[str, set[str]] = defaultdict(set)
     for record in records:
-        region = str(record.get("region", "unknown"))
+        region = str(record.get("region_code") or record.get("region", "unknown"))
         records_by_region[region].append(record)
         tiks_by_region[region].add(str(record["tik_tvd"]))
 
@@ -258,8 +365,9 @@ def generate(
             )
 
     relation_groups: defaultdict[str, list[dict[str, Any]]] = defaultdict(list)
-    for relation in dataset["relations"]:
-        relation_groups[str(relation.get("region", "unknown"))].append(relation)
+    for relation in relations:
+        region = str(relation.get("region_code") or relation.get("region", "unknown"))
+        relation_groups[region].append(relation)
     relation_root = output / "uik-to-tik"
     relation_expected: set[Path] = set()
     imports: list[str] = []
@@ -276,8 +384,11 @@ def generate(
             {
                 "uikNumber": item["uik_number"],
                 "uikTvd": str(item["uik_tvd"]),
+                "uikName": item["uik_name"],
                 "tikTvd": str(item["tik_tvd"]),
                 "tikName": item["tik_name"],
+                **region_identity(item),
+                "district": district_identity(item),
             }
             for item in sorted(
                 relation_groups[region],

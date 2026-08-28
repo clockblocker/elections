@@ -7,175 +7,436 @@ export const duma_2003_uik_to_tik_region_82 = [
   {
     "uikNumber": 1,
     "uikTvd": "482400467381",
+    "uikName": "УИК  1",
     "tikTvd": "282200067450",
-    "tikName": "Тигильская"
+    "tikName": "Тигильская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "482400467382",
+    "uikName": "УИК  2",
     "tikTvd": "282200067450",
-    "tikName": "Тигильская"
+    "tikName": "Тигильская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "482400467383",
+    "uikName": "УИК  3",
     "tikTvd": "282200067450",
-    "tikName": "Тигильская"
+    "tikName": "Тигильская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "482400467384",
+    "uikName": "УИК  4",
     "tikTvd": "282200067450",
-    "tikName": "Тигильская"
+    "tikName": "Тигильская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "482400467385",
+    "uikName": "УИК  5",
     "tikTvd": "282200067450",
-    "tikName": "Тигильская"
+    "tikName": "Тигильская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "482400467386",
+    "uikName": "УИК  6",
     "tikTvd": "282200067450",
-    "tikName": "Тигильская"
+    "tikName": "Тигильская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "482400467387",
+    "uikName": "УИК  7",
     "tikTvd": "282200067450",
-    "tikName": "Тигильская"
+    "tikName": "Тигильская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "482400467388",
+    "uikName": "УИК  8",
     "tikTvd": "282200067450",
-    "tikName": "Тигильская"
+    "tikName": "Тигильская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "482400171652",
+    "uikName": "УИК №9",
     "tikTvd": "282200067987",
-    "tikName": "Карагинская"
+    "tikName": "Карагинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "482400166718",
+    "uikName": "УИК №10",
     "tikTvd": "282200067987",
-    "tikName": "Карагинская"
+    "tikName": "Карагинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "482400166716",
+    "uikName": "УИК №11",
     "tikTvd": "282200067987",
-    "tikName": "Карагинская"
+    "tikName": "Карагинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "482400166720",
+    "uikName": "УИК №12",
     "tikTvd": "282200067987",
-    "tikName": "Карагинская"
+    "tikName": "Карагинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "482400166722",
+    "uikName": "УИК №13",
     "tikTvd": "282200067987",
-    "tikName": "Карагинская"
+    "tikName": "Карагинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "482400166724",
+    "uikName": "УИК №14",
     "tikTvd": "282200067987",
-    "tikName": "Карагинская"
+    "tikName": "Карагинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "4824002161030",
+    "uikName": "УИК №15",
     "tikTvd": "282200068144",
-    "tikName": "Олюторская"
+    "tikName": "Олюторская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "4824002161031",
+    "uikName": "УИК №16",
     "tikTvd": "282200068144",
-    "tikName": "Олюторская"
+    "tikName": "Олюторская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "4824002161032",
+    "uikName": "УИК №17",
     "tikTvd": "282200068144",
-    "tikName": "Олюторская"
+    "tikName": "Олюторская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "4824002161033",
+    "uikName": "УИК №18",
     "tikTvd": "282200068144",
-    "tikName": "Олюторская"
+    "tikName": "Олюторская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "4824002161034",
+    "uikName": "УИК №19",
     "tikTvd": "282200068144",
-    "tikName": "Олюторская"
+    "tikName": "Олюторская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "4824002161035",
+    "uikName": "УИК №20",
     "tikTvd": "282200068144",
-    "tikName": "Олюторская"
+    "tikName": "Олюторская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "4824002161036",
+    "uikName": "УИК №21",
     "tikTvd": "282200068144",
-    "tikName": "Олюторская"
+    "tikName": "Олюторская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "4824002161037",
+    "uikName": "УИК №22",
     "tikTvd": "282200068144",
-    "tikName": "Олюторская"
+    "tikName": "Олюторская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "482400367371",
+    "uikName": "УИК  23",
     "tikTvd": "282200067448",
-    "tikName": "Пенжинская"
+    "tikName": "Пенжинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "482400367372",
+    "uikName": "УИК  24",
     "tikTvd": "282200067448",
-    "tikName": "Пенжинская"
+    "tikName": "Пенжинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "482400367373",
+    "uikName": "УИК  25",
     "tikTvd": "282200067448",
-    "tikName": "Пенжинская"
+    "tikName": "Пенжинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "482400367374",
+    "uikName": "УИК  26",
     "tikTvd": "282200067448",
-    "tikName": "Пенжинская"
+    "tikName": "Пенжинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "482400367375",
+    "uikName": "УИК  27",
     "tikTvd": "282200067448",
-    "tikName": "Пенжинская"
+    "tikName": "Пенжинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "482400367376",
+    "uikName": "УИК  28",
     "tikTvd": "282200067448",
-    "tikName": "Пенжинская"
+    "tikName": "Пенжинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "482400367377",
+    "uikName": "УИК  29",
     "tikTvd": "282200067448",
-    "tikName": "Пенжинская"
+    "tikName": "Пенжинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

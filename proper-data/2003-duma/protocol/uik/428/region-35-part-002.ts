@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "435400570496",
+    "uikName": "УИК №157",
     "tikTvd": "335300170482",
     "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2289,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -57,8 +66,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "435400570497",
+    "uikName": "УИК №158",
     "tikTvd": "335300170482",
     "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 307,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -103,8 +121,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "435400570498",
+    "uikName": "УИК №159",
     "tikTvd": "335300170482",
     "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -149,8 +176,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "435400570499",
+    "uikName": "УИК №160",
     "tikTvd": "335300170482",
     "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 747,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -195,8 +231,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "435400570500",
+    "uikName": "УИК №161",
     "tikTvd": "335300170482",
     "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 350,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -241,8 +286,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "435400570501",
+    "uikName": "УИК №162",
     "tikTvd": "335300170482",
     "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 417,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -287,8 +341,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "435400570502",
+    "uikName": "УИК №163",
     "tikTvd": "335300170482",
     "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 863,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -333,8 +396,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "435400570503",
+    "uikName": "УИК №164",
     "tikTvd": "335300170482",
     "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 242,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -379,8 +451,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "435400570504",
+    "uikName": "УИК №165",
     "tikTvd": "335300170482",
     "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1176,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -425,8 +506,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "435400570505",
+    "uikName": "УИК №166",
     "tikTvd": "335300170482",
     "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 563,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -471,8 +561,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "435400570506",
+    "uikName": "УИК №167",
     "tikTvd": "335300170482",
     "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -517,8 +616,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "435400570507",
+    "uikName": "УИК №168",
     "tikTvd": "335300170482",
     "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 535,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -563,8 +671,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "435400570508",
+    "uikName": "УИК №169",
     "tikTvd": "335300170482",
     "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1203,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -609,8 +726,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "435400570509",
+    "uikName": "УИК №170",
     "tikTvd": "335300170482",
     "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 289,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -655,8 +781,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "435400670482",
+    "uikName": "УИК №171",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1520,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -701,8 +836,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "435400670483",
+    "uikName": "УИК №172",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1178,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -747,8 +891,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "435400670484",
+    "uikName": "УИК №173",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1098,
       "Число бюллетеней, полученных участковыми комиссиями": 1080,
@@ -793,8 +946,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "435400670485",
+    "uikName": "УИК №174",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 449,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -839,8 +1001,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "435400670486",
+    "uikName": "УИК №175",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 517,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -885,8 +1056,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "435400670487",
+    "uikName": "УИК №176",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -931,8 +1111,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "435400670488",
+    "uikName": "УИК №177",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -977,8 +1166,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "435400670489",
+    "uikName": "УИК №178",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 291,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -1023,8 +1221,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "435400670490",
+    "uikName": "УИК №179",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 162,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -1069,8 +1276,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "435400670491",
+    "uikName": "УИК №180",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -1115,8 +1331,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "435400670492",
+    "uikName": "УИК №181",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 411,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -1161,8 +1386,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "435400670493",
+    "uikName": "УИК №182",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 366,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -1207,8 +1441,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "435400670494",
+    "uikName": "УИК №183",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 265,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -1253,8 +1496,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "435400670495",
+    "uikName": "УИК №184",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -1299,8 +1551,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "435400670496",
+    "uikName": "УИК №185",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 299,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -1345,8 +1606,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "435400670497",
+    "uikName": "УИК №186",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 99,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -1391,8 +1661,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "435400670498",
+    "uikName": "УИК №187",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -1437,8 +1716,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "435400670499",
+    "uikName": "УИК №188",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 631,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -1483,8 +1771,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "435400670500",
+    "uikName": "УИК №189",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 273,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -1529,8 +1826,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "435400670501",
+    "uikName": "УИК №190",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -1575,8 +1881,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "435400670502",
+    "uikName": "УИК №191",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -1621,8 +1936,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "435400670503",
+    "uikName": "УИК №192",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 277,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -1667,8 +1991,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "435400670504",
+    "uikName": "УИК №193",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 299,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -1713,8 +2046,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "435400670505",
+    "uikName": "УИК №194",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 849,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -1759,8 +2101,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "435400670506",
+    "uikName": "УИК №195",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 126,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -1805,8 +2156,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "435400670507",
+    "uikName": "УИК №196",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 472,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -1851,8 +2211,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "435400670508",
+    "uikName": "УИК №197",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 281,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -1897,8 +2266,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "435400670509",
+    "uikName": "УИК №198",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 398,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -1943,8 +2321,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 458,
     "uikTvd": "435401170468",
+    "uikName": "УИК №458",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1034,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -1989,8 +2376,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 459,
     "uikTvd": "435401170469",
+    "uikName": "УИК №459",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1107,
       "Число бюллетеней, полученных участковыми комиссиями": 970,
@@ -2035,8 +2431,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 460,
     "uikTvd": "435401170470",
+    "uikName": "УИК №460",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 907,
       "Число бюллетеней, полученных участковыми комиссиями": 810,
@@ -2081,8 +2486,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 461,
     "uikTvd": "435401170471",
+    "uikName": "УИК №461",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1067,
       "Число бюллетеней, полученных участковыми комиссиями": 930,
@@ -2127,8 +2541,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 462,
     "uikTvd": "435401170472",
+    "uikName": "УИК №462",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1095,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -2173,8 +2596,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 463,
     "uikTvd": "435401170473",
+    "uikName": "УИК №463",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1048,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -2219,8 +2651,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 464,
     "uikTvd": "435401170474",
+    "uikName": "УИК №464",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1122,
       "Число бюллетеней, полученных участковыми комиссиями": 970,
@@ -2265,8 +2706,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 465,
     "uikTvd": "435401170475",
+    "uikName": "УИК №465",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1187,
       "Число бюллетеней, полученных участковыми комиссиями": 970,
@@ -2311,8 +2761,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 466,
     "uikTvd": "435401170476",
+    "uikName": "УИК №466",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 943,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -2357,8 +2816,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 467,
     "uikTvd": "435401170477",
+    "uikName": "УИК №467",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 970,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -2403,8 +2871,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 468,
     "uikTvd": "435401170478",
+    "uikName": "УИК №468",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1005,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -2449,8 +2926,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 469,
     "uikTvd": "435401170479",
+    "uikName": "УИК №469",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 925,
       "Число бюллетеней, полученных участковыми комиссиями": 820,
@@ -2495,8 +2981,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 470,
     "uikTvd": "435401170480",
+    "uikName": "УИК №470",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 969,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -2541,8 +3036,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 471,
     "uikTvd": "435401170481",
+    "uikName": "УИК №471",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 958,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -2587,8 +3091,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "435401170482",
+    "uikName": "УИК №472",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1149,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -2633,8 +3146,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "435401170483",
+    "uikName": "УИК №473",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 984,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -2679,8 +3201,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 474,
     "uikTvd": "435401170484",
+    "uikName": "УИК №474",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 988,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -2725,8 +3256,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 475,
     "uikTvd": "435401170485",
+    "uikName": "УИК №475",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 750,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -2771,8 +3311,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 476,
     "uikTvd": "435401170486",
+    "uikName": "УИК №476",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 291,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -2817,8 +3366,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 477,
     "uikTvd": "435401170487",
+    "uikName": "УИК №477",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -2863,8 +3421,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 478,
     "uikTvd": "435401170488",
+    "uikName": "УИК №478",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 615,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -2909,8 +3476,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 479,
     "uikTvd": "435401170489",
+    "uikName": "УИК №479",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -2955,8 +3531,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 480,
     "uikTvd": "435401170490",
+    "uikName": "УИК №480",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -3001,8 +3586,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 481,
     "uikTvd": "435401170491",
+    "uikName": "УИК №481",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3047,8 +3641,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 482,
     "uikTvd": "435401170492",
+    "uikName": "УИК №482",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 498,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -3093,8 +3696,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 483,
     "uikTvd": "435401170493",
+    "uikName": "УИК №483",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -3139,8 +3751,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 484,
     "uikTvd": "435401170494",
+    "uikName": "УИК №484",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 273,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -3185,8 +3806,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 485,
     "uikTvd": "435401170495",
+    "uikName": "УИК №485",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 558,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -3231,8 +3861,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 486,
     "uikTvd": "435401170496",
+    "uikName": "УИК №486",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 329,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -3277,8 +3916,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 487,
     "uikTvd": "435401170497",
+    "uikName": "УИК №487",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 348,
       "Число бюллетеней, полученных участковыми комиссиями": 335,
@@ -3323,8 +3971,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 488,
     "uikTvd": "435401170498",
+    "uikName": "УИК №488",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 437,
       "Число бюллетеней, полученных участковыми комиссиями": 485,
@@ -3369,8 +4026,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 489,
     "uikTvd": "435401170499",
+    "uikName": "УИК №489",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -3415,8 +4081,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 490,
     "uikTvd": "435401170500",
+    "uikName": "УИК №490",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 982,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3461,8 +4136,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 491,
     "uikTvd": "435401170501",
+    "uikName": "УИК №491",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 589,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -3507,8 +4191,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 492,
     "uikTvd": "435401170502",
+    "uikName": "УИК №492",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -3553,8 +4246,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 493,
     "uikTvd": "435401170503",
+    "uikName": "УИК №493",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -3599,8 +4301,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 494,
     "uikTvd": "435401170504",
+    "uikName": "УИК №494",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 437,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -3645,8 +4356,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 495,
     "uikTvd": "435401170505",
+    "uikName": "УИК №495",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3691,8 +4411,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 496,
     "uikTvd": "435401170506",
+    "uikName": "УИК №496",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1006,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3737,8 +4466,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 497,
     "uikTvd": "435401170507",
+    "uikName": "УИК №497",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -3783,8 +4521,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 498,
     "uikTvd": "435401170508",
+    "uikName": "УИК №498",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 72,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -3829,8 +4576,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 499,
     "uikTvd": "435401170509",
+    "uikName": "УИК №499",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 45,
       "Число бюллетеней, полученных участковыми комиссиями": 45,
@@ -3875,8 +4631,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 500,
     "uikTvd": "435401170510",
+    "uikName": "УИК №500",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 301,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -3921,8 +4686,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "435401170511",
+    "uikName": "УИК №501",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -3967,8 +4741,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "435401170512",
+    "uikName": "УИК №502",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 520,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -4013,8 +4796,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 503,
     "uikTvd": "435401170513",
+    "uikName": "УИК №503",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -4059,8 +4851,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 504,
     "uikTvd": "435401170514",
+    "uikName": "УИК №504",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 459,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -4105,8 +4906,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 505,
     "uikTvd": "435401170515",
+    "uikName": "УИК №505",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 126,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -4151,8 +4961,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "435401170516",
+    "uikName": "УИК №506",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4197,8 +5016,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 507,
     "uikTvd": "435401170517",
+    "uikName": "УИК №507",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -4243,8 +5071,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 508,
     "uikTvd": "435401170518",
+    "uikName": "УИК №508",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 558,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -4289,8 +5126,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 509,
     "uikTvd": "435401170519",
+    "uikName": "УИК №509",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 415,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -4335,8 +5181,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 510,
     "uikTvd": "435401170520",
+    "uikName": "УИК №510",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 796,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -4381,8 +5236,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 511,
     "uikTvd": "435401170521",
+    "uikName": "УИК №511",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 300,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -4427,8 +5291,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 512,
     "uikTvd": "435401170522",
+    "uikName": "УИК №512",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4473,8 +5346,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 513,
     "uikTvd": "435401170523",
+    "uikName": "УИК №513",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -4519,8 +5401,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 514,
     "uikTvd": "435401170524",
+    "uikName": "УИК №514",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -4565,8 +5456,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 515,
     "uikTvd": "435401170525",
+    "uikName": "УИК №515",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 685,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -4611,8 +5511,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 570,
     "uikTvd": "435401470562",
+    "uikName": "УИК №570",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 540,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -4657,8 +5566,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 571,
     "uikTvd": "435401470563",
+    "uikName": "УИК №571",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 384,
       "Число бюллетеней, полученных участковыми комиссиями": 365,
@@ -4703,8 +5621,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 572,
     "uikTvd": "435401470564",
+    "uikName": "УИК №572",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 651,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -4749,8 +5676,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 573,
     "uikTvd": "435401470565",
+    "uikName": "УИК №573",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4795,8 +5731,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 574,
     "uikTvd": "435401470566",
+    "uikName": "УИК №574",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 307,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -4841,8 +5786,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 575,
     "uikTvd": "435401470567",
+    "uikName": "УИК №575",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 767,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -4887,8 +5841,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 576,
     "uikTvd": "435401470568",
+    "uikName": "УИК №576",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 850,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -4933,8 +5896,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 577,
     "uikTvd": "435401470569",
+    "uikName": "УИК №577",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -4979,8 +5951,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 578,
     "uikTvd": "435401470570",
+    "uikName": "УИК №578",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 225,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -5025,8 +6006,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 579,
     "uikTvd": "435401470571",
+    "uikName": "УИК №579",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 866,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -5071,8 +6061,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 580,
     "uikTvd": "435401470572",
+    "uikName": "УИК №580",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -5117,8 +6116,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 581,
     "uikTvd": "435401470573",
+    "uikName": "УИК №581",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -5163,8 +6171,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 582,
     "uikTvd": "435401470574",
+    "uikName": "УИК №582",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 660,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -5209,8 +6226,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 583,
     "uikTvd": "435401470575",
+    "uikName": "УИК №583",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -5255,8 +6281,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 584,
     "uikTvd": "435401470576",
+    "uikName": "УИК №584",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 325,
@@ -5301,8 +6336,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 585,
     "uikTvd": "435401470577",
+    "uikName": "УИК №585",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 291,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -5347,8 +6391,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 586,
     "uikTvd": "435401470578",
+    "uikName": "УИК №586",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 135,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -5393,8 +6446,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 587,
     "uikTvd": "435401470579",
+    "uikName": "УИК №587",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2989,
       "Число бюллетеней, полученных участковыми комиссиями": 2950,
@@ -5439,8 +6501,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 588,
     "uikTvd": "435401470580",
+    "uikName": "УИК №588",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2220,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5485,8 +6556,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 589,
     "uikTvd": "435401470581",
+    "uikName": "УИК №589",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 233,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -5531,8 +6611,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 590,
     "uikTvd": "435401470582",
+    "uikName": "УИК №590",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 911,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -5577,8 +6666,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 591,
     "uikTvd": "435401470583",
+    "uikName": "УИК №591",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 236,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -5623,8 +6721,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 592,
     "uikTvd": "435401470584",
+    "uikName": "УИК №592",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -5669,8 +6776,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 593,
     "uikTvd": "435401470585",
+    "uikName": "УИК №593",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 350,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -5715,8 +6831,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 594,
     "uikTvd": "435401470586",
+    "uikName": "УИК №594",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 666,
       "Число бюллетеней, полученных участковыми комиссиями": 655,
@@ -5761,8 +6886,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 595,
     "uikTvd": "435401470587",
+    "uikName": "УИК №595",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 279,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -5807,8 +6941,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 596,
     "uikTvd": "435401470588",
+    "uikName": "УИК №596",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 433,
       "Число бюллетеней, полученных участковыми комиссиями": 446,
@@ -5853,8 +6996,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 597,
     "uikTvd": "435401470589",
+    "uikName": "УИК №597",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -5899,8 +7051,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 598,
     "uikTvd": "435401570449",
+    "uikName": "УИК №598",
     "tikTvd": "335300170486",
     "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1873,
       "Число бюллетеней, полученных участковыми комиссиями": 1858,
@@ -5945,8 +7106,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 599,
     "uikTvd": "435401570450",
+    "uikName": "УИК №599",
     "tikTvd": "335300170486",
     "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -5991,8 +7161,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 600,
     "uikTvd": "435401570451",
+    "uikName": "УИК №600",
     "tikTvd": "335300170486",
     "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 198,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -6037,8 +7216,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "435401570452",
+    "uikName": "УИК №601",
     "tikTvd": "335300170486",
     "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 496,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6083,8 +7271,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "435401570453",
+    "uikName": "УИК №602",
     "tikTvd": "335300170486",
     "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 411,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -6129,8 +7326,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "435401570454",
+    "uikName": "УИК №603",
     "tikTvd": "335300170486",
     "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -6175,8 +7381,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "435401570455",
+    "uikName": "УИК №604",
     "tikTvd": "335300170486",
     "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -6221,8 +7436,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "435401570456",
+    "uikName": "УИК №605",
     "tikTvd": "335300170486",
     "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -6267,8 +7491,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "435401570457",
+    "uikName": "УИК №606",
     "tikTvd": "335300170486",
     "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 483,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -6313,8 +7546,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "435401570458",
+    "uikName": "УИК №607",
     "tikTvd": "335300170486",
     "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 406,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -6359,8 +7601,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "435401570459",
+    "uikName": "УИК №608",
     "tikTvd": "335300170486",
     "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 721,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -6405,8 +7656,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "435401570460",
+    "uikName": "УИК №609",
     "tikTvd": "335300170486",
     "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 62,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -6451,8 +7711,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "435401670509",
+    "uikName": "УИК №610",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1900,
       "Число бюллетеней, полученных участковыми комиссиями": 1834,
@@ -6497,8 +7766,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "435401670510",
+    "uikName": "УИК №611",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2110,
       "Число бюллетеней, полученных участковыми комиссиями": 2087,
@@ -6543,8 +7821,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "435401670511",
+    "uikName": "УИК №612",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1021,
       "Число бюллетеней, полученных участковыми комиссиями": 1011,
@@ -6589,8 +7876,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "435401670512",
+    "uikName": "УИК №613",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1329,
       "Число бюллетеней, полученных участковыми комиссиями": 1297,
@@ -6635,8 +7931,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "435401670513",
+    "uikName": "УИК №614",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 314,
       "Число бюллетеней, полученных участковыми комиссиями": 311,
@@ -6681,8 +7986,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "435401670514",
+    "uikName": "УИК №615",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 656,
       "Число бюллетеней, полученных участковыми комиссиями": 646,
@@ -6727,8 +8041,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "435401670515",
+    "uikName": "УИК №616",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 418,
       "Число бюллетеней, полученных участковыми комиссиями": 418,
@@ -6773,8 +8096,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "435401670516",
+    "uikName": "УИК №617",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 410,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -6819,8 +8151,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "435401670517",
+    "uikName": "УИК №618",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 633,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -6865,8 +8206,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "435401670518",
+    "uikName": "УИК №619",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 213,
@@ -6911,8 +8261,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 620,
     "uikTvd": "435401670519",
+    "uikName": "УИК №620",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 997,
       "Число бюллетеней, полученных участковыми комиссиями": 990,
@@ -6957,8 +8316,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "435401670520",
+    "uikName": "УИК №621",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 80,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -7003,8 +8371,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "435401670521",
+    "uikName": "УИК №622",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 81,
@@ -7049,8 +8426,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "435401670522",
+    "uikName": "УИК №623",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 512,
       "Число бюллетеней, полученных участковыми комиссиями": 507,
@@ -7095,8 +8481,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "435401670523",
+    "uikName": "УИК №624",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -7141,8 +8536,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "435401670524",
+    "uikName": "УИК №625",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 531,
       "Число бюллетеней, полученных участковыми комиссиями": 538,
@@ -7187,8 +8591,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "435401670525",
+    "uikName": "УИК №626",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 509,
       "Число бюллетеней, полученных участковыми комиссиями": 507,
@@ -7233,8 +8646,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "435401670526",
+    "uikName": "УИК №627",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 138,
@@ -7279,8 +8701,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "435401670527",
+    "uikName": "УИК №628",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 944,
       "Число бюллетеней, полученных участковыми комиссиями": 936,
@@ -7325,8 +8756,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "435401670528",
+    "uikName": "УИК №629",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 483,
@@ -7371,8 +8811,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "435401670529",
+    "uikName": "УИК №630",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 718,
       "Число бюллетеней, полученных участковыми комиссиями": 723,
@@ -7417,8 +8866,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 631,
     "uikTvd": "435401670530",
+    "uikName": "УИК №631",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -7463,8 +8921,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 632,
     "uikTvd": "435401670531",
+    "uikName": "УИК №632",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 217,
@@ -7509,8 +8976,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 633,
     "uikTvd": "435401670532",
+    "uikName": "УИК №633",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 82,
@@ -7555,8 +9031,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 634,
     "uikTvd": "435401670533",
+    "uikName": "УИК №634",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 55,
       "Число бюллетеней, полученных участковыми комиссиями": 58,
@@ -7601,8 +9086,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 635,
     "uikTvd": "435401670534",
+    "uikName": "УИК №635",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 215,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -7647,8 +9141,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 636,
     "uikTvd": "435401670535",
+    "uikName": "УИК №636",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 326,
       "Число бюллетеней, полученных участковыми комиссиями": 327,
@@ -7693,8 +9196,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 637,
     "uikTvd": "435401670536",
+    "uikName": "УИК №637",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 419,
       "Число бюллетеней, полученных участковыми комиссиями": 408,
@@ -7739,8 +9251,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 638,
     "uikTvd": "435401670537",
+    "uikName": "УИК №638",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 222,
@@ -7785,8 +9306,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 639,
     "uikTvd": "435401670538",
+    "uikName": "УИК №639",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 267,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -7831,8 +9361,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 640,
     "uikTvd": "435401670539",
+    "uikName": "УИК №640",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 94,
@@ -7877,8 +9416,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 641,
     "uikTvd": "435401670540",
+    "uikName": "УИК №641",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 192,
       "Число бюллетеней, полученных участковыми комиссиями": 193,
@@ -7923,8 +9471,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 642,
     "uikTvd": "435401670541",
+    "uikName": "УИК №642",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 537,
       "Число бюллетеней, полученных участковыми комиссиями": 544,
@@ -7969,8 +9526,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 643,
     "uikTvd": "435401670542",
+    "uikName": "УИК №643",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 121,
@@ -8015,8 +9581,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 644,
     "uikTvd": "435401670543",
+    "uikName": "УИК №644",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 99,
       "Число бюллетеней, полученных участковыми комиссиями": 106,
@@ -8061,8 +9636,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 645,
     "uikTvd": "435401670544",
+    "uikName": "УИК №645",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 370,
       "Число бюллетеней, полученных участковыми комиссиями": 366,
@@ -8107,8 +9691,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 646,
     "uikTvd": "435401670545",
+    "uikName": "УИК №646",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 277,
@@ -8153,8 +9746,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 647,
     "uikTvd": "435401670546",
+    "uikName": "УИК №647",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 261,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -8199,8 +9801,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 648,
     "uikTvd": "435401670547",
+    "uikName": "УИК №648",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 193,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -8245,8 +9856,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 649,
     "uikTvd": "435401670548",
+    "uikName": "УИК №649",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 523,
       "Число бюллетеней, полученных участковыми комиссиями": 525,
@@ -8291,8 +9911,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 650,
     "uikTvd": "435401670549",
+    "uikName": "УИК №650",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 278,
       "Число бюллетеней, полученных участковыми комиссиями": 277,
@@ -8337,8 +9966,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 651,
     "uikTvd": "435401770498",
+    "uikName": "УИК №651",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 300,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -8383,8 +10021,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 652,
     "uikTvd": "435401770499",
+    "uikName": "УИК №652",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -8429,8 +10076,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 653,
     "uikTvd": "435401770500",
+    "uikName": "УИК №653",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -8475,8 +10131,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 654,
     "uikTvd": "435401770501",
+    "uikName": "УИК №654",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 384,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -8521,8 +10186,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 655,
     "uikTvd": "435401770502",
+    "uikName": "УИК №655",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -8567,8 +10241,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 656,
     "uikTvd": "435401770503",
+    "uikName": "УИК №656",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -8613,8 +10296,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 657,
     "uikTvd": "435401770504",
+    "uikName": "УИК №657",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -8659,8 +10351,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 658,
     "uikTvd": "435401770505",
+    "uikName": "УИК №658",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 232,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -8705,8 +10406,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 659,
     "uikTvd": "435401770506",
+    "uikName": "УИК №659",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 289,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -8751,8 +10461,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 660,
     "uikTvd": "435401770507",
+    "uikName": "УИК №660",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 700,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -8797,8 +10516,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 661,
     "uikTvd": "435401770508",
+    "uikName": "УИК №661",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 248,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -8843,8 +10571,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 662,
     "uikTvd": "435401770509",
+    "uikName": "УИК №662",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 41,
       "Число бюллетеней, полученных участковыми комиссиями": 45,
@@ -8889,8 +10626,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 663,
     "uikTvd": "435401770510",
+    "uikName": "УИК №663",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -8935,8 +10681,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 664,
     "uikTvd": "435401770511",
+    "uikName": "УИК №664",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 143,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -8981,8 +10736,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 665,
     "uikTvd": "435401770512",
+    "uikName": "УИК №665",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 168,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -9027,8 +10791,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 666,
     "uikTvd": "435401770513",
+    "uikName": "УИК №666",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 42,
       "Число бюллетеней, полученных участковыми комиссиями": 45,
@@ -9073,8 +10846,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 667,
     "uikTvd": "435401770514",
+    "uikName": "УИК №667",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 671,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -9119,8 +10901,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 668,
     "uikTvd": "435401770515",
+    "uikName": "УИК №668",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -9165,8 +10956,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 669,
     "uikTvd": "435401770516",
+    "uikName": "УИК №669",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -9211,8 +11011,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 670,
     "uikTvd": "435401770517",
+    "uikName": "УИК №670",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1457,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -9257,8 +11066,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 671,
     "uikTvd": "435401770518",
+    "uikName": "УИК №671",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 377,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -9303,8 +11121,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 672,
     "uikTvd": "435401770519",
+    "uikName": "УИК №672",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1441,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -9349,8 +11176,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 673,
     "uikTvd": "435401770520",
+    "uikName": "УИК №673",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 382,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -9395,8 +11231,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 674,
     "uikTvd": "435401870458",
+    "uikName": "УИК №674",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1218,
       "Число бюллетеней, полученных участковыми комиссиями": 1110,
@@ -9441,8 +11286,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 675,
     "uikTvd": "435401870459",
+    "uikName": "УИК №675",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 460,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -9487,8 +11341,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 676,
     "uikTvd": "435401870460",
+    "uikName": "УИК №676",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 384,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -9533,8 +11396,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 677,
     "uikTvd": "435401870461",
+    "uikName": "УИК №677",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 908,
       "Число бюллетеней, полученных участковыми комиссиями": 820,
@@ -9579,8 +11451,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 678,
     "uikTvd": "435401870462",
+    "uikName": "УИК №678",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1112,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -9625,8 +11506,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 679,
     "uikTvd": "435401870463",
+    "uikName": "УИК №679",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1912,
       "Число бюллетеней, полученных участковыми комиссиями": 1730,
@@ -9671,8 +11561,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 680,
     "uikTvd": "435401870464",
+    "uikName": "УИК №680",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2142,
       "Число бюллетеней, полученных участковыми комиссиями": 1940,
@@ -9717,8 +11616,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 681,
     "uikTvd": "435401870465",
+    "uikName": "УИК №681",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2516,
       "Число бюллетеней, полученных участковыми комиссиями": 2280,
@@ -9763,8 +11671,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 682,
     "uikTvd": "435401870466",
+    "uikName": "УИК №682",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2004,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9809,8 +11726,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 683,
     "uikTvd": "435401870467",
+    "uikName": "УИК №683",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1903,
       "Число бюллетеней, полученных участковыми комиссиями": 1710,
@@ -9855,8 +11781,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 684,
     "uikTvd": "435401870468",
+    "uikName": "УИК №684",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1650,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9901,8 +11836,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 685,
     "uikTvd": "435401870469",
+    "uikName": "УИК №685",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1766,
       "Число бюллетеней, полученных участковыми комиссиями": 1610,
@@ -9947,8 +11891,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 686,
     "uikTvd": "435401870470",
+    "uikName": "УИК №686",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 513,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -9993,8 +11946,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 687,
     "uikTvd": "435401870471",
+    "uikName": "УИК №687",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1042,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -10039,8 +12001,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 688,
     "uikTvd": "435401870472",
+    "uikName": "УИК №688",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1964,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -10085,8 +12056,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 689,
     "uikTvd": "435401870473",
+    "uikName": "УИК №689",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1588,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -10131,8 +12111,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 690,
     "uikTvd": "435401870474",
+    "uikName": "УИК №690",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1571,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -10177,8 +12166,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 691,
     "uikTvd": "435401870475",
+    "uikName": "УИК №691",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1999,
       "Число бюллетеней, полученных участковыми комиссиями": 1810,
@@ -10223,8 +12221,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 692,
     "uikTvd": "435401870476",
+    "uikName": "УИК №692",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1639,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -10269,8 +12276,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 693,
     "uikTvd": "435401870477",
+    "uikName": "УИК №693",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1522,
       "Число бюллетеней, полученных участковыми комиссиями": 1380,
@@ -10315,8 +12331,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 694,
     "uikTvd": "435401870478",
+    "uikName": "УИК №694",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1687,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -10361,8 +12386,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 695,
     "uikTvd": "435401870479",
+    "uikName": "УИК №695",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1631,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -10407,8 +12441,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 696,
     "uikTvd": "435401870480",
+    "uikName": "УИК №696",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 946,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -10453,8 +12496,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 697,
     "uikTvd": "435401870481",
+    "uikName": "УИК №697",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 999,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -10499,8 +12551,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 698,
     "uikTvd": "435401870482",
+    "uikName": "УИК №698",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -10545,8 +12606,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 699,
     "uikTvd": "435401870483",
+    "uikName": "УИК №699",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 76,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -10591,8 +12661,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 700,
     "uikTvd": "435401870484",
+    "uikName": "УИК №700",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 284,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -10637,8 +12716,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 701,
     "uikTvd": "435401870485",
+    "uikName": "УИК №701",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -10683,8 +12771,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 702,
     "uikTvd": "435401870486",
+    "uikName": "УИК №702",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 558,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -10729,8 +12826,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 703,
     "uikTvd": "435401870487",
+    "uikName": "УИК №703",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -10775,8 +12881,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 704,
     "uikTvd": "435401870488",
+    "uikName": "УИК №704",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 750,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -10821,8 +12936,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 705,
     "uikTvd": "435401870489",
+    "uikName": "УИК №705",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 858,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -10867,8 +12991,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 706,
     "uikTvd": "435401870490",
+    "uikName": "УИК №706",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 649,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -10913,8 +13046,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 707,
     "uikTvd": "435401870491",
+    "uikName": "УИК №707",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -10959,8 +13101,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 708,
     "uikTvd": "435401870492",
+    "uikName": "УИК №708",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 315,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -11005,8 +13156,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 709,
     "uikTvd": "435401870493",
+    "uikName": "УИК №709",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -11051,8 +13211,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 710,
     "uikTvd": "435401870494",
+    "uikName": "УИК №710",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -11097,8 +13266,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 711,
     "uikTvd": "435401870495",
+    "uikName": "УИК №711",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -11143,8 +13321,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 712,
     "uikTvd": "435401870496",
+    "uikName": "УИК №712",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 97,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -11189,8 +13376,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 713,
     "uikTvd": "435401870497",
+    "uikName": "УИК №713",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 473,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -11235,8 +13431,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 714,
     "uikTvd": "435401870498",
+    "uikName": "УИК №714",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 938,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -11281,8 +13486,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 715,
     "uikTvd": "435401870499",
+    "uikName": "УИК №715",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -11327,8 +13541,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 716,
     "uikTvd": "435401870500",
+    "uikName": "УИК №716",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -11373,8 +13596,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 717,
     "uikTvd": "435401870501",
+    "uikName": "УИК №717",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 231,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -11419,8 +13651,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 718,
     "uikTvd": "435401870502",
+    "uikName": "УИК №718",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 418,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -11465,8 +13706,17 @@ export const duma_2003_uik_428_region_35_part_002 = [
     "ballot": "single-member",
     "uikNumber": 719,
     "uikTvd": "435401870503",
+    "uikName": "УИК №719",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2074,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,

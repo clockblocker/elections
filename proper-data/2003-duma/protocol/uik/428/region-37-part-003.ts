@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 592,
     "uikTvd": "437401370413",
+    "uikName": "УИК  592",
     "tikTvd": "237200070505",
     "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1536,
       "Число бюллетеней, полученных участковыми комиссиями": 1388,
@@ -56,8 +65,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 593,
     "uikTvd": "437401370414",
+    "uikName": "УИК  593",
     "tikTvd": "237200070505",
     "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 495,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -101,8 +119,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 594,
     "uikTvd": "437401370415",
+    "uikName": "УИК  594",
     "tikTvd": "237200070505",
     "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 736,
       "Число бюллетеней, полученных участковыми комиссиями": 667,
@@ -146,8 +173,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 595,
     "uikTvd": "437401370416",
+    "uikName": "УИК  595",
     "tikTvd": "237200070505",
     "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1127,
       "Число бюллетеней, полученных участковыми комиссиями": 1006,
@@ -191,8 +227,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 596,
     "uikTvd": "437401370417",
+    "uikName": "УИК  596",
     "tikTvd": "237200070505",
     "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1334,
       "Число бюллетеней, полученных участковыми комиссиями": 1154,
@@ -236,8 +281,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 598,
     "uikTvd": "437401470361",
+    "uikName": "УИК  598",
     "tikTvd": "237200070507",
     "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2548,
       "Число бюллетеней, полученных участковыми комиссиями": 2470,
@@ -281,8 +335,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 599,
     "uikTvd": "437401470362",
+    "uikName": "УИК  599",
     "tikTvd": "237200070507",
     "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 254,
@@ -326,8 +389,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 600,
     "uikTvd": "437401470363",
+    "uikName": "УИК  600",
     "tikTvd": "237200070507",
     "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 248,
       "Число бюллетеней, полученных участковыми комиссиями": 245,
@@ -371,8 +443,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "437401470364",
+    "uikName": "УИК  601",
     "tikTvd": "237200070507",
     "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 307,
       "Число бюллетеней, полученных участковыми комиссиями": 293,
@@ -416,8 +497,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "437401470365",
+    "uikName": "УИК  602",
     "tikTvd": "237200070507",
     "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 323,
       "Число бюллетеней, полученных участковыми комиссиями": 324,
@@ -461,8 +551,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "437401470366",
+    "uikName": "УИК  603",
     "tikTvd": "237200070507",
     "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 108,
@@ -506,8 +605,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "437401470367",
+    "uikName": "УИК  604",
     "tikTvd": "237200070507",
     "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -551,8 +659,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "437401470368",
+    "uikName": "УИК  605",
     "tikTvd": "237200070507",
     "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 155,
       "Число бюллетеней, полученных участковыми комиссиями": 151,
@@ -596,8 +713,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "437401470369",
+    "uikName": "УИК  606",
     "tikTvd": "237200070507",
     "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 270,
       "Число бюллетеней, полученных участковыми комиссиями": 266,
@@ -641,8 +767,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "437401470370",
+    "uikName": "УИК  607",
     "tikTvd": "237200070507",
     "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 689,
       "Число бюллетеней, полученных участковыми комиссиями": 681,
@@ -686,8 +821,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "437401470371",
+    "uikName": "УИК  608",
     "tikTvd": "237200070507",
     "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -731,8 +875,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "437401470372",
+    "uikName": "УИК  609",
     "tikTvd": "237200070507",
     "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 96,
@@ -776,8 +929,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "437401470373",
+    "uikName": "УИК  610",
     "tikTvd": "237200070507",
     "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -821,8 +983,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "437401470374",
+    "uikName": "УИК  611",
     "tikTvd": "237200070507",
     "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 343,
@@ -866,8 +1037,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "437401470375",
+    "uikName": "УИК  612",
     "tikTvd": "237200070507",
     "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 196,
@@ -911,8 +1091,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "437401470376",
+    "uikName": "УИК  613",
     "tikTvd": "237200070507",
     "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1039,
       "Число бюллетеней, полученных участковыми комиссиями": 1046,
@@ -956,8 +1145,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "437401570425",
+    "uikName": "УИК  615",
     "tikTvd": "237200070509",
     "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -1001,8 +1199,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "437401570426",
+    "uikName": "УИК  616",
     "tikTvd": "237200070509",
     "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 323,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -1046,8 +1253,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "437401570427",
+    "uikName": "УИК  617",
     "tikTvd": "237200070509",
     "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 470,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -1091,8 +1307,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "437401570429",
+    "uikName": "УИК  618",
     "tikTvd": "237200070509",
     "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -1136,8 +1361,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "437401570430",
+    "uikName": "УИК  619",
     "tikTvd": "237200070509",
     "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 577,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -1181,8 +1415,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 620,
     "uikTvd": "437401570431",
+    "uikName": "УИК  620",
     "tikTvd": "237200070509",
     "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 507,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -1226,8 +1469,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "437401570432",
+    "uikName": "УИК  621",
     "tikTvd": "237200070509",
     "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 300,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -1271,8 +1523,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "437401570433",
+    "uikName": "УИК  622",
     "tikTvd": "237200070509",
     "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 335,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -1316,8 +1577,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "437401570434",
+    "uikName": "УИК  623",
     "tikTvd": "237200070509",
     "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 406,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -1361,8 +1631,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "437401570435",
+    "uikName": "УИК  624",
     "tikTvd": "237200070509",
     "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 563,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -1406,8 +1685,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "437401570436",
+    "uikName": "УИК  625",
     "tikTvd": "237200070509",
     "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1426,
       "Число бюллетеней, полученных участковыми комиссиями": 1310,
@@ -1451,8 +1739,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "437401570437",
+    "uikName": "УИК  626",
     "tikTvd": "237200070509",
     "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2132,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -1496,8 +1793,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "437401570438",
+    "uikName": "УИК  627",
     "tikTvd": "237200070509",
     "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2658,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1541,8 +1847,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "437401670401",
+    "uikName": "УИК  629",
     "tikTvd": "237200070511",
     "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 292,
@@ -1586,8 +1901,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "437401670402",
+    "uikName": "УИК  630",
     "tikTvd": "237200070511",
     "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 273,
@@ -1631,8 +1955,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 631,
     "uikTvd": "437401670403",
+    "uikName": "УИК  631",
     "tikTvd": "237200070511",
     "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 114,
@@ -1676,8 +2009,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 632,
     "uikTvd": "437401670404",
+    "uikName": "УИК  632",
     "tikTvd": "237200070511",
     "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 133,
@@ -1721,8 +2063,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 633,
     "uikTvd": "437401670405",
+    "uikName": "УИК  633",
     "tikTvd": "237200070511",
     "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 490,
       "Число бюллетеней, полученных участковыми комиссиями": 471,
@@ -1766,8 +2117,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 634,
     "uikTvd": "437401670406",
+    "uikName": "УИК  634",
     "tikTvd": "237200070511",
     "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 74,
@@ -1811,8 +2171,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 635,
     "uikTvd": "437401670407",
+    "uikName": "УИК  635",
     "tikTvd": "237200070511",
     "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 130,
       "Число бюллетеней, полученных участковыми комиссиями": 118,
@@ -1856,8 +2225,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 636,
     "uikTvd": "437401670408",
+    "uikName": "УИК  636",
     "tikTvd": "237200070511",
     "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 93,
@@ -1901,8 +2279,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 637,
     "uikTvd": "437401670409",
+    "uikName": "УИК  637",
     "tikTvd": "237200070511",
     "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 685,
       "Число бюллетеней, полученных участковыми комиссиями": 643,
@@ -1946,8 +2333,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 638,
     "uikTvd": "437401670410",
+    "uikName": "УИК  638",
     "tikTvd": "237200070511",
     "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 277,
       "Число бюллетеней, полученных участковыми комиссиями": 264,
@@ -1991,8 +2387,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 639,
     "uikTvd": "437401670411",
+    "uikName": "УИК  639",
     "tikTvd": "237200070511",
     "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1513,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -2036,8 +2441,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 640,
     "uikTvd": "437401670412",
+    "uikName": "УИК  640",
     "tikTvd": "237200070511",
     "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1936,
       "Число бюллетеней, полученных участковыми комиссиями": 1815,
@@ -2081,8 +2495,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 641,
     "uikTvd": "437401670413",
+    "uikName": "УИК  641",
     "tikTvd": "237200070511",
     "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 119,
@@ -2126,8 +2549,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 642,
     "uikTvd": "437401670414",
+    "uikName": "УИК  642",
     "tikTvd": "237200070511",
     "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -2171,8 +2603,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 643,
     "uikTvd": "437401670415",
+    "uikName": "УИК  643",
     "tikTvd": "237200070511",
     "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 321,
       "Число бюллетеней, полученных участковыми комиссиями": 301,
@@ -2216,8 +2657,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 645,
     "uikTvd": "437401770461",
+    "uikName": "УИК  645",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 551,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -2261,8 +2711,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 646,
     "uikTvd": "437401770462",
+    "uikName": "УИК  646",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 317,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -2306,8 +2765,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 647,
     "uikTvd": "437401770463",
+    "uikName": "УИК  647",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -2351,8 +2819,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 648,
     "uikTvd": "437401770464",
+    "uikName": "УИК  648",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 342,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2396,8 +2873,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 649,
     "uikTvd": "437401770465",
+    "uikName": "УИК  649",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2441,8 +2927,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 650,
     "uikTvd": "437401770466",
+    "uikName": "УИК  650",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -2486,8 +2981,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 651,
     "uikTvd": "437401770467",
+    "uikName": "УИК  651",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -2531,8 +3035,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 652,
     "uikTvd": "437401770468",
+    "uikName": "УИК  652",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1101,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -2576,8 +3089,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 653,
     "uikTvd": "437401770469",
+    "uikName": "УИК  653",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 456,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -2621,8 +3143,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 654,
     "uikTvd": "437401770470",
+    "uikName": "УИК  654",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 551,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -2666,8 +3197,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 655,
     "uikTvd": "437401770471",
+    "uikName": "УИК  655",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -2711,8 +3251,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 656,
     "uikTvd": "437401770472",
+    "uikName": "УИК  656",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -2756,8 +3305,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 657,
     "uikTvd": "437401770473",
+    "uikName": "УИК  657",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -2801,8 +3359,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 658,
     "uikTvd": "437401770474",
+    "uikName": "УИК  658",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -2846,8 +3413,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 659,
     "uikTvd": "437401770475",
+    "uikName": "УИК  659",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 304,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -2891,8 +3467,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 660,
     "uikTvd": "437401770476",
+    "uikName": "УИК  660",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 746,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -2936,8 +3521,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 661,
     "uikTvd": "437401770477",
+    "uikName": "УИК  661",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1357,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2981,8 +3575,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 662,
     "uikTvd": "437401770478",
+    "uikName": "УИК  662",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1411,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -3026,8 +3629,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 663,
     "uikTvd": "437401770479",
+    "uikName": "УИК  663",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1510,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -3071,8 +3683,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 664,
     "uikTvd": "437401770480",
+    "uikName": "УИК  664",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1331,
       "Число бюллетеней, полученных участковыми комиссиями": 1340,
@@ -3116,8 +3737,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 665,
     "uikTvd": "437401770481",
+    "uikName": "УИК  665",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1009,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -3161,8 +3791,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 666,
     "uikTvd": "437401770482",
+    "uikName": "УИК  666",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 805,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -3206,8 +3845,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 667,
     "uikTvd": "437401770483",
+    "uikName": "УИК  667",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 825,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -3251,8 +3899,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 668,
     "uikTvd": "437401770484",
+    "uikName": "УИК  668",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1110,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -3296,8 +3953,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 669,
     "uikTvd": "437401770485",
+    "uikName": "УИК  669",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1230,
       "Число бюллетеней, полученных участковыми комиссиями": 1230,
@@ -3341,8 +4007,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 670,
     "uikTvd": "437401770486",
+    "uikName": "УИК  670",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1175,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -3386,8 +4061,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 671,
     "uikTvd": "437401770487",
+    "uikName": "УИК  671",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1045,
       "Число бюллетеней, полученных участковыми комиссиями": 1060,
@@ -3431,8 +4115,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 672,
     "uikTvd": "437401770488",
+    "uikName": "УИК  672",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1386,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -3476,8 +4169,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 673,
     "uikTvd": "437401770489",
+    "uikName": "УИК  673",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1471,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3521,8 +4223,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 676,
     "uikTvd": "437401870421",
+    "uikName": "УИК  676",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1481,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -3566,8 +4277,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 677,
     "uikTvd": "437401870422",
+    "uikName": "УИК  677",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1252,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -3611,8 +4331,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 678,
     "uikTvd": "437401870423",
+    "uikName": "УИК  678",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1093,
       "Число бюллетеней, полученных участковыми комиссиями": 1110,
@@ -3656,8 +4385,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 679,
     "uikTvd": "437401870424",
+    "uikName": "УИК  679",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1598,
       "Число бюллетеней, полученных участковыми комиссиями": 1460,
@@ -3701,8 +4439,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 680,
     "uikTvd": "437401870425",
+    "uikName": "УИК  680",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1951,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -3746,8 +4493,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 681,
     "uikTvd": "437401870426",
+    "uikName": "УИК  681",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 596,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -3791,8 +4547,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 682,
     "uikTvd": "437401870427",
+    "uikName": "УИК  682",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1091,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -3836,8 +4601,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 683,
     "uikTvd": "437401870428",
+    "uikName": "УИК  683",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 443,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -3881,8 +4655,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 684,
     "uikTvd": "437401870429",
+    "uikName": "УИК  684",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 919,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -3926,8 +4709,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 685,
     "uikTvd": "437401870430",
+    "uikName": "УИК  685",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 398,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -3971,8 +4763,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 686,
     "uikTvd": "437401870431",
+    "uikName": "УИК  686",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 581,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -4016,8 +4817,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 687,
     "uikTvd": "437401870432",
+    "uikName": "УИК  687",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -4061,8 +4871,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 688,
     "uikTvd": "437401870433",
+    "uikName": "УИК  688",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 193,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -4106,8 +4925,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 689,
     "uikTvd": "437401870434",
+    "uikName": "УИК  689",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -4151,8 +4979,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 690,
     "uikTvd": "437401870435",
+    "uikName": "УИК  690",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -4196,8 +5033,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 691,
     "uikTvd": "437401870436",
+    "uikName": "УИК  691",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -4241,8 +5087,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 692,
     "uikTvd": "437401870437",
+    "uikName": "УИК  692",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 286,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -4286,8 +5141,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 693,
     "uikTvd": "437401870438",
+    "uikName": "УИК  693",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 395,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -4331,8 +5195,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 694,
     "uikTvd": "437401870439",
+    "uikName": "УИК  694",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 445,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -4376,8 +5249,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 695,
     "uikTvd": "437401870440",
+    "uikName": "УИК  695",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 499,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -4421,8 +5303,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 696,
     "uikTvd": "437401870441",
+    "uikName": "УИК  696",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 188,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -4466,8 +5357,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 697,
     "uikTvd": "437401870442",
+    "uikName": "УИК  697",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -4511,8 +5411,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 698,
     "uikTvd": "437401870443",
+    "uikName": "УИК  698",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -4556,8 +5465,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 701,
     "uikTvd": "437401970562",
+    "uikName": "УИК  701",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2174,
       "Число бюллетеней, полученных участковыми комиссиями": 2159,
@@ -4601,8 +5519,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 702,
     "uikTvd": "437401970563",
+    "uikName": "УИК  702",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1764,
       "Число бюллетеней, полученных участковыми комиссиями": 1715,
@@ -4646,8 +5573,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 703,
     "uikTvd": "437401970564",
+    "uikName": "УИК  703",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1761,
       "Число бюллетеней, полученных участковыми комиссиями": 1705,
@@ -4691,8 +5627,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 704,
     "uikTvd": "437401970565",
+    "uikName": "УИК  704",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1638,
       "Число бюллетеней, полученных участковыми комиссиями": 1665,
@@ -4736,8 +5681,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 705,
     "uikTvd": "437401970566",
+    "uikName": "УИК  705",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1585,
       "Число бюллетеней, полученных участковыми комиссиями": 1585,
@@ -4781,8 +5735,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 706,
     "uikTvd": "437401970567",
+    "uikName": "УИК  706",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1575,
       "Число бюллетеней, полученных участковыми комиссиями": 1563,
@@ -4826,8 +5789,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 707,
     "uikTvd": "437401970568",
+    "uikName": "УИК  707",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1896,
       "Число бюллетеней, полученных участковыми комиссиями": 1843,
@@ -4871,8 +5843,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 708,
     "uikTvd": "437401970569",
+    "uikName": "УИК  708",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1991,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -4916,8 +5897,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 709,
     "uikTvd": "437401970570",
+    "uikName": "УИК  709",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2489,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -4961,8 +5951,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 710,
     "uikTvd": "437401970571",
+    "uikName": "УИК  710",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2241,
       "Число бюллетеней, полученных участковыми комиссиями": 2215,
@@ -5006,8 +6005,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 711,
     "uikTvd": "437401970572",
+    "uikName": "УИК  711",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2329,
       "Число бюллетеней, полученных участковыми комиссиями": 2274,
@@ -5051,8 +6059,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 712,
     "uikTvd": "437401970573",
+    "uikName": "УИК  712",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1959,
       "Число бюллетеней, полученных участковыми комиссиями": 1935,
@@ -5096,8 +6113,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 713,
     "uikTvd": "437401970574",
+    "uikName": "УИК  713",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1735,
       "Число бюллетеней, полученных участковыми комиссиями": 1765,
@@ -5141,8 +6167,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 714,
     "uikTvd": "437401970575",
+    "uikName": "УИК  714",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 445,
       "Число бюллетеней, полученных участковыми комиссиями": 442,
@@ -5186,8 +6221,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 715,
     "uikTvd": "437401970576",
+    "uikName": "УИК  715",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -5231,8 +6275,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 716,
     "uikTvd": "437401970577",
+    "uikName": "УИК  716",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 467,
       "Число бюллетеней, полученных участковыми комиссиями": 469,
@@ -5276,8 +6329,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 717,
     "uikTvd": "437401970578",
+    "uikName": "УИК  717",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 215,
       "Число бюллетеней, полученных участковыми комиссиями": 227,
@@ -5321,8 +6383,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 718,
     "uikTvd": "437401970579",
+    "uikName": "УИК  718",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 396,
       "Число бюллетеней, полученных участковыми комиссиями": 402,
@@ -5366,8 +6437,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 719,
     "uikTvd": "437401970581",
+    "uikName": "УИК  719",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 103,
@@ -5411,8 +6491,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 720,
     "uikTvd": "437401970582",
+    "uikName": "УИК  720",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -5456,8 +6545,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 721,
     "uikTvd": "437401970583",
+    "uikName": "УИК  721",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 797,
       "Число бюллетеней, полученных участковыми комиссиями": 799,
@@ -5501,8 +6599,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 722,
     "uikTvd": "437401970584",
+    "uikName": "УИК  722",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 194,
@@ -5546,8 +6653,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 723,
     "uikTvd": "437401970585",
+    "uikName": "УИК  723",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 193,
       "Число бюллетеней, полученных участковыми комиссиями": 198,
@@ -5591,8 +6707,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 724,
     "uikTvd": "437401970586",
+    "uikName": "УИК  724",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 553,
       "Число бюллетеней, полученных участковыми комиссиями": 545,
@@ -5636,8 +6761,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 725,
     "uikTvd": "437401970587",
+    "uikName": "УИК  725",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 672,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -5681,8 +6815,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 726,
     "uikTvd": "437401970588",
+    "uikName": "УИК  726",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 97,
@@ -5726,8 +6869,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 727,
     "uikTvd": "437401970589",
+    "uikName": "УИК  727",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 622,
       "Число бюллетеней, полученных участковыми комиссиями": 626,
@@ -5771,8 +6923,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 728,
     "uikTvd": "437401970590",
+    "uikName": "УИК  728",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -5816,8 +6977,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 729,
     "uikTvd": "437401970591",
+    "uikName": "УИК  729",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 432,
       "Число бюллетеней, полученных участковыми комиссиями": 427,
@@ -5861,8 +7031,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 730,
     "uikTvd": "437401970592",
+    "uikName": "УИК  730",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 573,
       "Число бюллетеней, полученных участковыми комиссиями": 586,
@@ -5906,8 +7085,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 733,
     "uikTvd": "437402070481",
+    "uikName": "УИК  733",
     "tikTvd": "237200070519",
     "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1833,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5951,8 +7139,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 734,
     "uikTvd": "437402070482",
+    "uikName": "УИК  734",
     "tikTvd": "237200070519",
     "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1731,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -5996,8 +7193,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 735,
     "uikTvd": "437402070623",
+    "uikName": "УИК  735",
     "tikTvd": "237200070519",
     "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1625,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -6041,8 +7247,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 736,
     "uikTvd": "437402070626",
+    "uikName": "УИК  736",
     "tikTvd": "237200070519",
     "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1671,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6086,8 +7301,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 737,
     "uikTvd": "437402070627",
+    "uikName": "УИК  737",
     "tikTvd": "237200070519",
     "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 286,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -6131,8 +7355,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 738,
     "uikTvd": "437402070628",
+    "uikName": "УИК  738",
     "tikTvd": "237200070519",
     "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1180,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6176,8 +7409,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 739,
     "uikTvd": "437402070629",
+    "uikName": "УИК  739",
     "tikTvd": "237200070519",
     "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 740,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -6221,8 +7463,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 740,
     "uikTvd": "437402070488",
+    "uikName": "УИК  740",
     "tikTvd": "237200070519",
     "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 385,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -6266,8 +7517,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 741,
     "uikTvd": "437402070489",
+    "uikName": "УИК  741",
     "tikTvd": "237200070519",
     "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 463,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -6311,8 +7571,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 742,
     "uikTvd": "437402070490",
+    "uikName": "УИК  742",
     "tikTvd": "237200070519",
     "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 198,
@@ -6356,8 +7625,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 743,
     "uikTvd": "437402070491",
+    "uikName": "УИК  743",
     "tikTvd": "237200070519",
     "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -6401,8 +7679,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 744,
     "uikTvd": "437402070492",
+    "uikName": "УИК  744",
     "tikTvd": "237200070519",
     "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 334,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -6446,8 +7733,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 745,
     "uikTvd": "437402070493",
+    "uikName": "УИК  745",
     "tikTvd": "237200070519",
     "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 80,
       "Число бюллетеней, полученных участковыми комиссиями": 82,
@@ -6491,8 +7787,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 746,
     "uikTvd": "437402070494",
+    "uikName": "УИК  746",
     "tikTvd": "237200070519",
     "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -6536,8 +7841,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 747,
     "uikTvd": "437402070495",
+    "uikName": "УИК  747",
     "tikTvd": "237200070519",
     "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -6581,8 +7895,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 748,
     "uikTvd": "437402070496",
+    "uikName": "УИК  748",
     "tikTvd": "237200070519",
     "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -6626,8 +7949,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 749,
     "uikTvd": "437402070497",
+    "uikName": "УИК  749",
     "tikTvd": "237200070519",
     "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 498,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6671,8 +8003,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 295,
     "uikTvd": "437402270349",
+    "uikName": "УИК  295",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1604,
       "Число бюллетеней, полученных участковыми комиссиями": 1460,
@@ -6716,8 +8057,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 296,
     "uikTvd": "437402270350",
+    "uikName": "УИК  296",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1437,
       "Число бюллетеней, полученных участковыми комиссиями": 1285,
@@ -6761,8 +8111,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 297,
     "uikTvd": "437402270351",
+    "uikName": "УИК  297",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2804,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -6806,8 +8165,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 298,
     "uikTvd": "437402270352",
+    "uikName": "УИК  298",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2860,
       "Число бюллетеней, полученных участковыми комиссиями": 2545,
@@ -6851,8 +8219,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "437402270353",
+    "uikName": "УИК  299",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1298,
       "Число бюллетеней, полученных участковыми комиссиями": 1185,
@@ -6896,8 +8273,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 300,
     "uikTvd": "437402270354",
+    "uikName": "УИК  300",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1574,
       "Число бюллетеней, полученных участковыми комиссиями": 1425,
@@ -6941,8 +8327,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "437402270355",
+    "uikName": "УИК  301",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1815,
       "Число бюллетеней, полученных участковыми комиссиями": 1635,
@@ -6986,8 +8381,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "437402270356",
+    "uikName": "УИК  302",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1728,
       "Число бюллетеней, полученных участковыми комиссиями": 1585,
@@ -7031,8 +8435,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "437402270357",
+    "uikName": "УИК  303",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1472,
       "Число бюллетеней, полученных участковыми комиссиями": 1345,
@@ -7076,8 +8489,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "437402270358",
+    "uikName": "УИК  304",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1267,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -7121,8 +8543,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "437402270359",
+    "uikName": "УИК  305",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2927,
       "Число бюллетеней, полученных участковыми комиссиями": 2630,
@@ -7166,8 +8597,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "437402270360",
+    "uikName": "УИК  306",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2851,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -7211,8 +8651,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "437402270361",
+    "uikName": "УИК  307",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1556,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -7256,8 +8705,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "437402270362",
+    "uikName": "УИК  308",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1269,
       "Число бюллетеней, полученных участковыми комиссиями": 1155,
@@ -7301,8 +8759,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "437402270363",
+    "uikName": "УИК  309",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2756,
       "Число бюллетеней, полученных участковыми комиссиями": 2535,
@@ -7346,8 +8813,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "437402270364",
+    "uikName": "УИК  310",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1418,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -7391,8 +8867,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "437402270365",
+    "uikName": "УИК  311",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1490,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -7436,8 +8921,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "437402270366",
+    "uikName": "УИК  312",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 942,
       "Число бюллетеней, полученных участковыми комиссиями": 875,
@@ -7481,8 +8975,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "437402270367",
+    "uikName": "УИК  313",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1252,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -7526,8 +9029,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "437402270368",
+    "uikName": "УИК  314",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 255,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -7571,8 +9083,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "437402270369",
+    "uikName": "УИК  315",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 299,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -7616,8 +9137,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "437402270370",
+    "uikName": "УИК  316",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 591,
       "Число бюллетеней, полученных участковыми комиссиями": 555,
@@ -7661,8 +9191,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "437402270371",
+    "uikName": "УИК  317",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 365,
       "Число бюллетеней, полученных участковыми комиссиями": 322,
@@ -7706,8 +9245,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 318,
     "uikTvd": "437402270372",
+    "uikName": "УИК  318",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 391,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -7751,8 +9299,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 319,
     "uikTvd": "437402270373",
+    "uikName": "УИК  319",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 526,
       "Число бюллетеней, полученных участковыми комиссиями": 495,
@@ -7796,8 +9353,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 320,
     "uikTvd": "437402270374",
+    "uikName": "УИК  320",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 322,
@@ -7841,8 +9407,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 321,
     "uikTvd": "437402270375",
+    "uikName": "УИК  321",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 584,
       "Число бюллетеней, полученных участковыми комиссиями": 535,
@@ -7886,8 +9461,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 322,
     "uikTvd": "437402270376",
+    "uikName": "УИК  322",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -7931,8 +9515,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 323,
     "uikTvd": "437402270378",
+    "uikName": "УИК  323",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 208,
@@ -7976,8 +9569,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 324,
     "uikTvd": "437402270379",
+    "uikName": "УИК  324",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 479,
       "Число бюллетеней, полученных участковыми комиссиями": 443,
@@ -8021,8 +9623,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 777,
     "uikTvd": "437402970524",
+    "uikName": "УИК  777",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 380,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -8066,8 +9677,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 778,
     "uikTvd": "437402970356",
+    "uikName": "УИК  778",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 382,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -8111,8 +9731,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 779,
     "uikTvd": "437402970357",
+    "uikName": "УИК  779",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 96,
@@ -8156,8 +9785,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 780,
     "uikTvd": "437402970358",
+    "uikName": "УИК  780",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1019,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -8201,8 +9839,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 781,
     "uikTvd": "437402970359",
+    "uikName": "УИК  781",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 162,
       "Число бюллетеней, полученных участковыми комиссиями": 147,
@@ -8246,8 +9893,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 782,
     "uikTvd": "437402970360",
+    "uikName": "УИК  782",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 93,
@@ -8291,8 +9947,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 783,
     "uikTvd": "437402970361",
+    "uikName": "УИК  783",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 362,
       "Число бюллетеней, полученных участковыми комиссиями": 323,
@@ -8336,8 +10001,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 784,
     "uikTvd": "437402970362",
+    "uikName": "УИК  784",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 442,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -8381,8 +10055,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 785,
     "uikTvd": "437402970363",
+    "uikName": "УИК  785",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 76,
@@ -8426,8 +10109,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 786,
     "uikTvd": "437402970364",
+    "uikName": "УИК  786",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -8471,8 +10163,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 787,
     "uikTvd": "437402970365",
+    "uikName": "УИК  787",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 167,
@@ -8516,8 +10217,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 788,
     "uikTvd": "437402970366",
+    "uikName": "УИК  788",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 686,
       "Число бюллетеней, полученных участковыми комиссиями": 622,
@@ -8561,8 +10271,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 789,
     "uikTvd": "437402970367",
+    "uikName": "УИК  789",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 994,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -8606,8 +10325,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 790,
     "uikTvd": "437402970368",
+    "uikName": "УИК  790",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 446,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -8651,8 +10379,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 791,
     "uikTvd": "437402970369",
+    "uikName": "УИК  791",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2747,
       "Число бюллетеней, полученных участковыми комиссиями": 2480,
@@ -8696,8 +10433,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 792,
     "uikTvd": "437402970370",
+    "uikName": "УИК  792",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 689,
       "Число бюллетеней, полученных участковыми комиссиями": 618,
@@ -8741,8 +10487,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 793,
     "uikTvd": "437402970371",
+    "uikName": "УИК  793",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 579,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -8786,8 +10541,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 794,
     "uikTvd": "437402970372",
+    "uikName": "УИК  794",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 279,
       "Число бюллетеней, полученных участковыми комиссиями": 252,
@@ -8831,8 +10595,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 795,
     "uikTvd": "437402970373",
+    "uikName": "УИК  795",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 278,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -8876,8 +10649,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 796,
     "uikTvd": "437402970374",
+    "uikName": "УИК  796",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 392,
       "Число бюллетеней, полученных участковыми комиссиями": 366,
@@ -8921,8 +10703,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 797,
     "uikTvd": "437402970375",
+    "uikName": "УИК  797",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 307,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -8966,8 +10757,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 798,
     "uikTvd": "437402970376",
+    "uikName": "УИК  798",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 294,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -9011,8 +10811,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 799,
     "uikTvd": "437402970377",
+    "uikName": "УИК  799",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 333,
       "Число бюллетеней, полученных участковыми комиссиями": 297,
@@ -9056,8 +10865,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 800,
     "uikTvd": "437402970378",
+    "uikName": "УИК  800",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 745,
       "Число бюллетеней, полученных участковыми комиссиями": 664,
@@ -9101,8 +10919,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 801,
     "uikTvd": "437402970379",
+    "uikName": "УИК  801",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 364,
       "Число бюллетеней, полученных участковыми комиссиями": 304,
@@ -9146,8 +10973,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 802,
     "uikTvd": "437402970380",
+    "uikName": "УИК  802",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2372,
       "Число бюллетеней, полученных участковыми комиссиями": 2125,
@@ -9191,8 +11027,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 803,
     "uikTvd": "437402970381",
+    "uikName": "УИК  803",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -9236,8 +11081,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 804,
     "uikTvd": "437402970382",
+    "uikName": "УИК  804",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2215,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9281,8 +11135,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 327,
     "uikTvd": "437402370581",
+    "uikName": "УИК  327",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2076,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9326,8 +11189,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 328,
     "uikTvd": "437402370582",
+    "uikName": "УИК  328",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1767,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9371,8 +11243,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 329,
     "uikTvd": "437402370583",
+    "uikName": "УИК  329",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1755,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9416,8 +11297,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 330,
     "uikTvd": "437402370584",
+    "uikName": "УИК  330",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1681,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9461,8 +11351,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 331,
     "uikTvd": "437402370585",
+    "uikName": "УИК  331",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1556,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9506,8 +11405,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 332,
     "uikTvd": "437402370586",
+    "uikName": "УИК  332",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2200,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9551,8 +11459,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 333,
     "uikTvd": "437402370587",
+    "uikName": "УИК  333",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1476,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -9596,8 +11513,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 334,
     "uikTvd": "437402370588",
+    "uikName": "УИК  334",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2052,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9641,8 +11567,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 335,
     "uikTvd": "437402370589",
+    "uikName": "УИК  335",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1953,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9686,8 +11621,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 336,
     "uikTvd": "437402370590",
+    "uikName": "УИК  336",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1543,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9731,8 +11675,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 337,
     "uikTvd": "437402370591",
+    "uikName": "УИК  337",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1791,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -9776,8 +11729,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 338,
     "uikTvd": "437402370592",
+    "uikName": "УИК  338",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2343,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9821,8 +11783,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 339,
     "uikTvd": "437402370593",
+    "uikName": "УИК  339",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1140,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -9866,8 +11837,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 340,
     "uikTvd": "437402370594",
+    "uikName": "УИК  340",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1781,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9911,8 +11891,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 341,
     "uikTvd": "437402370596",
+    "uikName": "УИК  341",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1990,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9956,8 +11945,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 342,
     "uikTvd": "437402370597",
+    "uikName": "УИК  342",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1359,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -10001,8 +11999,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 343,
     "uikTvd": "437402370598",
+    "uikName": "УИК  343",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1771,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10046,8 +12053,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 344,
     "uikTvd": "437402370599",
+    "uikName": "УИК  344",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1863,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10091,8 +12107,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 345,
     "uikTvd": "437402370600",
+    "uikName": "УИК  345",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1676,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10136,8 +12161,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 346,
     "uikTvd": "437402370601",
+    "uikName": "УИК  346",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1942,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10181,8 +12215,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 347,
     "uikTvd": "437402370602",
+    "uikName": "УИК  347",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2065,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10226,8 +12269,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 348,
     "uikTvd": "437402370603",
+    "uikName": "УИК  348",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1866,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10271,8 +12323,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 349,
     "uikTvd": "437402370604",
+    "uikName": "УИК  349",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1859,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10316,8 +12377,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 350,
     "uikTvd": "437402370605",
+    "uikName": "УИК  350",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1993,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10361,8 +12431,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 351,
     "uikTvd": "437402370606",
+    "uikName": "УИК  351",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2074,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10406,8 +12485,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 352,
     "uikTvd": "437402370607",
+    "uikName": "УИК  352",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2069,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10451,8 +12539,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 353,
     "uikTvd": "437402370608",
+    "uikName": "УИК  353",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1155,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -10496,8 +12593,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 354,
     "uikTvd": "437402370609",
+    "uikName": "УИК  354",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2412,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10541,8 +12647,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 808,
     "uikTvd": "437402470461",
+    "uikName": "УИК  808",
     "tikTvd": "237200070527",
     "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1709,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -10586,8 +12701,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 809,
     "uikTvd": "437402470462",
+    "uikName": "УИК  809",
     "tikTvd": "237200070527",
     "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1813,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10631,8 +12755,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 810,
     "uikTvd": "437402470463",
+    "uikName": "УИК  810",
     "tikTvd": "237200070527",
     "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1988,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10676,8 +12809,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 811,
     "uikTvd": "437402470464",
+    "uikName": "УИК  811",
     "tikTvd": "237200070527",
     "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1778,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10721,8 +12863,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 812,
     "uikTvd": "437402470465",
+    "uikName": "УИК  812",
     "tikTvd": "237200070527",
     "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1612,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -10766,8 +12917,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 813,
     "uikTvd": "437402470466",
+    "uikName": "УИК  813",
     "tikTvd": "237200070527",
     "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1587,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -10811,8 +12971,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 814,
     "uikTvd": "437402470467",
+    "uikName": "УИК  814",
     "tikTvd": "237200070527",
     "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1731,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -10856,8 +13025,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 815,
     "uikTvd": "437402470468",
+    "uikName": "УИК  815",
     "tikTvd": "237200070527",
     "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 746,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -10901,8 +13079,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 816,
     "uikTvd": "437402470469",
+    "uikName": "УИК  816",
     "tikTvd": "237200070527",
     "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 520,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -10946,8 +13133,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 817,
     "uikTvd": "437402470470",
+    "uikName": "УИК  817",
     "tikTvd": "237200070527",
     "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 734,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -10991,8 +13187,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 818,
     "uikTvd": "437402470471",
+    "uikName": "УИК  818",
     "tikTvd": "237200070527",
     "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -11036,8 +13241,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 819,
     "uikTvd": "437402470472",
+    "uikName": "УИК  819",
     "tikTvd": "237200070527",
     "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1668,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -11081,8 +13295,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 820,
     "uikTvd": "437402470473",
+    "uikName": "УИК  820",
     "tikTvd": "237200070527",
     "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 426,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -11126,8 +13349,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 821,
     "uikTvd": "437402470474",
+    "uikName": "УИК  821",
     "tikTvd": "237200070527",
     "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -11171,8 +13403,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 822,
     "uikTvd": "437402470475",
+    "uikName": "УИК  822",
     "tikTvd": "237200070527",
     "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 502,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -11216,8 +13457,17 @@ export const duma_2003_uik_428_region_37_part_003 = [
     "ballot": "single-member",
     "uikNumber": 823,
     "uikTvd": "437402470476",
+    "uikName": "УИК  823",
     "tikTvd": "237200070527",
     "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 461,
       "Число бюллетеней, полученных участковыми комиссиями": 400,

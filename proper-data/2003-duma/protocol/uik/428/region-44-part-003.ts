@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 511,
     "uikTvd": "444401870501",
+    "uikName": "УИК №511",
     "tikTvd": "244200070614",
     "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1969,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -62,8 +71,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 512,
     "uikTvd": "444401870502",
+    "uikName": "УИК №512",
     "tikTvd": "244200070614",
     "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 799,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -113,8 +131,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 513,
     "uikTvd": "444401870503",
+    "uikName": "УИК №513",
     "tikTvd": "244200070614",
     "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 87,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -164,8 +191,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 514,
     "uikTvd": "444401870504",
+    "uikName": "УИК №514",
     "tikTvd": "244200070614",
     "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 222,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -215,8 +251,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 515,
     "uikTvd": "444401870505",
+    "uikName": "УИК №515",
     "tikTvd": "244200070614",
     "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 123,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -266,8 +311,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 516,
     "uikTvd": "444401870506",
+    "uikName": "УИК №516",
     "tikTvd": "244200070614",
     "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 522,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -317,8 +371,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 517,
     "uikTvd": "444401870507",
+    "uikName": "УИК №517",
     "tikTvd": "244200070614",
     "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -368,8 +431,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 518,
     "uikTvd": "444401870508",
+    "uikName": "УИК №518",
     "tikTvd": "244200070614",
     "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 470,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -419,8 +491,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 519,
     "uikTvd": "444401870509",
+    "uikName": "УИК №519",
     "tikTvd": "244200070614",
     "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 362,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -470,8 +551,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 520,
     "uikTvd": "444401870510",
+    "uikName": "УИК №520",
     "tikTvd": "244200070614",
     "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 220,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -521,8 +611,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 486,
     "uikTvd": "444401770412",
+    "uikName": "УИК №486",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 636,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -572,8 +671,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 487,
     "uikTvd": "444401770413",
+    "uikName": "УИК №487",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -623,8 +731,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 488,
     "uikTvd": "444401770414",
+    "uikName": "УИК №488",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -674,8 +791,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 489,
     "uikTvd": "444401770415",
+    "uikName": "УИК №489",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -725,8 +851,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 490,
     "uikTvd": "444401770416",
+    "uikName": "УИК №490",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 677,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -776,8 +911,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 491,
     "uikTvd": "444401770417",
+    "uikName": "УИК №491",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 380,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -827,8 +971,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 492,
     "uikTvd": "444401770418",
+    "uikName": "УИК №492",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -878,8 +1031,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 493,
     "uikTvd": "444401770419",
+    "uikName": "УИК №493",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 442,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -929,8 +1091,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 494,
     "uikTvd": "444401770420",
+    "uikName": "УИК №494",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 145,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -980,8 +1151,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 495,
     "uikTvd": "444401770421",
+    "uikName": "УИК №495",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 509,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -1031,8 +1211,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 496,
     "uikTvd": "444401770422",
+    "uikName": "УИК №496",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 350,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -1082,8 +1271,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 497,
     "uikTvd": "444401770423",
+    "uikName": "УИК №497",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -1133,8 +1331,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 498,
     "uikTvd": "444401770424",
+    "uikName": "УИК №498",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 167,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -1184,8 +1391,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 499,
     "uikTvd": "444401770425",
+    "uikName": "УИК №499",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -1235,8 +1451,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 500,
     "uikTvd": "444401770426",
+    "uikName": "УИК №500",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 524,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -1286,8 +1511,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "444401770427",
+    "uikName": "УИК №501",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 177,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -1337,8 +1571,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "444401770428",
+    "uikName": "УИК №502",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 594,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -1388,8 +1631,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 503,
     "uikTvd": "444401770429",
+    "uikName": "УИК №503",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 309,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -1439,8 +1691,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 504,
     "uikTvd": "444401770430",
+    "uikName": "УИК №504",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 172,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -1490,8 +1751,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 505,
     "uikTvd": "444401770431",
+    "uikName": "УИК №505",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -1541,8 +1811,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "444401770432",
+    "uikName": "УИК №506",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 424,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -1592,8 +1871,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 507,
     "uikTvd": "444401770433",
+    "uikName": "УИК №507",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 999,
       "Число бюллетеней, полученных участковыми комиссиями": 1010,
@@ -1643,8 +1931,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 508,
     "uikTvd": "444401770434",
+    "uikName": "УИК №508",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1106,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -1694,8 +1991,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 509,
     "uikTvd": "444401770435",
+    "uikName": "УИК №509",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1000,
       "Число бюллетеней, полученных участковыми комиссиями": 1010,
@@ -1745,8 +2051,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 510,
     "uikTvd": "444401770436",
+    "uikName": "УИК №510",
     "tikTvd": "244200070615",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 677,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -1796,8 +2111,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 440,
     "uikTvd": "444401570690",
+    "uikName": "УИК №440",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2312,
       "Число бюллетеней, полученных участковыми комиссиями": 2267,
@@ -1847,8 +2171,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 441,
     "uikTvd": "444401570691",
+    "uikName": "УИК №441",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2002,
       "Число бюллетеней, полученных участковыми комиссиями": 1976,
@@ -1898,8 +2231,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 442,
     "uikTvd": "444401570692",
+    "uikName": "УИК №442",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1974,
       "Число бюллетеней, полученных участковыми комиссиями": 1979,
@@ -1949,8 +2291,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 443,
     "uikTvd": "444401570693",
+    "uikName": "УИК №443",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1862,
       "Число бюллетеней, полученных участковыми комиссиями": 1832,
@@ -2000,8 +2351,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 444,
     "uikTvd": "444401570694",
+    "uikName": "УИК №444",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1851,
       "Число бюллетеней, полученных участковыми комиссиями": 1829,
@@ -2051,8 +2411,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 445,
     "uikTvd": "444401570695",
+    "uikName": "УИК №445",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2255,
       "Число бюллетеней, полученных участковыми комиссиями": 2256,
@@ -2102,8 +2471,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 446,
     "uikTvd": "444401570696",
+    "uikName": "УИК №446",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2546,
       "Число бюллетеней, полученных участковыми комиссиями": 2552,
@@ -2153,8 +2531,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 447,
     "uikTvd": "444401570697",
+    "uikName": "УИК №447",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2235,
       "Число бюллетеней, полученных участковыми комиссиями": 2229,
@@ -2204,8 +2591,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 448,
     "uikTvd": "444401570698",
+    "uikName": "УИК №448",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2109,
       "Число бюллетеней, полученных участковыми комиссиями": 2090,
@@ -2255,8 +2651,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 449,
     "uikTvd": "444401570699",
+    "uikName": "УИК №449",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2335,
       "Число бюллетеней, полученных участковыми комиссиями": 2332,
@@ -2306,8 +2711,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 450,
     "uikTvd": "444401570700",
+    "uikName": "УИК №450",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 59,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -2357,8 +2771,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 451,
     "uikTvd": "444401570701",
+    "uikName": "УИК №451",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 458,
       "Число бюллетеней, полученных участковыми комиссиями": 443,
@@ -2408,8 +2831,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 452,
     "uikTvd": "444401570702",
+    "uikName": "УИК №452",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 303,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -2459,8 +2891,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 453,
     "uikTvd": "444401570703",
+    "uikName": "УИК №453",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 244,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -2510,8 +2951,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 454,
     "uikTvd": "444401570704",
+    "uikName": "УИК №454",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 650,
       "Число бюллетеней, полученных участковыми комиссиями": 646,
@@ -2561,8 +3011,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 455,
     "uikTvd": "444401570705",
+    "uikName": "УИК №455",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 553,
       "Число бюллетеней, полученных участковыми комиссиями": 541,
@@ -2612,8 +3071,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 456,
     "uikTvd": "444401570706",
+    "uikName": "УИК №456",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 273,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -2663,8 +3131,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 457,
     "uikTvd": "444401570707",
+    "uikName": "УИК №457",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 406,
       "Число бюллетеней, полученных участковыми комиссиями": 404,
@@ -2714,8 +3191,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 458,
     "uikTvd": "444401570708",
+    "uikName": "УИК №458",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1208,
       "Число бюллетеней, полученных участковыми комиссиями": 1211,
@@ -2765,8 +3251,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 459,
     "uikTvd": "444401570709",
+    "uikName": "УИК №459",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 209,
       "Число бюллетеней, полученных участковыми комиссиями": 211,
@@ -2816,8 +3311,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 460,
     "uikTvd": "444401570710",
+    "uikName": "УИК №460",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 354,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -2867,8 +3371,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 461,
     "uikTvd": "444401570711",
+    "uikName": "УИК №461",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 371,
@@ -2918,8 +3431,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 462,
     "uikTvd": "444401570712",
+    "uikName": "УИК №462",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 480,
       "Число бюллетеней, полученных участковыми комиссиями": 527,
@@ -2969,8 +3491,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 463,
     "uikTvd": "444401570713",
+    "uikName": "УИК №463",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 716,
       "Число бюллетеней, полученных участковыми комиссиями": 712,
@@ -3020,8 +3551,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 464,
     "uikTvd": "444401570714",
+    "uikName": "УИК №464",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 103,
@@ -3071,8 +3611,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 465,
     "uikTvd": "444401570715",
+    "uikName": "УИК №465",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 129,
@@ -3122,8 +3671,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 466,
     "uikTvd": "444401570716",
+    "uikName": "УИК №466",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 616,
       "Число бюллетеней, полученных участковыми комиссиями": 616,
@@ -3173,8 +3731,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 467,
     "uikTvd": "444401570717",
+    "uikName": "УИК №467",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 584,
       "Число бюллетеней, полученных участковыми комиссиями": 593,
@@ -3224,8 +3791,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 468,
     "uikTvd": "444401570718",
+    "uikName": "УИК №468",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 642,
       "Число бюллетеней, полученных участковыми комиссиями": 597,
@@ -3275,8 +3851,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 469,
     "uikTvd": "444401570719",
+    "uikName": "УИК №469",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 351,
@@ -3326,8 +3911,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 470,
     "uikTvd": "444401570720",
+    "uikName": "УИК №470",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 286,
       "Число бюллетеней, полученных участковыми комиссиями": 283,
@@ -3377,8 +3971,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 471,
     "uikTvd": "444401570721",
+    "uikName": "УИК №471",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 432,
       "Число бюллетеней, полученных участковыми комиссиями": 424,
@@ -3428,8 +4031,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "444401570722",
+    "uikName": "УИК №472",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 558,
       "Число бюллетеней, полученных участковыми комиссиями": 535,
@@ -3479,8 +4091,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "444401570723",
+    "uikName": "УИК №473",
     "tikTvd": "244200070616",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 777,
       "Число бюллетеней, полученных участковыми комиссиями": 758,
@@ -3530,8 +4151,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 393,
     "uikTvd": "444401470468",
+    "uikName": "УИК №393",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 792,
       "Число бюллетеней, полученных участковыми комиссиями": 798,
@@ -3581,8 +4211,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 394,
     "uikTvd": "444401470469",
+    "uikName": "УИК №394",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 692,
       "Число бюллетеней, полученных участковыми комиссиями": 688,
@@ -3632,8 +4271,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 418,
     "uikTvd": "444401470470",
+    "uikName": "УИК №418",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -3683,8 +4331,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 419,
     "uikTvd": "444401470471",
+    "uikName": "УИК №419",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 104,
@@ -3734,8 +4391,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 420,
     "uikTvd": "444401470472",
+    "uikName": "УИК №420",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 247,
       "Число бюллетеней, полученных участковыми комиссиями": 252,
@@ -3785,8 +4451,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 421,
     "uikTvd": "444401470473",
+    "uikName": "УИК №421",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 384,
@@ -3836,8 +4511,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 422,
     "uikTvd": "444401470474",
+    "uikName": "УИК №422",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 616,
       "Число бюллетеней, полученных участковыми комиссиями": 626,
@@ -3887,8 +4571,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 423,
     "uikTvd": "444401470475",
+    "uikName": "УИК №423",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 56,
       "Число бюллетеней, полученных участковыми комиссиями": 55,
@@ -3938,8 +4631,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 424,
     "uikTvd": "444401470476",
+    "uikName": "УИК №424",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 172,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -3989,8 +4691,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 425,
     "uikTvd": "444401470477",
+    "uikName": "УИК №425",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 406,
       "Число бюллетеней, полученных участковыми комиссиями": 413,
@@ -4040,8 +4751,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 426,
     "uikTvd": "444401470478",
+    "uikName": "УИК №426",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 202,
@@ -4091,8 +4811,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 427,
     "uikTvd": "444401470479",
+    "uikName": "УИК №427",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 249,
       "Число бюллетеней, полученных участковыми комиссиями": 256,
@@ -4142,8 +4871,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 428,
     "uikTvd": "444401470480",
+    "uikName": "УИК №428",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 730,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -4193,8 +4931,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 429,
     "uikTvd": "444401470481",
+    "uikName": "УИК №429",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 275,
@@ -4244,8 +4991,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 430,
     "uikTvd": "444401470482",
+    "uikName": "УИК №430",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 255,
@@ -4295,8 +5051,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 431,
     "uikTvd": "444401470483",
+    "uikName": "УИК №431",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 670,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -4346,8 +5111,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 432,
     "uikTvd": "444401470484",
+    "uikName": "УИК №432",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 198,
@@ -4397,8 +5171,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 433,
     "uikTvd": "444401470485",
+    "uikName": "УИК №433",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1425,
       "Число бюллетеней, полученных участковыми комиссиями": 1425,
@@ -4448,8 +5231,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 434,
     "uikTvd": "444401470486",
+    "uikName": "УИК №434",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1428,
       "Число бюллетеней, полученных участковыми комиссиями": 1410,
@@ -4499,8 +5291,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 435,
     "uikTvd": "444401470487",
+    "uikName": "УИК №435",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1324,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -4550,8 +5351,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 436,
     "uikTvd": "444401470488",
+    "uikName": "УИК №436",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1503,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -4601,8 +5411,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 437,
     "uikTvd": "444401470489",
+    "uikName": "УИК №437",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1305,
       "Число бюллетеней, полученных участковыми комиссиями": 1307,
@@ -4652,8 +5471,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 438,
     "uikTvd": "444401470490",
+    "uikName": "УИК №438",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 427,
       "Число бюллетеней, полученных участковыми комиссиями": 434,
@@ -4703,8 +5531,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 439,
     "uikTvd": "444401470491",
+    "uikName": "УИК №439",
     "tikTvd": "244200070617",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 373,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -4754,8 +5591,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "444401370397",
+    "uikName": "УИК №405",
     "tikTvd": "244200070618",
     "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 123,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -4805,8 +5651,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "444401370398",
+    "uikName": "УИК №406",
     "tikTvd": "244200070618",
     "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2304,
       "Число бюллетеней, полученных участковыми комиссиями": 2309,
@@ -4856,8 +5711,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "444401370399",
+    "uikName": "УИК №407",
     "tikTvd": "244200070618",
     "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 97,
       "Число бюллетеней, полученных участковыми комиссиями": 98,
@@ -4907,8 +5771,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 408,
     "uikTvd": "444401370400",
+    "uikName": "УИК №408",
     "tikTvd": "244200070618",
     "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 181,
@@ -4958,8 +5831,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 409,
     "uikTvd": "444401370401",
+    "uikName": "УИК №409",
     "tikTvd": "244200070618",
     "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 544,
       "Число бюллетеней, полученных участковыми комиссиями": 546,
@@ -5009,8 +5891,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 410,
     "uikTvd": "444401370402",
+    "uikName": "УИК №410",
     "tikTvd": "244200070618",
     "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 51,
       "Число бюллетеней, полученных участковыми комиссиями": 54,
@@ -5060,8 +5951,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 411,
     "uikTvd": "444401370403",
+    "uikName": "УИК №411",
     "tikTvd": "244200070618",
     "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 241,
       "Число бюллетеней, полученных участковыми комиссиями": 243,
@@ -5111,8 +6011,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 412,
     "uikTvd": "444401370404",
+    "uikName": "УИК №412",
     "tikTvd": "244200070618",
     "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 68,
       "Число бюллетеней, полученных участковыми комиссиями": 69,
@@ -5162,8 +6071,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 413,
     "uikTvd": "444401370405",
+    "uikName": "УИК №413",
     "tikTvd": "244200070618",
     "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 252,
@@ -5213,8 +6131,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 414,
     "uikTvd": "444401370406",
+    "uikName": "УИК №414",
     "tikTvd": "244200070618",
     "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 267,
@@ -5264,8 +6191,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 415,
     "uikTvd": "444401370407",
+    "uikName": "УИК №415",
     "tikTvd": "244200070618",
     "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -5315,8 +6251,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 416,
     "uikTvd": "444401370408",
+    "uikName": "УИК №416",
     "tikTvd": "244200070618",
     "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 145,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -5366,8 +6311,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 417,
     "uikTvd": "444401370409",
+    "uikName": "УИК №417",
     "tikTvd": "244200070618",
     "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 189,
@@ -5417,8 +6371,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "444402770407",
+    "uikName": "УИК №21",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 348,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -5468,8 +6431,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "444402770408",
+    "uikName": "УИК №22",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -5519,8 +6491,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "444402770409",
+    "uikName": "УИК №23",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -5570,8 +6551,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "444402770410",
+    "uikName": "УИК №24",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 447,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -5621,8 +6611,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "444402770411",
+    "uikName": "УИК №25",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -5672,8 +6671,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "444402770412",
+    "uikName": "УИК №26",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -5723,8 +6731,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "444402770413",
+    "uikName": "УИК №27",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -5774,8 +6791,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "444402770414",
+    "uikName": "УИК №28",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -5825,8 +6851,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "444402770415",
+    "uikName": "УИК №29",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 225,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -5876,8 +6911,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "444402770416",
+    "uikName": "УИК №30",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 282,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -5927,8 +6971,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "444402770417",
+    "uikName": "УИК №31",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -5978,8 +7031,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "444402770418",
+    "uikName": "УИК №32",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -6029,8 +7091,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "444402770419",
+    "uikName": "УИК №33",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 244,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -6080,8 +7151,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "444402770420",
+    "uikName": "УИК №34",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -6131,8 +7211,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "444402770421",
+    "uikName": "УИК №35",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 522,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6182,8 +7271,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "444402770422",
+    "uikName": "УИК №36",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 572,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -6233,8 +7331,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "444402770423",
+    "uikName": "УИК №37",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -6284,8 +7391,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "444402770424",
+    "uikName": "УИК №38",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -6335,8 +7451,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "444402770425",
+    "uikName": "УИК №39",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -6386,8 +7511,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "444402770426",
+    "uikName": "УИК №40",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -6437,8 +7571,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "444402770427",
+    "uikName": "УИК №41",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 71,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -6488,8 +7631,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "444402770428",
+    "uikName": "УИК №42",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -6539,8 +7691,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "444402770429",
+    "uikName": "УИК №43",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 602,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -6590,8 +7751,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "444402770430",
+    "uikName": "УИК №44",
     "tikTvd": "244200070619",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 462,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -6641,8 +7811,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "444401270415",
+    "uikName": "УИК №395",
     "tikTvd": "244200070620",
     "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1581,
       "Число бюллетеней, полученных участковыми комиссиями": 1575,
@@ -6692,8 +7871,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "444401270416",
+    "uikName": "УИК №396",
     "tikTvd": "244200070620",
     "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1567,
       "Число бюллетеней, полученных участковыми комиссиями": 1565,
@@ -6743,8 +7931,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "444401270417",
+    "uikName": "УИК №397",
     "tikTvd": "244200070620",
     "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1485,
       "Число бюллетеней, полученных участковыми комиссиями": 1490,
@@ -6794,8 +7991,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 398,
     "uikTvd": "444401270418",
+    "uikName": "УИК №398",
     "tikTvd": "244200070620",
     "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1554,
       "Число бюллетеней, полученных участковыми комиссиями": 1565,
@@ -6845,8 +8051,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 399,
     "uikTvd": "444401270419",
+    "uikName": "УИК №399",
     "tikTvd": "244200070620",
     "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1660,
       "Число бюллетеней, полученных участковыми комиссиями": 1655,
@@ -6896,8 +8111,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 400,
     "uikTvd": "444401270420",
+    "uikName": "УИК №400",
     "tikTvd": "244200070620",
     "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1466,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -6947,8 +8171,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "444401270421",
+    "uikName": "УИК №401",
     "tikTvd": "244200070620",
     "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1520,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -6998,8 +8231,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "444401270422",
+    "uikName": "УИК №402",
     "tikTvd": "244200070620",
     "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1523,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -7049,8 +8291,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "444401270423",
+    "uikName": "УИК №403",
     "tikTvd": "244200070620",
     "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1470,
       "Число бюллетеней, полученных участковыми комиссиями": 1485,
@@ -7100,8 +8351,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "444401270424",
+    "uikName": "УИК №404",
     "tikTvd": "244200070620",
     "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1595,
       "Число бюллетеней, полученных участковыми комиссиями": 1590,
@@ -7151,8 +8411,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 533,
     "uikTvd": "444402070427",
+    "uikName": "УИК №533",
     "tikTvd": "244200070621",
     "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1586,
       "Число бюллетеней, полученных участковыми комиссиями": 1566,
@@ -7202,8 +8471,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 534,
     "uikTvd": "444402070429",
+    "uikName": "УИК №534",
     "tikTvd": "244200070621",
     "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1627,
       "Число бюллетеней, полученных участковыми комиссиями": 1623,
@@ -7253,8 +8531,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 535,
     "uikTvd": "444402070430",
+    "uikName": "УИК №535",
     "tikTvd": "244200070621",
     "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 84,
       "Число бюллетеней, полученных участковыми комиссиями": 81,
@@ -7304,8 +8591,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 536,
     "uikTvd": "444402070431",
+    "uikName": "УИК №536",
     "tikTvd": "244200070621",
     "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1694,
       "Число бюллетеней, полученных участковыми комиссиями": 1720,
@@ -7355,8 +8651,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 537,
     "uikTvd": "444402070432",
+    "uikName": "УИК №537",
     "tikTvd": "244200070621",
     "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 780,
       "Число бюллетеней, полученных участковыми комиссиями": 773,
@@ -7406,8 +8711,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 538,
     "uikTvd": "444402070433",
+    "uikName": "УИК №538",
     "tikTvd": "244200070621",
     "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 531,
       "Число бюллетеней, полученных участковыми комиссиями": 526,
@@ -7457,8 +8771,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 539,
     "uikTvd": "444402070434",
+    "uikName": "УИК №539",
     "tikTvd": "244200070621",
     "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 78,
@@ -7508,8 +8831,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 540,
     "uikTvd": "444402070435",
+    "uikName": "УИК №540",
     "tikTvd": "244200070621",
     "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 301,
       "Число бюллетеней, полученных участковыми комиссиями": 314,
@@ -7559,8 +8891,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 541,
     "uikTvd": "444402070436",
+    "uikName": "УИК №541",
     "tikTvd": "244200070621",
     "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -7610,8 +8951,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 542,
     "uikTvd": "444402070437",
+    "uikName": "УИК №542",
     "tikTvd": "244200070621",
     "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -7661,8 +9011,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 543,
     "uikTvd": "444402070438",
+    "uikName": "УИК №543",
     "tikTvd": "244200070621",
     "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -7712,8 +9071,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 544,
     "uikTvd": "444402070439",
+    "uikName": "УИК №544",
     "tikTvd": "244200070621",
     "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 309,
@@ -7763,8 +9131,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "444400171028",
+    "uikName": "УИК №1",
     "tikTvd": "244200071091",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1927,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7814,8 +9191,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "444400171029",
+    "uikName": "УИК №2",
     "tikTvd": "244200071091",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1038,
       "Число бюллетеней, полученных участковыми комиссиями": 1035,
@@ -7865,8 +9251,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "444400171030",
+    "uikName": "УИК №3",
     "tikTvd": "244200071091",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 88,
@@ -7916,8 +9311,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "444400171031",
+    "uikName": "УИК №4",
     "tikTvd": "244200071091",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 211,
       "Число бюллетеней, полученных участковыми комиссиями": 218,
@@ -7967,8 +9371,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "444400171032",
+    "uikName": "УИК №5",
     "tikTvd": "244200071091",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 84,
       "Число бюллетеней, полученных участковыми комиссиями": 88,
@@ -8018,8 +9431,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "444400171033",
+    "uikName": "УИК №6",
     "tikTvd": "244200071091",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 193,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -8069,8 +9491,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "444400171034",
+    "uikName": "УИК №7",
     "tikTvd": "244200071091",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 223,
@@ -8120,8 +9551,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "444400171035",
+    "uikName": "УИК №8",
     "tikTvd": "244200071091",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 292,
@@ -8171,8 +9611,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "444400171036",
+    "uikName": "УИК №9",
     "tikTvd": "244200071091",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 49,
       "Число бюллетеней, полученных участковыми комиссиями": 69,
@@ -8222,8 +9671,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "444400171037",
+    "uikName": "УИК №10",
     "tikTvd": "244200071091",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 157,
@@ -8273,8 +9731,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "444400171038",
+    "uikName": "УИК №11",
     "tikTvd": "244200071091",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 254,
@@ -8324,8 +9791,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "444400171039",
+    "uikName": "УИК №12",
     "tikTvd": "244200071091",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 797,
       "Число бюллетеней, полученных участковыми комиссиями": 820,
@@ -8375,8 +9851,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "444400171040",
+    "uikName": "УИК №13",
     "tikTvd": "244200071091",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -8426,8 +9911,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "444400171041",
+    "uikName": "УИК №14",
     "tikTvd": "244200071091",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 69,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -8477,8 +9971,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "444400171042",
+    "uikName": "УИК №15",
     "tikTvd": "244200071091",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 214,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -8528,8 +10031,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "444400171043",
+    "uikName": "УИК №16",
     "tikTvd": "244200071091",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 222,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -8579,8 +10091,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "444400171044",
+    "uikName": "УИК №17",
     "tikTvd": "244200071091",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 348,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -8630,8 +10151,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "444400171045",
+    "uikName": "УИК №18",
     "tikTvd": "244200071091",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 212,
@@ -8681,8 +10211,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "444400171046",
+    "uikName": "УИК №19",
     "tikTvd": "244200071091",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 206,
@@ -8732,8 +10271,17 @@ export const duma_2003_uik_428_region_44_part_003 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "444400171047",
+    "uikName": "УИК №20",
     "tikTvd": "244200071091",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 126,

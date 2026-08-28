@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "486400566626",
+    "uikName": "УИК №75",
     "tikTvd": "286200066717",
     "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2259,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -61,8 +70,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "486400566627",
+    "uikName": "УИК №76",
     "tikTvd": "286200066717",
     "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2354,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -111,8 +129,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "486400566628",
+    "uikName": "УИК №77",
     "tikTvd": "286200066717",
     "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1867,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -161,8 +188,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "486400566629",
+    "uikName": "УИК №78",
     "tikTvd": "286200066717",
     "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1840,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -211,8 +247,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "486400566630",
+    "uikName": "УИК №79",
     "tikTvd": "286200066717",
     "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2502,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -261,8 +306,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "486400566631",
+    "uikName": "УИК №80",
     "tikTvd": "286200066717",
     "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2667,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -311,8 +365,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "486400566632",
+    "uikName": "УИК №81",
     "tikTvd": "286200066717",
     "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2294,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -361,8 +424,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "486400566633",
+    "uikName": "УИК №82",
     "tikTvd": "286200066717",
     "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1999,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -411,8 +483,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "486400566634",
+    "uikName": "УИК №83",
     "tikTvd": "286200066717",
     "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2391,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -461,8 +542,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "486400566635",
+    "uikName": "УИК №84",
     "tikTvd": "286200066717",
     "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2367,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -511,8 +601,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "486400566636",
+    "uikName": "УИК №85",
     "tikTvd": "286200066717",
     "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2610,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -561,8 +660,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "486400666633",
+    "uikName": "УИК №86",
     "tikTvd": "286200066718",
     "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2883,
       "Число бюллетеней, полученных участковыми комиссиями": 2540,
@@ -611,8 +719,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "486400666634",
+    "uikName": "УИК №87",
     "tikTvd": "286200066718",
     "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2553,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -661,8 +778,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "486400666635",
+    "uikName": "УИК №88",
     "tikTvd": "286200066718",
     "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2931,
       "Число бюллетеней, полученных участковыми комиссиями": 2680,
@@ -711,8 +837,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "486400666636",
+    "uikName": "УИК №89",
     "tikTvd": "286200066718",
     "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2369,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -761,8 +896,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "486400666637",
+    "uikName": "УИК №90",
     "tikTvd": "286200066718",
     "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2193,
       "Число бюллетеней, полученных участковыми комиссиями": 1920,
@@ -811,8 +955,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "486400666638",
+    "uikName": "УИК №91",
     "tikTvd": "286200066718",
     "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2441,
       "Число бюллетеней, полученных участковыми комиссиями": 2140,
@@ -861,8 +1014,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "486400666639",
+    "uikName": "УИК №92",
     "tikTvd": "286200066718",
     "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2316,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -911,8 +1073,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "486400666640",
+    "uikName": "УИК №93",
     "tikTvd": "286200066718",
     "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2874,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -961,8 +1132,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "486400666641",
+    "uikName": "УИК №94",
     "tikTvd": "286200066718",
     "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2387,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -1011,8 +1191,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "486400666642",
+    "uikName": "УИК №95",
     "tikTvd": "286200066718",
     "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2408,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -1061,8 +1250,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "486400666643",
+    "uikName": "УИК №96",
     "tikTvd": "286200066718",
     "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2318,
       "Число бюллетеней, полученных участковыми комиссиями": 2120,
@@ -1111,8 +1309,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "486400666644",
+    "uikName": "УИК №97",
     "tikTvd": "286200066718",
     "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2666,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1161,8 +1368,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "486400666645",
+    "uikName": "УИК №98",
     "tikTvd": "286200066718",
     "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2911,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1211,8 +1427,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "486400666646",
+    "uikName": "УИК №99",
     "tikTvd": "286200066718",
     "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 798,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -1261,8 +1486,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "486400666647",
+    "uikName": "УИК №100",
     "tikTvd": "286200066718",
     "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 747,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -1311,8 +1545,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "486400666648",
+    "uikName": "УИК №101",
     "tikTvd": "286200066718",
     "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2627,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -1361,8 +1604,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "486400666649",
+    "uikName": "УИК №102",
     "tikTvd": "286200066718",
     "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 715,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -1411,8 +1663,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "486400866666",
+    "uikName": "УИК №1",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2630,
       "Число бюллетеней, полученных участковыми комиссиями": 2676,
@@ -1461,8 +1722,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "486400866667",
+    "uikName": "УИК №2",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2869,
       "Число бюллетеней, полученных участковыми комиссиями": 2867,
@@ -1511,8 +1781,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "486400866668",
+    "uikName": "УИК №3",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2454,
       "Число бюллетеней, полученных участковыми комиссиями": 2529,
@@ -1561,8 +1840,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "486400866669",
+    "uikName": "УИК №4",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2996,
       "Число бюллетеней, полученных участковыми комиссиями": 2947,
@@ -1611,8 +1899,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "486400866670",
+    "uikName": "УИК №5",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2771,
       "Число бюллетеней, полученных участковыми комиссиями": 2751,
@@ -1661,8 +1958,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "486400866671",
+    "uikName": "УИК №6",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2789,
       "Число бюллетеней, полученных участковыми комиссиями": 2775,
@@ -1711,8 +2017,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "486400866672",
+    "uikName": "УИК №7",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2839,
       "Число бюллетеней, полученных участковыми комиссиями": 2842,
@@ -1761,8 +2076,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "486400866673",
+    "uikName": "УИК №8",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3038,
       "Число бюллетеней, полученных участковыми комиссиями": 2983,
@@ -1811,8 +2135,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "486400866674",
+    "uikName": "УИК №9",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2871,
       "Число бюллетеней, полученных участковыми комиссиями": 2827,
@@ -1861,8 +2194,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "486400866675",
+    "uikName": "УИК №10",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2966,
       "Число бюллетеней, полученных участковыми комиссиями": 2973,
@@ -1911,8 +2253,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "486400866676",
+    "uikName": "УИК №11",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2812,
       "Число бюллетеней, полученных участковыми комиссиями": 2766,
@@ -1961,8 +2312,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "486400866677",
+    "uikName": "УИК №12",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2478,
       "Число бюллетеней, полученных участковыми комиссиями": 2436,
@@ -2011,8 +2371,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "486400866678",
+    "uikName": "УИК №13",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2820,
       "Число бюллетеней, полученных участковыми комиссиями": 2797,
@@ -2061,8 +2430,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "486400866679",
+    "uikName": "УИК №14",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2758,
       "Число бюллетеней, полученных участковыми комиссиями": 2780,
@@ -2111,8 +2489,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "486400866680",
+    "uikName": "УИК №15",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2711,
       "Число бюллетеней, полученных участковыми комиссиями": 2702,
@@ -2161,8 +2548,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "486400866681",
+    "uikName": "УИК №16",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2785,
       "Число бюллетеней, полученных участковыми комиссиями": 2792,
@@ -2211,8 +2607,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "486400866682",
+    "uikName": "УИК №17",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2840,
       "Число бюллетеней, полученных участковыми комиссиями": 2862,
@@ -2261,8 +2666,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "486400866683",
+    "uikName": "УИК №18",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2988,
       "Число бюллетеней, полученных участковыми комиссиями": 2957,
@@ -2311,8 +2725,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "486400866684",
+    "uikName": "УИК №19",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2572,
       "Число бюллетеней, полученных участковыми комиссиями": 2578,
@@ -2361,8 +2784,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "486400866685",
+    "uikName": "УИК №20",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2279,
       "Число бюллетеней, полученных участковыми комиссиями": 2319,
@@ -2411,8 +2843,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "486400866686",
+    "uikName": "УИК №21",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2696,
       "Число бюллетеней, полученных участковыми комиссиями": 2698,
@@ -2461,8 +2902,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "486400866687",
+    "uikName": "УИК №22",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1592,
       "Число бюллетеней, полученных участковыми комиссиями": 1603,
@@ -2511,8 +2961,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "486400866688",
+    "uikName": "УИК №23",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2826,
       "Число бюллетеней, полученных участковыми комиссиями": 2745,
@@ -2561,8 +3020,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "486400866689",
+    "uikName": "УИК №24",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2551,
       "Число бюллетеней, полученных участковыми комиссиями": 2478,
@@ -2611,8 +3079,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "486400866690",
+    "uikName": "УИК №25",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2315,
       "Число бюллетеней, полученных участковыми комиссиями": 2218,
@@ -2661,8 +3138,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "486400866691",
+    "uikName": "УИК №26",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2254,
       "Число бюллетеней, полученных участковыми комиссиями": 2534,
@@ -2711,8 +3197,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "486400866692",
+    "uikName": "УИК №27",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2425,
       "Число бюллетеней, полученных участковыми комиссиями": 2378,
@@ -2761,8 +3256,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "486400866693",
+    "uikName": "УИК №28",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1217,
       "Число бюллетеней, полученных участковыми комиссиями": 2212,
@@ -2811,8 +3315,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "486400866694",
+    "uikName": "УИК №29",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2632,
       "Число бюллетеней, полученных участковыми комиссиями": 2597,
@@ -2861,8 +3374,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "486400866695",
+    "uikName": "УИК №30",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2684,
       "Число бюллетеней, полученных участковыми комиссиями": 2621,
@@ -2911,8 +3433,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "486400866696",
+    "uikName": "УИК №31",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2288,
       "Число бюллетеней, полученных участковыми комиссиями": 2229,
@@ -2961,8 +3492,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "486400866697",
+    "uikName": "УИК №32",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2295,
       "Число бюллетеней, полученных участковыми комиссиями": 2238,
@@ -3011,8 +3551,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "486400866698",
+    "uikName": "УИК №33",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2506,
       "Число бюллетеней, полученных участковыми комиссиями": 2379,
@@ -3061,8 +3610,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "486400866699",
+    "uikName": "УИК №34",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2260,
       "Число бюллетеней, полученных участковыми комиссиями": 2304,
@@ -3111,8 +3669,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "486400866700",
+    "uikName": "УИК №35",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1899,
       "Число бюллетеней, полученных участковыми комиссиями": 1892,
@@ -3161,8 +3728,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "486400866701",
+    "uikName": "УИК №36",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2582,
       "Число бюллетеней, полученных участковыми комиссиями": 2478,
@@ -3211,8 +3787,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "486400866702",
+    "uikName": "УИК №37",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2148,
       "Число бюллетеней, полученных участковыми комиссиями": 1907,
@@ -3261,8 +3846,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "486400866703",
+    "uikName": "УИК №38",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1958,
       "Число бюллетеней, полученных участковыми комиссиями": 1896,
@@ -3311,8 +3905,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "486400866704",
+    "uikName": "УИК №39",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2745,
       "Число бюллетеней, полученных участковыми комиссиями": 2673,
@@ -3361,8 +3964,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "486400866705",
+    "uikName": "УИК №40",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1165,
       "Число бюллетеней, полученных участковыми комиссиями": 2372,
@@ -3411,8 +4023,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "486400866706",
+    "uikName": "УИК №41",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2108,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -3461,8 +4082,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "486400866707",
+    "uikName": "УИК №42",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2145,
       "Число бюллетеней, полученных участковыми комиссиями": 2135,
@@ -3511,8 +4141,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "486400866708",
+    "uikName": "УИК №43",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2738,
       "Число бюллетеней, полученных участковыми комиссиями": 2730,
@@ -3561,8 +4200,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "486400866709",
+    "uikName": "УИК №44",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2884,
       "Число бюллетеней, полученных участковыми комиссиями": 2929,
@@ -3611,8 +4259,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "486400866710",
+    "uikName": "УИК №45",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2566,
       "Число бюллетеней, полученных участковыми комиссиями": 2521,
@@ -3661,8 +4318,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "486400866711",
+    "uikName": "УИК №46",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2596,
       "Число бюллетеней, полученных участковыми комиссиями": 2640,
@@ -3711,8 +4377,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "486400866712",
+    "uikName": "УИК №47",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2922,
       "Число бюллетеней, полученных участковыми комиссиями": 2892,
@@ -3761,8 +4436,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "486400866713",
+    "uikName": "УИК №48",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1783,
       "Число бюллетеней, полученных участковыми комиссиями": 1821,
@@ -3811,8 +4495,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "486400866714",
+    "uikName": "УИК №49",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1988,
       "Число бюллетеней, полученных участковыми комиссиями": 1996,
@@ -3861,8 +4554,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "486400866715",
+    "uikName": "УИК №50",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2211,
       "Число бюллетеней, полученных участковыми комиссиями": 2189,
@@ -3911,8 +4613,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "486400866716",
+    "uikName": "УИК №51",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2622,
       "Число бюллетеней, полученных участковыми комиссиями": 2545,
@@ -3961,8 +4672,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "486400866717",
+    "uikName": "УИК №52",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2489,
       "Число бюллетеней, полученных участковыми комиссиями": 2451,
@@ -4011,8 +4731,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "486400866718",
+    "uikName": "УИК №53",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2491,
       "Число бюллетеней, полученных участковыми комиссиями": 2427,
@@ -4061,8 +4790,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "486400866719",
+    "uikName": "УИК №54",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2165,
       "Число бюллетеней, полученных участковыми комиссиями": 2041,
@@ -4111,8 +4849,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "486400866720",
+    "uikName": "УИК №55",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2024,
       "Число бюллетеней, полученных участковыми комиссиями": 2051,
@@ -4161,8 +4908,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "486400866721",
+    "uikName": "УИК №56",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2665,
       "Число бюллетеней, полученных участковыми комиссиями": 2679,
@@ -4211,8 +4967,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "486400866722",
+    "uikName": "УИК №57",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2050,
       "Число бюллетеней, полученных участковыми комиссиями": 2032,
@@ -4261,8 +5026,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "486400866723",
+    "uikName": "УИК №58",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2462,
       "Число бюллетеней, полученных участковыми комиссиями": 2442,
@@ -4311,8 +5085,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "486400866724",
+    "uikName": "УИК №59",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2835,
       "Число бюллетеней, полученных участковыми комиссиями": 2829,
@@ -4361,8 +5144,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "486400866725",
+    "uikName": "УИК №60",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 667,
       "Число бюллетеней, полученных участковыми комиссиями": 678,
@@ -4411,8 +5203,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "486400866726",
+    "uikName": "УИК №61",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 537,
       "Число бюллетеней, полученных участковыми комиссиями": 532,
@@ -4461,8 +5262,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "486400866727",
+    "uikName": "УИК №62",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1464,
       "Число бюллетеней, полученных участковыми комиссиями": 1381,
@@ -4511,8 +5321,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "486400866728",
+    "uikName": "УИК №63",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1338,
       "Число бюллетеней, полученных участковыми комиссиями": 1042,
@@ -4561,8 +5380,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "486400866729",
+    "uikName": "УИК №64",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 818,
       "Число бюллетеней, полученных участковыми комиссиями": 757,
@@ -4611,8 +5439,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "486400866730",
+    "uikName": "УИК №65",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1197,
       "Число бюллетеней, полученных участковыми комиссиями": 1170,
@@ -4661,8 +5498,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "486400866731",
+    "uikName": "УИК №66",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2080,
       "Число бюллетеней, полученных участковыми комиссиями": 2149,
@@ -4711,8 +5557,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "486400866732",
+    "uikName": "УИК №67",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 215,
       "Число бюллетеней, полученных участковыми комиссиями": 221,
@@ -4761,8 +5616,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "486400866733",
+    "uikName": "УИК №68",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 117,
@@ -4811,8 +5675,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "486400866734",
+    "uikName": "УИК №69",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -4861,8 +5734,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "486400866735",
+    "uikName": "УИК №70",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 328,
@@ -4911,8 +5793,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "486400866736",
+    "uikName": "УИК №71",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1125,
       "Число бюллетеней, полученных участковыми комиссиями": 1094,
@@ -4961,8 +5852,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "486400866737",
+    "uikName": "УИК №72",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 698,
       "Число бюллетеней, полученных участковыми комиссиями": 701,
@@ -5011,8 +5911,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "486400866738",
+    "uikName": "УИК №73",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -5061,8 +5970,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "486400866739",
+    "uikName": "УИК №74",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 460,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -5111,8 +6029,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "486400066637",
+    "uikName": "УИК №210",
     "tikTvd": "286200066720",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 355,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -5161,8 +6088,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "486400066638",
+    "uikName": "УИК №211",
     "tikTvd": "286200066720",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 907,
       "Число бюллетеней, полученных участковыми комиссиями": 890,
@@ -5211,8 +6147,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "486400066639",
+    "uikName": "УИК №212",
     "tikTvd": "286200066720",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 479,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -5261,8 +6206,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "486400066640",
+    "uikName": "УИК №213",
     "tikTvd": "286200066720",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1072,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -5311,8 +6265,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "486400066641",
+    "uikName": "УИК №214",
     "tikTvd": "286200066720",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 303,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -5361,8 +6324,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "486400066642",
+    "uikName": "УИК №215",
     "tikTvd": "286200066720",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 489,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -5411,8 +6383,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "486400066643",
+    "uikName": "УИК №216",
     "tikTvd": "286200066720",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -5461,8 +6442,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "486400066644",
+    "uikName": "УИК №217",
     "tikTvd": "286200066720",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -5511,8 +6501,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "486400066645",
+    "uikName": "УИК №218",
     "tikTvd": "286200066720",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 335,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -5561,8 +6560,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "486400066646",
+    "uikName": "УИК №219",
     "tikTvd": "286200066720",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 155,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -5611,8 +6619,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "486400066647",
+    "uikName": "УИК №220",
     "tikTvd": "286200066720",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2021,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5661,8 +6678,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "486400066648",
+    "uikName": "УИК №221",
     "tikTvd": "286200066720",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1789,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5711,8 +6737,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "486400066649",
+    "uikName": "УИК №222",
     "tikTvd": "286200066720",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1707,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5761,8 +6796,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "486400066650",
+    "uikName": "УИК №223",
     "tikTvd": "286200066720",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 373,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -5811,8 +6855,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "486400066651",
+    "uikName": "УИК №224",
     "tikTvd": "286200066720",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1534,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5861,8 +6914,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "486400066652",
+    "uikName": "УИК №225",
     "tikTvd": "286200066720",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1474,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5911,8 +6973,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "486400066653",
+    "uikName": "УИК №226",
     "tikTvd": "286200066720",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1966,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5961,8 +7032,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "486400066654",
+    "uikName": "УИК №227",
     "tikTvd": "286200066720",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1558,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -6011,8 +7091,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "486400066655",
+    "uikName": "УИК №228",
     "tikTvd": "286200066720",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1560,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -6061,8 +7150,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "486400066656",
+    "uikName": "УИК №229",
     "tikTvd": "286200066720",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -6111,8 +7209,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "486400066657",
+    "uikName": "УИК №230",
     "tikTvd": "286200066720",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -6161,8 +7268,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "486401166645",
+    "uikName": "УИК №103",
     "tikTvd": "286200066721",
     "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1326,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -6211,8 +7327,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "486401166646",
+    "uikName": "УИК №104",
     "tikTvd": "286200066721",
     "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1503,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -6261,8 +7386,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "486401166647",
+    "uikName": "УИК №105",
     "tikTvd": "286200066721",
     "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1744,
       "Число бюллетеней, полученных участковыми комиссиями": 1640,
@@ -6311,8 +7445,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "486401166648",
+    "uikName": "УИК №106",
     "tikTvd": "286200066721",
     "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1237,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6361,8 +7504,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "486401166649",
+    "uikName": "УИК №107",
     "tikTvd": "286200066721",
     "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1642,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -6411,8 +7563,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "486401166650",
+    "uikName": "УИК №108",
     "tikTvd": "286200066721",
     "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1644,
       "Число бюллетеней, полученных участковыми комиссиями": 1545,
@@ -6461,8 +7622,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "486401166651",
+    "uikName": "УИК №109",
     "tikTvd": "286200066721",
     "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1672,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -6511,8 +7681,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "486401166652",
+    "uikName": "УИК №110",
     "tikTvd": "286200066721",
     "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1998,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -6561,8 +7740,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "486401366648",
+    "uikName": "УИК №111",
     "tikTvd": "286200066722",
     "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2254,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6611,8 +7799,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "486401366649",
+    "uikName": "УИК №112",
     "tikTvd": "286200066722",
     "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2072,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6661,8 +7858,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "486401366650",
+    "uikName": "УИК №113",
     "tikTvd": "286200066722",
     "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2746,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6711,8 +7917,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "486401366651",
+    "uikName": "УИК №114",
     "tikTvd": "286200066722",
     "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2477,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6761,8 +7976,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "486401366652",
+    "uikName": "УИК №115",
     "tikTvd": "286200066722",
     "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2830,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6811,8 +8035,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "486401366653",
+    "uikName": "УИК №116",
     "tikTvd": "286200066722",
     "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2449,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6861,8 +8094,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "486401366654",
+    "uikName": "УИК №117",
     "tikTvd": "286200066722",
     "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2915,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6911,8 +8153,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "486401366655",
+    "uikName": "УИК №118",
     "tikTvd": "286200066722",
     "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2995,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -6961,8 +8212,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "486401366656",
+    "uikName": "УИК №119",
     "tikTvd": "286200066722",
     "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2499,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -7011,8 +8271,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "486401366657",
+    "uikName": "УИК №120",
     "tikTvd": "286200066722",
     "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2657,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7061,8 +8330,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "486401366658",
+    "uikName": "УИК №121",
     "tikTvd": "286200066722",
     "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1286,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7111,8 +8389,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "486401366659",
+    "uikName": "УИК №122",
     "tikTvd": "286200066722",
     "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1102,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7161,8 +8448,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "486401366660",
+    "uikName": "УИК №123",
     "tikTvd": "286200066722",
     "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 519,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -7211,8 +8507,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "486401566705",
+    "uikName": "УИК №124",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 612,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -7261,8 +8566,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "486401566706",
+    "uikName": "УИК №125",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1849,
       "Число бюллетеней, полученных участковыми комиссиями": 1680,
@@ -7311,8 +8625,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "486401566707",
+    "uikName": "УИК №126",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1137,
       "Число бюллетеней, полученных участковыми комиссиями": 1040,
@@ -7361,8 +8684,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "486401566708",
+    "uikName": "УИК №127",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2353,
       "Число бюллетеней, полученных участковыми комиссиями": 2110,
@@ -7411,8 +8743,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "486401566709",
+    "uikName": "УИК №128",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2812,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7461,8 +8802,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "486401566710",
+    "uikName": "УИК №129",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2120,
       "Число бюллетеней, полученных участковыми комиссиями": 1930,
@@ -7511,8 +8861,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "486401566711",
+    "uikName": "УИК №130",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2368,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -7561,8 +8920,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "486401566712",
+    "uikName": "УИК №131",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2537,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7611,8 +8979,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "486401566713",
+    "uikName": "УИК №132",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 998,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -7661,8 +9038,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "486401566714",
+    "uikName": "УИК №133",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1042,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -7711,8 +9097,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "486401566715",
+    "uikName": "УИК №134",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1619,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -7761,8 +9156,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "486401566716",
+    "uikName": "УИК №135",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1025,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -7811,8 +9215,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "486401566717",
+    "uikName": "УИК №136",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2898,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -7861,8 +9274,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "486401566718",
+    "uikName": "УИК №137",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3044,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7911,8 +9333,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "486401566719",
+    "uikName": "УИК №138",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2793,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -7961,8 +9392,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "486401566720",
+    "uikName": "УИК №139",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2755,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8011,8 +9451,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "486401566721",
+    "uikName": "УИК №140",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2592,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -8061,8 +9510,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "486401566722",
+    "uikName": "УИК №141",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2853,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -8111,8 +9569,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "486401566723",
+    "uikName": "УИК №142",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2299,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8161,8 +9628,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "486401566724",
+    "uikName": "УИК №143",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2743,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8211,8 +9687,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "486401566725",
+    "uikName": "УИК №144",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2993,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -8261,8 +9746,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "486401566726",
+    "uikName": "УИК №145",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2589,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8311,8 +9805,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "486401566727",
+    "uikName": "УИК №146",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1004,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -8361,8 +9864,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "486401566728",
+    "uikName": "УИК №147",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2763,
       "Число бюллетеней, полученных участковыми комиссиями": 2510,
@@ -8411,8 +9923,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "486401566729",
+    "uikName": "УИК №148",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2896,
       "Число бюллетеней, полученных участковыми комиссиями": 2580,
@@ -8461,8 +9982,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "486401566730",
+    "uikName": "УИК №149",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2862,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -8511,8 +10041,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "486401566731",
+    "uikName": "УИК №150",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2056,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8561,8 +10100,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "486401566732",
+    "uikName": "УИК №151",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1405,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -8611,8 +10159,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "486401566733",
+    "uikName": "УИК №152",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2670,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -8661,8 +10218,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "486401566734",
+    "uikName": "УИК №153",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2911,
       "Число бюллетеней, полученных участковыми комиссиями": 2620,
@@ -8711,8 +10277,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "486401566735",
+    "uikName": "УИК №154",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2788,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8761,8 +10336,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "486401566736",
+    "uikName": "УИК №155",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2484,
       "Число бюллетеней, полученных участковыми комиссиями": 2270,
@@ -8811,8 +10395,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "486401566737",
+    "uikName": "УИК №156",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2451,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -8861,8 +10454,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "486401566738",
+    "uikName": "УИК №157",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2793,
       "Число бюллетеней, полученных участковыми комиссиями": 2520,
@@ -8911,8 +10513,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "486401566739",
+    "uikName": "УИК №158",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1757,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -8961,8 +10572,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "486401566740",
+    "uikName": "УИК №159",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2720,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -9011,8 +10631,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "486401566741",
+    "uikName": "УИК №160",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2516,
       "Число бюллетеней, полученных участковыми комиссиями": 2330,
@@ -9061,8 +10690,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "486401566742",
+    "uikName": "УИК №161",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3040,
       "Число бюллетеней, полученных участковыми комиссиями": 2710,
@@ -9111,8 +10749,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "486401566743",
+    "uikName": "УИК №162",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2043,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -9161,8 +10808,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "486401566744",
+    "uikName": "УИК №163",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2897,
       "Число бюллетеней, полученных участковыми комиссиями": 2660,
@@ -9211,8 +10867,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "486401566745",
+    "uikName": "УИК №164",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3009,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -9261,8 +10926,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "486401566746",
+    "uikName": "УИК №165",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2986,
       "Число бюллетеней, полученных участковыми комиссиями": 2730,
@@ -9311,8 +10985,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "486401566747",
+    "uikName": "УИК №166",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3005,
       "Число бюллетеней, полученных участковыми комиссиями": 2670,
@@ -9361,8 +11044,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "486401566748",
+    "uikName": "УИК №167",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2882,
       "Число бюллетеней, полученных участковыми комиссиями": 2610,
@@ -9411,8 +11103,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "486401566749",
+    "uikName": "УИК №168",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2714,
       "Число бюллетеней, полученных участковыми комиссиями": 2480,
@@ -9461,8 +11162,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "486401566750",
+    "uikName": "УИК №169",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2274,
       "Число бюллетеней, полученных участковыми комиссиями": 2060,
@@ -9511,8 +11221,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "486401566751",
+    "uikName": "УИК №170",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2827,
       "Число бюллетеней, полученных участковыми комиссиями": 2560,
@@ -9561,8 +11280,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "486401566752",
+    "uikName": "УИК №171",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2783,
       "Число бюллетеней, полученных участковыми комиссиями": 2510,
@@ -9611,8 +11339,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "486401566753",
+    "uikName": "УИК №172",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2294,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -9661,8 +11398,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "486401566754",
+    "uikName": "УИК №173",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2781,
       "Число бюллетеней, полученных участковыми комиссиями": 2510,
@@ -9711,8 +11457,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "486401566755",
+    "uikName": "УИК №174",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1872,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -9761,8 +11516,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "486401566756",
+    "uikName": "УИК №175",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2257,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -9811,8 +11575,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "486401566757",
+    "uikName": "УИК №176",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1609,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -9861,8 +11634,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "486401566758",
+    "uikName": "УИК №177",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2725,
       "Число бюллетеней, полученных участковыми комиссиями": 2470,
@@ -9911,8 +11693,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "486401566759",
+    "uikName": "УИК №178",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2510,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9961,8 +11752,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "486401566760",
+    "uikName": "УИК №179",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2479,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10011,8 +11811,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "486401566761",
+    "uikName": "УИК №180",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2853,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10061,8 +11870,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "486401566762",
+    "uikName": "УИК №181",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2634,
       "Число бюллетеней, полученных участковыми комиссиями": 2420,
@@ -10111,8 +11929,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "486401566763",
+    "uikName": "УИК №182",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2382,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -10161,8 +11988,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "486401566764",
+    "uikName": "УИК №183",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2211,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -10211,8 +12047,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "486401566765",
+    "uikName": "УИК №184",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2914,
       "Число бюллетеней, полученных участковыми комиссиями": 2670,
@@ -10261,8 +12106,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "486401566766",
+    "uikName": "УИК №185",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2562,
       "Число бюллетеней, полученных участковыми комиссиями": 2290,
@@ -10311,8 +12165,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "486401566767",
+    "uikName": "УИК №186",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2541,
       "Число бюллетеней, полученных участковыми комиссиями": 2340,
@@ -10361,8 +12224,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "486401566768",
+    "uikName": "УИК №187",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2826,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -10411,8 +12283,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "486401566769",
+    "uikName": "УИК №188",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3004,
       "Число бюллетеней, полученных участковыми комиссиями": 2710,
@@ -10461,8 +12342,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "486401566770",
+    "uikName": "УИК №189",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2877,
       "Число бюллетеней, полученных участковыми комиссиями": 2620,
@@ -10511,8 +12401,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "486401566771",
+    "uikName": "УИК №190",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2167,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -10561,8 +12460,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "486401566772",
+    "uikName": "УИК №191",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2912,
       "Число бюллетеней, полученных участковыми комиссиями": 2640,
@@ -10611,8 +12519,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "486401566773",
+    "uikName": "УИК №192",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2988,
       "Число бюллетеней, полученных участковыми комиссиями": 2720,
@@ -10661,8 +12578,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "486401566774",
+    "uikName": "УИК №193",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2391,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -10711,8 +12637,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "486401566775",
+    "uikName": "УИК №194",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2984,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -10761,8 +12696,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "486401566776",
+    "uikName": "УИК №195",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2785,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -10811,8 +12755,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "486401566777",
+    "uikName": "УИК №196",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2754,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10861,8 +12814,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "486401566778",
+    "uikName": "УИК №197",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2909,
       "Число бюллетеней, полученных участковыми комиссиями": 2640,
@@ -10911,8 +12873,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "486401566779",
+    "uikName": "УИК №198",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2869,
       "Число бюллетеней, полученных участковыми комиссиями": 2620,
@@ -10961,8 +12932,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "486401566780",
+    "uikName": "УИК №199",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2341,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -11011,8 +12991,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "486401566781",
+    "uikName": "УИК №200",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3018,
       "Число бюллетеней, полученных участковыми комиссиями": 2720,
@@ -11061,8 +13050,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "486401566782",
+    "uikName": "УИК №201",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2922,
       "Число бюллетеней, полученных участковыми комиссиями": 2610,
@@ -11111,8 +13109,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "486401566783",
+    "uikName": "УИК №202",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2893,
       "Число бюллетеней, полученных участковыми комиссиями": 2620,
@@ -11161,8 +13168,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "486401566784",
+    "uikName": "УИК №203",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2777,
       "Число бюллетеней, полученных участковыми комиссиями": 2520,
@@ -11211,8 +13227,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "486401566785",
+    "uikName": "УИК №204",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2950,
       "Число бюллетеней, полученных участковыми комиссиями": 2670,
@@ -11261,8 +13286,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "486401566786",
+    "uikName": "УИК №205",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2383,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -11311,8 +13345,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "486401566787",
+    "uikName": "УИК №206",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2730,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -11361,8 +13404,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "486401566788",
+    "uikName": "УИК №207",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3002,
       "Число бюллетеней, полученных участковыми комиссиями": 2680,
@@ -11411,8 +13463,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "486401566789",
+    "uikName": "УИК №208",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1624,
       "Число бюллетеней, полученных участковыми комиссиями": 1490,
@@ -11461,8 +13522,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "486401566790",
+    "uikName": "УИК №209",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 972,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -11511,8 +13581,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "486401666686",
+    "uikName": "УИК №231",
     "tikTvd": "286200066724",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1624,
       "Число бюллетеней, полученных участковыми комиссиями": 1465,
@@ -11561,8 +13640,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "486401666687",
+    "uikName": "УИК №232",
     "tikTvd": "286200066724",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2411,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -11611,8 +13699,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "486401666688",
+    "uikName": "УИК №233",
     "tikTvd": "286200066724",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2463,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -11661,8 +13758,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "486401666689",
+    "uikName": "УИК №234",
     "tikTvd": "286200066724",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 526,
       "Число бюллетеней, полученных участковыми комиссиями": 466,
@@ -11711,8 +13817,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "486401666690",
+    "uikName": "УИК №235",
     "tikTvd": "286200066724",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 363,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -11761,8 +13876,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "486401666691",
+    "uikName": "УИК №236",
     "tikTvd": "286200066724",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 29,
       "Число бюллетеней, полученных участковыми комиссиями": 28,
@@ -11811,8 +13935,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "486401666692",
+    "uikName": "УИК №237",
     "tikTvd": "286200066724",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -11861,8 +13994,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "486401666693",
+    "uikName": "УИК №238",
     "tikTvd": "286200066724",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1275,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -11911,8 +14053,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 278,
     "uikTvd": "486400166681",
+    "uikName": "УИК №278",
     "tikTvd": "286200066725",
     "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1184,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -11959,8 +14110,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 279,
     "uikTvd": "486400166682",
+    "uikName": "УИК №279",
     "tikTvd": "286200066725",
     "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1622,
       "Число бюллетеней, полученных участковыми комиссиями": 1570,
@@ -12007,8 +14167,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 280,
     "uikTvd": "486400166683",
+    "uikName": "УИК №280",
     "tikTvd": "286200066725",
     "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1430,
       "Число бюллетеней, полученных участковыми комиссиями": 1390,
@@ -12055,8 +14224,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 281,
     "uikTvd": "486400166684",
+    "uikName": "УИК №281",
     "tikTvd": "286200066725",
     "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1492,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -12103,8 +14281,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 282,
     "uikTvd": "486400166685",
+    "uikName": "УИК №282",
     "tikTvd": "286200066725",
     "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1010,
       "Число бюллетеней, полученных участковыми комиссиями": 890,
@@ -12151,8 +14338,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 283,
     "uikTvd": "486400166686",
+    "uikName": "УИК №283",
     "tikTvd": "286200066725",
     "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1289,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -12199,8 +14395,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 284,
     "uikTvd": "486400166687",
+    "uikName": "УИК №284",
     "tikTvd": "286200066725",
     "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1294,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -12247,8 +14452,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 285,
     "uikTvd": "486400166688",
+    "uikName": "УИК №285",
     "tikTvd": "286200066725",
     "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1552,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -12295,8 +14509,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 286,
     "uikTvd": "486400166689",
+    "uikName": "УИК №286",
     "tikTvd": "286200066725",
     "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1527,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -12343,8 +14566,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 287,
     "uikTvd": "486400166690",
+    "uikName": "УИК №287",
     "tikTvd": "286200066725",
     "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 444,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -12391,8 +14623,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 288,
     "uikTvd": "486400166691",
+    "uikName": "УИК №288",
     "tikTvd": "286200066725",
     "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 797,
       "Число бюллетеней, полученных участковыми комиссиями": 805,
@@ -12439,8 +14680,17 @@ export const duma_2003_uik_428_region_86_part_001 = [
     "ballot": "single-member",
     "uikNumber": 289,
     "uikTvd": "486400166698",
+    "uikName": "УИК №289",
     "tikTvd": "286200066725",
     "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1028,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,

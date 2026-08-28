@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_83 = [
     "ballot": "single-member",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки": 16393,
@@ -102,6 +110,14 @@ export const duma_2003_tic_429_region_83 = [
     "ballot": "single-member",
     "tikTvd": "283200070442",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки": 14222,

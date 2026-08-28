@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 690,
     "uikTvd": "456401666888",
+    "uikName": "УИК №690",
     "tikTvd": "256200067797",
     "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 751,
       "Число бюллетеней, полученных участковыми комиссиями": 1222,
@@ -63,8 +72,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 691,
     "uikTvd": "456401666889",
+    "uikName": "УИК №691",
     "tikTvd": "256200067797",
     "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 559,
       "Число бюллетеней, полученных участковыми комиссиями": 562,
@@ -115,8 +133,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 692,
     "uikTvd": "456401666890",
+    "uikName": "УИК №692",
     "tikTvd": "256200067797",
     "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 168,
@@ -167,8 +194,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 595,
     "uikTvd": "456404866723",
+    "uikName": "УИК №595",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1168,
       "Число бюллетеней, полученных участковыми комиссиями": 1169,
@@ -220,8 +256,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 596,
     "uikTvd": "456404866724",
+    "uikName": "УИК №596",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 144,
@@ -273,8 +318,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 597,
     "uikTvd": "456404866725",
+    "uikName": "УИК №597",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 241,
@@ -326,8 +380,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 598,
     "uikTvd": "456404866726",
+    "uikName": "УИК №598",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 169,
@@ -379,8 +442,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 599,
     "uikTvd": "456404866727",
+    "uikName": "УИК №599",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 727,
       "Число бюллетеней, полученных участковыми комиссиями": 748,
@@ -432,8 +504,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 600,
     "uikTvd": "456404866728",
+    "uikName": "УИК №600",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -485,8 +566,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "456404866729",
+    "uikName": "УИК №601",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 554,
@@ -538,8 +628,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "456404866730",
+    "uikName": "УИК №602",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 448,
@@ -591,8 +690,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "456404866731",
+    "uikName": "УИК №603",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 159,
@@ -644,8 +752,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "456404866732",
+    "uikName": "УИК №604",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 744,
       "Число бюллетеней, полученных участковыми комиссиями": 737,
@@ -697,8 +814,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "456404866733",
+    "uikName": "УИК №605",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 179,
@@ -750,8 +876,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "456404866734",
+    "uikName": "УИК №606",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 583,
       "Число бюллетеней, полученных участковыми комиссиями": 586,
@@ -803,8 +938,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "456404866735",
+    "uikName": "УИК №607",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 417,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -856,8 +1000,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "456404866736",
+    "uikName": "УИК №608",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 187,
@@ -909,8 +1062,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "456404866737",
+    "uikName": "УИК №609",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 584,
       "Число бюллетеней, полученных участковыми комиссиями": 572,
@@ -962,8 +1124,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "456404866738",
+    "uikName": "УИК №610",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -1015,8 +1186,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "456404866739",
+    "uikName": "УИК №611",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 124,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -1068,8 +1248,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "456404866740",
+    "uikName": "УИК №612",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 47,
       "Число бюллетеней, полученных участковыми комиссиями": 45,
@@ -1121,8 +1310,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "456404866741",
+    "uikName": "УИК №613",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 975,
       "Число бюллетеней, полученных участковыми комиссиями": 987,
@@ -1174,8 +1372,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "456404866742",
+    "uikName": "УИК №614",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 232,
@@ -1227,8 +1434,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "456404866743",
+    "uikName": "УИК №615",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 101,
@@ -1280,8 +1496,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "456404866744",
+    "uikName": "УИК №616",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 89,
@@ -1333,8 +1558,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "456404866745",
+    "uikName": "УИК №617",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 563,
       "Число бюллетеней, полученных участковыми комиссиями": 563,
@@ -1386,8 +1620,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "456404866746",
+    "uikName": "УИК №618",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 430,
       "Число бюллетеней, полученных участковыми комиссиями": 428,
@@ -1439,8 +1682,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "456404866747",
+    "uikName": "УИК №619",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 472,
       "Число бюллетеней, полученных участковыми комиссиями": 473,
@@ -1492,8 +1744,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 620,
     "uikTvd": "456404866748",
+    "uikName": "УИК №620",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 113,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -1545,8 +1806,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "456404866749",
+    "uikName": "УИК №621",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1008,
       "Число бюллетеней, полученных участковыми комиссиями": 1024,
@@ -1598,8 +1868,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "456404866750",
+    "uikName": "УИК №622",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 436,
       "Число бюллетеней, полученных участковыми комиссиями": 439,
@@ -1651,8 +1930,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "456404866751",
+    "uikName": "УИК №623",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 317,
       "Число бюллетеней, полученных участковыми комиссиями": 319,
@@ -1704,8 +1992,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "456404866752",
+    "uikName": "УИК №624",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 255,
       "Число бюллетеней, полученных участковыми комиссиями": 252,
@@ -1757,8 +2054,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "456404866753",
+    "uikName": "УИК №625",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 480,
       "Число бюллетеней, полученных участковыми комиссиями": 448,
@@ -1810,8 +2116,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "456404866754",
+    "uikName": "УИК №626",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 508,
       "Число бюллетеней, полученных участковыми комиссиями": 516,
@@ -1863,8 +2178,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "456404866755",
+    "uikName": "УИК №627",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 438,
       "Число бюллетеней, полученных участковыми комиссиями": 424,
@@ -1916,8 +2240,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "456404866756",
+    "uikName": "УИК №628",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 61,
       "Число бюллетеней, полученных участковыми комиссиями": 63,
@@ -1969,8 +2302,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "456404866757",
+    "uikName": "УИК №629",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 169,
       "Число бюллетеней, полученных участковыми комиссиями": 159,
@@ -2022,8 +2364,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "456404866758",
+    "uikName": "УИК №630",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 95,
       "Число бюллетеней, полученных участковыми комиссиями": 106,
@@ -2075,8 +2426,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 631,
     "uikTvd": "456404866759",
+    "uikName": "УИК №631",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 475,
       "Число бюллетеней, полученных участковыми комиссиями": 435,
@@ -2128,8 +2488,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 632,
     "uikTvd": "456404866760",
+    "uikName": "УИК №632",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 272,
@@ -2181,8 +2550,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 633,
     "uikTvd": "456404866761",
+    "uikName": "УИК №633",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -2234,8 +2612,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 634,
     "uikTvd": "456404866762",
+    "uikName": "УИК №634",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 579,
       "Число бюллетеней, полученных участковыми комиссиями": 562,
@@ -2287,8 +2674,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 635,
     "uikTvd": "456404866763",
+    "uikName": "УИК №635",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 62,
       "Число бюллетеней, полученных участковыми комиссиями": 59,
@@ -2340,8 +2736,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 636,
     "uikTvd": "456404866764",
+    "uikName": "УИК №636",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 59,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -2393,8 +2798,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 637,
     "uikTvd": "456404866765",
+    "uikName": "УИК №637",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 307,
@@ -2446,8 +2860,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 638,
     "uikTvd": "456404866766",
+    "uikName": "УИК №638",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 149,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -2499,8 +2922,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 639,
     "uikTvd": "456404866767",
+    "uikName": "УИК №639",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 96,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -2552,8 +2984,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 640,
     "uikTvd": "456404866768",
+    "uikName": "УИК №640",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -2605,8 +3046,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 641,
     "uikTvd": "456404866769",
+    "uikName": "УИК №641",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 579,
       "Число бюллетеней, полученных участковыми комиссиями": 577,
@@ -2658,8 +3108,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 642,
     "uikTvd": "456404866770",
+    "uikName": "УИК №642",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 203,
@@ -2711,8 +3170,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 643,
     "uikTvd": "456404866771",
+    "uikName": "УИК №643",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 646,
       "Число бюллетеней, полученных участковыми комиссиями": 651,
@@ -2764,8 +3232,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 644,
     "uikTvd": "456404866772",
+    "uikName": "УИК №644",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2711,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -2817,8 +3294,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 645,
     "uikTvd": "456404866773",
+    "uikName": "УИК №645",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1720,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2870,8 +3356,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 646,
     "uikTvd": "456404866774",
+    "uikName": "УИК №646",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1855,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2923,8 +3418,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 647,
     "uikTvd": "456404866775",
+    "uikName": "УИК №647",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2922,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -2976,8 +3480,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 648,
     "uikTvd": "456404866776",
+    "uikName": "УИК №648",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 746,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -3029,8 +3542,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 649,
     "uikTvd": "456404866777",
+    "uikName": "УИК №649",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2247,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -3082,8 +3604,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 650,
     "uikTvd": "456404866778",
+    "uikName": "УИК №650",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1222,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -3135,8 +3666,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 651,
     "uikTvd": "456404866779",
+    "uikName": "УИК №651",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1748,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3188,8 +3728,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 652,
     "uikTvd": "456404866780",
+    "uikName": "УИК №652",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 626,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -3241,8 +3790,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 653,
     "uikTvd": "456404866781",
+    "uikName": "УИК №653",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2261,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -3294,8 +3852,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 654,
     "uikTvd": "456404866782",
+    "uikName": "УИК №654",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2424,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3347,8 +3914,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 655,
     "uikTvd": "456404866783",
+    "uikName": "УИК №655",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1878,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -3400,8 +3976,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 656,
     "uikTvd": "456404866784",
+    "uikName": "УИК №656",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1675,
       "Число бюллетеней, полученных участковыми комиссиями": 2850,
@@ -3453,8 +4038,17 @@ export const duma_2003_uik_428_region_56_part_008 = [
     "ballot": "single-member",
     "uikNumber": 657,
     "uikTvd": "456404866785",
+    "uikName": "УИК №657",
     "tikTvd": "256200067798",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100095746",
+      "oikName": "Орский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 526,
       "Число бюллетеней, полученных участковыми комиссиями": 650,

@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1614,
     "uikTvd": "477411470503",
+    "uikName": "УИК №1614",
     "tikTvd": "377301470455",
     "tikName": "Район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2148,
       "Число бюллетеней, полученных участковыми комиссиями": 1930,
@@ -62,8 +71,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1615,
     "uikTvd": "477411470504",
+    "uikName": "УИК №1615",
     "tikTvd": "377301470455",
     "tikName": "Район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2222,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -113,8 +131,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1616,
     "uikTvd": "477411470505",
+    "uikName": "УИК №1616",
     "tikTvd": "377301470455",
     "tikName": "Район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2106,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -164,8 +191,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1617,
     "uikTvd": "477411470506",
+    "uikName": "УИК №1617",
     "tikTvd": "377301470455",
     "tikName": "Район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2009,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -215,8 +251,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1618,
     "uikTvd": "477411470507",
+    "uikName": "УИК №1618",
     "tikTvd": "377301470455",
     "tikName": "Район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2499,
       "Число бюллетеней, полученных участковыми комиссиями": 2260,
@@ -266,8 +311,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1619,
     "uikTvd": "477411470508",
+    "uikName": "УИК №1619",
     "tikTvd": "377301470455",
     "tikName": "Район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2376,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -317,8 +371,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1620,
     "uikTvd": "477411470509",
+    "uikName": "УИК №1620",
     "tikTvd": "377301470455",
     "tikName": "Район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1911,
       "Число бюллетеней, полученных участковыми комиссиями": 1670,
@@ -368,8 +431,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1621,
     "uikTvd": "477411470510",
+    "uikName": "УИК №1621",
     "tikTvd": "377301470455",
     "tikName": "Район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1941,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -419,8 +491,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1622,
     "uikTvd": "477411470511",
+    "uikName": "УИК №1622",
     "tikTvd": "377301470455",
     "tikName": "Район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1661,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -470,8 +551,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1623,
     "uikTvd": "477411470512",
+    "uikName": "УИК №1623",
     "tikTvd": "377301470455",
     "tikName": "Район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2081,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -521,8 +611,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1943,
     "uikTvd": "477413070513",
+    "uikName": "УИК №1943",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2515,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -572,8 +671,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1944,
     "uikTvd": "477413070514",
+    "uikName": "УИК №1944",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1916,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -623,8 +731,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1945,
     "uikTvd": "477413070515",
+    "uikName": "УИК №1945",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1865,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -674,8 +791,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1946,
     "uikTvd": "477413070516",
+    "uikName": "УИК №1946",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2075,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -725,8 +851,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1947,
     "uikTvd": "477413070517",
+    "uikName": "УИК №1947",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2575,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -776,8 +911,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1948,
     "uikTvd": "477413070518",
+    "uikName": "УИК №1948",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2349,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -827,8 +971,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1949,
     "uikTvd": "477413070519",
+    "uikName": "УИК №1949",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2439,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -878,8 +1031,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1950,
     "uikTvd": "477413070520",
+    "uikName": "УИК №1950",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2399,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -929,8 +1091,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1951,
     "uikTvd": "477413070521",
+    "uikName": "УИК №1951",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2395,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -980,8 +1151,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1952,
     "uikTvd": "477413070522",
+    "uikName": "УИК №1952",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2462,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1031,8 +1211,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1953,
     "uikTvd": "477413070523",
+    "uikName": "УИК №1953",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2221,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1082,8 +1271,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1954,
     "uikTvd": "477413070524",
+    "uikName": "УИК №1954",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2642,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1133,8 +1331,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1955,
     "uikTvd": "477413070525",
+    "uikName": "УИК №1955",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2579,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1184,8 +1391,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1956,
     "uikTvd": "477413070526",
+    "uikName": "УИК №1956",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2451,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1235,8 +1451,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1957,
     "uikTvd": "477413070527",
+    "uikName": "УИК №1957",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2503,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1286,8 +1511,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1958,
     "uikTvd": "477413070528",
+    "uikName": "УИК №1958",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2561,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1337,8 +1571,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1959,
     "uikTvd": "477413070529",
+    "uikName": "УИК №1959",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2472,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1388,8 +1631,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1960,
     "uikTvd": "477413070530",
+    "uikName": "УИК №1960",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2549,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1439,8 +1691,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1961,
     "uikTvd": "477413070531",
+    "uikName": "УИК №1961",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2250,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1490,8 +1751,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1962,
     "uikTvd": "477413070532",
+    "uikName": "УИК №1962",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2391,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1541,8 +1811,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1963,
     "uikTvd": "477413070533",
+    "uikName": "УИК №1963",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2525,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1592,8 +1871,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1964,
     "uikTvd": "477413070534",
+    "uikName": "УИК №1964",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2154,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1643,8 +1931,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1965,
     "uikTvd": "477413070535",
+    "uikName": "УИК №1965",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2363,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1694,8 +1991,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1966,
     "uikTvd": "477413070536",
+    "uikName": "УИК №1966",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1575,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1745,8 +2051,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1967,
     "uikTvd": "477413070537",
+    "uikName": "УИК №1967",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2615,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1796,8 +2111,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1968,
     "uikTvd": "477413070538",
+    "uikName": "УИК №1968",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2812,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -1847,8 +2171,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1969,
     "uikTvd": "477413070539",
+    "uikName": "УИК №1969",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2644,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1898,8 +2231,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1970,
     "uikTvd": "477413070540",
+    "uikName": "УИК №1970",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2395,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1949,8 +2291,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1971,
     "uikTvd": "477413070541",
+    "uikName": "УИК №1971",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2037,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2000,8 +2351,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 3158,
     "uikTvd": "477413070545",
+    "uikName": "УИК №3158",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 176,
       "Число бюллетеней, полученных участковыми комиссиями": 177,
@@ -2051,8 +2411,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1972,
     "uikTvd": "477413170625",
+    "uikName": "УИК №1972",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2492,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2102,8 +2471,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1973,
     "uikTvd": "477413170626",
+    "uikName": "УИК №1973",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2393,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2153,8 +2531,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1974,
     "uikTvd": "477413170627",
+    "uikName": "УИК №1974",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2485,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2204,8 +2591,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1975,
     "uikTvd": "477413170628",
+    "uikName": "УИК №1975",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2341,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2255,8 +2651,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1976,
     "uikTvd": "477413170629",
+    "uikName": "УИК №1976",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2442,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2306,8 +2711,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1977,
     "uikTvd": "477413170630",
+    "uikName": "УИК №1977",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2547,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2357,8 +2771,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1978,
     "uikTvd": "477413170631",
+    "uikName": "УИК №1978",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2412,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2408,8 +2831,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1979,
     "uikTvd": "477413170632",
+    "uikName": "УИК №1979",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2530,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2459,8 +2891,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1980,
     "uikTvd": "477413170633",
+    "uikName": "УИК №1980",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2249,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2510,8 +2951,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1981,
     "uikTvd": "477413170634",
+    "uikName": "УИК №1981",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2621,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2561,8 +3011,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1982,
     "uikTvd": "477413170635",
+    "uikName": "УИК №1982",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2616,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2612,8 +3071,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1983,
     "uikTvd": "477413170636",
+    "uikName": "УИК №1983",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2467,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2663,8 +3131,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1984,
     "uikTvd": "477413170637",
+    "uikName": "УИК №1984",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2271,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2714,8 +3191,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1985,
     "uikTvd": "477413170638",
+    "uikName": "УИК №1985",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2073,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2765,8 +3251,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1986,
     "uikTvd": "477413170639",
+    "uikName": "УИК №1986",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2136,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2816,8 +3311,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1987,
     "uikTvd": "477413170640",
+    "uikName": "УИК №1987",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1974,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2867,8 +3371,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1988,
     "uikTvd": "477413170641",
+    "uikName": "УИК №1988",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2357,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2918,8 +3431,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1989,
     "uikTvd": "477413170642",
+    "uikName": "УИК №1989",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1973,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2969,8 +3491,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1990,
     "uikTvd": "477413170643",
+    "uikName": "УИК №1990",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2067,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3020,8 +3551,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1991,
     "uikTvd": "477413170644",
+    "uikName": "УИК №1991",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1333,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3071,8 +3611,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1992,
     "uikTvd": "477413170645",
+    "uikName": "УИК №1992",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2446,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3122,8 +3671,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1993,
     "uikTvd": "477413170646",
+    "uikName": "УИК №1993",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1844,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3173,8 +3731,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1994,
     "uikTvd": "477413170647",
+    "uikName": "УИК №1994",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2229,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3224,8 +3791,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1995,
     "uikTvd": "477413170648",
+    "uikName": "УИК №1995",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2194,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3275,8 +3851,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1996,
     "uikTvd": "477413170649",
+    "uikName": "УИК №1996",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2471,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3326,8 +3911,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1997,
     "uikTvd": "477413170650",
+    "uikName": "УИК №1997",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2182,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3377,8 +3971,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1998,
     "uikTvd": "477413170651",
+    "uikName": "УИК №1998",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2602,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3428,8 +4031,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 1999,
     "uikTvd": "477413170652",
+    "uikName": "УИК №1999",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2242,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3479,8 +4091,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2000,
     "uikTvd": "477413170653",
+    "uikName": "УИК №2000",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1937,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3530,8 +4151,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2001,
     "uikTvd": "477413170654",
+    "uikName": "УИК №2001",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2230,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3581,8 +4211,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2002,
     "uikTvd": "477413170655",
+    "uikName": "УИК №2002",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1692,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3632,8 +4271,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2003,
     "uikTvd": "477413170656",
+    "uikName": "УИК №2003",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1592,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3683,8 +4331,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2004,
     "uikTvd": "477413170657",
+    "uikName": "УИК №2004",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1206,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -3734,8 +4391,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2005,
     "uikTvd": "477413170658",
+    "uikName": "УИК №2005",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2047,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3785,8 +4451,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2006,
     "uikTvd": "477413170659",
+    "uikName": "УИК №2006",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2151,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3836,8 +4511,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2007,
     "uikTvd": "477413170660",
+    "uikName": "УИК №2007",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2630,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3887,8 +4571,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2008,
     "uikTvd": "477413170661",
+    "uikName": "УИК №2008",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2604,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3938,8 +4631,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2009,
     "uikTvd": "477413170662",
+    "uikName": "УИК №2009",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2754,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3989,8 +4691,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2010,
     "uikTvd": "477413170663",
+    "uikName": "УИК №2010",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2646,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4040,8 +4751,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 3159,
     "uikTvd": "477413170664",
+    "uikName": "УИК №3159",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -4091,8 +4811,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2128,
     "uikTvd": "477410570541",
+    "uikName": "УИК №2128",
     "tikTvd": "377301470458",
     "tikName": "Район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2435,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4142,8 +4871,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2129,
     "uikTvd": "477410570542",
+    "uikName": "УИК №2129",
     "tikTvd": "377301470458",
     "tikName": "Район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2398,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -4193,8 +4931,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2130,
     "uikTvd": "477410570543",
+    "uikName": "УИК №2130",
     "tikTvd": "377301470458",
     "tikName": "Район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2699,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -4244,8 +4991,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2131,
     "uikTvd": "477410570544",
+    "uikName": "УИК №2131",
     "tikTvd": "377301470458",
     "tikName": "Район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2559,
       "Число бюллетеней, полученных участковыми комиссиями": 2320,
@@ -4295,8 +5051,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2132,
     "uikTvd": "477410570545",
+    "uikName": "УИК №2132",
     "tikTvd": "377301470458",
     "tikName": "Район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2276,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -4346,8 +5111,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2133,
     "uikTvd": "477410570546",
+    "uikName": "УИК №2133",
     "tikTvd": "377301470458",
     "tikName": "Район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2689,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -4397,8 +5171,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2134,
     "uikTvd": "477410570547",
+    "uikName": "УИК №2134",
     "tikTvd": "377301470458",
     "tikName": "Район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2740,
       "Число бюллетеней, полученных участковыми комиссиями": 2510,
@@ -4448,8 +5231,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2135,
     "uikTvd": "477410570548",
+    "uikName": "УИК №2135",
     "tikTvd": "377301470458",
     "tikName": "Район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2785,
       "Число бюллетеней, полученных участковыми комиссиями": 2530,
@@ -4499,8 +5291,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2136,
     "uikTvd": "477410570549",
+    "uikName": "УИК №2136",
     "tikTvd": "377301470458",
     "tikName": "Район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2498,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -4550,8 +5351,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2137,
     "uikTvd": "477410570550",
+    "uikName": "УИК №2137",
     "tikTvd": "377301470458",
     "tikName": "Район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2579,
       "Число бюллетеней, полученных участковыми комиссиями": 2340,
@@ -4601,8 +5411,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2138,
     "uikTvd": "477410570551",
+    "uikName": "УИК №2138",
     "tikTvd": "377301470458",
     "tikName": "Район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2775,
       "Число бюллетеней, полученных участковыми комиссиями": 2510,
@@ -4652,8 +5471,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2139,
     "uikTvd": "477410570552",
+    "uikName": "УИК №2139",
     "tikTvd": "377301470458",
     "tikName": "Район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2557,
       "Число бюллетеней, полученных участковыми комиссиями": 2320,
@@ -4703,8 +5531,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2140,
     "uikTvd": "477410570553",
+    "uikName": "УИК №2140",
     "tikTvd": "377301470458",
     "tikName": "Район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2390,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -4754,8 +5591,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2141,
     "uikTvd": "477410570554",
+    "uikName": "УИК №2141",
     "tikTvd": "377301470458",
     "tikName": "Район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2235,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -4805,8 +5651,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2142,
     "uikTvd": "477410570555",
+    "uikName": "УИК №2142",
     "tikTvd": "377301470458",
     "tikName": "Район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2291,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -4856,8 +5711,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2143,
     "uikTvd": "477410570556",
+    "uikName": "УИК №2143",
     "tikTvd": "377301470458",
     "tikName": "Район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2637,
       "Число бюллетеней, полученных участковыми комиссиями": 2410,
@@ -4907,8 +5771,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2185,
     "uikTvd": "477410870488",
+    "uikName": "УИК №2185",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2269,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4958,8 +5831,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2186,
     "uikTvd": "477410870492",
+    "uikName": "УИК №2186",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2357,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5009,8 +5891,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2187,
     "uikTvd": "477410870494",
+    "uikName": "УИК №2187",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2020,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5060,8 +5951,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2188,
     "uikTvd": "477410870496",
+    "uikName": "УИК №2188",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1938,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5111,8 +6011,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2189,
     "uikTvd": "477410870498",
+    "uikName": "УИК №2189",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2107,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5162,8 +6071,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2190,
     "uikTvd": "477410870500",
+    "uikName": "УИК №2190",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2057,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5213,8 +6131,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2191,
     "uikTvd": "477410870502",
+    "uikName": "УИК №2191",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2253,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5264,8 +6191,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2192,
     "uikTvd": "477410870504",
+    "uikName": "УИК №2192",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1736,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5315,8 +6251,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2193,
     "uikTvd": "477410870506",
+    "uikName": "УИК №2193",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1988,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5366,8 +6311,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2194,
     "uikTvd": "477410870508",
+    "uikName": "УИК №2194",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2754,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5417,8 +6371,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2195,
     "uikTvd": "477410870510",
+    "uikName": "УИК №2195",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2411,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5468,8 +6431,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2196,
     "uikTvd": "477410870512",
+    "uikName": "УИК №2196",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2806,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5519,8 +6491,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2197,
     "uikTvd": "477410870514",
+    "uikName": "УИК №2197",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2226,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5570,8 +6551,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2198,
     "uikTvd": "477410870516",
+    "uikName": "УИК №2198",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2642,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5621,8 +6611,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2199,
     "uikTvd": "477410870518",
+    "uikName": "УИК №2199",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2323,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5672,8 +6671,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2200,
     "uikTvd": "477410870520",
+    "uikName": "УИК №2200",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2150,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5723,8 +6731,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2201,
     "uikTvd": "477410870522",
+    "uikName": "УИК №2201",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2496,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5774,8 +6791,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2202,
     "uikTvd": "477410870524",
+    "uikName": "УИК №2202",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2295,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5825,8 +6851,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2203,
     "uikTvd": "477410870526",
+    "uikName": "УИК №2203",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2103,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5876,8 +6911,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2204,
     "uikTvd": "477410870528",
+    "uikName": "УИК №2204",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2443,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5927,8 +6971,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2205,
     "uikTvd": "477410870530",
+    "uikName": "УИК №2205",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2150,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5978,8 +7031,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2206,
     "uikTvd": "477410870532",
+    "uikName": "УИК №2206",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2126,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6029,8 +7091,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2268,
     "uikTvd": "477411170518",
+    "uikName": "УИК №2268",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1978,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6080,8 +7151,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2269,
     "uikTvd": "477411170519",
+    "uikName": "УИК №2269",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2056,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6131,8 +7211,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2270,
     "uikTvd": "477411170520",
+    "uikName": "УИК №2270",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2275,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6182,8 +7271,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2271,
     "uikTvd": "477411170521",
+    "uikName": "УИК №2271",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2182,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6233,8 +7331,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2272,
     "uikTvd": "477411170522",
+    "uikName": "УИК №2272",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2312,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6284,8 +7391,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2273,
     "uikTvd": "477411170523",
+    "uikName": "УИК №2273",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -6335,8 +7451,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2274,
     "uikTvd": "477411170524",
+    "uikName": "УИК №2274",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2720,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6386,8 +7511,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2275,
     "uikTvd": "477411170525",
+    "uikName": "УИК №2275",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2105,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6437,8 +7571,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2276,
     "uikTvd": "477411170526",
+    "uikName": "УИК №2276",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2190,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6488,8 +7631,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2277,
     "uikTvd": "477411170527",
+    "uikName": "УИК №2277",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2622,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6539,8 +7691,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2278,
     "uikTvd": "477411170528",
+    "uikName": "УИК №2278",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2401,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -6590,8 +7751,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2279,
     "uikTvd": "477411170529",
+    "uikName": "УИК №2279",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2608,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6641,8 +7811,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2280,
     "uikTvd": "477411170530",
+    "uikName": "УИК №2280",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2281,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6692,8 +7871,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2281,
     "uikTvd": "477411170531",
+    "uikName": "УИК №2281",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2603,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6743,8 +7931,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2282,
     "uikTvd": "477411170532",
+    "uikName": "УИК №2282",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2565,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6794,8 +7991,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2283,
     "uikTvd": "477411170533",
+    "uikName": "УИК №2283",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2603,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6845,8 +8051,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2284,
     "uikTvd": "477411170534",
+    "uikName": "УИК №2284",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2052,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6896,8 +8111,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2285,
     "uikTvd": "477411170535",
+    "uikName": "УИК №2285",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1260,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6947,8 +8171,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2286,
     "uikTvd": "477411170536",
+    "uikName": "УИК №2286",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1768,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6998,8 +8231,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2287,
     "uikTvd": "477411170537",
+    "uikName": "УИК №2287",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2167,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7049,8 +8291,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2288,
     "uikTvd": "477411170538",
+    "uikName": "УИК №2288",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2061,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7100,8 +8351,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2289,
     "uikTvd": "477411170539",
+    "uikName": "УИК №2289",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2497,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -7151,8 +8411,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2290,
     "uikTvd": "477411170540",
+    "uikName": "УИК №2290",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2613,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7202,8 +8471,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2291,
     "uikTvd": "477411170541",
+    "uikName": "УИК №2291",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2730,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7253,8 +8531,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2292,
     "uikTvd": "477411170542",
+    "uikName": "УИК №2292",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2428,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -7304,8 +8591,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2293,
     "uikTvd": "477411170543",
+    "uikName": "УИК №2293",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2619,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7355,8 +8651,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2294,
     "uikTvd": "477411170544",
+    "uikName": "УИК №2294",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2521,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7406,8 +8711,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2295,
     "uikTvd": "477411170545",
+    "uikName": "УИК №2295",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3097,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7457,8 +8771,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2296,
     "uikTvd": "477411170546",
+    "uikName": "УИК №2296",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2829,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7508,8 +8831,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2297,
     "uikTvd": "477411170547",
+    "uikName": "УИК №2297",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2176,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7559,8 +8891,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2298,
     "uikTvd": "477411170548",
+    "uikName": "УИК №2298",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2676,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7610,8 +8951,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2299,
     "uikTvd": "477411170549",
+    "uikName": "УИК №2299",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2122,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7661,8 +9011,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2300,
     "uikTvd": "477411170550",
+    "uikName": "УИК №2300",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100095703",
+      "oikName": "Чертановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2214,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7712,8 +9071,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2919,
     "uikTvd": "477404070606",
+    "uikName": "УИК №2919",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2263,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7761,8 +9129,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2920,
     "uikTvd": "477404070604",
+    "uikName": "УИК №2920",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2261,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7810,8 +9187,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2921,
     "uikTvd": "477404070607",
+    "uikName": "УИК №2921",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2519,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7859,8 +9245,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2922,
     "uikTvd": "477404070608",
+    "uikName": "УИК №2922",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2212,
       "Число бюллетеней, полученных участковыми комиссиями": 1587,
@@ -7908,8 +9303,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2923,
     "uikTvd": "477404070609",
+    "uikName": "УИК №2923",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2673,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7957,8 +9361,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2924,
     "uikTvd": "477404070610",
+    "uikName": "УИК №2924",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2655,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8006,8 +9419,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2925,
     "uikTvd": "477404070611",
+    "uikName": "УИК №2925",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2979,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8055,8 +9477,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2926,
     "uikTvd": "477404070612",
+    "uikName": "УИК №2926",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2921,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8104,8 +9535,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2927,
     "uikTvd": "477404070613",
+    "uikName": "УИК №2927",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2312,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8153,8 +9593,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2928,
     "uikTvd": "477404070614",
+    "uikName": "УИК №2928",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2386,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8202,8 +9651,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2929,
     "uikTvd": "477404070615",
+    "uikName": "УИК №2929",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2329,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8251,8 +9709,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2930,
     "uikTvd": "477404070616",
+    "uikName": "УИК №2930",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2641,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8300,8 +9767,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2931,
     "uikTvd": "477404070602",
+    "uikName": "УИК №2931",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1853,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8349,8 +9825,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2932,
     "uikTvd": "477404070617",
+    "uikName": "УИК №2932",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2045,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8398,8 +9883,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2933,
     "uikTvd": "477404070618",
+    "uikName": "УИК №2933",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2451,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8447,8 +9941,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2934,
     "uikTvd": "477404070619",
+    "uikName": "УИК №2934",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2202,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8496,8 +9999,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2935,
     "uikTvd": "477404070620",
+    "uikName": "УИК №2935",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2233,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8545,8 +10057,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2936,
     "uikTvd": "477404070621",
+    "uikName": "УИК №2936",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1432,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8594,8 +10115,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2937,
     "uikTvd": "477404070622",
+    "uikName": "УИК №2937",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1719,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8643,8 +10173,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2938,
     "uikTvd": "477404070623",
+    "uikName": "УИК №2938",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2030,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8692,8 +10231,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2939,
     "uikTvd": "477404070624",
+    "uikName": "УИК №2939",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1779,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8741,8 +10289,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2940,
     "uikTvd": "477404070625",
+    "uikName": "УИК №2940",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2212,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8790,8 +10347,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2941,
     "uikTvd": "477404070626",
+    "uikName": "УИК №2941",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2151,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8839,8 +10405,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2942,
     "uikTvd": "477404070627",
+    "uikName": "УИК №2942",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2218,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8888,8 +10463,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2943,
     "uikTvd": "477404070628",
+    "uikName": "УИК №2943",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2732,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8937,8 +10521,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2944,
     "uikTvd": "477404070629",
+    "uikName": "УИК №2944",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2826,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8986,8 +10579,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2945,
     "uikTvd": "477404070630",
+    "uikName": "УИК №2945",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2818,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9035,8 +10637,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2946,
     "uikTvd": "477404070631",
+    "uikName": "УИК №2946",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2866,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9084,8 +10695,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2947,
     "uikTvd": "477404070632",
+    "uikName": "УИК №2947",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2584,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9133,8 +10753,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2948,
     "uikTvd": "477404070633",
+    "uikName": "УИК №2948",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2190,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9182,8 +10811,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2949,
     "uikTvd": "477404070634",
+    "uikName": "УИК №2949",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2573,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9231,8 +10869,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2950,
     "uikTvd": "477404070635",
+    "uikName": "УИК №2950",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2370,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9280,8 +10927,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2951,
     "uikTvd": "477404070636",
+    "uikName": "УИК №2951",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2306,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9329,8 +10985,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2952,
     "uikTvd": "477404070637",
+    "uikName": "УИК №2952",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2114,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9378,8 +11043,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2953,
     "uikTvd": "477404070638",
+    "uikName": "УИК №2953",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2150,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9427,8 +11101,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2954,
     "uikTvd": "477404070639",
+    "uikName": "УИК №2954",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2054,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9476,8 +11159,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2955,
     "uikTvd": "477404070640",
+    "uikName": "УИК №2955",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2099,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9525,8 +11217,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2956,
     "uikTvd": "477404070641",
+    "uikName": "УИК №2956",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2092,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9574,8 +11275,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2957,
     "uikTvd": "477404070642",
+    "uikName": "УИК №2957",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2040,
       "Число бюллетеней, полученных участковыми комиссиями": 1499,
@@ -9623,8 +11333,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2958,
     "uikTvd": "477404070643",
+    "uikName": "УИК №2958",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2299,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9672,8 +11391,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2959,
     "uikTvd": "477404070644",
+    "uikName": "УИК №2959",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2485,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9721,8 +11449,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2960,
     "uikTvd": "477404070645",
+    "uikName": "УИК №2960",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2084,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9770,8 +11507,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2961,
     "uikTvd": "477404070646",
+    "uikName": "УИК №2961",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2021,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9819,8 +11565,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2962,
     "uikTvd": "477404070647",
+    "uikName": "УИК №2962",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2049,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9868,8 +11623,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2963,
     "uikTvd": "477404070648",
+    "uikName": "УИК №2963",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2097,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9917,8 +11681,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2964,
     "uikTvd": "477404070649",
+    "uikName": "УИК №2964",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2421,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9966,8 +11739,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2965,
     "uikTvd": "477404070650",
+    "uikName": "УИК №2965",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2032,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10015,8 +11797,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2966,
     "uikTvd": "477404070651",
+    "uikName": "УИК №2966",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2393,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10064,8 +11855,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2967,
     "uikTvd": "477404070652",
+    "uikName": "УИК №2967",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2673,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10113,8 +11913,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2968,
     "uikTvd": "477404070653",
+    "uikName": "УИК №2968",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2531,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10162,8 +11971,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2969,
     "uikTvd": "477404070654",
+    "uikName": "УИК №2969",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2855,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10211,8 +12029,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2970,
     "uikTvd": "477404070655",
+    "uikName": "УИК №2970",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2694,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10260,8 +12087,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2971,
     "uikTvd": "477404070656",
+    "uikName": "УИК №2971",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2865,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10309,8 +12145,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2972,
     "uikTvd": "477404070657",
+    "uikName": "УИК №2972",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2945,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10358,8 +12203,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2973,
     "uikTvd": "477404070658",
+    "uikName": "УИК №2973",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2118,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10407,8 +12261,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2974,
     "uikTvd": "477404070659",
+    "uikName": "УИК №2974",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2332,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10456,8 +12319,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2975,
     "uikTvd": "477404070660",
+    "uikName": "УИК №2975",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2759,
       "Число бюллетеней, полученных участковыми комиссиями": 1999,
@@ -10505,8 +12377,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2976,
     "uikTvd": "477404070661",
+    "uikName": "УИК №2976",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2452,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10554,8 +12435,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2977,
     "uikTvd": "477404070662",
+    "uikName": "УИК №2977",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2636,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10603,8 +12493,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2978,
     "uikTvd": "477404070663",
+    "uikName": "УИК №2978",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2531,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10652,8 +12551,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2979,
     "uikTvd": "477404070664",
+    "uikName": "УИК №2979",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2435,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10701,8 +12609,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2980,
     "uikTvd": "477404070665",
+    "uikName": "УИК №2980",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2726,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10750,8 +12667,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2981,
     "uikTvd": "477404070666",
+    "uikName": "УИК №2981",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2656,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10799,8 +12725,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2982,
     "uikTvd": "477404070667",
+    "uikName": "УИК №2982",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2661,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10848,8 +12783,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2983,
     "uikTvd": "477404070668",
+    "uikName": "УИК №2983",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2318,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10897,8 +12841,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2984,
     "uikTvd": "477404070669",
+    "uikName": "УИК №2984",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2377,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10946,8 +12899,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2985,
     "uikTvd": "477404070670",
+    "uikName": "УИК №2985",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2567,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10995,8 +12957,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 2986,
     "uikTvd": "477404070671",
+    "uikName": "УИК №2986",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2228,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11044,8 +13015,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 3213,
     "uikTvd": "477404070672",
+    "uikName": "УИК №3213",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 750,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -11093,8 +13073,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 463,
     "uikTvd": "477405270572",
+    "uikName": "УИК №463",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2613,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11142,8 +13131,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 464,
     "uikTvd": "477405270573",
+    "uikName": "УИК №464",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2573,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11191,8 +13189,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 465,
     "uikTvd": "477405270574",
+    "uikName": "УИК №465",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2379,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11240,8 +13247,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 466,
     "uikTvd": "477405270575",
+    "uikName": "УИК №466",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2296,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11289,8 +13305,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 467,
     "uikTvd": "477405270576",
+    "uikName": "УИК №467",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2597,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11338,8 +13363,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 468,
     "uikTvd": "477405270577",
+    "uikName": "УИК №468",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2585,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11387,8 +13421,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 469,
     "uikTvd": "477405270578",
+    "uikName": "УИК №469",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2630,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11436,8 +13479,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 470,
     "uikTvd": "477405270579",
+    "uikName": "УИК №470",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2763,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11485,8 +13537,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 471,
     "uikTvd": "477405270580",
+    "uikName": "УИК №471",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2852,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11534,8 +13595,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "477405270581",
+    "uikName": "УИК №472",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2931,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11583,8 +13653,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "477405270582",
+    "uikName": "УИК №473",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2894,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11632,8 +13711,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 474,
     "uikTvd": "477405270583",
+    "uikName": "УИК №474",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2924,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11681,8 +13769,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 475,
     "uikTvd": "477405270584",
+    "uikName": "УИК №475",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2403,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11730,8 +13827,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 476,
     "uikTvd": "477405270585",
+    "uikName": "УИК №476",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2607,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11779,8 +13885,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 477,
     "uikTvd": "477405270586",
+    "uikName": "УИК №477",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2603,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11828,8 +13943,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 478,
     "uikTvd": "477405270587",
+    "uikName": "УИК №478",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2667,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11877,8 +14001,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 479,
     "uikTvd": "477405270588",
+    "uikName": "УИК №479",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2653,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11926,8 +14059,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 480,
     "uikTvd": "477405270589",
+    "uikName": "УИК №480",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2620,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11975,8 +14117,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 481,
     "uikTvd": "477405270590",
+    "uikName": "УИК №481",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2506,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -12024,8 +14175,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 482,
     "uikTvd": "477405270591",
+    "uikName": "УИК №482",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2483,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -12073,8 +14233,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 483,
     "uikTvd": "477405270592",
+    "uikName": "УИК №483",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2842,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -12122,8 +14291,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 3066,
     "uikTvd": "477405270751",
+    "uikName": "УИК  3066",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 12,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -12171,8 +14349,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 412,
     "uikTvd": "477404870567",
+    "uikName": "УИК №412",
     "tikTvd": "377301570557",
     "tikName": "Молжаниновский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1860,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -12220,8 +14407,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 400,
     "uikTvd": "477404770665",
+    "uikName": "УИК №400",
     "tikTvd": "377301570558",
     "tikName": " Левобережный район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2589,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -12269,8 +14465,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "477404770666",
+    "uikName": "УИК №401",
     "tikTvd": "377301570558",
     "tikName": " Левобережный район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2650,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -12318,8 +14523,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "477404770667",
+    "uikName": "УИК №402",
     "tikTvd": "377301570558",
     "tikName": " Левобережный район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2695,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -12367,8 +14581,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "477404770668",
+    "uikName": "УИК №403",
     "tikTvd": "377301570558",
     "tikName": " Левобережный район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2660,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -12416,8 +14639,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "477404770669",
+    "uikName": "УИК №404",
     "tikTvd": "377301570558",
     "tikName": " Левобережный район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2702,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -12465,8 +14697,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "477404770670",
+    "uikName": "УИК №405",
     "tikTvd": "377301570558",
     "tikName": " Левобережный район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2312,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -12514,8 +14755,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "477404770671",
+    "uikName": "УИК №406",
     "tikTvd": "377301570558",
     "tikName": " Левобережный район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100095704",
+      "oikName": "Шереметьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2582,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,

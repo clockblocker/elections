@@ -7,187 +7,466 @@ export const duma_2003_uik_to_tik_region_88 = [
   {
     "uikNumber": 1,
     "uikTvd": "488400266787",
+    "uikName": "УИК №1",
     "tikTvd": "288200067033",
-    "tikName": "Илимпийская"
+    "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "488400266788",
+    "uikName": "УИК №2",
     "tikTvd": "288200067033",
-    "tikName": "Илимпийская"
+    "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "488400266789",
+    "uikName": "УИК №3",
     "tikTvd": "288200067033",
-    "tikName": "Илимпийская"
+    "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "488400266785",
+    "uikName": "УИК №4",
     "tikTvd": "288200067033",
-    "tikName": "Илимпийская"
+    "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "488400266790",
+    "uikName": "УИК №5",
     "tikTvd": "288200067033",
-    "tikName": "Илимпийская"
+    "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "488400266791",
+    "uikName": "УИК №6",
     "tikTvd": "288200067033",
-    "tikName": "Илимпийская"
+    "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "488400266792",
+    "uikName": "УИК №7",
     "tikTvd": "288200067033",
-    "tikName": "Илимпийская"
+    "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "488400266793",
+    "uikName": "УИК №8",
     "tikTvd": "288200067033",
-    "tikName": "Илимпийская"
+    "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "488400266794",
+    "uikName": "УИК №9",
     "tikTvd": "288200067033",
-    "tikName": "Илимпийская"
+    "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "488400266795",
+    "uikName": "УИК №10",
     "tikTvd": "288200067033",
-    "tikName": "Илимпийская"
+    "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "488400266796",
+    "uikName": "УИК №11",
     "tikTvd": "288200067033",
-    "tikName": "Илимпийская"
+    "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "488400266797",
+    "uikName": "УИК №12",
     "tikTvd": "288200067033",
-    "tikName": "Илимпийская"
+    "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "488400266798",
+    "uikName": "УИК №13",
     "tikTvd": "288200067033",
-    "tikName": "Илимпийская"
+    "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "488400166712",
+    "uikName": "УИК №14",
     "tikTvd": "288200067032",
-    "tikName": "Байкитская"
+    "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "488400166713",
+    "uikName": "УИК №15",
     "tikTvd": "288200067032",
-    "tikName": "Байкитская"
+    "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "488400166733",
+    "uikName": "УИК №16",
     "tikTvd": "288200067032",
-    "tikName": "Байкитская"
+    "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "488400166734",
+    "uikName": "УИК №17",
     "tikTvd": "288200067032",
-    "tikName": "Байкитская"
+    "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "488400166735",
+    "uikName": "УИК №18",
     "tikTvd": "288200067032",
-    "tikName": "Байкитская"
+    "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "488400166736",
+    "uikName": "УИК №19",
     "tikTvd": "288200067032",
-    "tikName": "Байкитская"
+    "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "488400166737",
+    "uikName": "УИК №20",
     "tikTvd": "288200067032",
-    "tikName": "Байкитская"
+    "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "488400166738",
+    "uikName": "УИК №21",
     "tikTvd": "288200067032",
-    "tikName": "Байкитская"
+    "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "488400166739",
+    "uikName": "УИК №22",
     "tikTvd": "288200067032",
-    "tikName": "Байкитская"
+    "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "488400166740",
+    "uikName": "УИК №23",
     "tikTvd": "288200067032",
-    "tikName": "Байкитская"
+    "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "488400166741",
+    "uikName": "УИК №24",
     "tikTvd": "288200067032",
-    "tikName": "Байкитская"
+    "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "488400366783",
+    "uikName": "УИК №25",
     "tikTvd": "288200068927",
-    "tikName": "Тунгусско-Чунская"
+    "tikName": "Тунгусско-Чунская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "488400366784",
+    "uikName": "УИК №26",
     "tikTvd": "288200068927",
-    "tikName": "Тунгусско-Чунская"
+    "tikName": "Тунгусско-Чунская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "488400366785",
+    "uikName": "УИК №27",
     "tikTvd": "288200068927",
-    "tikName": "Тунгусско-Чунская"
+    "tikName": "Тунгусско-Чунская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "488400366786",
+    "uikName": "УИК №28",
     "tikTvd": "288200068927",
-    "tikName": "Тунгусско-Чунская"
+    "tikName": "Тунгусско-Чунская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "488400366787",
+    "uikName": "УИК №29",
     "tikTvd": "288200068927",
-    "tikName": "Тунгусско-Чунская"
+    "tikName": "Тунгусско-Чунская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "488400366788",
+    "uikName": "УИК №30",
     "tikTvd": "288200068927",
-    "tikName": "Тунгусско-Чунская"
+    "tikName": "Тунгусско-Чунская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "488400366789",
+    "uikName": "УИК №31",
     "tikTvd": "288200068927",
-    "tikName": "Тунгусско-Чунская"
+    "tikName": "Тунгусско-Чунская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

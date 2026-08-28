@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 859,
     "uikTvd": "468402370363",
+    "uikName": "УИК №859",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2774,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -60,8 +69,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 860,
     "uikTvd": "468402370364",
+    "uikName": "УИК №860",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -109,8 +127,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 861,
     "uikTvd": "468402370366",
+    "uikName": "УИК №861",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 76,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -158,8 +185,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 862,
     "uikTvd": "468402370367",
+    "uikName": "УИК №862",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1006,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -207,8 +243,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 863,
     "uikTvd": "468402370368",
+    "uikName": "УИК №863",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 36,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -256,8 +301,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 864,
     "uikTvd": "468402370369",
+    "uikName": "УИК №864",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2184,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -305,8 +359,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 865,
     "uikTvd": "468402370370",
+    "uikName": "УИК №865",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3114,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -354,8 +417,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 866,
     "uikTvd": "468402370371",
+    "uikName": "УИК №866",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2528,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -403,8 +475,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 867,
     "uikTvd": "468402370372",
+    "uikName": "УИК №867",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2650,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -452,8 +533,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 868,
     "uikTvd": "468402370373",
+    "uikName": "УИК №868",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2741,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -501,8 +591,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 869,
     "uikTvd": "468402370374",
+    "uikName": "УИК №869",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2414,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -550,8 +649,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 870,
     "uikTvd": "468402370375",
+    "uikName": "УИК №870",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2954,
       "Число бюллетеней, полученных участковыми комиссиями": 2746,
@@ -599,8 +707,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 871,
     "uikTvd": "468402370391",
+    "uikName": "УИК №871",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2311,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -648,8 +765,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 872,
     "uikTvd": "468402370377",
+    "uikName": "УИК №872",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2702,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -697,8 +823,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 873,
     "uikTvd": "468402370378",
+    "uikName": "УИК №873",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 571,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -746,8 +881,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 874,
     "uikTvd": "468402370379",
+    "uikName": "УИК №874",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2932,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -795,8 +939,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 875,
     "uikTvd": "468402370380",
+    "uikName": "УИК №875",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2373,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -844,8 +997,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 876,
     "uikTvd": "468402370381",
+    "uikName": "УИК №876",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2023,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -893,8 +1055,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 877,
     "uikTvd": "468402370382",
+    "uikName": "УИК №877",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2814,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -942,8 +1113,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 878,
     "uikTvd": "468402370383",
+    "uikName": "УИК №878",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2131,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -991,8 +1171,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 879,
     "uikTvd": "468402370384",
+    "uikName": "УИК №879",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1837,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1040,8 +1229,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 880,
     "uikTvd": "468402370385",
+    "uikName": "УИК №880",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1694,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1089,8 +1287,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 881,
     "uikTvd": "468402370386",
+    "uikName": "УИК №881",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2475,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1138,8 +1345,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 882,
     "uikTvd": "468402370387",
+    "uikName": "УИК №882",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2830,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -1187,8 +1403,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 883,
     "uikTvd": "468402370388",
+    "uikName": "УИК №883",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3028,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -1236,8 +1461,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 884,
     "uikTvd": "468402370389",
+    "uikName": "УИК №884",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2839,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -1285,8 +1519,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 885,
     "uikTvd": "468402370390",
+    "uikName": "УИК №885",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2263,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1334,8 +1577,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 886,
     "uikTvd": "468402370392",
+    "uikName": "УИК №886",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2187,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1383,8 +1635,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 887,
     "uikTvd": "468402370393",
+    "uikName": "УИК №887",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2224,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1432,8 +1693,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 888,
     "uikTvd": "468402370394",
+    "uikName": "УИК №888",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1427,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1481,8 +1751,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 889,
     "uikTvd": "468402370396",
+    "uikName": "УИК №889",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2905,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -1530,8 +1809,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 890,
     "uikTvd": "468402370397",
+    "uikName": "УИК №890",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2853,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -1579,8 +1867,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 891,
     "uikTvd": "468402370398",
+    "uikName": "УИК №891",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1972,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1628,8 +1925,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 892,
     "uikTvd": "468402370466",
+    "uikName": "УИК №892",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1796,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -1677,8 +1983,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 893,
     "uikTvd": "468402370400",
+    "uikName": "УИК №893",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1822,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1726,8 +2041,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 894,
     "uikTvd": "468402370401",
+    "uikName": "УИК №894",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2054,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1775,8 +2099,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 895,
     "uikTvd": "468402370402",
+    "uikName": "УИК №895",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1426,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1824,8 +2157,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 896,
     "uikTvd": "468402370403",
+    "uikName": "УИК №896",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2951,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -1873,8 +2215,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 897,
     "uikTvd": "468402370404",
+    "uikName": "УИК №897",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2543,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1922,8 +2273,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 898,
     "uikTvd": "468402370471",
+    "uikName": "УИК №898",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2005,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -1971,8 +2331,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 899,
     "uikTvd": "468402370486",
+    "uikName": "УИК №899",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2572,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2020,8 +2389,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 900,
     "uikTvd": "468402370487",
+    "uikName": "УИК №900",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2569,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2069,8 +2447,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 901,
     "uikTvd": "468402370488",
+    "uikName": "УИК №901",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2583,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2118,8 +2505,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 902,
     "uikTvd": "468402370489",
+    "uikName": "УИК №902",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2890,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2167,8 +2563,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 903,
     "uikTvd": "468402370490",
+    "uikName": "УИК №903",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2844,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2216,8 +2621,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 904,
     "uikTvd": "468402370491",
+    "uikName": "УИК №904",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2160,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2265,8 +2679,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 905,
     "uikTvd": "468402370473",
+    "uikName": "УИК №905",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2536,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2314,8 +2737,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 906,
     "uikTvd": "468402370474",
+    "uikName": "УИК №906",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1962,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2363,8 +2795,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 907,
     "uikTvd": "468402370475",
+    "uikName": "УИК №907",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1967,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2412,8 +2853,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 908,
     "uikTvd": "468402370476",
+    "uikName": "УИК №908",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 24,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -2461,8 +2911,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 909,
     "uikTvd": "468402370477",
+    "uikName": "УИК №909",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 44,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -2510,8 +2969,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 910,
     "uikTvd": "468402370478",
+    "uikName": "УИК №910",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2428,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2559,8 +3027,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 911,
     "uikTvd": "468402370479",
+    "uikName": "УИК №911",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2581,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2608,8 +3085,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 912,
     "uikTvd": "468402370480",
+    "uikName": "УИК №912",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2779,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2657,8 +3143,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 913,
     "uikTvd": "468402370481",
+    "uikName": "УИК №913",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2603,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2706,8 +3201,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 914,
     "uikTvd": "468402370482",
+    "uikName": "УИК №914",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2638,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2755,8 +3259,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 915,
     "uikTvd": "468402370483",
+    "uikName": "УИК №915",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2858,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2804,8 +3317,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 916,
     "uikTvd": "468402370484",
+    "uikName": "УИК №916",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2771,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2853,8 +3375,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 917,
     "uikTvd": "468402370469",
+    "uikName": "УИК №917",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1555,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -2902,8 +3433,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 955,
     "uikTvd": "468402570587",
+    "uikName": "УИК №955",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2607,
       "Число бюллетеней, полученных участковыми комиссиями": 2586,
@@ -2951,8 +3491,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 956,
     "uikTvd": "468402570588",
+    "uikName": "УИК №956",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 531,
       "Число бюллетеней, полученных участковыми комиссиями": 527,
@@ -3000,8 +3549,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 957,
     "uikTvd": "468402570589",
+    "uikName": "УИК №957",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1163,
       "Число бюллетеней, полученных участковыми комиссиями": 1158,
@@ -3049,8 +3607,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 958,
     "uikTvd": "468402570590",
+    "uikName": "УИК №958",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1266,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -3098,8 +3665,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 959,
     "uikTvd": "468402570591",
+    "uikName": "УИК №959",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 692,
       "Число бюллетеней, полученных участковыми комиссиями": 695,
@@ -3147,8 +3723,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 960,
     "uikTvd": "468402570592",
+    "uikName": "УИК №960",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1357,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -3196,8 +3781,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 961,
     "uikTvd": "468402570593",
+    "uikName": "УИК №961",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1763,
       "Число бюллетеней, полученных участковыми комиссиями": 1765,
@@ -3245,8 +3839,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 962,
     "uikTvd": "468402570594",
+    "uikName": "УИК №962",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1523,
       "Число бюллетеней, полученных участковыми комиссиями": 1498,
@@ -3294,8 +3897,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 963,
     "uikTvd": "468402570595",
+    "uikName": "УИК №963",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 385,
       "Число бюллетеней, полученных участковыми комиссиями": 377,
@@ -3343,8 +3955,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 964,
     "uikTvd": "468402570596",
+    "uikName": "УИК №964",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1110,
       "Число бюллетеней, полученных участковыми комиссиями": 1217,
@@ -3392,8 +4013,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 965,
     "uikTvd": "468402570597",
+    "uikName": "УИК №965",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 545,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -3441,8 +4071,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 966,
     "uikTvd": "468402570598",
+    "uikName": "УИК №966",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 373,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -3490,8 +4129,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 967,
     "uikTvd": "468402570599",
+    "uikName": "УИК №967",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 972,
       "Число бюллетеней, полученных участковыми комиссиями": 918,
@@ -3539,8 +4187,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 968,
     "uikTvd": "468402570600",
+    "uikName": "УИК №968",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 355,
       "Число бюллетеней, полученных участковыми комиссиями": 362,
@@ -3588,8 +4245,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 969,
     "uikTvd": "468402570601",
+    "uikName": "УИК №969",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1110,
       "Число бюллетеней, полученных участковыми комиссиями": 1110,
@@ -3637,8 +4303,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 970,
     "uikTvd": "468402570602",
+    "uikName": "УИК №970",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 823,
       "Число бюллетеней, полученных участковыми комиссиями": 820,
@@ -3686,8 +4361,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 971,
     "uikTvd": "468402570603",
+    "uikName": "УИК №971",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 487,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -3735,8 +4419,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 972,
     "uikTvd": "468402570604",
+    "uikName": "УИК №972",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 793,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -3784,8 +4477,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 973,
     "uikTvd": "468402570605",
+    "uikName": "УИК №973",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2135,
       "Число бюллетеней, полученных участковыми комиссиями": 2107,
@@ -3833,8 +4535,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 974,
     "uikTvd": "468402570606",
+    "uikName": "УИК №974",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1302,
       "Число бюллетеней, полученных участковыми комиссиями": 1330,
@@ -3882,8 +4593,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 975,
     "uikTvd": "468402570607",
+    "uikName": "УИК №975",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 143,
@@ -3931,8 +4651,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 976,
     "uikTvd": "468402570608",
+    "uikName": "УИК №976",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 488,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -3980,8 +4709,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 977,
     "uikTvd": "468402570609",
+    "uikName": "УИК №977",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 531,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -4029,8 +4767,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 978,
     "uikTvd": "468402570610",
+    "uikName": "УИК №978",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1475,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -4078,8 +4825,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 979,
     "uikTvd": "468402570611",
+    "uikName": "УИК №979",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 547,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -4127,8 +4883,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 980,
     "uikTvd": "468402570612",
+    "uikName": "УИК №980",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1511,
       "Число бюллетеней, полученных участковыми комиссиями": 1492,
@@ -4176,8 +4941,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 981,
     "uikTvd": "468402570613",
+    "uikName": "УИК №981",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 249,
       "Число бюллетеней, полученных участковыми комиссиями": 254,
@@ -4225,8 +4999,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 982,
     "uikTvd": "468402570614",
+    "uikName": "УИК №982",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3226,
       "Число бюллетеней, полученных участковыми комиссиями": 3200,
@@ -4274,8 +5057,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 983,
     "uikTvd": "468402570615",
+    "uikName": "УИК №983",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 295,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -4323,8 +5115,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 984,
     "uikTvd": "468402570616",
+    "uikName": "УИК №984",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -4372,8 +5173,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 985,
     "uikTvd": "468402570617",
+    "uikName": "УИК №985",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 435,
       "Число бюллетеней, полученных участковыми комиссиями": 428,
@@ -4421,8 +5231,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 986,
     "uikTvd": "468402570618",
+    "uikName": "УИК №986",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 401,
       "Число бюллетеней, полученных участковыми комиссиями": 397,
@@ -4470,8 +5289,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 987,
     "uikTvd": "468402570619",
+    "uikName": "УИК №987",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 666,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -4519,8 +5347,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 988,
     "uikTvd": "468402570620",
+    "uikName": "УИК №988",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 548,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -4568,8 +5405,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 989,
     "uikTvd": "468402570621",
+    "uikName": "УИК №989",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 703,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -4617,8 +5463,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 990,
     "uikTvd": "468402570622",
+    "uikName": "УИК №990",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 478,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -4666,8 +5521,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 991,
     "uikTvd": "468402570623",
+    "uikName": "УИК №991",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -4715,8 +5579,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 992,
     "uikTvd": "468402570624",
+    "uikName": "УИК №992",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 149,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -4764,8 +5637,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 993,
     "uikTvd": "468402570625",
+    "uikName": "УИК №993",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1673,
       "Число бюллетеней, полученных участковыми комиссиями": 1699,
@@ -4813,8 +5695,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 994,
     "uikTvd": "468402570626",
+    "uikName": "УИК №994",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 858,
       "Число бюллетеней, полученных участковыми комиссиями": 882,
@@ -4862,8 +5753,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 995,
     "uikTvd": "468402570627",
+    "uikName": "УИК №995",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1434,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4911,8 +5811,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 996,
     "uikTvd": "468402570628",
+    "uikName": "УИК №996",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2903,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -4960,8 +5869,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 997,
     "uikTvd": "468402570629",
+    "uikName": "УИК №997",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1768,
       "Число бюллетеней, полученных участковыми комиссиями": 1752,
@@ -5009,8 +5927,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 998,
     "uikTvd": "468402570630",
+    "uikName": "УИК №998",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -5058,8 +5985,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 999,
     "uikTvd": "468402570631",
+    "uikName": "УИК №999",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 96,
       "Число бюллетеней, полученных участковыми комиссиями": 93,
@@ -5107,8 +6043,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1000,
     "uikTvd": "468402570632",
+    "uikName": "УИК №1000",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1589,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -5156,8 +6101,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1001,
     "uikTvd": "468402570633",
+    "uikName": "УИК №1001",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1634,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -5205,8 +6159,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1002,
     "uikTvd": "468402570634",
+    "uikName": "УИК №1002",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 563,
@@ -5254,8 +6217,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1003,
     "uikTvd": "468402570635",
+    "uikName": "УИК №1003",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 394,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -5303,8 +6275,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1004,
     "uikTvd": "468402570636",
+    "uikName": "УИК №1004",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 107,
@@ -5352,8 +6333,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1005,
     "uikTvd": "468402570637",
+    "uikName": "УИК №1005",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2553,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -5401,8 +6391,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1006,
     "uikTvd": "468402570638",
+    "uikName": "УИК №1006",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2872,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -5450,8 +6449,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1007,
     "uikTvd": "468402570639",
+    "uikName": "УИК №1007",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2972,
       "Число бюллетеней, полученных участковыми комиссиями": 2965,
@@ -5499,8 +6507,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1008,
     "uikTvd": "468402570640",
+    "uikName": "УИК №1008",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2941,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -5548,8 +6565,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1009,
     "uikTvd": "468402570641",
+    "uikName": "УИК №1009",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2857,
       "Число бюллетеней, полученных участковыми комиссиями": 2785,
@@ -5597,8 +6623,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1010,
     "uikTvd": "468402570642",
+    "uikName": "УИК №1010",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1411,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -5646,8 +6681,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1011,
     "uikTvd": "468402570643",
+    "uikName": "УИК №1011",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2134,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -5695,8 +6739,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1012,
     "uikTvd": "468402570644",
+    "uikName": "УИК №1012",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2235,
       "Число бюллетеней, полученных участковыми комиссиями": 2230,
@@ -5744,8 +6797,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1013,
     "uikTvd": "468402570645",
+    "uikName": "УИК №1013",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1594,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -5793,8 +6855,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1014,
     "uikTvd": "468402570646",
+    "uikName": "УИК №1014",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1355,
       "Число бюллетеней, полученных участковыми комиссиями": 1299,
@@ -5842,8 +6913,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1015,
     "uikTvd": "468402570647",
+    "uikName": "УИК №1015",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2941,
       "Число бюллетеней, полученных участковыми комиссиями": 2968,
@@ -5891,8 +6971,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1016,
     "uikTvd": "468402570648",
+    "uikName": "УИК №1016",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 726,
       "Число бюллетеней, полученных участковыми комиссиями": 733,
@@ -5940,8 +7029,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1017,
     "uikTvd": "468402570649",
+    "uikName": "УИК №1017",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2267,
       "Число бюллетеней, полученных участковыми комиссиями": 2277,
@@ -5989,8 +7087,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1018,
     "uikTvd": "468402570650",
+    "uikName": "УИК №1018",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1019,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -6038,8 +7145,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1019,
     "uikTvd": "468402570651",
+    "uikName": "УИК №1019",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 676,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -6087,8 +7203,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1020,
     "uikTvd": "468402870582",
+    "uikName": "УИК №1020",
     "tikTvd": "368300270594",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -6136,8 +7261,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1021,
     "uikTvd": "468402870583",
+    "uikName": "УИК №1021",
     "tikTvd": "368300270594",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 299,
       "Число бюллетеней, полученных участковыми комиссиями": 275,
@@ -6185,8 +7319,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1022,
     "uikTvd": "468402870584",
+    "uikName": "УИК №1022",
     "tikTvd": "368300270594",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 318,
       "Число бюллетеней, полученных участковыми комиссиями": 303,
@@ -6234,8 +7377,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1023,
     "uikTvd": "468402870585",
+    "uikName": "УИК №1023",
     "tikTvd": "368300270594",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 218,
@@ -6283,8 +7435,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1024,
     "uikTvd": "468402870586",
+    "uikName": "УИК №1024",
     "tikTvd": "368300270594",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 417,
       "Число бюллетеней, полученных участковыми комиссиями": 393,
@@ -6332,8 +7493,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1025,
     "uikTvd": "468402870587",
+    "uikName": "УИК №1025",
     "tikTvd": "368300270594",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 377,
       "Число бюллетеней, полученных участковыми комиссиями": 354,
@@ -6381,8 +7551,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1026,
     "uikTvd": "468402870588",
+    "uikName": "УИК №1026",
     "tikTvd": "368300270594",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 421,
       "Число бюллетеней, полученных участковыми комиссиями": 405,
@@ -6430,8 +7609,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1027,
     "uikTvd": "468402870589",
+    "uikName": "УИК №1027",
     "tikTvd": "368300270594",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 448,
       "Число бюллетеней, полученных участковыми комиссиями": 412,
@@ -6479,8 +7667,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1028,
     "uikTvd": "468402870590",
+    "uikName": "УИК №1028",
     "tikTvd": "368300270594",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -6528,8 +7725,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1029,
     "uikTvd": "468402870591",
+    "uikName": "УИК №1029",
     "tikTvd": "368300270594",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 334,
       "Число бюллетеней, полученных участковыми комиссиями": 308,
@@ -6577,8 +7783,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1030,
     "uikTvd": "468402870592",
+    "uikName": "УИК №1030",
     "tikTvd": "368300270594",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 114,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -6626,8 +7841,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1031,
     "uikTvd": "468402870593",
+    "uikName": "УИК №1031",
     "tikTvd": "368300270594",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 224,
@@ -6675,8 +7899,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1032,
     "uikTvd": "468402870594",
+    "uikName": "УИК №1032",
     "tikTvd": "368300270594",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 296,
       "Число бюллетеней, полученных участковыми комиссиями": 282,
@@ -6724,8 +7957,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1033,
     "uikTvd": "468402870595",
+    "uikName": "УИК №1033",
     "tikTvd": "368300270594",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 176,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -6773,8 +8015,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1034,
     "uikTvd": "468402870596",
+    "uikName": "УИК №1034",
     "tikTvd": "368300270594",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 420,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -6822,8 +8073,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1035,
     "uikTvd": "468402870597",
+    "uikName": "УИК №1035",
     "tikTvd": "368300270594",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 512,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -6871,8 +8131,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1036,
     "uikTvd": "468402870598",
+    "uikName": "УИК №1036",
     "tikTvd": "368300270594",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 679,
       "Число бюллетеней, полученных участковыми комиссиями": 646,
@@ -6920,8 +8189,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1037,
     "uikTvd": "468402870599",
+    "uikName": "УИК №1037",
     "tikTvd": "368300270594",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1326,
       "Число бюллетеней, полученных участковыми комиссиями": 1260,
@@ -6969,8 +8247,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1038,
     "uikTvd": "468402870600",
+    "uikName": "УИК №1038",
     "tikTvd": "368300270594",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2716,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -7018,8 +8305,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "468400170380",
+    "uikName": "УИК №612",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1625,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7067,8 +8363,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "468400170383",
+    "uikName": "УИК №613",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1579,
       "Число бюллетеней, полученных участковыми комиссиями": 1590,
@@ -7116,8 +8421,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "468400170407",
+    "uikName": "УИК №614",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 731,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -7165,8 +8479,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "468400170384",
+    "uikName": "УИК №615",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 381,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -7214,8 +8537,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "468400170385",
+    "uikName": "УИК №616",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 647,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -7263,8 +8595,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "468400170386",
+    "uikName": "УИК №617",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 570,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -7312,8 +8653,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "468400170387",
+    "uikName": "УИК №618",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7361,8 +8711,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "468400170388",
+    "uikName": "УИК №619",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 418,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -7410,8 +8769,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 620,
     "uikTvd": "468400170389",
+    "uikName": "УИК №620",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -7459,8 +8827,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "468400170390",
+    "uikName": "УИК №621",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 464,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -7508,8 +8885,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "468400170391",
+    "uikName": "УИК №622",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -7557,8 +8943,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "468400170392",
+    "uikName": "УИК №623",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 403,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -7606,8 +9001,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "468400170393",
+    "uikName": "УИК №624",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 377,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -7655,8 +9059,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "468400170394",
+    "uikName": "УИК №625",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 548,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -7704,8 +9117,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "468400170395",
+    "uikName": "УИК №626",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 326,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -7753,8 +9175,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "468400170396",
+    "uikName": "УИК №627",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 443,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -7802,8 +9233,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "468400170397",
+    "uikName": "УИК №628",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -7851,8 +9291,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "468400170398",
+    "uikName": "УИК №629",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -7900,8 +9349,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "468400170399",
+    "uikName": "УИК №630",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 554,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -7949,8 +9407,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 631,
     "uikTvd": "468400170400",
+    "uikName": "УИК №631",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 538,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -7998,8 +9465,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 632,
     "uikTvd": "468400170401",
+    "uikName": "УИК №632",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 406,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -8047,8 +9523,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 633,
     "uikTvd": "468400170402",
+    "uikName": "УИК №633",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 605,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -8096,8 +9581,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 634,
     "uikTvd": "468400170403",
+    "uikName": "УИК №634",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 299,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -8145,8 +9639,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 635,
     "uikTvd": "468400270407",
+    "uikName": "УИК  635",
     "tikTvd": "368300270596",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1998,
       "Число бюллетеней, полученных участковыми комиссиями": 1986,
@@ -8194,8 +9697,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 636,
     "uikTvd": "468400270408",
+    "uikName": "УИК  636",
     "tikTvd": "368300270596",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 241,
@@ -8243,8 +9755,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 637,
     "uikTvd": "468400270409",
+    "uikName": "УИК  637",
     "tikTvd": "368300270596",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 861,
       "Число бюллетеней, полученных участковыми комиссиями": 854,
@@ -8292,8 +9813,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 638,
     "uikTvd": "468400270410",
+    "uikName": "УИК  638",
     "tikTvd": "368300270596",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 99,
@@ -8341,8 +9871,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 639,
     "uikTvd": "468400270411",
+    "uikName": "УИК  639",
     "tikTvd": "368300270596",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1600,
       "Число бюллетеней, полученных участковыми комиссиями": 1590,
@@ -8390,8 +9929,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 640,
     "uikTvd": "468400270412",
+    "uikName": "УИК  640",
     "tikTvd": "368300270596",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 749,
       "Число бюллетеней, полученных участковыми комиссиями": 757,
@@ -8439,8 +9987,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 641,
     "uikTvd": "468400270413",
+    "uikName": "УИК  641",
     "tikTvd": "368300270596",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 162,
@@ -8488,8 +10045,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 642,
     "uikTvd": "468400270414",
+    "uikName": "УИК  642",
     "tikTvd": "368300270596",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 487,
       "Число бюллетеней, полученных участковыми комиссиями": 496,
@@ -8537,8 +10103,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 643,
     "uikTvd": "468400270415",
+    "uikName": "УИК  643",
     "tikTvd": "368300270596",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 573,
       "Число бюллетеней, полученных участковыми комиссиями": 595,
@@ -8586,8 +10161,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 644,
     "uikTvd": "468400270416",
+    "uikName": "УИК  644",
     "tikTvd": "368300270596",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 270,
       "Число бюллетеней, полученных участковыми комиссиями": 275,
@@ -8635,8 +10219,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 645,
     "uikTvd": "468400270417",
+    "uikName": "УИК  645",
     "tikTvd": "368300270596",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 242,
       "Число бюллетеней, полученных участковыми комиссиями": 254,
@@ -8684,8 +10277,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 646,
     "uikTvd": "468400270418",
+    "uikName": "УИК  646",
     "tikTvd": "368300270596",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 126,
@@ -8733,8 +10335,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 647,
     "uikTvd": "468400270419",
+    "uikName": "УИК  647",
     "tikTvd": "368300270596",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 421,
       "Число бюллетеней, полученных участковыми комиссиями": 416,
@@ -8782,8 +10393,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 648,
     "uikTvd": "468400270420",
+    "uikName": "УИК  648",
     "tikTvd": "368300270596",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -8831,8 +10451,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 649,
     "uikTvd": "468400270421",
+    "uikName": "УИК  649",
     "tikTvd": "368300270596",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 273,
@@ -8880,8 +10509,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 650,
     "uikTvd": "468400270422",
+    "uikName": "УИК  650",
     "tikTvd": "368300270596",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 286,
@@ -8929,8 +10567,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 651,
     "uikTvd": "468400270423",
+    "uikName": "УИК  651",
     "tikTvd": "368300270596",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 528,
       "Число бюллетеней, полученных участковыми комиссиями": 523,
@@ -8978,8 +10625,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 652,
     "uikTvd": "468400270424",
+    "uikName": "УИК  652",
     "tikTvd": "368300270596",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 332,
@@ -9027,8 +10683,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 653,
     "uikTvd": "468400270425",
+    "uikName": "УИК  653",
     "tikTvd": "368300270596",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 269,
@@ -9076,8 +10741,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 654,
     "uikTvd": "468400270426",
+    "uikName": "УИК  654",
     "tikTvd": "368300270596",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 351,
       "Число бюллетеней, полученных участковыми комиссиями": 363,
@@ -9125,8 +10799,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 655,
     "uikTvd": "468400270427",
+    "uikName": "УИК  655",
     "tikTvd": "368300270596",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 382,
       "Число бюллетеней, полученных участковыми комиссиями": 388,
@@ -9174,8 +10857,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 656,
     "uikTvd": "468400570368",
+    "uikName": "УИК  656",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1194,
       "Число бюллетеней, полученных участковыми комиссиями": 1179,
@@ -9223,8 +10915,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 657,
     "uikTvd": "468400570369",
+    "uikName": "УИК  657",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1144,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -9272,8 +10973,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 658,
     "uikTvd": "468400570370",
+    "uikName": "УИК  658",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1220,
       "Число бюллетеней, полученных участковыми комиссиями": 1126,
@@ -9321,8 +11031,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 659,
     "uikTvd": "468400570371",
+    "uikName": "УИК  659",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1224,
       "Число бюллетеней, полученных участковыми комиссиями": 1177,
@@ -9370,8 +11089,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 660,
     "uikTvd": "468400570372",
+    "uikName": "УИК  660",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1154,
       "Число бюллетеней, полученных участковыми комиссиями": 1103,
@@ -9419,8 +11147,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 661,
     "uikTvd": "468400570373",
+    "uikName": "УИК  661",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 696,
       "Число бюллетеней, полученных участковыми комиссиями": 677,
@@ -9468,8 +11205,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 662,
     "uikTvd": "468400570374",
+    "uikName": "УИК  662",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 504,
       "Число бюллетеней, полученных участковыми комиссиями": 488,
@@ -9517,8 +11263,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 663,
     "uikTvd": "468400570375",
+    "uikName": "УИК  663",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 832,
       "Число бюллетеней, полученных участковыми комиссиями": 812,
@@ -9566,8 +11321,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 664,
     "uikTvd": "468400570376",
+    "uikName": "УИК  664",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 408,
       "Число бюллетеней, полученных участковыми комиссиями": 377,
@@ -9615,8 +11379,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 665,
     "uikTvd": "468400570377",
+    "uikName": "УИК  665",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 439,
       "Число бюллетеней, полученных участковыми комиссиями": 431,
@@ -9664,8 +11437,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 667,
     "uikTvd": "468400570379",
+    "uikName": "УИК  667",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 610,
       "Число бюллетеней, полученных участковыми комиссиями": 604,
@@ -9713,8 +11495,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 668,
     "uikTvd": "468400570380",
+    "uikName": "УИК  668",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 604,
       "Число бюллетеней, полученных участковыми комиссиями": 596,
@@ -9762,8 +11553,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 669,
     "uikTvd": "468400570381",
+    "uikName": "УИК  669",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 270,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -9811,8 +11611,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 670,
     "uikTvd": "468400570382",
+    "uikName": "УИК  670",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 173,
@@ -9860,8 +11669,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 671,
     "uikTvd": "468400570383",
+    "uikName": "УИК  671",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 495,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -9909,8 +11727,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 672,
     "uikTvd": "468400570384",
+    "uikName": "УИК  672",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 182,
@@ -9958,8 +11785,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 673,
     "uikTvd": "468400570385",
+    "uikName": "УИК  673",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 510,
       "Число бюллетеней, полученных участковыми комиссиями": 507,
@@ -10007,8 +11843,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 674,
     "uikTvd": "468400570386",
+    "uikName": "УИК  674",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -10056,8 +11901,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 675,
     "uikTvd": "468400570387",
+    "uikName": "УИК  675",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 113,
       "Число бюллетеней, полученных участковыми комиссиями": 116,
@@ -10105,8 +11959,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 676,
     "uikTvd": "468400570388",
+    "uikName": "УИК  676",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 168,
       "Число бюллетеней, полученных участковыми комиссиями": 169,
@@ -10154,8 +12017,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 677,
     "uikTvd": "468400570389",
+    "uikName": "УИК  677",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 108,
@@ -10203,8 +12075,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 678,
     "uikTvd": "468400570390",
+    "uikName": "УИК  678",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1108,
       "Число бюллетеней, полученных участковыми комиссиями": 1076,
@@ -10252,8 +12133,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 679,
     "uikTvd": "468400570391",
+    "uikName": "УИК  679",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 706,
       "Число бюллетеней, полученных участковыми комиссиями": 672,
@@ -10301,8 +12191,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 680,
     "uikTvd": "468400570392",
+    "uikName": "УИК  680",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 445,
       "Число бюллетеней, полученных участковыми комиссиями": 444,
@@ -10350,8 +12249,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 681,
     "uikTvd": "468400570393",
+    "uikName": "УИК  681",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 360,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -10399,8 +12307,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 682,
     "uikTvd": "468400570394",
+    "uikName": "УИК  682",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 512,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -10448,8 +12365,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 683,
     "uikTvd": "468400570395",
+    "uikName": "УИК  683",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 455,
@@ -10497,8 +12423,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 684,
     "uikTvd": "468400570396",
+    "uikName": "УИК  684",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 280,
       "Число бюллетеней, полученных участковыми комиссиями": 303,
@@ -10546,8 +12481,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 685,
     "uikTvd": "468400570397",
+    "uikName": "УИК  685",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 326,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -10595,8 +12539,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 686,
     "uikTvd": "468400570398",
+    "uikName": "УИК  686",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 318,
       "Число бюллетеней, полученных участковыми комиссиями": 321,
@@ -10644,8 +12597,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 687,
     "uikTvd": "468400570399",
+    "uikName": "УИК  687",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 462,
       "Число бюллетеней, полученных участковыми комиссиями": 466,
@@ -10693,8 +12655,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 688,
     "uikTvd": "468400570400",
+    "uikName": "УИК  688",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 394,
       "Число бюллетеней, полученных участковыми комиссиями": 391,
@@ -10742,8 +12713,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 689,
     "uikTvd": "468400570401",
+    "uikName": "УИК  689",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 271,
       "Число бюллетеней, полученных участковыми комиссиями": 268,
@@ -10791,8 +12771,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 690,
     "uikTvd": "468400570402",
+    "uikName": "УИК  690",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -10840,8 +12829,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 691,
     "uikTvd": "468400570403",
+    "uikName": "УИК  691",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 714,
       "Число бюллетеней, полученных участковыми комиссиями": 707,
@@ -10889,8 +12887,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 692,
     "uikTvd": "468400570404",
+    "uikName": "УИК  692",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -10938,8 +12945,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 693,
     "uikTvd": "468400570405",
+    "uikName": "УИК  693",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 715,
       "Число бюллетеней, полученных участковыми комиссиями": 654,
@@ -10987,8 +13003,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 694,
     "uikTvd": "468400570406",
+    "uikName": "УИК  694",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 417,
       "Число бюллетеней, полученных участковыми комиссиями": 419,
@@ -11036,8 +13061,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 695,
     "uikTvd": "468400570407",
+    "uikName": "УИК  695",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 366,
       "Число бюллетеней, полученных участковыми комиссиями": 363,
@@ -11085,8 +13119,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 696,
     "uikTvd": "468400570408",
+    "uikName": "УИК  696",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 222,
       "Число бюллетеней, полученных участковыми комиссиями": 236,
@@ -11134,8 +13177,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 697,
     "uikTvd": "468400570409",
+    "uikName": "УИК  697",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 214,
       "Число бюллетеней, полученных участковыми комиссиями": 201,
@@ -11183,8 +13235,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1041,
     "uikTvd": "468400570741",
+    "uikName": "УИК  1041",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 238,
@@ -11232,8 +13293,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 918,
     "uikTvd": "468402470886",
+    "uikName": "УИК №918",
     "tikTvd": "368300270599",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2373,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11281,8 +13351,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 919,
     "uikTvd": "468402470887",
+    "uikName": "УИК №919",
     "tikTvd": "368300270599",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2321,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11330,8 +13409,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 920,
     "uikTvd": "468402470888",
+    "uikName": "УИК №920",
     "tikTvd": "368300270599",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2075,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -11379,8 +13467,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 921,
     "uikTvd": "468402470889",
+    "uikName": "УИК №921",
     "tikTvd": "368300270599",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2593,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11428,8 +13525,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 922,
     "uikTvd": "468402470890",
+    "uikName": "УИК №922",
     "tikTvd": "368300270599",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2375,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11477,8 +13583,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 923,
     "uikTvd": "468402470891",
+    "uikName": "УИК №923",
     "tikTvd": "368300270599",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1229,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -11526,8 +13641,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 924,
     "uikTvd": "468402470892",
+    "uikName": "УИК №924",
     "tikTvd": "368300270599",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1653,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -11575,8 +13699,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 925,
     "uikTvd": "468402470893",
+    "uikName": "УИК №925",
     "tikTvd": "368300270599",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1556,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -11624,8 +13757,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 926,
     "uikTvd": "468402470894",
+    "uikName": "УИК №926",
     "tikTvd": "368300270599",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2212,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11673,8 +13815,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 927,
     "uikTvd": "468402470895",
+    "uikName": "УИК №927",
     "tikTvd": "368300270599",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1393,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -11722,8 +13873,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 928,
     "uikTvd": "468402470896",
+    "uikName": "УИК №928",
     "tikTvd": "368300270599",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1813,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11771,8 +13931,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 929,
     "uikTvd": "468402470897",
+    "uikName": "УИК №929",
     "tikTvd": "368300270599",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1729,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11820,8 +13989,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 930,
     "uikTvd": "468402470898",
+    "uikName": "УИК №930",
     "tikTvd": "368300270599",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1446,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -11869,8 +14047,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 931,
     "uikTvd": "468402470899",
+    "uikName": "УИК №931",
     "tikTvd": "368300270599",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1113,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -11918,8 +14105,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 932,
     "uikTvd": "468402470900",
+    "uikName": "УИК №932",
     "tikTvd": "368300270599",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1301,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -11967,8 +14163,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 933,
     "uikTvd": "468402470901",
+    "uikName": "УИК №933",
     "tikTvd": "368300270599",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1079,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -12016,8 +14221,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 934,
     "uikTvd": "468402470902",
+    "uikName": "УИК №934",
     "tikTvd": "368300270599",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1243,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -12065,8 +14279,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 935,
     "uikTvd": "468402470903",
+    "uikName": "УИК №935",
     "tikTvd": "368300270599",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1652,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -12114,8 +14337,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 936,
     "uikTvd": "468402470904",
+    "uikName": "УИК №936",
     "tikTvd": "368300270599",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2827,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -12163,8 +14395,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 937,
     "uikTvd": "468402470905",
+    "uikName": "УИК №937",
     "tikTvd": "368300270599",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2777,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -12212,8 +14453,17 @@ export const duma_2003_uik_428_region_68_part_004 = [
     "ballot": "single-member",
     "uikNumber": 938,
     "uikTvd": "468402470906",
+    "uikName": "УИК №938",
     "tikTvd": "368300270599",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100095631",
+      "oikName": "Тамбовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2536,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,

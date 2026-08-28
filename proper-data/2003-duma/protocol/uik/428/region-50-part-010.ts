@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1928,
     "uikTvd": "450403770731",
+    "uikName": "УИК №1928",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1535,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -60,8 +69,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1929,
     "uikTvd": "450403770732",
+    "uikName": "УИК №1929",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2070,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -109,8 +127,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1930,
     "uikTvd": "450403770733",
+    "uikName": "УИК №1930",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2333,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -158,8 +185,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1931,
     "uikTvd": "450403770734",
+    "uikName": "УИК №1931",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2025,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -207,8 +243,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1932,
     "uikTvd": "450403770735",
+    "uikName": "УИК №1932",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1872,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -256,8 +301,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1933,
     "uikTvd": "450403770736",
+    "uikName": "УИК №1933",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1560,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -305,8 +359,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1934,
     "uikTvd": "450403770737",
+    "uikName": "УИК №1934",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2554,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -354,8 +417,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1935,
     "uikTvd": "450403770738",
+    "uikName": "УИК №1935",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2578,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -403,8 +475,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1936,
     "uikTvd": "450403770739",
+    "uikName": "УИК №1936",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2424,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -452,8 +533,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1937,
     "uikTvd": "450403770740",
+    "uikName": "УИК №1937",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2893,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -501,8 +591,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1938,
     "uikTvd": "450403770741",
+    "uikName": "УИК №1938",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 583,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -550,8 +649,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1939,
     "uikTvd": "450403770742",
+    "uikName": "УИК №1939",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 654,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -599,8 +707,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1940,
     "uikTvd": "450403770743",
+    "uikName": "УИК №1940",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1368,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -648,8 +765,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1941,
     "uikTvd": "450403770744",
+    "uikName": "УИК №1941",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 775,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -697,8 +823,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1942,
     "uikTvd": "450403770745",
+    "uikName": "УИК №1942",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2021,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -746,8 +881,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1943,
     "uikTvd": "450403770746",
+    "uikName": "УИК №1943",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2788,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -795,8 +939,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1944,
     "uikTvd": "450403770747",
+    "uikName": "УИК №1944",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1436,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -844,8 +997,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1945,
     "uikTvd": "450403770748",
+    "uikName": "УИК №1945",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1219,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -893,8 +1055,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 5031,
     "uikTvd": "450403773302",
+    "uikName": "Участок  №5031",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 605,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -942,8 +1113,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 5032,
     "uikTvd": "450403773303",
+    "uikName": "УИК  5032",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 283,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -991,8 +1171,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 5033,
     "uikTvd": "450403773304",
+    "uikName": "УИК  5033",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1731,
       "Число бюллетеней, полученных участковыми комиссиями": 7275,
@@ -1040,8 +1229,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 5034,
     "uikTvd": "450403773305",
+    "uikName": "УИК  5034",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -1089,8 +1287,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 5035,
     "uikTvd": "450403773306",
+    "uikName": "УИК  5035",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 290,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -1138,8 +1345,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 5036,
     "uikTvd": "450403773307",
+    "uikName": "УИК  5036",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1187,8 +1403,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 5037,
     "uikTvd": "450403773308",
+    "uikName": "УИК  5037",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 791,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1236,8 +1461,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 5079,
     "uikTvd": "450403773309",
+    "uikName": "УИК  5079",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 59,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -1285,8 +1519,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 5080,
     "uikTvd": "450403773310",
+    "uikName": "УИК  5080",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -1334,8 +1577,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 5129,
     "uikTvd": "450403773312",
+    "uikName": "УИК  5129",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -1383,8 +1635,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 5130,
     "uikTvd": "450403773313",
+    "uikName": "УИК  5130",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 51,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -1432,8 +1693,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 5131,
     "uikTvd": "450403773314",
+    "uikName": "УИК  5131",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 19,
       "Число бюллетеней, полученных участковыми комиссиями": 25,
@@ -1481,8 +1751,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 5158,
     "uikTvd": "450403773315",
+    "uikName": "Участок  №5158",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1487,
       "Число бюллетеней, полученных участковыми комиссиями": 8000,
@@ -1530,8 +1809,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 5159,
     "uikTvd": "450403773316",
+    "uikName": "УИК  5159",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 545,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -1579,8 +1867,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 5160,
     "uikTvd": "450403773317",
+    "uikName": "Участок  №5160",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 516,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1628,8 +1925,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 5161,
     "uikTvd": "450403773318",
+    "uikName": "УИК  5161",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 430,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1677,8 +1983,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 5340,
     "uikTvd": "450403773311",
+    "uikName": "УИК  5340",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 76,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -1726,8 +2041,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 415,
     "uikTvd": "450400970488",
+    "uikName": "УИК №415",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1706,
       "Число бюллетеней, полученных участковыми комиссиями": 1644,
@@ -1775,8 +2099,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 416,
     "uikTvd": "450400970489",
+    "uikName": "УИК №416",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 630,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -1824,8 +2157,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 417,
     "uikTvd": "450400970490",
+    "uikName": "УИК №417",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2311,
       "Число бюллетеней, полученных участковыми комиссиями": 2197,
@@ -1873,8 +2215,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 418,
     "uikTvd": "450400970491",
+    "uikName": "УИК №418",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1525,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -1922,8 +2273,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 419,
     "uikTvd": "450400970492",
+    "uikName": "УИК №419",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1111,
       "Число бюллетеней, полученных участковыми комиссиями": 1073,
@@ -1971,8 +2331,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 420,
     "uikTvd": "450400970493",
+    "uikName": "УИК №420",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1006,
       "Число бюллетеней, полученных участковыми комиссиями": 937,
@@ -2020,8 +2389,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 421,
     "uikTvd": "450400970494",
+    "uikName": "УИК №421",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2511,
       "Число бюллетеней, полученных участковыми комиссиями": 2385,
@@ -2069,8 +2447,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 422,
     "uikTvd": "450400970495",
+    "uikName": "УИК №422",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1496,
       "Число бюллетеней, полученных участковыми комиссиями": 1408,
@@ -2118,8 +2505,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 423,
     "uikTvd": "450400970496",
+    "uikName": "УИК №423",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2389,
       "Число бюллетеней, полученных участковыми комиссиями": 2265,
@@ -2167,8 +2563,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 424,
     "uikTvd": "450400970497",
+    "uikName": "УИК №424",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1648,
       "Число бюллетеней, полученных участковыми комиссиями": 1659,
@@ -2216,8 +2621,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 425,
     "uikTvd": "450400970498",
+    "uikName": "УИК №425",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2037,
       "Число бюллетеней, полученных участковыми комиссиями": 1945,
@@ -2265,8 +2679,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 426,
     "uikTvd": "450400970499",
+    "uikName": "УИК №426",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1031,
       "Число бюллетеней, полученных участковыми комиссиями": 971,
@@ -2314,8 +2737,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 427,
     "uikTvd": "450400970500",
+    "uikName": "УИК №427",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1997,
       "Число бюллетеней, полученных участковыми комиссиями": 1882,
@@ -2363,8 +2795,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 428,
     "uikTvd": "450400970501",
+    "uikName": "УИК №428",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1514,
       "Число бюллетеней, полученных участковыми комиссиями": 1427,
@@ -2412,8 +2853,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 429,
     "uikTvd": "450400970502",
+    "uikName": "УИК №429",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2630,
       "Число бюллетеней, полученных участковыми комиссиями": 2496,
@@ -2461,8 +2911,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 430,
     "uikTvd": "450400970503",
+    "uikName": "УИК №430",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2497,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -2510,8 +2969,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 431,
     "uikTvd": "450400970504",
+    "uikName": "УИК №431",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2903,
       "Число бюллетеней, полученных участковыми комиссиями": 2734,
@@ -2559,8 +3027,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 432,
     "uikTvd": "450400970505",
+    "uikName": "УИК №432",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1162,
       "Число бюллетеней, полученных участковыми комиссиями": 1103,
@@ -2608,8 +3085,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 433,
     "uikTvd": "450400970506",
+    "uikName": "УИК №433",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2108,
       "Число бюллетеней, полученных участковыми комиссиями": 1996,
@@ -2657,8 +3143,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 434,
     "uikTvd": "450400970507",
+    "uikName": "УИК №434",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2270,
       "Число бюллетеней, полученных участковыми комиссиями": 2120,
@@ -2706,8 +3201,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 435,
     "uikTvd": "450400970508",
+    "uikName": "УИК №435",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1513,
       "Число бюллетеней, полученных участковыми комиссиями": 1429,
@@ -2755,8 +3259,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 436,
     "uikTvd": "450400970509",
+    "uikName": "УИК №436",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1666,
       "Число бюллетеней, полученных участковыми комиссиями": 1589,
@@ -2804,8 +3317,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 437,
     "uikTvd": "450400970510",
+    "uikName": "УИК №437",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1987,
       "Число бюллетеней, полученных участковыми комиссиями": 1871,
@@ -2853,8 +3375,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 438,
     "uikTvd": "450400970511",
+    "uikName": "УИК №438",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1602,
       "Число бюллетеней, полученных участковыми комиссиями": 1522,
@@ -2902,8 +3433,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 439,
     "uikTvd": "450400970512",
+    "uikName": "УИК №439",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2237,
       "Число бюллетеней, полученных участковыми комиссиями": 2119,
@@ -2951,8 +3491,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 440,
     "uikTvd": "450400970513",
+    "uikName": "УИК №440",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1646,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -3000,8 +3549,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 441,
     "uikTvd": "450400970514",
+    "uikName": "УИК №441",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2386,
       "Число бюллетеней, полученных участковыми комиссиями": 2272,
@@ -3049,8 +3607,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 442,
     "uikTvd": "450400970515",
+    "uikName": "УИК №442",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2505,
       "Число бюллетеней, полученных участковыми комиссиями": 2371,
@@ -3098,8 +3665,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 443,
     "uikTvd": "450400970516",
+    "uikName": "УИК №443",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2417,
       "Число бюллетеней, полученных участковыми комиссиями": 2293,
@@ -3147,8 +3723,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 444,
     "uikTvd": "450400970517",
+    "uikName": "УИК №444",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2198,
       "Число бюллетеней, полученных участковыми комиссиями": 2089,
@@ -3196,8 +3781,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 445,
     "uikTvd": "450400970518",
+    "uikName": "УИК №445",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 921,
       "Число бюллетеней, полученных участковыми комиссиями": 867,
@@ -3245,8 +3839,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 446,
     "uikTvd": "450400970519",
+    "uikName": "УИК №446",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 266,
@@ -3294,8 +3897,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 447,
     "uikTvd": "450400970520",
+    "uikName": "УИК №447",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 675,
       "Число бюллетеней, полученных участковыми комиссиями": 633,
@@ -3343,8 +3955,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 448,
     "uikTvd": "450400970521",
+    "uikName": "УИК №448",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2505,
       "Число бюллетеней, полученных участковыми комиссиями": 2387,
@@ -3392,8 +4013,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 449,
     "uikTvd": "450400970522",
+    "uikName": "УИК №449",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 464,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -3441,8 +4071,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 450,
     "uikTvd": "450400970523",
+    "uikName": "УИК №450",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 384,
       "Число бюллетеней, полученных участковыми комиссиями": 367,
@@ -3490,8 +4129,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 451,
     "uikTvd": "450400970524",
+    "uikName": "УИК №451",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 856,
       "Число бюллетеней, полученных участковыми комиссиями": 831,
@@ -3539,8 +4187,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 452,
     "uikTvd": "450400970525",
+    "uikName": "УИК №452",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 410,
       "Число бюллетеней, полученных участковыми комиссиями": 393,
@@ -3588,8 +4245,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 453,
     "uikTvd": "450400970526",
+    "uikName": "УИК №453",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 413,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -3637,8 +4303,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 454,
     "uikTvd": "450400970527",
+    "uikName": "УИК №454",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1341,
       "Число бюллетеней, полученных участковыми комиссиями": 1284,
@@ -3686,8 +4361,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 455,
     "uikTvd": "450400970528",
+    "uikName": "УИК №455",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2525,
       "Число бюллетеней, полученных участковыми комиссиями": 2404,
@@ -3735,8 +4419,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 456,
     "uikTvd": "450400970529",
+    "uikName": "УИК №456",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 317,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -3784,8 +4477,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 457,
     "uikTvd": "450400970530",
+    "uikName": "УИК №457",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 540,
       "Число бюллетеней, полученных участковыми комиссиями": 512,
@@ -3833,8 +4535,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 458,
     "uikTvd": "450400970531",
+    "uikName": "УИК №458",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 657,
       "Число бюллетеней, полученных участковыми комиссиями": 628,
@@ -3882,8 +4593,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 459,
     "uikTvd": "450400970532",
+    "uikName": "УИК №459",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1719,
       "Число бюллетеней, полученных участковыми комиссиями": 1623,
@@ -3931,8 +4651,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 460,
     "uikTvd": "450400970533",
+    "uikName": "УИК №460",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 132,
@@ -3980,8 +4709,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 461,
     "uikTvd": "450400970534",
+    "uikName": "УИК №461",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2497,
       "Число бюллетеней, полученных участковыми комиссиями": 2288,
@@ -4029,8 +4767,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 462,
     "uikTvd": "450400970535",
+    "uikName": "УИК №462",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 914,
       "Число бюллетеней, полученных участковыми комиссиями": 856,
@@ -4078,8 +4825,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 463,
     "uikTvd": "450400970536",
+    "uikName": "УИК №463",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1163,
       "Число бюллетеней, полученных участковыми комиссиями": 1116,
@@ -4127,8 +4883,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 464,
     "uikTvd": "450400970537",
+    "uikName": "УИК №464",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1213,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -4176,8 +4941,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 465,
     "uikTvd": "450400970538",
+    "uikName": "УИК №465",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 711,
       "Число бюллетеней, полученных участковыми комиссиями": 665,
@@ -4225,8 +4999,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 466,
     "uikTvd": "450400970539",
+    "uikName": "УИК №466",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 247,
       "Число бюллетеней, полученных участковыми комиссиями": 226,
@@ -4274,8 +5057,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 467,
     "uikTvd": "450400970540",
+    "uikName": "УИК №467",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1018,
       "Число бюллетеней, полученных участковыми комиссиями": 957,
@@ -4323,8 +5115,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 468,
     "uikTvd": "450400970541",
+    "uikName": "УИК №468",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 329,
@@ -4372,8 +5173,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 469,
     "uikTvd": "450400970542",
+    "uikName": "УИК №469",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 385,
@@ -4421,8 +5231,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 470,
     "uikTvd": "450400970543",
+    "uikName": "УИК №470",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 986,
       "Число бюллетеней, полученных участковыми комиссиями": 951,
@@ -4470,8 +5289,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 471,
     "uikTvd": "450400970544",
+    "uikName": "УИК №471",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 386,
       "Число бюллетеней, полученных участковыми комиссиями": 367,
@@ -4519,8 +5347,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "450400970545",
+    "uikName": "УИК №472",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1038,
       "Число бюллетеней, полученных участковыми комиссиями": 988,
@@ -4568,8 +5405,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "450400970546",
+    "uikName": "УИК №473",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 99,
@@ -4617,8 +5463,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 474,
     "uikTvd": "450400970547",
+    "uikName": "УИК №474",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 236,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -4666,8 +5521,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 475,
     "uikTvd": "450400970548",
+    "uikName": "УИК №475",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1872,
       "Число бюллетеней, полученных участковыми комиссиями": 1778,
@@ -4715,8 +5579,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 476,
     "uikTvd": "450400970549",
+    "uikName": "УИК №476",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -4764,8 +5637,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1946,
     "uikTvd": "450403870525",
+    "uikName": "УИК №1946",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2261,
       "Число бюллетеней, полученных участковыми комиссиями": 2251,
@@ -4813,8 +5695,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1947,
     "uikTvd": "450403870526",
+    "uikName": "УИК №1947",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2466,
       "Число бюллетеней, полученных участковыми комиссиями": 2473,
@@ -4862,8 +5753,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1948,
     "uikTvd": "450403870527",
+    "uikName": "УИК №1948",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1819,
       "Число бюллетеней, полученных участковыми комиссиями": 1922,
@@ -4911,8 +5811,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1949,
     "uikTvd": "450403870528",
+    "uikName": "УИК №1949",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2684,
       "Число бюллетеней, полученных участковыми комиссиями": 2737,
@@ -4960,8 +5869,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1950,
     "uikTvd": "450403870529",
+    "uikName": "УИК №1950",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2179,
       "Число бюллетеней, полученных участковыми комиссиями": 2161,
@@ -5009,8 +5927,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1951,
     "uikTvd": "450403870530",
+    "uikName": "УИК №1951",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2357,
       "Число бюллетеней, полученных участковыми комиссиями": 2283,
@@ -5058,8 +5985,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1952,
     "uikTvd": "450403870531",
+    "uikName": "УИК №1952",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1371,
       "Число бюллетеней, полученных участковыми комиссиями": 1382,
@@ -5107,8 +6043,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1953,
     "uikTvd": "450403870532",
+    "uikName": "УИК №1953",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2560,
       "Число бюллетеней, полученных участковыми комиссиями": 2505,
@@ -5156,8 +6101,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1954,
     "uikTvd": "450403870533",
+    "uikName": "УИК №1954",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1892,
       "Число бюллетеней, полученных участковыми комиссиями": 1859,
@@ -5205,8 +6159,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1955,
     "uikTvd": "450403870534",
+    "uikName": "УИК №1955",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 685,
       "Число бюллетеней, полученных участковыми комиссиями": 676,
@@ -5254,8 +6217,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1956,
     "uikTvd": "450403870535",
+    "uikName": "УИК №1956",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1545,
       "Число бюллетеней, полученных участковыми комиссиями": 1527,
@@ -5303,8 +6275,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1957,
     "uikTvd": "450403870536",
+    "uikName": "УИК №1957",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1304,
       "Число бюллетеней, полученных участковыми комиссиями": 1298,
@@ -5352,8 +6333,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1958,
     "uikTvd": "450403870537",
+    "uikName": "УИК №1958",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1099,
       "Число бюллетеней, полученных участковыми комиссиями": 1060,
@@ -5401,8 +6391,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1959,
     "uikTvd": "450403870538",
+    "uikName": "УИК №1959",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1957,
       "Число бюллетеней, полученных участковыми комиссиями": 1952,
@@ -5450,8 +6449,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1960,
     "uikTvd": "450403870539",
+    "uikName": "УИК №1960",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2135,
       "Число бюллетеней, полученных участковыми комиссиями": 2076,
@@ -5499,8 +6507,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1961,
     "uikTvd": "450403870540",
+    "uikName": "УИК №1961",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2857,
       "Число бюллетеней, полученных участковыми комиссиями": 2811,
@@ -5548,8 +6565,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1962,
     "uikTvd": "450403870541",
+    "uikName": "УИК №1962",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2425,
       "Число бюллетеней, полученных участковыми комиссиями": 2366,
@@ -5597,8 +6623,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1963,
     "uikTvd": "450403870542",
+    "uikName": "УИК №1963",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2687,
       "Число бюллетеней, полученных участковыми комиссиями": 2634,
@@ -5646,8 +6681,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1964,
     "uikTvd": "450403870543",
+    "uikName": "УИК №1964",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2949,
       "Число бюллетеней, полученных участковыми комиссиями": 2903,
@@ -5695,8 +6739,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1965,
     "uikTvd": "450403870544",
+    "uikName": "УИК №1965",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2197,
       "Число бюллетеней, полученных участковыми комиссиями": 2155,
@@ -5744,8 +6797,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1966,
     "uikTvd": "450403870545",
+    "uikName": "УИК №1966",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1451,
       "Число бюллетеней, полученных участковыми комиссиями": 1392,
@@ -5793,8 +6855,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1967,
     "uikTvd": "450403870546",
+    "uikName": "УИК №1967",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1640,
       "Число бюллетеней, полученных участковыми комиссиями": 1625,
@@ -5842,8 +6913,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1968,
     "uikTvd": "450403870547",
+    "uikName": "УИК №1968",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2174,
       "Число бюллетеней, полученных участковыми комиссиями": 2139,
@@ -5891,8 +6971,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1969,
     "uikTvd": "450403870548",
+    "uikName": "УИК №1969",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2583,
       "Число бюллетеней, полученных участковыми комиссиями": 2507,
@@ -5940,8 +7029,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1970,
     "uikTvd": "450403870549",
+    "uikName": "УИК №1970",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2831,
       "Число бюллетеней, полученных участковыми комиссиями": 2684,
@@ -5989,8 +7087,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1971,
     "uikTvd": "450403870550",
+    "uikName": "УИК №1971",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1926,
       "Число бюллетеней, полученных участковыми комиссиями": 1892,
@@ -6038,8 +7145,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1972,
     "uikTvd": "450403870551",
+    "uikName": "УИК №1972",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 863,
       "Число бюллетеней, полученных участковыми комиссиями": 867,
@@ -6087,8 +7203,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1973,
     "uikTvd": "450403870552",
+    "uikName": "УИК №1973",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 843,
       "Число бюллетеней, полученных участковыми комиссиями": 838,
@@ -6136,8 +7261,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1974,
     "uikTvd": "450403870553",
+    "uikName": "УИК №1974",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 457,
       "Число бюллетеней, полученных участковыми комиссиями": 455,
@@ -6185,8 +7319,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1975,
     "uikTvd": "450403870554",
+    "uikName": "УИК №1975",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 212,
@@ -6234,8 +7377,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1976,
     "uikTvd": "450403870555",
+    "uikName": "УИК №1976",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 221,
@@ -6283,8 +7435,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1977,
     "uikTvd": "450403870556",
+    "uikName": "УИК №1977",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 641,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -6332,8 +7493,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1978,
     "uikTvd": "450403870557",
+    "uikName": "УИК №1978",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1356,
       "Число бюллетеней, полученных участковыми комиссиями": 1372,
@@ -6381,8 +7551,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1979,
     "uikTvd": "450403870558",
+    "uikName": "УИК №1979",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 186,
@@ -6430,8 +7609,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1980,
     "uikTvd": "450403870559",
+    "uikName": "УИК №1980",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 188,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -6479,8 +7667,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1981,
     "uikTvd": "450403870560",
+    "uikName": "УИК №1981",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -6528,8 +7725,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1982,
     "uikTvd": "450403870561",
+    "uikName": "УИК №1982",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 191,
@@ -6577,8 +7783,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1983,
     "uikTvd": "450403870562",
+    "uikName": "УИК №1983",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 314,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -6626,8 +7841,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1984,
     "uikTvd": "450403870563",
+    "uikName": "УИК №1984",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 374,
       "Число бюллетеней, полученных участковыми комиссиями": 343,
@@ -6675,8 +7899,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1985,
     "uikTvd": "450403870564",
+    "uikName": "УИК №1985",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2183,
       "Число бюллетеней, полученных участковыми комиссиями": 2222,
@@ -6724,8 +7957,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1986,
     "uikTvd": "450403870565",
+    "uikName": "УИК №1986",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 416,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -6773,8 +8015,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1987,
     "uikTvd": "450403870566",
+    "uikName": "УИК №1987",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1077,
       "Число бюллетеней, полученных участковыми комиссиями": 1084,
@@ -6822,8 +8073,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1988,
     "uikTvd": "450403870567",
+    "uikName": "УИК №1988",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1086,
       "Число бюллетеней, полученных участковыми комиссиями": 1096,
@@ -6871,8 +8131,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1989,
     "uikTvd": "450403870568",
+    "uikName": "УИК №1989",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2273,
       "Число бюллетеней, полученных участковыми комиссиями": 2280,
@@ -6920,8 +8189,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1990,
     "uikTvd": "450403870569",
+    "uikName": "УИК №1990",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2467,
       "Число бюллетеней, полученных участковыми комиссиями": 2423,
@@ -6969,8 +8247,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1991,
     "uikTvd": "450403870570",
+    "uikName": "УИК №1991",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2134,
       "Число бюллетеней, полученных участковыми комиссиями": 2105,
@@ -7018,8 +8305,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1992,
     "uikTvd": "450403870571",
+    "uikName": "УИК №1992",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2323,
       "Число бюллетеней, полученных участковыми комиссиями": 2261,
@@ -7067,8 +8363,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1993,
     "uikTvd": "450403870572",
+    "uikName": "УИК №1993",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 536,
       "Число бюллетеней, полученных участковыми комиссиями": 517,
@@ -7116,8 +8421,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1994,
     "uikTvd": "450403870573",
+    "uikName": "УИК №1994",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2287,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -7165,8 +8479,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1995,
     "uikTvd": "450403870574",
+    "uikName": "УИК №1995",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2649,
       "Число бюллетеней, полученных участковыми комиссиями": 2619,
@@ -7214,8 +8537,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1996,
     "uikTvd": "450403870575",
+    "uikName": "УИК №1996",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 257,
@@ -7263,8 +8595,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1997,
     "uikTvd": "450403870576",
+    "uikName": "УИК №1997",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 323,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -7312,8 +8653,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1998,
     "uikTvd": "450403870577",
+    "uikName": "УИК №1998",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2573,
       "Число бюллетеней, полученных участковыми комиссиями": 2552,
@@ -7361,8 +8711,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 1999,
     "uikTvd": "450403870578",
+    "uikName": "УИК №1999",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1578,
       "Число бюллетеней, полученных участковыми комиссиями": 1569,
@@ -7410,8 +8769,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2000,
     "uikTvd": "450403870579",
+    "uikName": "УИК №2000",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 331,
       "Число бюллетеней, полученных участковыми комиссиями": 326,
@@ -7459,8 +8827,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2001,
     "uikTvd": "450403870580",
+    "uikName": "УИК №2001",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 357,
@@ -7508,8 +8885,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2002,
     "uikTvd": "450403870581",
+    "uikName": "УИК №2002",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 148,
@@ -7557,8 +8943,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2003,
     "uikTvd": "450403870582",
+    "uikName": "УИК №2003",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 231,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -7606,8 +9001,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2004,
     "uikTvd": "450403870583",
+    "uikName": "УИК №2004",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 269,
@@ -7655,8 +9059,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2005,
     "uikTvd": "450403870584",
+    "uikName": "УИК №2005",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 321,
       "Число бюллетеней, полученных участковыми комиссиями": 317,
@@ -7704,8 +9117,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2006,
     "uikTvd": "450403870585",
+    "uikName": "УИК №2006",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 222,
@@ -7753,8 +9175,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2007,
     "uikTvd": "450403870586",
+    "uikName": "УИК №2007",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 387,
       "Число бюллетеней, полученных участковыми комиссиями": 376,
@@ -7802,8 +9233,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2008,
     "uikTvd": "450403870587",
+    "uikName": "УИК №2008",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -7851,8 +9291,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2009,
     "uikTvd": "450403870588",
+    "uikName": "УИК №2009",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -7900,8 +9349,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2010,
     "uikTvd": "450403870589",
+    "uikName": "УИК №2010",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1638,
       "Число бюллетеней, полученных участковыми комиссиями": 1620,
@@ -7949,8 +9407,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2011,
     "uikTvd": "450403870590",
+    "uikName": "УИК №2011",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 216,
@@ -7998,8 +9465,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2012,
     "uikTvd": "450403870591",
+    "uikName": "УИК №2012",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 432,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -8047,8 +9523,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2013,
     "uikTvd": "450403870592",
+    "uikName": "УИК №2013",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 126,
@@ -8096,8 +9581,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2014,
     "uikTvd": "450403870593",
+    "uikName": "УИК №2014",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 126,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -8145,8 +9639,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2015,
     "uikTvd": "450403870594",
+    "uikName": "УИК №2015",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 174,
@@ -8194,8 +9697,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2016,
     "uikTvd": "450403870595",
+    "uikName": "УИК №2016",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2034,
       "Число бюллетеней, полученных участковыми комиссиями": 2059,
@@ -8243,8 +9755,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2017,
     "uikTvd": "450403870596",
+    "uikName": "УИК №2017",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 207,
@@ -8292,8 +9813,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2018,
     "uikTvd": "450403870597",
+    "uikName": "УИК №2018",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 149,
       "Число бюллетеней, полученных участковыми комиссиями": 146,
@@ -8341,8 +9871,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2019,
     "uikTvd": "450403870598",
+    "uikName": "УИК №2019",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1119,
       "Число бюллетеней, полученных участковыми комиссиями": 1081,
@@ -8390,8 +9929,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2020,
     "uikTvd": "450403870599",
+    "uikName": "УИК №2020",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1096,
       "Число бюллетеней, полученных участковыми комиссиями": 1106,
@@ -8439,8 +9987,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2021,
     "uikTvd": "450403870600",
+    "uikName": "УИК №2021",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 197,
@@ -8488,8 +10045,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2022,
     "uikTvd": "450403870601",
+    "uikName": "УИК №2022",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 663,
       "Число бюллетеней, полученных участковыми комиссиями": 655,
@@ -8537,8 +10103,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2023,
     "uikTvd": "450403870602",
+    "uikName": "УИК №2023",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 609,
       "Число бюллетеней, полученных участковыми комиссиями": 595,
@@ -8586,8 +10161,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2024,
     "uikTvd": "450403870603",
+    "uikName": "УИК №2024",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1138,
       "Число бюллетеней, полученных участковыми комиссиями": 1131,
@@ -8635,8 +10219,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2025,
     "uikTvd": "450403870604",
+    "uikName": "УИК №2025",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 466,
       "Число бюллетеней, полученных участковыми комиссиями": 451,
@@ -8684,8 +10277,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2026,
     "uikTvd": "450403870605",
+    "uikName": "УИК №2026",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 510,
       "Число бюллетеней, полученных участковыми комиссиями": 498,
@@ -8733,8 +10335,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2027,
     "uikTvd": "450403870606",
+    "uikName": "УИК №2027",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 358,
       "Число бюллетеней, полученных участковыми комиссиями": 352,
@@ -8782,8 +10393,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3012,
     "uikTvd": "450405970527",
+    "uikName": "УИК №3012",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1802,
       "Число бюллетеней, полученных участковыми комиссиями": 1706,
@@ -8831,8 +10451,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3013,
     "uikTvd": "450405970528",
+    "uikName": "УИК №3013",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1705,
       "Число бюллетеней, полученных участковыми комиссиями": 1456,
@@ -8880,8 +10509,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3014,
     "uikTvd": "450405970529",
+    "uikName": "УИК №3014",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2102,
       "Число бюллетеней, полученных участковыми комиссиями": 2008,
@@ -8929,8 +10567,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3015,
     "uikTvd": "450405970530",
+    "uikName": "УИК №3015",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2232,
       "Число бюллетеней, полученных участковыми комиссиями": 2128,
@@ -8978,8 +10625,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3016,
     "uikTvd": "450405970531",
+    "uikName": "УИК №3016",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2408,
       "Число бюллетеней, полученных участковыми комиссиями": 2243,
@@ -9027,8 +10683,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3017,
     "uikTvd": "450405970532",
+    "uikName": "УИК №3017",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2112,
       "Число бюллетеней, полученных участковыми комиссиями": 2001,
@@ -9076,8 +10741,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3018,
     "uikTvd": "450405970533",
+    "uikName": "УИК №3018",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2238,
       "Число бюллетеней, полученных участковыми комиссиями": 2110,
@@ -9125,8 +10799,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3019,
     "uikTvd": "450405970534",
+    "uikName": "УИК №3019",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2210,
       "Число бюллетеней, полученных участковыми комиссиями": 2103,
@@ -9174,8 +10857,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3020,
     "uikTvd": "450405970535",
+    "uikName": "УИК №3020",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2320,
       "Число бюллетеней, полученных участковыми комиссиями": 2133,
@@ -9223,8 +10915,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3021,
     "uikTvd": "450405970536",
+    "uikName": "УИК №3021",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1764,
       "Число бюллетеней, полученных участковыми комиссиями": 1659,
@@ -9272,8 +10973,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3022,
     "uikTvd": "450405970537",
+    "uikName": "УИК №3022",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1337,
       "Число бюллетеней, полученных участковыми комиссиями": 1257,
@@ -9321,8 +11031,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3023,
     "uikTvd": "450405970538",
+    "uikName": "УИК №3023",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1794,
       "Число бюллетеней, полученных участковыми комиссиями": 1658,
@@ -9370,8 +11089,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3024,
     "uikTvd": "450405970539",
+    "uikName": "УИК №3024",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 892,
       "Число бюллетеней, полученных участковыми комиссиями": 836,
@@ -9419,8 +11147,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3025,
     "uikTvd": "450405970540",
+    "uikName": "УИК №3025",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 533,
       "Число бюллетеней, полученных участковыми комиссиями": 534,
@@ -9468,8 +11205,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3026,
     "uikTvd": "450405970541",
+    "uikName": "УИК №3026",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1907,
       "Число бюллетеней, полученных участковыми комиссиями": 1790,
@@ -9517,8 +11263,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3027,
     "uikTvd": "450405970542",
+    "uikName": "УИК №3027",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1576,
       "Число бюллетеней, полученных участковыми комиссиями": 1576,
@@ -9566,8 +11321,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3028,
     "uikTvd": "450405970543",
+    "uikName": "УИК №3028",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 164,
@@ -9615,8 +11379,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3029,
     "uikTvd": "450405970544",
+    "uikName": "УИК №3029",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 294,
       "Число бюллетеней, полученных участковыми комиссиями": 281,
@@ -9664,8 +11437,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3030,
     "uikTvd": "450405970545",
+    "uikName": "УИК №3030",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1492,
       "Число бюллетеней, полученных участковыми комиссиями": 1416,
@@ -9713,8 +11495,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3031,
     "uikTvd": "450405970546",
+    "uikName": "УИК №3031",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1671,
       "Число бюллетеней, полученных участковыми комиссиями": 1581,
@@ -9762,8 +11553,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3032,
     "uikTvd": "450405970547",
+    "uikName": "УИК №3032",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1661,
       "Число бюллетеней, полученных участковыми комиссиями": 1581,
@@ -9811,8 +11611,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3033,
     "uikTvd": "450405970548",
+    "uikName": "УИК №3033",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1845,
       "Число бюллетеней, полученных участковыми комиссиями": 1762,
@@ -9860,8 +11669,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3034,
     "uikTvd": "450405970549",
+    "uikName": "УИК №3034",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1773,
       "Число бюллетеней, полученных участковыми комиссиями": 1628,
@@ -9909,8 +11727,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3035,
     "uikTvd": "450405970550",
+    "uikName": "УИК №3035",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 574,
       "Число бюллетеней, полученных участковыми комиссиями": 506,
@@ -9958,8 +11785,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3036,
     "uikTvd": "450405970551",
+    "uikName": "УИК №3036",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1529,
       "Число бюллетеней, полученных участковыми комиссиями": 1413,
@@ -10007,8 +11843,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3037,
     "uikTvd": "450405970552",
+    "uikName": "УИК №3037",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1055,
       "Число бюллетеней, полученных участковыми комиссиями": 958,
@@ -10056,8 +11901,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3038,
     "uikTvd": "450405970553",
+    "uikName": "УИК №3038",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 828,
       "Число бюллетеней, полученных участковыми комиссиями": 797,
@@ -10105,8 +11959,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3039,
     "uikTvd": "450405970554",
+    "uikName": "УИК №3039",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 575,
       "Число бюллетеней, полученных участковыми комиссиями": 549,
@@ -10154,8 +12017,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3040,
     "uikTvd": "450405970555",
+    "uikName": "УИК №3040",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1370,
       "Число бюллетеней, полученных участковыми комиссиями": 1144,
@@ -10203,8 +12075,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3041,
     "uikTvd": "450405970556",
+    "uikName": "УИК №3041",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 326,
       "Число бюллетеней, полученных участковыми комиссиями": 298,
@@ -10252,8 +12133,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3042,
     "uikTvd": "450405970557",
+    "uikName": "УИК №3042",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 290,
       "Число бюллетеней, полученных участковыми комиссиями": 272,
@@ -10301,8 +12191,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3043,
     "uikTvd": "450405970558",
+    "uikName": "УИК №3043",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 312,
       "Число бюллетеней, полученных участковыми комиссиями": 296,
@@ -10350,8 +12249,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3044,
     "uikTvd": "450405970559",
+    "uikName": "УИК №3044",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2242,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -10399,8 +12307,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3045,
     "uikTvd": "450405970560",
+    "uikName": "УИК №3045",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 278,
@@ -10448,8 +12365,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3046,
     "uikTvd": "450405970561",
+    "uikName": "УИК №3046",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 628,
       "Число бюллетеней, полученных участковыми комиссиями": 588,
@@ -10497,8 +12423,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3047,
     "uikTvd": "450405970562",
+    "uikName": "УИК №3047",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2561,
       "Число бюллетеней, полученных участковыми комиссиями": 2454,
@@ -10546,8 +12481,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3048,
     "uikTvd": "450405970563",
+    "uikName": "УИК №3048",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 206,
@@ -10595,8 +12539,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3049,
     "uikTvd": "450405970564",
+    "uikName": "УИК №3049",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 263,
@@ -10644,8 +12597,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3050,
     "uikTvd": "450405970565",
+    "uikName": "УИК №3050",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 223,
@@ -10693,8 +12655,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3051,
     "uikTvd": "450405970566",
+    "uikName": "УИК №3051",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 216,
@@ -10742,8 +12713,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3052,
     "uikTvd": "450405970567",
+    "uikName": "УИК №3052",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 157,
@@ -10791,8 +12771,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3053,
     "uikTvd": "450405970568",
+    "uikName": "УИК №3053",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -10840,8 +12829,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3054,
     "uikTvd": "450405970569",
+    "uikName": "УИК №3054",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1350,
       "Число бюллетеней, полученных участковыми комиссиями": 1277,
@@ -10889,8 +12887,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3055,
     "uikTvd": "450405970570",
+    "uikName": "УИК №3055",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 447,
       "Число бюллетеней, полученных участковыми комиссиями": 423,
@@ -10938,8 +12945,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3056,
     "uikTvd": "450405970571",
+    "uikName": "УИК №3056",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 869,
       "Число бюллетеней, полученных участковыми комиссиями": 831,
@@ -10987,8 +13003,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3057,
     "uikTvd": "450405970572",
+    "uikName": "УИК №3057",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 766,
       "Число бюллетеней, полученных участковыми комиссиями": 732,
@@ -11036,8 +13061,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3058,
     "uikTvd": "450405970573",
+    "uikName": "УИК №3058",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1278,
       "Число бюллетеней, полученных участковыми комиссиями": 1223,
@@ -11085,8 +13119,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3059,
     "uikTvd": "450405970574",
+    "uikName": "УИК №3059",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 254,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -11134,8 +13177,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3060,
     "uikTvd": "450405970575",
+    "uikName": "УИК №3060",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 191,
@@ -11183,8 +13235,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3061,
     "uikTvd": "450405970576",
+    "uikName": "УИК №3061",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 352,
@@ -11232,8 +13293,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 3062,
     "uikTvd": "450405970577",
+    "uikName": "УИК №3062",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 456,
       "Число бюллетеней, полученных участковыми комиссиями": 415,
@@ -11281,8 +13351,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2028,
     "uikTvd": "450403970507",
+    "uikName": "УИК №2028",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1220,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -11330,8 +13409,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2029,
     "uikTvd": "450403970508",
+    "uikName": "УИК №2029",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2420,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11379,8 +13467,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2030,
     "uikTvd": "450403970509",
+    "uikName": "УИК №2030",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1853,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -11428,8 +13525,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2031,
     "uikTvd": "450403970510",
+    "uikName": "УИК №2031",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 568,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -11477,8 +13583,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2032,
     "uikTvd": "450403970459",
+    "uikName": "УИК №2032",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 922,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -11526,8 +13641,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2033,
     "uikTvd": "450403970460",
+    "uikName": "УИК №2033",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1216,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -11575,8 +13699,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2034,
     "uikTvd": "450403970461",
+    "uikName": "УИК №2034",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1785,
       "Число бюллетеней, полученных участковыми комиссиями": 1710,
@@ -11624,8 +13757,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2035,
     "uikTvd": "450403970462",
+    "uikName": "УИК №2035",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1496,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -11673,8 +13815,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2036,
     "uikTvd": "450403970463",
+    "uikName": "УИК №2036",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2288,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -11722,8 +13873,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2037,
     "uikTvd": "450403970464",
+    "uikName": "УИК №2037",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1615,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -11771,8 +13931,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2038,
     "uikTvd": "450403970465",
+    "uikName": "УИК №2038",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1858,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -11820,8 +13989,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2039,
     "uikTvd": "450403970466",
+    "uikName": "УИК №2039",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1308,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -11869,8 +14047,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2040,
     "uikTvd": "450403970467",
+    "uikName": "УИК №2040",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1200,
       "Число бюллетеней, полученных участковыми комиссиями": 1130,
@@ -11918,8 +14105,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2041,
     "uikTvd": "450403970468",
+    "uikName": "УИК №2041",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1593,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -11967,8 +14163,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2042,
     "uikTvd": "450403970469",
+    "uikName": "УИК №2042",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1342,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -12016,8 +14221,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2043,
     "uikTvd": "450403970470",
+    "uikName": "УИК №2043",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1749,
       "Число бюллетеней, полученных участковыми комиссиями": 1670,
@@ -12065,8 +14279,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2044,
     "uikTvd": "450403970471",
+    "uikName": "УИК №2044",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1531,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -12114,8 +14337,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2045,
     "uikTvd": "450403970472",
+    "uikName": "УИК №2045",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2490,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -12163,8 +14395,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2046,
     "uikTvd": "450403970473",
+    "uikName": "УИК №2046",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1853,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -12212,8 +14453,17 @@ export const duma_2003_uik_428_region_50_part_010 = [
     "ballot": "single-member",
     "uikNumber": 2047,
     "uikTvd": "450403970474",
+    "uikName": "УИК №2047",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1681,
       "Число бюллетеней, полученных участковыми комиссиями": 1620,

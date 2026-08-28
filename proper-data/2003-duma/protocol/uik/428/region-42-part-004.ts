@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1281,
     "uikTvd": "442404366703",
+    "uikName": "УИК  1281",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 655,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -57,8 +66,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1282,
     "uikTvd": "442404366704",
+    "uikName": "УИК  1282",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 295,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -103,8 +121,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1283,
     "uikTvd": "442404366705",
+    "uikName": "УИК  1283",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 254,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -149,8 +176,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1284,
     "uikTvd": "442404366706",
+    "uikName": "УИК  1284",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1002,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -195,8 +231,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1285,
     "uikTvd": "442404366708",
+    "uikName": "УИК  1285",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 401,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -241,8 +286,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1286,
     "uikTvd": "442404366709",
+    "uikName": "УИК  1286",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -287,8 +341,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1287,
     "uikTvd": "442404366710",
+    "uikName": "УИК  1287",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 350,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -333,8 +396,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1288,
     "uikTvd": "442404366711",
+    "uikName": "УИК  1288",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 826,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -379,8 +451,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1289,
     "uikTvd": "442404366712",
+    "uikName": "УИК  1289",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 325,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -425,8 +506,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1290,
     "uikTvd": "442404366713",
+    "uikName": "УИК  1290",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 149,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -471,8 +561,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1291,
     "uikTvd": "442404366714",
+    "uikName": "УИК  1291",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 980,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -517,8 +616,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1292,
     "uikTvd": "442404366715",
+    "uikName": "УИК  1292",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -563,8 +671,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1293,
     "uikTvd": "442404366716",
+    "uikName": "УИК  1293",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 295,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -609,8 +726,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1294,
     "uikTvd": "442404366717",
+    "uikName": "УИК  1294",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 575,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -655,8 +781,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1295,
     "uikTvd": "442404366718",
+    "uikName": "УИК  1295",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 508,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -701,8 +836,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1296,
     "uikTvd": "442404366719",
+    "uikName": "УИК  1296",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -747,8 +891,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1297,
     "uikTvd": "442404366720",
+    "uikName": "УИК  1297",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1086,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -793,8 +946,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1298,
     "uikTvd": "442404366721",
+    "uikName": "УИК  1298",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1109,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -839,8 +1001,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1299,
     "uikTvd": "442404366722",
+    "uikName": "УИК  1299",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 504,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -885,8 +1056,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1300,
     "uikTvd": "442404366723",
+    "uikName": "УИК  1300",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -931,8 +1111,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1301,
     "uikTvd": "442404366724",
+    "uikName": "УИК  1301",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 634,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -977,8 +1166,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1302,
     "uikTvd": "442404366725",
+    "uikName": "УИК  1302",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 116,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -1023,8 +1221,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1303,
     "uikTvd": "442404366726",
+    "uikName": "УИК  1303",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 611,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -1069,8 +1276,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1304,
     "uikTvd": "442404366727",
+    "uikName": "УИК  1304",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1080,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1115,8 +1331,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1305,
     "uikTvd": "442404366728",
+    "uikName": "УИК  1305",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 931,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -1161,8 +1386,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1306,
     "uikTvd": "442404366729",
+    "uikName": "УИК  1306",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 188,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -1207,8 +1441,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1307,
     "uikTvd": "442404366730",
+    "uikName": "УИК  1307",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -1253,8 +1496,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1308,
     "uikTvd": "442404366731",
+    "uikName": "УИК  1308",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 524,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -1299,8 +1551,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1309,
     "uikTvd": "442404366732",
+    "uikName": "УИК  1309",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -1345,8 +1606,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1310,
     "uikTvd": "442404366733",
+    "uikName": "УИК  1310",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -1391,8 +1661,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1311,
     "uikTvd": "442404366734",
+    "uikName": "УИК  1311",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 560,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -1437,8 +1716,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1312,
     "uikTvd": "442404366735",
+    "uikName": "УИК  1312",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 395,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -1483,8 +1771,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1313,
     "uikTvd": "442404366736",
+    "uikName": "УИК  1313",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 875,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -1529,8 +1826,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1314,
     "uikTvd": "442404366737",
+    "uikName": "УИК  1314",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -1575,8 +1881,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1315,
     "uikTvd": "442404366738",
+    "uikName": "УИК  1315",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 943,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -1621,8 +1936,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1316,
     "uikTvd": "442404366739",
+    "uikName": "УИК  1316",
     "tikTvd": "342300267483",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -1667,8 +1991,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1462,
     "uikTvd": "442403566779",
+    "uikName": "УИК №1462",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 837,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -1713,8 +2046,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1463,
     "uikTvd": "442403566780",
+    "uikName": "УИК №1463",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 882,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -1759,8 +2101,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1464,
     "uikTvd": "442403566781",
+    "uikName": "УИК №1464",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 849,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -1805,8 +2156,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1465,
     "uikTvd": "442403566782",
+    "uikName": "УИК №1465",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 867,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -1851,8 +2211,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1466,
     "uikTvd": "442403566783",
+    "uikName": "УИК №1466",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 771,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -1897,8 +2266,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1467,
     "uikTvd": "442403566784",
+    "uikName": "УИК №1467",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1065,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1943,8 +2321,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1468,
     "uikTvd": "442403566785",
+    "uikName": "УИК №1468",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1113,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1989,8 +2376,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1469,
     "uikTvd": "442403566786",
+    "uikName": "УИК №1469",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 196,
@@ -2035,8 +2431,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1470,
     "uikTvd": "442403566787",
+    "uikName": "УИК №1470",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1217,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -2081,8 +2486,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1471,
     "uikTvd": "442403566788",
+    "uikName": "УИК №1471",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1092,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2127,8 +2541,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1472,
     "uikTvd": "442403566789",
+    "uikName": "УИК №1472",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 495,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2173,8 +2596,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1473,
     "uikTvd": "442403566790",
+    "uikName": "УИК №1473",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 335,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2219,8 +2651,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1474,
     "uikTvd": "442403566791",
+    "uikName": "УИК №1474",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -2265,8 +2706,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1475,
     "uikTvd": "442403566792",
+    "uikName": "УИК №1475",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -2311,8 +2761,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1476,
     "uikTvd": "442403566793",
+    "uikName": "УИК №1476",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -2357,8 +2816,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1477,
     "uikTvd": "442403566794",
+    "uikName": "УИК №1477",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 303,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -2403,8 +2871,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1478,
     "uikTvd": "442403566795",
+    "uikName": "УИК №1478",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1034,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2449,8 +2926,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1479,
     "uikTvd": "442403566796",
+    "uikName": "УИК №1479",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 502,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2495,8 +2981,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1480,
     "uikTvd": "442403566797",
+    "uikName": "УИК №1480",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 535,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2541,8 +3036,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1481,
     "uikTvd": "442403566798",
+    "uikName": "УИК №1481",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 140,
       "Число бюллетеней, полученных участковыми комиссиями": 144,
@@ -2587,8 +3091,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1482,
     "uikTvd": "442403566799",
+    "uikName": "УИК №1482",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 833,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -2633,8 +3146,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1483,
     "uikTvd": "442403566800",
+    "uikName": "УИК №1483",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 490,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2679,8 +3201,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1484,
     "uikTvd": "442403566801",
+    "uikName": "УИК №1484",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 191,
@@ -2725,8 +3256,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1485,
     "uikTvd": "442403566802",
+    "uikName": "УИК №1485",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 840,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -2771,8 +3311,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1486,
     "uikTvd": "442403566803",
+    "uikName": "УИК №1486",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 72,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -2817,8 +3366,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1487,
     "uikTvd": "442403566804",
+    "uikName": "УИК №1487",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 534,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2863,8 +3421,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1488,
     "uikTvd": "442403566805",
+    "uikName": "УИК №1488",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 133,
@@ -2909,8 +3476,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1489,
     "uikTvd": "442403566806",
+    "uikName": "УИК №1489",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 87,
@@ -2955,8 +3531,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1490,
     "uikTvd": "442403566807",
+    "uikName": "УИК №1490",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 76,
       "Число бюллетеней, полученных участковыми комиссиями": 77,
@@ -3001,8 +3586,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1491,
     "uikTvd": "442403566808",
+    "uikName": "УИК №1491",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 193,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3047,8 +3641,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1492,
     "uikTvd": "442403566809",
+    "uikName": "УИК №1492",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -3093,8 +3696,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1493,
     "uikTvd": "442403566810",
+    "uikName": "УИК №1493",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 298,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -3139,8 +3751,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1494,
     "uikTvd": "442403566811",
+    "uikName": "УИК №1494",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 217,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3185,8 +3806,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1495,
     "uikTvd": "442403566812",
+    "uikName": "УИК №1495",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 301,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3231,8 +3861,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1496,
     "uikTvd": "442403566813",
+    "uikName": "УИК №1496",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 358,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -3277,8 +3916,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1497,
     "uikTvd": "442403566814",
+    "uikName": "УИК №1497",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 172,
@@ -3323,8 +3971,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1498,
     "uikTvd": "442403566815",
+    "uikName": "УИК №1498",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 432,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -3369,8 +4026,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1499,
     "uikTvd": "442403566816",
+    "uikName": "УИК №1499",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 422,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -3415,8 +4081,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1500,
     "uikTvd": "442403566817",
+    "uikName": "УИК №1500",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 500,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -3461,8 +4136,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1501,
     "uikTvd": "442403566818",
+    "uikName": "УИК №1501",
     "tikTvd": "342300267484",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -3507,8 +4191,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1502,
     "uikTvd": "442403766810",
+    "uikName": "УИК №1502",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 653,
       "Число бюллетеней, полученных участковыми комиссиями": 649,
@@ -3553,8 +4246,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1503,
     "uikTvd": "442403766811",
+    "uikName": "УИК №1503",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 95,
       "Число бюллетеней, полученных участковыми комиссиями": 94,
@@ -3599,8 +4301,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1504,
     "uikTvd": "442403766812",
+    "uikName": "УИК №1504",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 165,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -3645,8 +4356,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1505,
     "uikTvd": "442403766813",
+    "uikName": "УИК №1505",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 373,
@@ -3691,8 +4411,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1506,
     "uikTvd": "442403766814",
+    "uikName": "УИК №1506",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -3737,8 +4466,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1507,
     "uikTvd": "442403766815",
+    "uikName": "УИК №1507",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 363,
@@ -3783,8 +4521,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1508,
     "uikTvd": "442403766816",
+    "uikName": "УИК №1508",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 89,
@@ -3829,8 +4576,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1509,
     "uikTvd": "442403766817",
+    "uikName": "УИК №1509",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 593,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -3875,8 +4631,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1510,
     "uikTvd": "442403766818",
+    "uikName": "УИК №1510",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -3921,8 +4686,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1511,
     "uikTvd": "442403766819",
+    "uikName": "УИК №1511",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 407,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -3967,8 +4741,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1512,
     "uikTvd": "442403766820",
+    "uikName": "УИК №1512",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 203,
@@ -4013,8 +4796,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1513,
     "uikTvd": "442403766821",
+    "uikName": "УИК №1513",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -4059,8 +4851,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1514,
     "uikTvd": "442403766822",
+    "uikName": "УИК №1514",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 70,
       "Число бюллетеней, полученных участковыми комиссиями": 67,
@@ -4105,8 +4906,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1515,
     "uikTvd": "442403766823",
+    "uikName": "УИК №1515",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 199,
@@ -4151,8 +4961,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1516,
     "uikTvd": "442403766824",
+    "uikName": "УИК №1516",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 511,
       "Число бюллетеней, полученных участковыми комиссиями": 509,
@@ -4197,8 +5016,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1517,
     "uikTvd": "442403766825",
+    "uikName": "УИК №1517",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 68,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -4243,8 +5071,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1518,
     "uikTvd": "442403766826",
+    "uikName": "УИК №1518",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 272,
@@ -4289,8 +5126,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1519,
     "uikTvd": "442403766827",
+    "uikName": "УИК №1519",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 439,
       "Число бюллетеней, полученных участковыми комиссиями": 438,
@@ -4335,8 +5181,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1520,
     "uikTvd": "442403766828",
+    "uikName": "УИК №1520",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 54,
       "Число бюллетеней, полученных участковыми комиссиями": 56,
@@ -4381,8 +5236,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1521,
     "uikTvd": "442403766829",
+    "uikName": "УИК №1521",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 741,
       "Число бюллетеней, полученных участковыми комиссиями": 734,
@@ -4427,8 +5291,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1522,
     "uikTvd": "442403766830",
+    "uikName": "УИК №1522",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 362,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -4473,8 +5346,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1523,
     "uikTvd": "442403766831",
+    "uikName": "УИК №1523",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 217,
       "Число бюллетеней, полученных участковыми комиссиями": 217,
@@ -4519,8 +5401,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1524,
     "uikTvd": "442403766832",
+    "uikName": "УИК №1524",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 123,
       "Число бюллетеней, полученных участковыми комиссиями": 134,
@@ -4565,8 +5456,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1525,
     "uikTvd": "442403766833",
+    "uikName": "УИК №1525",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 335,
       "Число бюллетеней, полученных участковыми комиссиями": 325,
@@ -4611,8 +5511,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1526,
     "uikTvd": "442403766834",
+    "uikName": "УИК №1526",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 241,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -4657,8 +5566,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1527,
     "uikTvd": "442403766835",
+    "uikName": "УИК №1527",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 99,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -4703,8 +5621,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1528,
     "uikTvd": "442403766836",
+    "uikName": "УИК №1528",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 236,
       "Число бюллетеней, полученных участковыми комиссиями": 236,
@@ -4749,8 +5676,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1529,
     "uikTvd": "442403766837",
+    "uikName": "УИК №1529",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -4795,8 +5731,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1530,
     "uikTvd": "442403766838",
+    "uikName": "УИК №1530",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 490,
       "Число бюллетеней, полученных участковыми комиссиями": 483,
@@ -4841,8 +5786,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1531,
     "uikTvd": "442403766839",
+    "uikName": "УИК №1531",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 89,
@@ -4887,8 +5841,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1532,
     "uikTvd": "442403766840",
+    "uikName": "УИК №1532",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 219,
@@ -4933,8 +5896,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1533,
     "uikTvd": "442403766841",
+    "uikName": "УИК №1533",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 464,
       "Число бюллетеней, полученных участковыми комиссиями": 459,
@@ -4979,8 +5951,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1534,
     "uikTvd": "442403766842",
+    "uikName": "УИК №1534",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 78,
@@ -5025,8 +6006,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1535,
     "uikTvd": "442403766843",
+    "uikName": "УИК №1535",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 23,
       "Число бюллетеней, полученных участковыми комиссиями": 29,
@@ -5071,8 +6061,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1536,
     "uikTvd": "442403766844",
+    "uikName": "УИК №1536",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 745,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -5117,8 +6116,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1537,
     "uikTvd": "442403766845",
+    "uikName": "УИК №1537",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 284,
@@ -5163,8 +6171,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1538,
     "uikTvd": "442403766846",
+    "uikName": "УИК №1538",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2019,
       "Число бюллетеней, полученных участковыми комиссиями": 2046,
@@ -5209,8 +6226,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1539,
     "uikTvd": "442403766847",
+    "uikName": "УИК №1539",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1185,
       "Число бюллетеней, полученных участковыми комиссиями": 1219,
@@ -5255,8 +6281,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1540,
     "uikTvd": "442403766848",
+    "uikName": "УИК №1540",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1720,
       "Число бюллетеней, полученных участковыми комиссиями": 1724,
@@ -5301,8 +6336,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1541,
     "uikTvd": "442403766849",
+    "uikName": "УИК №1541",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1769,
       "Число бюллетеней, полученных участковыми комиссиями": 1785,
@@ -5347,8 +6391,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1542,
     "uikTvd": "442403766850",
+    "uikName": "УИК №1542",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1202,
       "Число бюллетеней, полученных участковыми комиссиями": 1253,
@@ -5393,8 +6446,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1543,
     "uikTvd": "442403766851",
+    "uikName": "УИК №1543",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1915,
       "Число бюллетеней, полученных участковыми комиссиями": 1954,
@@ -5439,8 +6501,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1544,
     "uikTvd": "442403766852",
+    "uikName": "УИК №1544",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 985,
       "Число бюллетеней, полученных участковыми комиссиями": 974,
@@ -5485,8 +6556,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1545,
     "uikTvd": "442403766853",
+    "uikName": "УИК №1545",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 456,
       "Число бюллетеней, полученных участковыми комиссиями": 454,
@@ -5531,8 +6611,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1546,
     "uikTvd": "442403766854",
+    "uikName": "УИК №1546",
     "tikTvd": "342300267485",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 719,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -5577,8 +6666,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1547,
     "uikTvd": "442403866710",
+    "uikName": "УИК №1547",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1220,
       "Число бюллетеней, полученных участковыми комиссиями": 1288,
@@ -5623,8 +6721,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1548,
     "uikTvd": "442403866711",
+    "uikName": "УИК №1548",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1783,
       "Число бюллетеней, полученных участковыми комиссиями": 1836,
@@ -5669,8 +6776,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1549,
     "uikTvd": "442403866712",
+    "uikName": "УИК №1549",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 959,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -5715,8 +6831,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1550,
     "uikTvd": "442403866713",
+    "uikName": "УИК №1550",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 139,
@@ -5761,8 +6886,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1551,
     "uikTvd": "442403866714",
+    "uikName": "УИК №1551",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 61,
       "Число бюллетеней, полученных участковыми комиссиями": 58,
@@ -5807,8 +6941,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1552,
     "uikTvd": "442403866715",
+    "uikName": "УИК №1552",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 535,
       "Число бюллетеней, полученных участковыми комиссиями": 513,
@@ -5853,8 +6996,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1553,
     "uikTvd": "442403866716",
+    "uikName": "УИК №1553",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 98,
@@ -5899,8 +7051,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1554,
     "uikTvd": "442403866717",
+    "uikName": "УИК №1554",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 520,
       "Число бюллетеней, полученных участковыми комиссиями": 494,
@@ -5945,8 +7106,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1555,
     "uikTvd": "442403866718",
+    "uikName": "УИК №1555",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 490,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -5991,8 +7161,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1556,
     "uikTvd": "442403866719",
+    "uikName": "УИК №1556",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 433,
       "Число бюллетеней, полученных участковыми комиссиями": 428,
@@ -6037,8 +7216,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1557,
     "uikTvd": "442403866720",
+    "uikName": "УИК №1557",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 536,
       "Число бюллетеней, полученных участковыми комиссиями": 515,
@@ -6083,8 +7271,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1558,
     "uikTvd": "442403866721",
+    "uikName": "УИК №1558",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 340,
       "Число бюллетеней, полученных участковыми комиссиями": 322,
@@ -6129,8 +7326,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1559,
     "uikTvd": "442403866722",
+    "uikName": "УИК №1559",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1011,
       "Число бюллетеней, полученных участковыми комиссиями": 1009,
@@ -6175,8 +7381,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1560,
     "uikTvd": "442403866723",
+    "uikName": "УИК №1560",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 248,
       "Число бюллетеней, полученных участковыми комиссиями": 262,
@@ -6221,8 +7436,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1561,
     "uikTvd": "442403866724",
+    "uikName": "УИК №1561",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 427,
       "Число бюллетеней, полученных участковыми комиссиями": 432,
@@ -6267,8 +7491,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1562,
     "uikTvd": "442403866725",
+    "uikName": "УИК №1562",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 581,
       "Число бюллетеней, полученных участковыми комиссиями": 562,
@@ -6313,8 +7546,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1563,
     "uikTvd": "442403866726",
+    "uikName": "УИК №1563",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -6359,8 +7601,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1564,
     "uikTvd": "442403866727",
+    "uikName": "УИК №1564",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 228,
@@ -6405,8 +7656,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1565,
     "uikTvd": "442403866728",
+    "uikName": "УИК №1565",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 527,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6451,8 +7711,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1566,
     "uikTvd": "442403866729",
+    "uikName": "УИК №1566",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 545,
       "Число бюллетеней, полученных участковыми комиссиями": 543,
@@ -6497,8 +7766,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1567,
     "uikTvd": "442403866730",
+    "uikName": "УИК №1567",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 236,
       "Число бюллетеней, полученных участковыми комиссиями": 243,
@@ -6543,8 +7821,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1568,
     "uikTvd": "442403866731",
+    "uikName": "УИК №1568",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -6589,8 +7876,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1569,
     "uikTvd": "442403866732",
+    "uikName": "УИК №1569",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 342,
       "Число бюллетеней, полученных участковыми комиссиями": 341,
@@ -6635,8 +7931,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1570,
     "uikTvd": "442403866733",
+    "uikName": "УИК №1570",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 211,
       "Число бюллетеней, полученных участковыми комиссиями": 214,
@@ -6681,8 +7986,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1571,
     "uikTvd": "442403866734",
+    "uikName": "УИК №1571",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 137,
@@ -6727,8 +8041,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1572,
     "uikTvd": "442403866735",
+    "uikName": "УИК №1572",
     "tikTvd": "342300267486",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 23,
       "Число бюллетеней, полученных участковыми комиссиями": 30,
@@ -6773,8 +8096,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1573,
     "uikTvd": "442404666706",
+    "uikName": "УИК №1573",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -6819,8 +8151,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1574,
     "uikTvd": "442404666707",
+    "uikName": "УИК №1574",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 261,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -6865,8 +8206,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1575,
     "uikTvd": "442404666708",
+    "uikName": "УИК №1575",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 691,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -6911,8 +8261,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1576,
     "uikTvd": "442404666709",
+    "uikName": "УИК №1576",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 177,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -6957,8 +8316,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1577,
     "uikTvd": "442404666710",
+    "uikName": "УИК №1577",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -7003,8 +8371,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1578,
     "uikTvd": "442404666711",
+    "uikName": "УИК №1578",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 75,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -7049,8 +8426,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1579,
     "uikTvd": "442404666712",
+    "uikName": "УИК №1579",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 76,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -7095,8 +8481,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1580,
     "uikTvd": "442404666713",
+    "uikName": "УИК №1580",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 60,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -7141,8 +8536,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1581,
     "uikTvd": "442404666714",
+    "uikName": "УИК №1581",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1208,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7187,8 +8591,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1582,
     "uikTvd": "442404666715",
+    "uikName": "УИК №1582",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 973,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -7233,8 +8646,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1583,
     "uikTvd": "442404666716",
+    "uikName": "УИК №1583",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 370,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -7279,8 +8701,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1584,
     "uikTvd": "442404666717",
+    "uikName": "УИК №1584",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 797,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -7325,8 +8756,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1585,
     "uikTvd": "442404666718",
+    "uikName": "УИК №1585",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 948,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -7371,8 +8811,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1586,
     "uikTvd": "442404666719",
+    "uikName": "УИК №1586",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 419,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -7417,8 +8866,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1587,
     "uikTvd": "442404666720",
+    "uikName": "УИК №1587",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 305,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -7463,8 +8921,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1588,
     "uikTvd": "442404666721",
+    "uikName": "УИК №1588",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -7509,8 +8976,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1589,
     "uikTvd": "442404666722",
+    "uikName": "УИК №1589",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -7555,8 +9031,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1590,
     "uikTvd": "442404666723",
+    "uikName": "УИК №1590",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -7601,8 +9086,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1591,
     "uikTvd": "442404666724",
+    "uikName": "УИК №1591",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 65,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -7647,8 +9141,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1592,
     "uikTvd": "442404666725",
+    "uikName": "УИК №1592",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 329,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7693,8 +9196,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1593,
     "uikTvd": "442404666726",
+    "uikName": "УИК №1593",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -7739,8 +9251,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1594,
     "uikTvd": "442404666727",
+    "uikName": "УИК №1594",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7785,8 +9306,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1595,
     "uikTvd": "442404666728",
+    "uikName": "УИК №1595",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 214,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7831,8 +9361,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1596,
     "uikTvd": "442404666729",
+    "uikName": "УИК №1596",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -7877,8 +9416,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1597,
     "uikTvd": "442404666730",
+    "uikName": "УИК №1597",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -7923,8 +9471,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1598,
     "uikTvd": "442404666731",
+    "uikName": "УИК №1598",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 318,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7969,8 +9526,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1599,
     "uikTvd": "442404666732",
+    "uikName": "УИК №1599",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -8015,8 +9581,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1600,
     "uikTvd": "442404666733",
+    "uikName": "УИК №1600",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -8061,8 +9636,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1601,
     "uikTvd": "442404666734",
+    "uikName": "УИК №1601",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -8107,8 +9691,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1602,
     "uikTvd": "442404666735",
+    "uikName": "УИК №1602",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 712,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -8153,8 +9746,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1603,
     "uikTvd": "442404666736",
+    "uikName": "УИК №1603",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -8199,8 +9801,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1604,
     "uikTvd": "442404666737",
+    "uikName": "УИК №1604",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 477,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -8245,8 +9856,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1605,
     "uikTvd": "442404666738",
+    "uikName": "УИК №1605",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 337,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -8291,8 +9911,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1606,
     "uikTvd": "442404666739",
+    "uikName": "УИК №1606",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 499,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8337,8 +9966,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1607,
     "uikTvd": "442404666740",
+    "uikName": "УИК №1607",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 803,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -8383,8 +10021,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1608,
     "uikTvd": "442404666741",
+    "uikName": "УИК №1608",
     "tikTvd": "342300267487",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1123,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8429,8 +10076,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1645,
     "uikTvd": "442404166785",
+    "uikName": "УИК №1645",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 55,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -8475,8 +10131,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1646,
     "uikTvd": "442404166786",
+    "uikName": "УИК №1646",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 241,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -8521,8 +10186,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1647,
     "uikTvd": "442404166787",
+    "uikName": "УИК №1647",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1502,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -8567,8 +10241,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1648,
     "uikTvd": "442404166788",
+    "uikName": "УИК №1648",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1354,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -8613,8 +10296,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1649,
     "uikTvd": "442404166789",
+    "uikName": "УИК №1649",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1634,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -8659,8 +10351,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1650,
     "uikTvd": "442404166790",
+    "uikName": "УИК №1650",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1618,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -8705,8 +10406,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1651,
     "uikTvd": "442404166791",
+    "uikName": "УИК №1651",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1021,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -8751,8 +10461,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1652,
     "uikTvd": "442404166792",
+    "uikName": "УИК №1652",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1413,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -8797,8 +10516,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1653,
     "uikTvd": "442404166793",
+    "uikName": "УИК №1653",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 844,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -8843,8 +10571,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1654,
     "uikTvd": "442404166794",
+    "uikName": "УИК №1654",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 892,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -8889,8 +10626,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1655,
     "uikTvd": "442404166795",
+    "uikName": "УИК №1655",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1115,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8935,8 +10681,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1656,
     "uikTvd": "442404166796",
+    "uikName": "УИК №1656",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1036,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -8981,8 +10736,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1657,
     "uikTvd": "442404166797",
+    "uikName": "УИК №1657",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -9027,8 +10791,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1658,
     "uikTvd": "442404166798",
+    "uikName": "УИК №1658",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 742,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -9073,8 +10846,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1659,
     "uikTvd": "442404166799",
+    "uikName": "УИК №1659",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -9119,8 +10901,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1660,
     "uikTvd": "442404166800",
+    "uikName": "УИК №1660",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -9165,8 +10956,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1661,
     "uikTvd": "442404166801",
+    "uikName": "УИК №1661",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 457,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -9211,8 +11011,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1662,
     "uikTvd": "442404166802",
+    "uikName": "УИК №1662",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 423,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -9257,8 +11066,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1663,
     "uikTvd": "442404166803",
+    "uikName": "УИК №1663",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 452,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -9303,8 +11121,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1664,
     "uikTvd": "442404166804",
+    "uikName": "УИК №1664",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 329,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -9349,8 +11176,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1665,
     "uikTvd": "442404166805",
+    "uikName": "УИК №1665",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 783,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -9395,8 +11231,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1666,
     "uikTvd": "442404166806",
+    "uikName": "УИК №1666",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 96,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -9441,8 +11286,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1667,
     "uikTvd": "442404166807",
+    "uikName": "УИК №1667",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 757,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -9487,8 +11341,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1668,
     "uikTvd": "442404166808",
+    "uikName": "УИК №1668",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 556,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -9533,8 +11396,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1669,
     "uikTvd": "442404166809",
+    "uikName": "УИК №1669",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -9579,8 +11451,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1670,
     "uikTvd": "442404166810",
+    "uikName": "УИК №1670",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 331,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -9625,8 +11506,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1671,
     "uikTvd": "442404166811",
+    "uikName": "УИК №1671",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -9671,8 +11561,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1672,
     "uikTvd": "442404166812",
+    "uikName": "УИК №1672",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 135,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -9717,8 +11616,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1673,
     "uikTvd": "442404166813",
+    "uikName": "УИК №1673",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -9763,8 +11671,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1674,
     "uikTvd": "442404166814",
+    "uikName": "УИК №1674",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1417,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -9809,8 +11726,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1675,
     "uikTvd": "442404166815",
+    "uikName": "УИК №1675",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 474,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -9855,8 +11781,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1676,
     "uikTvd": "442404166816",
+    "uikName": "УИК №1676",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 78,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -9901,8 +11836,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1677,
     "uikTvd": "442404166817",
+    "uikName": "УИК №1677",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 279,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -9947,8 +11891,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1678,
     "uikTvd": "442404166818",
+    "uikName": "УИК №1678",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -9993,8 +11946,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1679,
     "uikTvd": "442404166819",
+    "uikName": "УИК №1679",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -10039,8 +12001,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1680,
     "uikTvd": "442404166820",
+    "uikName": "УИК №1680",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 818,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -10085,8 +12056,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1681,
     "uikTvd": "442404166821",
+    "uikName": "УИК №1681",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 618,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -10131,8 +12111,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1682,
     "uikTvd": "442404166822",
+    "uikName": "УИК №1682",
     "tikTvd": "342300267488",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -10177,8 +12166,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1110,
     "uikTvd": "442402766839",
+    "uikName": "УИК №1110",
     "tikTvd": "342300367329",
     "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1951,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -10223,8 +12221,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1111,
     "uikTvd": "442402766840",
+    "uikName": "УИК №1111",
     "tikTvd": "342300367329",
     "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1736,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10269,8 +12276,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1112,
     "uikTvd": "442402766841",
+    "uikName": "УИК №1112",
     "tikTvd": "342300367329",
     "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1779,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10315,8 +12331,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1113,
     "uikTvd": "442402766842",
+    "uikName": "УИК №1113",
     "tikTvd": "342300367329",
     "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1917,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10361,8 +12386,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1114,
     "uikTvd": "442402766843",
+    "uikName": "УИК №1114",
     "tikTvd": "342300367329",
     "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1840,
       "Число бюллетеней, полученных участковыми комиссиями": 1830,
@@ -10407,8 +12441,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1115,
     "uikTvd": "442402766844",
+    "uikName": "УИК №1115",
     "tikTvd": "342300367329",
     "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2052,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -10453,8 +12496,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1116,
     "uikTvd": "442402766845",
+    "uikName": "УИК №1116",
     "tikTvd": "342300367329",
     "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1608,
       "Число бюллетеней, полученных участковыми комиссиями": 1630,
@@ -10499,8 +12551,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1117,
     "uikTvd": "442402766846",
+    "uikName": "УИК №1117",
     "tikTvd": "342300367329",
     "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1423,
       "Число бюллетеней, полученных участковыми комиссиями": 1456,
@@ -10545,8 +12606,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1118,
     "uikTvd": "442402766847",
+    "uikName": "УИК №1118",
     "tikTvd": "342300367329",
     "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1582,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -10591,8 +12661,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1119,
     "uikTvd": "442402766848",
+    "uikName": "УИК №1119",
     "tikTvd": "342300367329",
     "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1178,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -10637,8 +12716,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1120,
     "uikTvd": "442402766849",
+    "uikName": "УИК №1120",
     "tikTvd": "342300367329",
     "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1013,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10683,8 +12771,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "442402066786",
+    "uikName": "УИК №623",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 609,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -10729,8 +12826,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "442402066787",
+    "uikName": "УИК №624",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2781,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10775,8 +12881,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "442402066788",
+    "uikName": "УИК №625",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2484,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -10821,8 +12936,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "442402066789",
+    "uikName": "УИК №626",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 993,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -10867,8 +12991,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "442402066790",
+    "uikName": "УИК №627",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1761,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10913,8 +13046,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "442402066791",
+    "uikName": "УИК №628",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1312,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -10959,8 +13101,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "442402066792",
+    "uikName": "УИК №629",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1022,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -11005,8 +13156,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "442402066793",
+    "uikName": "УИК №630",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2028,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11051,8 +13211,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 631,
     "uikTvd": "442402066794",
+    "uikName": "УИК №631",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2354,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -11097,8 +13266,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 632,
     "uikTvd": "442402066795",
+    "uikName": "УИК №632",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1933,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -11143,8 +13321,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 633,
     "uikTvd": "442402066796",
+    "uikName": "УИК №633",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1775,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11189,8 +13376,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 634,
     "uikTvd": "442402066797",
+    "uikName": "УИК №634",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1461,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -11235,8 +13431,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 635,
     "uikTvd": "442402066798",
+    "uikName": "УИК №635",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2117,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11281,8 +13486,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 636,
     "uikTvd": "442402066799",
+    "uikName": "УИК №636",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 676,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -11327,8 +13541,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 637,
     "uikTvd": "442402066800",
+    "uikName": "УИК №637",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2031,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -11373,8 +13596,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 638,
     "uikTvd": "442402066801",
+    "uikName": "УИК №638",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2162,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11419,8 +13651,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 639,
     "uikTvd": "442402066802",
+    "uikName": "УИК №639",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2100,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11465,8 +13706,17 @@ export const duma_2003_uik_428_region_42_part_004 = [
     "ballot": "single-member",
     "uikNumber": 640,
     "uikTvd": "442402066803",
+    "uikName": "УИК №640",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1852,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,

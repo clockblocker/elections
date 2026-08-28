@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1830,
     "uikTvd": "459401866708",
+    "uikName": "УИК №1830",
     "tikTvd": "359300266794",
     "tikName": "Куединская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1343,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1831,
     "uikTvd": "459401866709",
+    "uikName": "УИК №1831",
     "tikTvd": "359300266794",
     "tikName": "Куединская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 280,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1832,
     "uikTvd": "459401866710",
+    "uikName": "УИК №1832",
     "tikTvd": "359300266794",
     "tikName": "Куединская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 312,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1833,
     "uikTvd": "459401866711",
+    "uikName": "УИК №1833",
     "tikTvd": "359300266794",
     "tikName": "Куединская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 587,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1834,
     "uikTvd": "459401866712",
+    "uikName": "УИК №1834",
     "tikTvd": "359300266794",
     "tikName": "Куединская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1835,
     "uikTvd": "459401866713",
+    "uikName": "УИК №1835",
     "tikTvd": "359300266794",
     "tikName": "Куединская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1836,
     "uikTvd": "459401866714",
+    "uikName": "УИК №1836",
     "tikTvd": "359300266794",
     "tikName": "Куединская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 682,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1837,
     "uikTvd": "459401866715",
+    "uikName": "УИК №1837",
     "tikTvd": "359300266794",
     "tikName": "Куединская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 198,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1838,
     "uikTvd": "459401866716",
+    "uikName": "УИК №1838",
     "tikTvd": "359300266794",
     "tikName": "Куединская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 349,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1839,
     "uikTvd": "459401866717",
+    "uikName": "УИК №1839",
     "tikTvd": "359300266794",
     "tikName": "Куединская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1145,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1840,
     "uikTvd": "459401866718",
+    "uikName": "УИК №1840",
     "tikTvd": "359300266794",
     "tikName": "Куединская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 989,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1841,
     "uikTvd": "459401866719",
+    "uikName": "УИК №1841",
     "tikTvd": "359300266794",
     "tikName": "Куединская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 670,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1901,
     "uikTvd": "459401970525",
+    "uikName": "УИК  1901",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2749,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1902,
     "uikTvd": "459401970526",
+    "uikName": "УИК  1902",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2736,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1903,
     "uikTvd": "459401970527",
+    "uikName": "УИК  1903",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1956,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1904,
     "uikTvd": "459401970528",
+    "uikName": "УИК  1904",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1077,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1905,
     "uikTvd": "459401970529",
+    "uikName": "УИК  1905",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2815,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1906,
     "uikTvd": "459401970530",
+    "uikName": "УИК  1906",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2639,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1907,
     "uikTvd": "459401970531",
+    "uikName": "УИК  1907",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2511,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1908,
     "uikTvd": "459401970532",
+    "uikName": "УИК  1908",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2633,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1909,
     "uikTvd": "459401970533",
+    "uikName": "УИК  1909",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1282,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1910,
     "uikTvd": "459401970534",
+    "uikName": "УИК  1910",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1403,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1911,
     "uikTvd": "459401970535",
+    "uikName": "УИК  1911",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1354,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1912,
     "uikTvd": "459401970536",
+    "uikName": "УИК  1912",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1561,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1913,
     "uikTvd": "459401970537",
+    "uikName": "УИК  1913",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2894,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1914,
     "uikTvd": "459401970538",
+    "uikName": "УИК  1914",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2487,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1915,
     "uikTvd": "459401970539",
+    "uikName": "УИК  1915",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1580,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1916,
     "uikTvd": "459401970540",
+    "uikName": "УИК  1916",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1425,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1917,
     "uikTvd": "459401970541",
+    "uikName": "УИК  1917",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1009,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1918,
     "uikTvd": "459401970542",
+    "uikName": "УИК  1918",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1794,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1919,
     "uikTvd": "459401970543",
+    "uikName": "УИК  1919",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2477,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1920,
     "uikTvd": "459401970544",
+    "uikName": "УИК  1920",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2664,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1921,
     "uikTvd": "459401970545",
+    "uikName": "УИК  1921",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2505,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1922,
     "uikTvd": "459401970546",
+    "uikName": "УИК  1922",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1923,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1923,
     "uikTvd": "459401970547",
+    "uikName": "УИК  1923",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 999,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1925,
     "uikTvd": "459401970549",
+    "uikName": "УИК  1925",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1777,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1926,
     "uikTvd": "459401970550",
+    "uikName": "УИК  1926",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 593,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1927,
     "uikTvd": "459401970551",
+    "uikName": "УИК  1927",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2219,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1928,
     "uikTvd": "459401970552",
+    "uikName": "УИК  1928",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 410,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2001,
     "uikTvd": "459402070455",
+    "uikName": "УИК №2001",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1326,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2002,
     "uikTvd": "459402070456",
+    "uikName": "УИК №2002",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1353,
       "Число бюллетеней, полученных участковыми комиссиями": 1360,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2003,
     "uikTvd": "459402070457",
+    "uikName": "УИК №2003",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1616,
       "Число бюллетеней, полученных участковыми комиссиями": 1670,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2004,
     "uikTvd": "459402070458",
+    "uikName": "УИК №2004",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1078,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2005,
     "uikTvd": "459402070459",
+    "uikName": "УИК №2005",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1212,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2006,
     "uikTvd": "459402070460",
+    "uikName": "УИК №2006",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 897,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2007,
     "uikTvd": "459402070461",
+    "uikName": "УИК №2007",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2044,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -2219,8 +2633,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2008,
     "uikTvd": "459402070462",
+    "uikName": "УИК №2008",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1175,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -2267,8 +2690,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2009,
     "uikTvd": "459402070463",
+    "uikName": "УИК №2009",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1441,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -2315,8 +2747,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2010,
     "uikTvd": "459402070464",
+    "uikName": "УИК №2010",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2285,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2363,8 +2804,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2011,
     "uikTvd": "459402070465",
+    "uikName": "УИК №2011",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2072,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -2411,8 +2861,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2012,
     "uikTvd": "459402070466",
+    "uikName": "УИК №2012",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2813,
       "Число бюллетеней, полученных участковыми комиссиями": 2860,
@@ -2459,8 +2918,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2013,
     "uikTvd": "459402070467",
+    "uikName": "УИК №2013",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2518,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -2507,8 +2975,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2014,
     "uikTvd": "459402070468",
+    "uikName": "УИК №2014",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2810,
       "Число бюллетеней, полученных участковыми комиссиями": 2830,
@@ -2555,8 +3032,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2015,
     "uikTvd": "459402070469",
+    "uikName": "УИК №2015",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1659,
       "Число бюллетеней, полученных участковыми комиссиями": 1620,
@@ -2603,8 +3089,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2016,
     "uikTvd": "459402070470",
+    "uikName": "УИК №2016",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2369,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -2651,8 +3146,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2017,
     "uikTvd": "459402070471",
+    "uikName": "УИК №2017",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1516,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2699,8 +3203,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2018,
     "uikTvd": "459402070472",
+    "uikName": "УИК №2018",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2902,
       "Число бюллетеней, полученных участковыми комиссиями": 2870,
@@ -2747,8 +3260,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2019,
     "uikTvd": "459402070473",
+    "uikName": "УИК №2019",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1970,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -2795,8 +3317,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2020,
     "uikTvd": "459402070474",
+    "uikName": "УИК №2020",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1664,
       "Число бюллетеней, полученных участковыми комиссиями": 1660,
@@ -2843,8 +3374,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2021,
     "uikTvd": "459402070475",
+    "uikName": "УИК №2021",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1973,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2891,8 +3431,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2022,
     "uikTvd": "459402070476",
+    "uikName": "УИК №2022",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2109,
       "Число бюллетеней, полученных участковыми комиссиями": 2120,
@@ -2939,8 +3488,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2023,
     "uikTvd": "459402070477",
+    "uikName": "УИК №2023",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1365,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -2987,8 +3545,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2024,
     "uikTvd": "459402070478",
+    "uikName": "УИК №2024",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1201,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3035,8 +3602,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2025,
     "uikTvd": "459402070479",
+    "uikName": "УИК №2025",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2384,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -3083,8 +3659,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2026,
     "uikTvd": "459402070480",
+    "uikName": "УИК №2026",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1651,
       "Число бюллетеней, полученных участковыми комиссиями": 1640,
@@ -3131,8 +3716,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2027,
     "uikTvd": "459402070481",
+    "uikName": "УИК №2027",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1964,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -3179,8 +3773,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2028,
     "uikTvd": "459402070482",
+    "uikName": "УИК №2028",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2805,
       "Число бюллетеней, полученных участковыми комиссиями": 2820,
@@ -3227,8 +3830,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2029,
     "uikTvd": "459402070483",
+    "uikName": "УИК №2029",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2733,
       "Число бюллетеней, полученных участковыми комиссиями": 2580,
@@ -3275,8 +3887,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2030,
     "uikTvd": "459402070484",
+    "uikName": "УИК №2030",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2654,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -3323,8 +3944,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2031,
     "uikTvd": "459402070485",
+    "uikName": "УИК №2031",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 410,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -3371,8 +4001,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2032,
     "uikTvd": "459402070486",
+    "uikName": "УИК №2032",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 509,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -3419,8 +4058,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2033,
     "uikTvd": "459402070487",
+    "uikName": "УИК №2033",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 823,
       "Число бюллетеней, полученных участковыми комиссиями": 890,
@@ -3467,8 +4115,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2034,
     "uikTvd": "459402070488",
+    "uikName": "УИК №2034",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -3515,8 +4172,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2035,
     "uikTvd": "459402070489",
+    "uikName": "УИК №2035",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 392,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -3563,8 +4229,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2036,
     "uikTvd": "459402070490",
+    "uikName": "УИК №2036",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 307,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -3611,8 +4286,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2037,
     "uikTvd": "459402070491",
+    "uikName": "УИК №2037",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 591,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -3659,8 +4343,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2038,
     "uikTvd": "459402070492",
+    "uikName": "УИК №2038",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 566,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -3707,8 +4400,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2039,
     "uikTvd": "459402070493",
+    "uikName": "УИК №2039",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -3755,8 +4457,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2040,
     "uikTvd": "459402070494",
+    "uikName": "УИК №2040",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1484,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -3803,8 +4514,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2041,
     "uikTvd": "459402070495",
+    "uikName": "УИК №2041",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 714,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -3851,8 +4571,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2042,
     "uikTvd": "459402070496",
+    "uikName": "УИК №2042",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3899,8 +4628,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2043,
     "uikTvd": "459402070497",
+    "uikName": "УИК №2043",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 264,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -3947,8 +4685,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2044,
     "uikTvd": "459402070498",
+    "uikName": "УИК №2044",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 370,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -3995,8 +4742,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2045,
     "uikTvd": "459402070499",
+    "uikName": "УИК №2045",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -4043,8 +4799,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2046,
     "uikTvd": "459402070500",
+    "uikName": "УИК №2046",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1113,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -4091,8 +4856,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2047,
     "uikTvd": "459402070501",
+    "uikName": "УИК №2047",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 533,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -4139,8 +4913,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2048,
     "uikTvd": "459402070502",
+    "uikName": "УИК №2048",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 571,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -4187,8 +4970,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2049,
     "uikTvd": "459402070503",
+    "uikName": "УИК №2049",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 618,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -4235,8 +5027,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2201,
     "uikTvd": "459402266789",
+    "uikName": "УИК №2201",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1611,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -4283,8 +5084,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2202,
     "uikTvd": "459402266790",
+    "uikName": "УИК №2202",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1645,
       "Число бюллетеней, полученных участковыми комиссиями": 1330,
@@ -4331,8 +5141,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2203,
     "uikTvd": "459402266791",
+    "uikName": "УИК №2203",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1193,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -4379,8 +5198,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2204,
     "uikTvd": "459402266792",
+    "uikName": "УИК №2204",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1369,
       "Число бюллетеней, полученных участковыми комиссиями": 1310,
@@ -4427,8 +5255,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2205,
     "uikTvd": "459402266793",
+    "uikName": "УИК №2205",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 705,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -4475,8 +5312,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2206,
     "uikTvd": "459402266794",
+    "uikName": "УИК №2206",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 702,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -4523,8 +5369,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2207,
     "uikTvd": "459402266795",
+    "uikName": "УИК №2207",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -4571,8 +5426,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2208,
     "uikTvd": "459402266796",
+    "uikName": "УИК №2208",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1221,
       "Число бюллетеней, полученных участковыми комиссиями": 1170,
@@ -4619,8 +5483,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2209,
     "uikTvd": "459402266797",
+    "uikName": "УИК №2209",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1169,
       "Число бюллетеней, полученных участковыми комиссиями": 1110,
@@ -4667,8 +5540,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2210,
     "uikTvd": "459402266798",
+    "uikName": "УИК №2210",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1515,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -4715,8 +5597,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2211,
     "uikTvd": "459402266799",
+    "uikName": "УИК №2211",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -4763,8 +5654,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2212,
     "uikTvd": "459402266800",
+    "uikName": "УИК №2212",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -4811,8 +5711,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2213,
     "uikTvd": "459402266801",
+    "uikName": "УИК №2213",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 219,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -4859,8 +5768,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2214,
     "uikTvd": "459402266802",
+    "uikName": "УИК №2214",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 355,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -4907,8 +5825,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2215,
     "uikTvd": "459402266803",
+    "uikName": "УИК №2215",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 136,
@@ -4955,8 +5882,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2216,
     "uikTvd": "459402266804",
+    "uikName": "УИК №2216",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 220,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -5003,8 +5939,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2217,
     "uikTvd": "459402266805",
+    "uikName": "УИК №2217",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1115,
       "Число бюллетеней, полученных участковыми комиссиями": 1062,
@@ -5051,8 +5996,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2218,
     "uikTvd": "459402266806",
+    "uikName": "УИК №2218",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 701,
       "Число бюллетеней, полученных участковыми комиссиями": 707,
@@ -5099,8 +6053,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2219,
     "uikTvd": "459402266807",
+    "uikName": "УИК №2219",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 350,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -5147,8 +6110,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2220,
     "uikTvd": "459402266808",
+    "uikName": "УИК №2220",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -5195,8 +6167,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2221,
     "uikTvd": "459402266809",
+    "uikName": "УИК №2221",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 480,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -5243,8 +6224,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2222,
     "uikTvd": "459402266810",
+    "uikName": "УИК №2222",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 508,
       "Число бюллетеней, полученных участковыми комиссиями": 491,
@@ -5291,8 +6281,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2223,
     "uikTvd": "459402266811",
+    "uikName": "УИК №2223",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -5339,8 +6338,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2224,
     "uikTvd": "459402266812",
+    "uikName": "УИК №2224",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 587,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -5387,8 +6395,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2225,
     "uikTvd": "459402266813",
+    "uikName": "УИК №2225",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 434,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -5435,8 +6452,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2226,
     "uikTvd": "459402266814",
+    "uikName": "УИК №2226",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 588,
       "Число бюллетеней, полученных участковыми комиссиями": 568,
@@ -5483,8 +6509,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2227,
     "uikTvd": "459402266815",
+    "uikName": "УИК №2227",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 425,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -5531,8 +6566,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2228,
     "uikTvd": "459402266816",
+    "uikName": "УИК №2228",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -5579,8 +6623,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2229,
     "uikTvd": "459402266817",
+    "uikName": "УИК №2229",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 429,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -5627,8 +6680,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2230,
     "uikTvd": "459402266818",
+    "uikName": "УИК №2230",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1459,
       "Число бюллетеней, полученных участковыми комиссиями": 1394,
@@ -5675,8 +6737,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2231,
     "uikTvd": "459402266819",
+    "uikName": "УИК №2231",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -5723,8 +6794,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2232,
     "uikTvd": "459402266820",
+    "uikName": "УИК №2232",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -5771,8 +6851,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2233,
     "uikTvd": "459402266821",
+    "uikName": "УИК №2233",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 354,
       "Число бюллетеней, полученных участковыми комиссиями": 331,
@@ -5819,8 +6908,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2234,
     "uikTvd": "459402266822",
+    "uikName": "УИК №2234",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 329,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -5867,8 +6965,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2235,
     "uikTvd": "459402266823",
+    "uikName": "УИК №2235",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 219,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -5915,8 +7022,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2236,
     "uikTvd": "459402266824",
+    "uikName": "УИК №2236",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 280,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -5963,8 +7079,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2237,
     "uikTvd": "459402266825",
+    "uikName": "УИК №2237",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 244,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -6011,8 +7136,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2238,
     "uikTvd": "459402266826",
+    "uikName": "УИК №2238",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 249,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -6059,8 +7193,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2239,
     "uikTvd": "459402266827",
+    "uikName": "УИК №2239",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 284,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -6107,8 +7250,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2240,
     "uikTvd": "459402266828",
+    "uikName": "УИК №2240",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 149,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -6155,8 +7307,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2241,
     "uikTvd": "459402266829",
+    "uikName": "УИК №2241",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -6203,8 +7364,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2242,
     "uikTvd": "459402266830",
+    "uikName": "УИК №2242",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 550,
       "Число бюллетеней, полученных участковыми комиссиями": 548,
@@ -6251,8 +7421,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2243,
     "uikTvd": "459402266831",
+    "uikName": "УИК №2243",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 437,
       "Число бюллетеней, полученных участковыми комиссиями": 423,
@@ -6299,8 +7478,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2244,
     "uikTvd": "459402266832",
+    "uikName": "УИК №2244",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 392,
       "Число бюллетеней, полученных участковыми комиссиями": 364,
@@ -6347,8 +7535,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2245,
     "uikTvd": "459402266833",
+    "uikName": "УИК №2245",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -6395,8 +7592,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2301,
     "uikTvd": "459402366741",
+    "uikName": "УИК  2301",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1445,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6443,8 +7649,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2302,
     "uikTvd": "459402366742",
+    "uikName": "УИК  2302",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1311,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -6491,8 +7706,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2303,
     "uikTvd": "459402366743",
+    "uikName": "УИК  2303",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1117,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -6539,8 +7763,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2304,
     "uikTvd": "459402366744",
+    "uikName": "УИК  2304",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 752,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -6587,8 +7820,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2305,
     "uikTvd": "459402366745",
+    "uikName": "УИК  2305",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -6635,8 +7877,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2306,
     "uikTvd": "459402366746",
+    "uikName": "УИК  2306",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 874,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6683,8 +7934,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2307,
     "uikTvd": "459402366747",
+    "uikName": "УИК  2307",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -6731,8 +7991,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2308,
     "uikTvd": "459402366748",
+    "uikName": "УИК  2308",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -6779,8 +8048,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2309,
     "uikTvd": "459402366749",
+    "uikName": "УИК  2309",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 327,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -6827,8 +8105,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2310,
     "uikTvd": "459402366750",
+    "uikName": "УИК  2310",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -6875,8 +8162,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2311,
     "uikTvd": "459402366751",
+    "uikName": "УИК  2311",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 721,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -6923,8 +8219,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2312,
     "uikTvd": "459402366752",
+    "uikName": "УИК  2312",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 276,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -6971,8 +8276,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2313,
     "uikTvd": "459402366753",
+    "uikName": "УИК  2313",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -7019,8 +8333,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2314,
     "uikTvd": "459402366754",
+    "uikName": "УИК  2314",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1211,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7067,8 +8390,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2315,
     "uikTvd": "459402366755",
+    "uikName": "УИК  2315",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 161,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -7115,8 +8447,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2316,
     "uikTvd": "459402366756",
+    "uikName": "УИК  2316",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 724,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -7163,8 +8504,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2317,
     "uikTvd": "459402366757",
+    "uikName": "УИК  2317",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 96,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -7211,8 +8561,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2318,
     "uikTvd": "459402366758",
+    "uikName": "УИК  2318",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 732,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -7259,8 +8618,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2319,
     "uikTvd": "459402366759",
+    "uikName": "УИК  2319",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -7307,8 +8675,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2320,
     "uikTvd": "459402366760",
+    "uikName": "УИК  2320",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 402,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -7355,8 +8732,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2321,
     "uikTvd": "459402366761",
+    "uikName": "УИК  2321",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -7403,8 +8789,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2322,
     "uikTvd": "459402366762",
+    "uikName": "УИК  2322",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -7451,8 +8846,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2323,
     "uikTvd": "459402366763",
+    "uikName": "УИК  2323",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -7499,8 +8903,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2401,
     "uikTvd": "459402466681",
+    "uikName": "УИК  2401",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2624,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7547,8 +8960,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2402,
     "uikTvd": "459402466682",
+    "uikName": "УИК  2402",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 973,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -7595,8 +9017,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2403,
     "uikTvd": "459402466683",
+    "uikName": "УИК  2403",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1664,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7643,8 +9074,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2404,
     "uikTvd": "459402466684",
+    "uikName": "УИК  2404",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 907,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7691,8 +9131,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2405,
     "uikTvd": "459402466685",
+    "uikName": "УИК  2405",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1302,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7739,8 +9188,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2406,
     "uikTvd": "459402466686",
+    "uikName": "УИК  2406",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2541,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7787,8 +9245,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2407,
     "uikTvd": "459402466687",
+    "uikName": "УИК  2407",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2508,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7835,8 +9302,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2408,
     "uikTvd": "459402466688",
+    "uikName": "УИК  2408",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2431,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -7883,8 +9359,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2409,
     "uikTvd": "459402466689",
+    "uikName": "УИК  2409",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1373,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7931,8 +9416,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2410,
     "uikTvd": "459402466690",
+    "uikName": "УИК  2410",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 633,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -7979,8 +9473,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2411,
     "uikTvd": "459402466691",
+    "uikName": "УИК  2411",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 589,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -8027,8 +9530,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2412,
     "uikTvd": "459402466692",
+    "uikName": "УИК  2412",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 214,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -8075,8 +9587,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2413,
     "uikTvd": "459402466693",
+    "uikName": "УИК  2413",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 670,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -8123,8 +9644,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2414,
     "uikTvd": "459402466694",
+    "uikName": "УИК  2414",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 365,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -8171,8 +9701,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2415,
     "uikTvd": "459402466695",
+    "uikName": "УИК  2415",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -8219,8 +9758,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2416,
     "uikTvd": "459402466696",
+    "uikName": "УИК  2416",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 900,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -8267,8 +9815,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2417,
     "uikTvd": "459402466697",
+    "uikName": "УИК  2417",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 591,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -8315,8 +9872,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2418,
     "uikTvd": "459402466698",
+    "uikName": "УИК  2418",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 465,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -8363,8 +9929,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2419,
     "uikTvd": "459402466699",
+    "uikName": "УИК  2419",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -8411,8 +9986,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2420,
     "uikTvd": "459402466700",
+    "uikName": "УИК  2420",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 532,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -8459,8 +10043,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2421,
     "uikTvd": "459402466701",
+    "uikName": "УИК  2421",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 366,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -8507,8 +10100,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2422,
     "uikTvd": "459402466702",
+    "uikName": "УИК  2422",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 497,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8555,8 +10157,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2423,
     "uikTvd": "459402466703",
+    "uikName": "УИК  2423",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 309,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -8603,8 +10214,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2424,
     "uikTvd": "459402466704",
+    "uikName": "УИК  2424",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 334,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -8651,8 +10271,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2425,
     "uikTvd": "459402466705",
+    "uikName": "УИК  2425",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 382,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -8699,8 +10328,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2426,
     "uikTvd": "459402466706",
+    "uikName": "УИК  2426",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 327,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -8747,8 +10385,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2427,
     "uikTvd": "459402466707",
+    "uikName": "УИК  2427",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -8795,8 +10442,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2428,
     "uikTvd": "459402466708",
+    "uikName": "УИК  2428",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -8843,8 +10499,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2501,
     "uikTvd": "459402566701",
+    "uikName": "УИК №2501",
     "tikTvd": "359300266806",
     "tikName": "Оханская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1544,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -8891,8 +10556,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2502,
     "uikTvd": "459402566703",
+    "uikName": "УИК №2502",
     "tikTvd": "359300266806",
     "tikName": "Оханская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1465,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8939,8 +10613,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2503,
     "uikTvd": "459402566705",
+    "uikName": "УИК №2503",
     "tikTvd": "359300266806",
     "tikName": "Оханская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1436,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8987,8 +10670,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2504,
     "uikTvd": "459402566707",
+    "uikName": "УИК №2504",
     "tikTvd": "359300266806",
     "tikName": "Оханская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1247,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -9035,8 +10727,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2505,
     "uikTvd": "459402566709",
+    "uikName": "УИК №2505",
     "tikTvd": "359300266806",
     "tikName": "Оханская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 592,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -9083,8 +10784,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2506,
     "uikTvd": "459402566711",
+    "uikName": "УИК №2506",
     "tikTvd": "359300266806",
     "tikName": "Оханская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 745,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -9131,8 +10841,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2507,
     "uikTvd": "459402566713",
+    "uikName": "УИК №2507",
     "tikTvd": "359300266806",
     "tikName": "Оханская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 845,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -9179,8 +10898,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2508,
     "uikTvd": "459402566715",
+    "uikName": "УИК №2508",
     "tikTvd": "359300266806",
     "tikName": "Оханская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -9227,8 +10955,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2509,
     "uikTvd": "459402566716",
+    "uikName": "УИК №2509",
     "tikTvd": "359300266806",
     "tikName": "Оханская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 731,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -9275,8 +11012,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2511,
     "uikTvd": "459402566717",
+    "uikName": "УИК №2511",
     "tikTvd": "359300266806",
     "tikName": "Оханская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1314,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -9323,8 +11069,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2512,
     "uikTvd": "459402566718",
+    "uikName": "УИК №2512",
     "tikTvd": "359300266806",
     "tikName": "Оханская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1074,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -9371,8 +11126,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2513,
     "uikTvd": "459402566719",
+    "uikName": "УИК №2513",
     "tikTvd": "359300266806",
     "tikName": "Оханская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 340,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -9419,8 +11183,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2514,
     "uikTvd": "459402566794",
+    "uikName": "УИК №2514",
     "tikTvd": "359300266806",
     "tikName": "Оханская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 553,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -9467,8 +11240,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2601,
     "uikTvd": "459402666661",
+    "uikName": "УИК  2601",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1422,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -9515,8 +11297,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2602,
     "uikTvd": "459402666662",
+    "uikName": "УИК  2602",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1514,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9563,8 +11354,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2603,
     "uikTvd": "459402666663",
+    "uikName": "УИК  2603",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1192,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -9611,8 +11411,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2605,
     "uikTvd": "459402666665",
+    "uikName": "УИК  2605",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1251,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -9659,8 +11468,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2606,
     "uikTvd": "459402666666",
+    "uikName": "УИК  2606",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1387,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -9707,8 +11525,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2607,
     "uikTvd": "459402666667",
+    "uikName": "УИК  2607",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 776,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -9755,8 +11582,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2608,
     "uikTvd": "459402666668",
+    "uikName": "УИК  2608",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 705,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -9803,8 +11639,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2609,
     "uikTvd": "459402666669",
+    "uikName": "УИК  2609",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1608,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9851,8 +11696,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2610,
     "uikTvd": "459402666670",
+    "uikName": "УИК  2610",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1044,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -9899,8 +11753,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2611,
     "uikTvd": "459402666671",
+    "uikName": "УИК  2611",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 646,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -9947,8 +11810,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2612,
     "uikTvd": "459402666672",
+    "uikName": "УИК  2612",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1531,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9995,8 +11867,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2613,
     "uikTvd": "459402666673",
+    "uikName": "УИК  2613",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1259,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -10043,8 +11924,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2614,
     "uikTvd": "459402666674",
+    "uikName": "УИК  2614",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -10091,8 +11981,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2615,
     "uikTvd": "459402666675",
+    "uikName": "УИК  2615",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -10139,8 +12038,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2616,
     "uikTvd": "459402666676",
+    "uikName": "УИК  2616",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 473,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -10187,8 +12095,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2617,
     "uikTvd": "459402666677",
+    "uikName": "УИК  2617",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 417,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -10235,8 +12152,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2618,
     "uikTvd": "459402666678",
+    "uikName": "УИК  2618",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -10283,8 +12209,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2619,
     "uikTvd": "459402666679",
+    "uikName": "УИК  2619",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 188,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -10331,8 +12266,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2620,
     "uikTvd": "459402666680",
+    "uikName": "УИК  2620",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 404,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -10379,8 +12323,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2621,
     "uikTvd": "459402666681",
+    "uikName": "УИК  2621",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 431,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -10427,8 +12380,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2622,
     "uikTvd": "459402666682",
+    "uikName": "УИК  2622",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 378,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -10475,8 +12437,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2623,
     "uikTvd": "459402666683",
+    "uikName": "УИК  2623",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -10523,8 +12494,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2624,
     "uikTvd": "459402666684",
+    "uikName": "УИК  2624",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -10571,8 +12551,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2625,
     "uikTvd": "459402666685",
+    "uikName": "УИК  2625",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -10619,8 +12608,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2626,
     "uikTvd": "459402666686",
+    "uikName": "УИК  2626",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 550,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -10667,8 +12665,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2627,
     "uikTvd": "459402666687",
+    "uikName": "УИК  2627",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -10715,8 +12722,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2628,
     "uikTvd": "459402666688",
+    "uikName": "УИК  2628",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -10763,8 +12779,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3701,
     "uikTvd": "459403766650",
+    "uikName": "УИК №3701",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 720,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -10811,8 +12836,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3702,
     "uikTvd": "459403766651",
+    "uikName": "УИК №3702",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1335,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -10859,8 +12893,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3703,
     "uikTvd": "459403766652",
+    "uikName": "УИК №3703",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1468,
       "Число бюллетеней, полученных участковыми комиссиями": 1390,
@@ -10907,8 +12950,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3704,
     "uikTvd": "459403766653",
+    "uikName": "УИК №3704",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1257,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -10955,8 +13007,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3705,
     "uikTvd": "459403766654",
+    "uikName": "УИК №3705",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2018,
       "Число бюллетеней, полученных участковыми комиссиями": 1880,
@@ -11003,8 +13064,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3706,
     "uikTvd": "459403766655",
+    "uikName": "УИК №3706",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 550,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -11051,8 +13121,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3707,
     "uikTvd": "459403766656",
+    "uikName": "УИК №3707",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -11099,8 +13178,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3708,
     "uikTvd": "459403766657",
+    "uikName": "УИК №3708",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 185,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -11147,8 +13235,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3709,
     "uikTvd": "459403766658",
+    "uikName": "УИК №3709",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 832,
       "Число бюллетеней, полученных участковыми комиссиями": 820,
@@ -11195,8 +13292,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3710,
     "uikTvd": "459403766659",
+    "uikName": "УИК №3710",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 828,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -11243,8 +13349,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3711,
     "uikTvd": "459403766660",
+    "uikName": "УИК №3711",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 326,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -11291,8 +13406,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3712,
     "uikTvd": "459403766661",
+    "uikName": "УИК №3712",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 543,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -11339,8 +13463,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3713,
     "uikTvd": "459403766662",
+    "uikName": "УИК №3713",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -11387,8 +13520,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3714,
     "uikTvd": "459403766663",
+    "uikName": "УИК №3714",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -11435,8 +13577,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3715,
     "uikTvd": "459403766664",
+    "uikName": "УИК №3715",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1252,
       "Число бюллетеней, полученных участковыми комиссиями": 1240,
@@ -11483,8 +13634,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3716,
     "uikTvd": "459403766665",
+    "uikName": "УИК №3716",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 323,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -11531,8 +13691,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3717,
     "uikTvd": "459403766666",
+    "uikName": "УИК №3717",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 945,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -11579,8 +13748,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3718,
     "uikTvd": "459403766667",
+    "uikName": "УИК №3718",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 346,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -11627,8 +13805,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3719,
     "uikTvd": "459403766668",
+    "uikName": "УИК №3719",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 689,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -11675,8 +13862,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3720,
     "uikTvd": "459403766669",
+    "uikName": "УИК №3720",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 637,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -11723,8 +13919,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3721,
     "uikTvd": "459403766670",
+    "uikName": "УИК №3721",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -11771,8 +13976,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3722,
     "uikTvd": "459403766671",
+    "uikName": "УИК №3722",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 547,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -11819,8 +14033,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3723,
     "uikTvd": "459403766672",
+    "uikName": "УИК №3723",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 422,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -11867,8 +14090,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3724,
     "uikTvd": "459403766673",
+    "uikName": "УИК №3724",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -11915,8 +14147,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3801,
     "uikTvd": "459403866656",
+    "uikName": "УИК №3801",
     "tikTvd": "359300266812",
     "tikName": "Уинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2460,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11963,8 +14204,17 @@ export const duma_2003_uik_428_region_59_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3802,
     "uikTvd": "459403866657",
+    "uikName": "УИК №3802",
     "tikTvd": "359300266812",
     "tikName": "Уинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 448,
       "Число бюллетеней, полученных участковыми комиссиями": 500,

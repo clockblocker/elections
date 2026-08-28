@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2372,
     "uikTvd": "461403570992",
+    "uikName": "УИК №2372",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1443,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -60,8 +69,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2373,
     "uikTvd": "461403570993",
+    "uikName": "УИК №2373",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1651,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -109,8 +127,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2374,
     "uikTvd": "461403570994",
+    "uikName": "УИК №2374",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1275,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -158,8 +185,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2375,
     "uikTvd": "461403570995",
+    "uikName": "УИК №2375",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1899,
       "Число бюллетеней, полученных участковыми комиссиями": 1870,
@@ -207,8 +243,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2376,
     "uikTvd": "461403570996",
+    "uikName": "УИК №2376",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1405,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -256,8 +301,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2377,
     "uikTvd": "461403570997",
+    "uikName": "УИК №2377",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1835,
       "Число бюллетеней, полученных участковыми комиссиями": 1910,
@@ -305,8 +359,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2378,
     "uikTvd": "461403570998",
+    "uikName": "УИК №2378",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1835,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -354,8 +417,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2379,
     "uikTvd": "461403570999",
+    "uikName": "УИК №2379",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1661,
       "Число бюллетеней, полученных участковыми комиссиями": 1710,
@@ -403,8 +475,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2380,
     "uikTvd": "461403571000",
+    "uikName": "УИК №2380",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1820,
       "Число бюллетеней, полученных участковыми комиссиями": 1760,
@@ -452,8 +533,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2381,
     "uikTvd": "461403571001",
+    "uikName": "УИК №2381",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 699,
       "Число бюллетеней, полученных участковыми комиссиями": 710,
@@ -501,8 +591,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2382,
     "uikTvd": "461403571002",
+    "uikName": "УИК №2382",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 998,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -550,8 +649,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2383,
     "uikTvd": "461403571003",
+    "uikName": "УИК №2383",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1350,
       "Число бюллетеней, полученных участковыми комиссиями": 1320,
@@ -599,8 +707,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2384,
     "uikTvd": "461403571004",
+    "uikName": "УИК №2384",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1283,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -648,8 +765,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2385,
     "uikTvd": "461403571005",
+    "uikName": "УИК №2385",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2083,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -697,8 +823,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2386,
     "uikTvd": "461403571006",
+    "uikName": "УИК №2386",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1359,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -746,8 +881,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2387,
     "uikTvd": "461403571007",
+    "uikName": "УИК №2387",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1602,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -795,8 +939,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2388,
     "uikTvd": "461403571008",
+    "uikName": "УИК №2388",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1218,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -844,8 +997,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2389,
     "uikTvd": "461403571009",
+    "uikName": "УИК №2389",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 855,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -893,8 +1055,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2390,
     "uikTvd": "461403571010",
+    "uikName": "УИК №2390",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 674,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -942,8 +1113,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2391,
     "uikTvd": "461403571011",
+    "uikName": "УИК №2391",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1043,
       "Число бюллетеней, полученных участковыми комиссиями": 1060,
@@ -991,8 +1171,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2392,
     "uikTvd": "461403571012",
+    "uikName": "УИК №2392",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 874,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -1040,8 +1229,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2393,
     "uikTvd": "461403571013",
+    "uikName": "УИК №2393",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1482,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1089,8 +1287,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2394,
     "uikTvd": "461403571014",
+    "uikName": "УИК №2394",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1540,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -1138,8 +1345,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2395,
     "uikTvd": "461403571015",
+    "uikName": "УИК №2395",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1032,
       "Число бюллетеней, полученных участковыми комиссиями": 1080,
@@ -1187,8 +1403,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2396,
     "uikTvd": "461403571016",
+    "uikName": "УИК №2396",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1269,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -1236,8 +1461,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2397,
     "uikTvd": "461403571017",
+    "uikName": "УИК №2397",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 850,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -1285,8 +1519,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2398,
     "uikTvd": "461403571018",
+    "uikName": "УИК №2398",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 523,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -1334,8 +1577,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2399,
     "uikTvd": "461403571019",
+    "uikName": "УИК №2399",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1169,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -1383,8 +1635,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2400,
     "uikTvd": "461403571020",
+    "uikName": "УИК №2400",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2168,
       "Число бюллетеней, полученных участковыми комиссиями": 2220,
@@ -1432,8 +1693,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2401,
     "uikTvd": "461403571021",
+    "uikName": "УИК №2401",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1186,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -1481,8 +1751,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2402,
     "uikTvd": "461403571022",
+    "uikName": "УИК №2402",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1353,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -1530,8 +1809,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2403,
     "uikTvd": "461403571023",
+    "uikName": "УИК №2403",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1211,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1579,8 +1867,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2404,
     "uikTvd": "461403571024",
+    "uikName": "УИК №2404",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2081,
       "Число бюллетеней, полученных участковыми комиссиями": 2120,
@@ -1628,8 +1925,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2405,
     "uikTvd": "461403571025",
+    "uikName": "УИК №2405",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1576,
       "Число бюллетеней, полученных участковыми комиссиями": 1560,
@@ -1677,8 +1983,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2406,
     "uikTvd": "461404270666",
+    "uikName": "УИК №2406",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 729,
       "Число бюллетеней, полученных участковыми комиссиями": 737,
@@ -1726,8 +2041,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2407,
     "uikTvd": "461404270667",
+    "uikName": "УИК №2407",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 637,
       "Число бюллетеней, полученных участковыми комиссиями": 632,
@@ -1775,8 +2099,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2408,
     "uikTvd": "461404270668",
+    "uikName": "УИК №2408",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1008,
       "Число бюллетеней, полученных участковыми комиссиями": 981,
@@ -1824,8 +2157,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2409,
     "uikTvd": "461404270669",
+    "uikName": "УИК №2409",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -1873,8 +2215,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2410,
     "uikTvd": "461404270670",
+    "uikName": "УИК №2410",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 189,
@@ -1922,8 +2273,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2411,
     "uikTvd": "461404270671",
+    "uikName": "УИК №2411",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 368,
       "Число бюллетеней, полученных участковыми комиссиями": 409,
@@ -1971,8 +2331,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2412,
     "uikTvd": "461404270672",
+    "uikName": "УИК №2412",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 663,
       "Число бюллетеней, полученных участковыми комиссиями": 666,
@@ -2020,8 +2389,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2413,
     "uikTvd": "461404270673",
+    "uikName": "УИК №2413",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 154,
@@ -2069,8 +2447,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2414,
     "uikTvd": "461404270674",
+    "uikName": "УИК №2414",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 880,
       "Число бюллетеней, полученных участковыми комиссиями": 903,
@@ -2118,8 +2505,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2415,
     "uikTvd": "461404270675",
+    "uikName": "УИК №2415",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 721,
       "Число бюллетеней, полученных участковыми комиссиями": 728,
@@ -2167,8 +2563,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2416,
     "uikTvd": "461404270676",
+    "uikName": "УИК №2416",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1469,
       "Число бюллетеней, полученных участковыми комиссиями": 1468,
@@ -2216,8 +2621,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2417,
     "uikTvd": "461404270677",
+    "uikName": "УИК №2417",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 187,
@@ -2265,8 +2679,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2418,
     "uikTvd": "461404270678",
+    "uikName": "УИК №2418",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 564,
       "Число бюллетеней, полученных участковыми комиссиями": 569,
@@ -2314,8 +2737,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2419,
     "uikTvd": "461404270679",
+    "uikName": "УИК №2419",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 602,
       "Число бюллетеней, полученных участковыми комиссиями": 607,
@@ -2363,8 +2795,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2420,
     "uikTvd": "461404270680",
+    "uikName": "УИК №2420",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 546,
       "Число бюллетеней, полученных участковыми комиссиями": 549,
@@ -2412,8 +2853,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2421,
     "uikTvd": "461404270681",
+    "uikName": "УИК №2421",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 911,
       "Число бюллетеней, полученных участковыми комиссиями": 862,
@@ -2461,8 +2911,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2422,
     "uikTvd": "461404270682",
+    "uikName": "УИК №2422",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1157,
       "Число бюллетеней, полученных участковыми комиссиями": 1168,
@@ -2510,8 +2969,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2423,
     "uikTvd": "461404270683",
+    "uikName": "УИК №2423",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 536,
       "Число бюллетеней, полученных участковыми комиссиями": 536,
@@ -2559,8 +3027,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2424,
     "uikTvd": "461404270684",
+    "uikName": "УИК №2424",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1871,
       "Число бюллетеней, полученных участковыми комиссиями": 1874,
@@ -2608,8 +3085,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2425,
     "uikTvd": "461404270685",
+    "uikName": "УИК №2425",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2096,
       "Число бюллетеней, полученных участковыми комиссиями": 2106,
@@ -2657,8 +3143,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2528,
     "uikTvd": "461404270686",
+    "uikName": "УИК №2528",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 966,
       "Число бюллетеней, полученных участковыми комиссиями": 955,
@@ -2706,8 +3201,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2529,
     "uikTvd": "461404270687",
+    "uikName": "УИК №2529",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 607,
       "Число бюллетеней, полученных участковыми комиссиями": 603,
@@ -2755,8 +3259,17 @@ export const duma_2003_uik_428_region_61_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2530,
     "uikTvd": "461404270688",
+    "uikName": "УИК №2530",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 730,
       "Число бюллетеней, полученных участковыми комиссиями": 726,

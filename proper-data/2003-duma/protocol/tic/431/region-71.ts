@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки": 66874,
@@ -121,6 +124,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки": 29486,
@@ -217,6 +223,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки": 28034,
@@ -312,6 +321,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки": 73797,
@@ -431,6 +443,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 83,
     "accounting": {
       "Число избирателей, внесенных в списки": 130170,
@@ -579,6 +594,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070323",
     "tikName": "Кимовская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки": 40012,
@@ -694,6 +712,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070324",
     "tikName": "Заокская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 15167,
@@ -779,6 +800,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070325",
     "tikName": "Дубенская",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки": 11781,
@@ -860,6 +884,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070326",
     "tikName": "Донская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки": 52661,
@@ -964,6 +991,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070332",
     "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки": 84494,
@@ -1074,6 +1104,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070333",
     "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки": 66932,
@@ -1181,6 +1214,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070334",
     "tikName": "Тула, Пролетарская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, внесенных в списки": 135539,
@@ -1318,6 +1354,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070335",
     "tikName": "Тула, Привокзальная ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки": 70763,
@@ -1423,6 +1462,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070336",
     "tikName": "Тула, Зареченская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки": 82328,
@@ -1524,6 +1566,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070346",
     "tikName": "Ленинская ТИК",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки": 49699,
@@ -1635,6 +1680,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070347",
     "tikName": "Куркинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 10234,
@@ -1720,6 +1768,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070348",
     "tikName": "Киреевская ТИК",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в списки": 64995,
@@ -1849,6 +1900,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070349",
     "tikName": "Каменская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки": 8112,
@@ -1928,6 +1982,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070350",
     "tikName": "Ефремовская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в списки": 57920,
@@ -2059,6 +2116,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070351",
     "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 12236,
@@ -2148,6 +2208,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070352",
     "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки": 45088,
@@ -2263,6 +2326,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070353",
     "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки": 21033,
@@ -2360,6 +2426,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070354",
     "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 10766,
@@ -2447,6 +2516,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070361",
     "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 78,
     "accounting": {
       "Число избирателей, внесенных в списки": 95546,
@@ -2590,6 +2662,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070362",
     "tikName": "Чернская ТИК",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки": 16418,
@@ -2687,6 +2762,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070363",
     "tikName": "Тепло-Огаревская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 11185,
@@ -2777,6 +2855,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070364",
     "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки": 33346,
@@ -2886,6 +2967,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070365",
     "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки": 21248,
@@ -2979,6 +3063,9 @@ export const duma_2003_tic_431_region_71 = [
     "ballot": "party",
     "tikTvd": "271200070366",
     "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки": 10933,

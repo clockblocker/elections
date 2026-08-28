@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 806,
     "uikTvd": "427402466784",
+    "uikName": "УИК №806",
     "tikTvd": "327300266687",
     "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1760,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -61,8 +70,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 807,
     "uikTvd": "427402466785",
+    "uikName": "УИК №807",
     "tikTvd": "327300266687",
     "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 606,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -111,8 +129,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 808,
     "uikTvd": "427402466786",
+    "uikName": "УИК №808",
     "tikTvd": "327300266687",
     "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 692,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -161,8 +188,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 809,
     "uikTvd": "427402466787",
+    "uikName": "УИК №809",
     "tikTvd": "327300266687",
     "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -211,8 +247,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 810,
     "uikTvd": "427402466788",
+    "uikName": "УИК №810",
     "tikTvd": "327300266687",
     "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -261,8 +306,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 811,
     "uikTvd": "427402466789",
+    "uikName": "УИК №811",
     "tikTvd": "327300266687",
     "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1450,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -311,8 +365,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 812,
     "uikTvd": "427402466790",
+    "uikName": "УИК №812",
     "tikTvd": "327300266687",
     "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1328,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -361,8 +424,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 813,
     "uikTvd": "427402466791",
+    "uikName": "УИК №813",
     "tikTvd": "327300266687",
     "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 879,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -411,8 +483,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 814,
     "uikTvd": "427402466792",
+    "uikName": "УИК №814",
     "tikTvd": "327300266687",
     "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1106,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -461,8 +542,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 815,
     "uikTvd": "427402466793",
+    "uikName": "УИК №815",
     "tikTvd": "327300266687",
     "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1779,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -511,8 +601,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 590,
     "uikTvd": "427400766904",
+    "uikName": "УИК №590",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2687,
       "Число бюллетеней, полученных участковыми комиссиями": 2610,
@@ -561,8 +660,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 591,
     "uikTvd": "427400766905",
+    "uikName": "УИК №591",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1989,
       "Число бюллетеней, полученных участковыми комиссиями": 2045,
@@ -611,8 +719,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 592,
     "uikTvd": "427400766906",
+    "uikName": "УИК №592",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 676,
       "Число бюллетеней, полученных участковыми комиссиями": 665,
@@ -661,8 +778,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 593,
     "uikTvd": "427400766907",
+    "uikName": "УИК №593",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 661,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -711,8 +837,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 594,
     "uikTvd": "427400766908",
+    "uikName": "УИК №594",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1521,
       "Число бюллетеней, полученных участковыми комиссиями": 1435,
@@ -761,8 +896,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 595,
     "uikTvd": "427400766909",
+    "uikName": "УИК №595",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 770,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -811,8 +955,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 596,
     "uikTvd": "427400766910",
+    "uikName": "УИК №596",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1022,
       "Число бюллетеней, полученных участковыми комиссиями": 1080,
@@ -861,8 +1014,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 597,
     "uikTvd": "427400766911",
+    "uikName": "УИК №597",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 431,
       "Число бюллетеней, полученных участковыми комиссиями": 445,
@@ -911,8 +1073,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 598,
     "uikTvd": "427400766912",
+    "uikName": "УИК №598",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 888,
       "Число бюллетеней, полученных участковыми комиссиями": 885,
@@ -961,8 +1132,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 599,
     "uikTvd": "427400766913",
+    "uikName": "УИК №599",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -1011,8 +1191,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 600,
     "uikTvd": "427400766914",
+    "uikName": "УИК №600",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1609,
       "Число бюллетеней, полученных участковыми комиссиями": 1575,
@@ -1061,8 +1250,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "427400766915",
+    "uikName": "УИК №601",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 690,
       "Число бюллетеней, полученных участковыми комиссиями": 710,
@@ -1111,8 +1309,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "427400766916",
+    "uikName": "УИК №602",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1610,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1161,8 +1368,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "427400766917",
+    "uikName": "УИК №603",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2705,
       "Число бюллетеней, полученных участковыми комиссиями": 2645,
@@ -1211,8 +1427,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "427400766918",
+    "uikName": "УИК №604",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2468,
       "Число бюллетеней, полученных участковыми комиссиями": 2660,
@@ -1261,8 +1486,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "427400766919",
+    "uikName": "УИК №605",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 486,
       "Число бюллетеней, полученных участковыми комиссиями": 465,
@@ -1311,8 +1545,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "427400766920",
+    "uikName": "УИК №606",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -1361,8 +1604,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "427400766921",
+    "uikName": "УИК №607",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -1411,8 +1663,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "427400766922",
+    "uikName": "УИК №608",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 507,
       "Число бюллетеней, полученных участковыми комиссиями": 495,
@@ -1461,8 +1722,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "427400766923",
+    "uikName": "УИК №609",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 118,
@@ -1511,8 +1781,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "427400766924",
+    "uikName": "УИК №610",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 870,
       "Число бюллетеней, полученных участковыми комиссиями": 815,
@@ -1561,8 +1840,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "427400766925",
+    "uikName": "УИК №611",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 545,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -1611,8 +1899,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "427400766926",
+    "uikName": "УИК №612",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 526,
       "Число бюллетеней, полученных участковыми комиссиями": 515,
@@ -1661,8 +1958,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "427400766927",
+    "uikName": "УИК №613",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 57,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -1711,8 +2017,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "427400766928",
+    "uikName": "УИК №614",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -1761,8 +2076,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "427400766929",
+    "uikName": "УИК №615",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 67,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -1811,8 +2135,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "427400766930",
+    "uikName": "УИК №616",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -1861,8 +2194,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "427400766931",
+    "uikName": "УИК №617",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -1911,8 +2253,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "427400766932",
+    "uikName": "УИК №618",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 719,
       "Число бюллетеней, полученных участковыми комиссиями": 710,
@@ -1961,8 +2312,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "427400766933",
+    "uikName": "УИК №619",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -2011,8 +2371,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 620,
     "uikTvd": "427400766934",
+    "uikName": "УИК №620",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 552,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -2061,8 +2430,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "427400766935",
+    "uikName": "УИК №621",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 49,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -2111,8 +2489,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "427400766936",
+    "uikName": "УИК №622",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 145,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -2161,8 +2548,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "427400766937",
+    "uikName": "УИК №623",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -2211,8 +2607,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "427400766938",
+    "uikName": "УИК №624",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 434,
       "Число бюллетеней, полученных участковыми комиссиями": 425,
@@ -2261,8 +2666,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "427400766939",
+    "uikName": "УИК №625",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 485,
       "Число бюллетеней, полученных участковыми комиссиями": 485,
@@ -2311,8 +2725,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "427400766940",
+    "uikName": "УИК №626",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 66,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -2361,8 +2784,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "427400766941",
+    "uikName": "УИК №627",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -2411,8 +2843,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "427400766942",
+    "uikName": "УИК №628",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -2461,8 +2902,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "427400766943",
+    "uikName": "УИК №629",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 140,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -2511,8 +2961,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "427400766944",
+    "uikName": "УИК №630",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -2561,8 +3020,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 631,
     "uikTvd": "427400766945",
+    "uikName": "УИК №631",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 298,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -2611,8 +3079,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 632,
     "uikTvd": "427400766946",
+    "uikName": "УИК №632",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -2661,8 +3138,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 633,
     "uikTvd": "427400766947",
+    "uikName": "УИК №633",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -2711,8 +3197,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 634,
     "uikTvd": "427400766948",
+    "uikName": "УИК №634",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 512,
       "Число бюллетеней, полученных участковыми комиссиями": 522,
@@ -2761,8 +3256,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 635,
     "uikTvd": "427400766949",
+    "uikName": "УИК №635",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1339,
       "Число бюллетеней, полученных участковыми комиссиями": 1285,
@@ -2811,8 +3315,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 636,
     "uikTvd": "427400766950",
+    "uikName": "УИК №636",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 81,
@@ -2861,8 +3374,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 637,
     "uikTvd": "427400766951",
+    "uikName": "УИК №637",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 16,
       "Число бюллетеней, полученных участковыми комиссиями": 16,
@@ -2911,8 +3433,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 638,
     "uikTvd": "427400766952",
+    "uikName": "УИК №638",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 604,
       "Число бюллетеней, полученных участковыми комиссиями": 605,
@@ -2961,8 +3492,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 639,
     "uikTvd": "427400766953",
+    "uikName": "УИК №639",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 632,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -3011,8 +3551,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 640,
     "uikTvd": "427400766954",
+    "uikName": "УИК №640",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 771,
       "Число бюллетеней, полученных участковыми комиссиями": 763,
@@ -3061,8 +3610,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 641,
     "uikTvd": "427400766955",
+    "uikName": "УИК №641",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 354,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -3111,8 +3669,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 642,
     "uikTvd": "427400766956",
+    "uikName": "УИК №642",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 365,
@@ -3161,8 +3728,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 643,
     "uikTvd": "427400766957",
+    "uikName": "УИК №643",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 507,
       "Число бюллетеней, полученных участковыми комиссиями": 475,
@@ -3211,8 +3787,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 644,
     "uikTvd": "427400766958",
+    "uikName": "УИК №644",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1200,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3261,8 +3846,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 645,
     "uikTvd": "427400766959",
+    "uikName": "УИК №645",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1046,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -3311,8 +3905,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 646,
     "uikTvd": "427400766960",
+    "uikName": "УИК №646",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1382,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -3361,8 +3964,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 647,
     "uikTvd": "427400766961",
+    "uikName": "УИК №647",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -3411,8 +4023,17 @@ export const duma_2003_uik_428_region_27_part_004 = [
     "ballot": "single-member",
     "uikNumber": 648,
     "uikTvd": "427400766962",
+    "uikName": "УИК №648",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 135,
       "Число бюллетеней, полученных участковыми комиссиями": 130,

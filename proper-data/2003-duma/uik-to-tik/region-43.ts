@@ -7,7975 +7,19936 @@ export const duma_2003_uik_to_tik_region_43 = [
   {
     "uikNumber": 1,
     "uikTvd": "443400170483",
+    "uikName": "УИК №1",
     "tikTvd": "243200070834",
-    "tikName": "Арбажская"
+    "tikName": "Арбажская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "443400170484",
+    "uikName": "УИК №2",
     "tikTvd": "243200070834",
-    "tikName": "Арбажская"
+    "tikName": "Арбажская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "443400170485",
+    "uikName": "УИК №3",
     "tikTvd": "243200070834",
-    "tikName": "Арбажская"
+    "tikName": "Арбажская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "443400170486",
+    "uikName": "УИК №4",
     "tikTvd": "243200070834",
-    "tikName": "Арбажская"
+    "tikName": "Арбажская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "443400170487",
+    "uikName": "УИК №5",
     "tikTvd": "243200070834",
-    "tikName": "Арбажская"
+    "tikName": "Арбажская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "443400170488",
+    "uikName": "УИК №6",
     "tikTvd": "243200070834",
-    "tikName": "Арбажская"
+    "tikName": "Арбажская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "443400170489",
+    "uikName": "УИК №7",
     "tikTvd": "243200070834",
-    "tikName": "Арбажская"
+    "tikName": "Арбажская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "443400170490",
+    "uikName": "УИК №8",
     "tikTvd": "243200070834",
-    "tikName": "Арбажская"
+    "tikName": "Арбажская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "443400170491",
+    "uikName": "УИК №9",
     "tikTvd": "243200070834",
-    "tikName": "Арбажская"
+    "tikName": "Арбажская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "443400170492",
+    "uikName": "УИК №10",
     "tikTvd": "243200070834",
-    "tikName": "Арбажская"
+    "tikName": "Арбажская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "443400170493",
+    "uikName": "УИК №11",
     "tikTvd": "243200070834",
-    "tikName": "Арбажская"
+    "tikName": "Арбажская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "443400170494",
+    "uikName": "УИК №12",
     "tikTvd": "243200070834",
-    "tikName": "Арбажская"
+    "tikName": "Арбажская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "443400170495",
+    "uikName": "УИК №13",
     "tikTvd": "243200070834",
-    "tikName": "Арбажская"
+    "tikName": "Арбажская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "443400170496",
+    "uikName": "УИК №14",
     "tikTvd": "243200070834",
-    "tikName": "Арбажская"
+    "tikName": "Арбажская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "443400170497",
+    "uikName": "УИК №15",
     "tikTvd": "243200070834",
-    "tikName": "Арбажская"
+    "tikName": "Арбажская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "443400170498",
+    "uikName": "УИК №16",
     "tikTvd": "243200070834",
-    "tikName": "Арбажская"
+    "tikName": "Арбажская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "443400266758",
+    "uikName": "УИК №17",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "443400266759",
+    "uikName": "УИК №18",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "443400266760",
+    "uikName": "УИК №19",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "443400266761",
+    "uikName": "УИК №20",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "443400266762",
+    "uikName": "УИК №21",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "443400266763",
+    "uikName": "УИК №22",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "443400266764",
+    "uikName": "УИК №23",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "443400266765",
+    "uikName": "УИК №24",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "443400266766",
+    "uikName": "УИК №25",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "443400266767",
+    "uikName": "УИК №26",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "443400266768",
+    "uikName": "УИК №27",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "443400266769",
+    "uikName": "УИК №28",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "443400266770",
+    "uikName": "УИК №29",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "443400266771",
+    "uikName": "УИК №30",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "443400266772",
+    "uikName": "УИК №31",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "443400266773",
+    "uikName": "УИК №32",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "443400266774",
+    "uikName": "УИК №33",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "443400266775",
+    "uikName": "УИК №34",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "443400266776",
+    "uikName": "УИК №35",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "443400266777",
+    "uikName": "УИК №36",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "443400266778",
+    "uikName": "УИК №37",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "443400266779",
+    "uikName": "УИК №38",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "443400266780",
+    "uikName": "УИК №39",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "443400266781",
+    "uikName": "УИК №40",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "443400266782",
+    "uikName": "УИК №41",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "443400266783",
+    "uikName": "УИК №42",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "443400266784",
+    "uikName": "УИК №43",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "443400266785",
+    "uikName": "УИК №44",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "443400266786",
+    "uikName": "УИК №45",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "443400266787",
+    "uikName": "УИК №46",
     "tikTvd": "243200070818",
-    "tikName": "Афанасьевская"
+    "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "443400370448",
+    "uikName": "УИК №47",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "443400370449",
+    "uikName": "УИК №48",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "443400370450",
+    "uikName": "УИК №49",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "443400370451",
+    "uikName": "УИК №50",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "443400370452",
+    "uikName": "УИК №51",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "443400370453",
+    "uikName": "УИК №52",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "443400370454",
+    "uikName": "УИК №53",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "443400370455",
+    "uikName": "УИК №54",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "443400370456",
+    "uikName": "УИК №55",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "443400370457",
+    "uikName": "УИК №56",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "443400370458",
+    "uikName": "УИК №57",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "443400370459",
+    "uikName": "УИК №58",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "443400370460",
+    "uikName": "УИК №59",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "443400370461",
+    "uikName": "УИК №60",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "443400370462",
+    "uikName": "УИК №61",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "443400370463",
+    "uikName": "УИК №62",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "443400370464",
+    "uikName": "УИК №63",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "443400370465",
+    "uikName": "УИК №64",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "443400370466",
+    "uikName": "УИК №65",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "443400370467",
+    "uikName": "УИК №66",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "443400370468",
+    "uikName": "УИК №67",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "443400370469",
+    "uikName": "УИК №68",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "443400370470",
+    "uikName": "УИК №69",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "443400370471",
+    "uikName": "УИК №70",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "443400370472",
+    "uikName": "УИК №71",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "443400370473",
+    "uikName": "УИК №72",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "443400370474",
+    "uikName": "УИК №73",
     "tikTvd": "243200070817",
-    "tikName": "Белохолуницкая"
+    "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "443400470438",
+    "uikName": "УИК №74",
     "tikTvd": "243200070832",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "443400470439",
+    "uikName": "УИК №75",
     "tikTvd": "243200070832",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "443400470440",
+    "uikName": "УИК №76",
     "tikTvd": "243200070832",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "443400470441",
+    "uikName": "УИК №77",
     "tikTvd": "243200070832",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "443400470442",
+    "uikName": "УИК №78",
     "tikTvd": "243200070832",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "443400470443",
+    "uikName": "УИК №79",
     "tikTvd": "243200070832",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "443400470444",
+    "uikName": "УИК №80",
     "tikTvd": "243200070832",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "443400470445",
+    "uikName": "УИК №81",
     "tikTvd": "243200070832",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "443400470446",
+    "uikName": "УИК №82",
     "tikTvd": "243200070832",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "443400470447",
+    "uikName": "УИК №83",
     "tikTvd": "243200070832",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "443400470448",
+    "uikName": "УИК №84",
     "tikTvd": "243200070832",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "443400470449",
+    "uikName": "УИК №85",
     "tikTvd": "243200070832",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "443400470450",
+    "uikName": "УИК №86",
     "tikTvd": "243200070832",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "443400470451",
+    "uikName": "УИК №87",
     "tikTvd": "243200070832",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "443400570440",
+    "uikName": "УИК №88",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "443400570441",
+    "uikName": "УИК №89",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "443400570442",
+    "uikName": "УИК №90",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "443400570443",
+    "uikName": "УИК №91",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "443400570444",
+    "uikName": "УИК №92",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "443400570445",
+    "uikName": "УИК №93",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "443400570446",
+    "uikName": "УИК №94",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "443400570447",
+    "uikName": "УИК №95",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "443400570448",
+    "uikName": "УИК №96",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "443400570449",
+    "uikName": "УИК №97",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "443400570450",
+    "uikName": "УИК №98",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "443400570451",
+    "uikName": "УИК №99",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "443400570452",
+    "uikName": "УИК №100",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "443400570453",
+    "uikName": "УИК №101",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "443400570454",
+    "uikName": "УИК №102",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "443400570455",
+    "uikName": "УИК №103",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "443400570456",
+    "uikName": "УИК №104",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "443400570457",
+    "uikName": "УИК №105",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "443400570458",
+    "uikName": "УИК №106",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "443400570459",
+    "uikName": "УИК №107",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "443400570460",
+    "uikName": "УИК №108",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "443400570461",
+    "uikName": "УИК №109",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "443400570462",
+    "uikName": "УИК №110",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "443400570463",
+    "uikName": "УИК №111",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "443400570464",
+    "uikName": "УИК №112",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "443400570465",
+    "uikName": "УИК №113",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "443400570466",
+    "uikName": "УИК №114",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "443400570467",
+    "uikName": "УИК №115",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "443400570468",
+    "uikName": "УИК №116",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "443400570469",
+    "uikName": "УИК №117",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "443400570470",
+    "uikName": "УИК №118",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "443400570471",
+    "uikName": "УИК №119",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "443400570472",
+    "uikName": "УИК №120",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "443400570473",
+    "uikName": "УИК №121",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "443400570474",
+    "uikName": "УИК №122",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "443400570475",
+    "uikName": "УИК №123",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "443400570476",
+    "uikName": "УИК №124",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "443400570477",
+    "uikName": "УИК №125",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "443400570478",
+    "uikName": "УИК №126",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "443400570479",
+    "uikName": "УИК №127",
     "tikTvd": "243200070816",
-    "tikName": "Верхнекамская"
+    "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "443400670388",
+    "uikName": "УИК №128",
     "tikTvd": "243200070833",
-    "tikName": "Верхошижемская"
+    "tikName": "Верхошижемская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "443400670389",
+    "uikName": "УИК №129",
     "tikTvd": "243200070833",
-    "tikName": "Верхошижемская"
+    "tikName": "Верхошижемская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "443400670390",
+    "uikName": "УИК №130",
     "tikTvd": "243200070833",
-    "tikName": "Верхошижемская"
+    "tikName": "Верхошижемская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "443400670330",
+    "uikName": "УИК №131",
     "tikTvd": "243200070833",
-    "tikName": "Верхошижемская"
+    "tikName": "Верхошижемская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "443400670331",
+    "uikName": "УИК №132",
     "tikTvd": "243200070833",
-    "tikName": "Верхошижемская"
+    "tikName": "Верхошижемская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "443400670332",
+    "uikName": "УИК №133",
     "tikTvd": "243200070833",
-    "tikName": "Верхошижемская"
+    "tikName": "Верхошижемская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "443400670333",
+    "uikName": "УИК №134",
     "tikTvd": "243200070833",
-    "tikName": "Верхошижемская"
+    "tikName": "Верхошижемская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "443400670334",
+    "uikName": "УИК №135",
     "tikTvd": "243200070833",
-    "tikName": "Верхошижемская"
+    "tikName": "Верхошижемская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "443400670335",
+    "uikName": "УИК №136",
     "tikTvd": "243200070833",
-    "tikName": "Верхошижемская"
+    "tikName": "Верхошижемская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "443400670336",
+    "uikName": "УИК №137",
     "tikTvd": "243200070833",
-    "tikName": "Верхошижемская"
+    "tikName": "Верхошижемская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "443400670337",
+    "uikName": "УИК №138",
     "tikTvd": "243200070833",
-    "tikName": "Верхошижемская"
+    "tikName": "Верхошижемская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "443400670338",
+    "uikName": "УИК №139",
     "tikTvd": "243200070833",
-    "tikName": "Верхошижемская"
+    "tikName": "Верхошижемская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "443400670339",
+    "uikName": "УИК №140",
     "tikTvd": "243200070833",
-    "tikName": "Верхошижемская"
+    "tikName": "Верхошижемская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "443400670340",
+    "uikName": "УИК №141",
     "tikTvd": "243200070833",
-    "tikName": "Верхошижемская"
+    "tikName": "Верхошижемская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "443400770733",
+    "uikName": "УИК №142",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "443400770734",
+    "uikName": "УИК №143",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "443400770735",
+    "uikName": "УИК №144",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "443400770736",
+    "uikName": "УИК №145",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "443400770737",
+    "uikName": "УИК №146",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "443400770738",
+    "uikName": "УИК №147",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "443400770739",
+    "uikName": "УИК №148",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "443400770740",
+    "uikName": "УИК №149",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "443400770741",
+    "uikName": "УИК №150",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "443400770742",
+    "uikName": "УИК №151",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "443400770743",
+    "uikName": "УИК №152",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "443400770744",
+    "uikName": "УИК №153",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "443400770745",
+    "uikName": "УИК №154",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "443400770746",
+    "uikName": "УИК №155",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "443400770747",
+    "uikName": "УИК №156",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "443400770748",
+    "uikName": "УИК №157",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "443400770749",
+    "uikName": "УИК №158",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "443400770750",
+    "uikName": "УИК №159",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "443400770751",
+    "uikName": "УИК №160",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "443400770752",
+    "uikName": "УИК №161",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "443400770753",
+    "uikName": "УИК №162",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "443400770754",
+    "uikName": "УИК №163",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "443400770755",
+    "uikName": "УИК №164",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "443400770756",
+    "uikName": "УИК №165",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "443400770757",
+    "uikName": "УИК №166",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "443400770758",
+    "uikName": "УИК №167",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "443400770759",
+    "uikName": "УИК №168",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "443400770760",
+    "uikName": "УИК №169",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "443400770761",
+    "uikName": "УИК №170",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "443400770762",
+    "uikName": "УИК №171",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "443400770763",
+    "uikName": "УИК №172",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "443400770764",
+    "uikName": "УИК №173",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "443400770765",
+    "uikName": "УИК №174",
     "tikTvd": "243200070830",
-    "tikName": "Вятско-Полянская"
+    "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "443404870434",
+    "uikName": "УИК №175",
     "tikTvd": "243200070826",
-    "tikName": "Вятско-Полянская городская"
+    "tikName": "Вятско-Полянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "443404870435",
+    "uikName": "УИК №176",
     "tikTvd": "243200070826",
-    "tikName": "Вятско-Полянская городская"
+    "tikName": "Вятско-Полянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "443404870436",
+    "uikName": "УИК №177",
     "tikTvd": "243200070826",
-    "tikName": "Вятско-Полянская городская"
+    "tikName": "Вятско-Полянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "443404870437",
+    "uikName": "УИК №178",
     "tikTvd": "243200070826",
-    "tikName": "Вятско-Полянская городская"
+    "tikName": "Вятско-Полянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "443404870438",
+    "uikName": "УИК №179",
     "tikTvd": "243200070826",
-    "tikName": "Вятско-Полянская городская"
+    "tikName": "Вятско-Полянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "443404870439",
+    "uikName": "УИК №180",
     "tikTvd": "243200070826",
-    "tikName": "Вятско-Полянская городская"
+    "tikName": "Вятско-Полянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "443404870440",
+    "uikName": "УИК №181",
     "tikTvd": "243200070826",
-    "tikName": "Вятско-Полянская городская"
+    "tikName": "Вятско-Полянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "443404870441",
+    "uikName": "УИК №182",
     "tikTvd": "243200070826",
-    "tikName": "Вятско-Полянская городская"
+    "tikName": "Вятско-Полянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "443404870442",
+    "uikName": "УИК №183",
     "tikTvd": "243200070826",
-    "tikName": "Вятско-Полянская городская"
+    "tikName": "Вятско-Полянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "443404870443",
+    "uikName": "УИК №184",
     "tikTvd": "243200070826",
-    "tikName": "Вятско-Полянская городская"
+    "tikName": "Вятско-Полянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "443404870444",
+    "uikName": "УИК №185",
     "tikTvd": "243200070826",
-    "tikName": "Вятско-Полянская городская"
+    "tikName": "Вятско-Полянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "443404870445",
+    "uikName": "УИК №186",
     "tikTvd": "243200070826",
-    "tikName": "Вятско-Полянская городская"
+    "tikName": "Вятско-Полянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "443404870446",
+    "uikName": "УИК №187",
     "tikTvd": "243200070826",
-    "tikName": "Вятско-Полянская городская"
+    "tikName": "Вятско-Полянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "443404870447",
+    "uikName": "УИК №188",
     "tikTvd": "243200070826",
-    "tikName": "Вятско-Полянская городская"
+    "tikName": "Вятско-Полянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "443404870448",
+    "uikName": "УИК №189",
     "tikTvd": "243200070826",
-    "tikName": "Вятско-Полянская городская"
+    "tikName": "Вятско-Полянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "443404870449",
+    "uikName": "УИК №190",
     "tikTvd": "243200070826",
-    "tikName": "Вятско-Полянская городская"
+    "tikName": "Вятско-Полянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "443404870450",
+    "uikName": "УИК №191",
     "tikTvd": "243200070826",
-    "tikName": "Вятско-Полянская городская"
+    "tikName": "Вятско-Полянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "443404870451",
+    "uikName": "УИК №192",
     "tikTvd": "243200070826",
-    "tikName": "Вятско-Полянская городская"
+    "tikName": "Вятско-Полянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "443400870376",
+    "uikName": "УИК №193",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "443400870377",
+    "uikName": "УИК №194",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "443400870378",
+    "uikName": "УИК №195",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "443400870379",
+    "uikName": "УИК №196",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "443400870380",
+    "uikName": "УИК №197",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "443400870381",
+    "uikName": "УИК №198",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "443400870382",
+    "uikName": "УИК №199",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "443400870383",
+    "uikName": "УИК №200",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "443400870384",
+    "uikName": "УИК №201",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "443400870385",
+    "uikName": "УИК №202",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "443400870386",
+    "uikName": "УИК №203",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "443400870387",
+    "uikName": "УИК №204",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "443400870388",
+    "uikName": "УИК №205",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "443400870389",
+    "uikName": "УИК №206",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "443400870390",
+    "uikName": "УИК №207",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "443400870391",
+    "uikName": "УИК №208",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "443400870392",
+    "uikName": "УИК №209",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "443400870393",
+    "uikName": "УИК №210",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "443400870394",
+    "uikName": "УИК №211",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "443400870395",
+    "uikName": "УИК №212",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "443400870396",
+    "uikName": "УИК №213",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "443400870397",
+    "uikName": "УИК №214",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "443400870398",
+    "uikName": "УИК №215",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "443400870399",
+    "uikName": "УИК №216",
     "tikTvd": "243200070831",
-    "tikName": "Даровская"
+    "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "443400970356",
+    "uikName": "УИК №217",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "443400970357",
+    "uikName": "УИК №218",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "443400970358",
+    "uikName": "УИК №219",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "443400970359",
+    "uikName": "УИК №220",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "443400970360",
+    "uikName": "УИК №221",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "443400970361",
+    "uikName": "УИК №222",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "443400970362",
+    "uikName": "УИК №223",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "443400970363",
+    "uikName": "УИК №224",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "443400970364",
+    "uikName": "УИК №225",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "443400970365",
+    "uikName": "УИК №226",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "443400970366",
+    "uikName": "УИК №227",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "443400970367",
+    "uikName": "УИК №228",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "443400970368",
+    "uikName": "УИК №229",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "443400970369",
+    "uikName": "УИК №230",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "443400970370",
+    "uikName": "УИК №231",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "443400970371",
+    "uikName": "УИК №232",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "443400970372",
+    "uikName": "УИК №233",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "443400970373",
+    "uikName": "УИК №234",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "443400970374",
+    "uikName": "УИК №235",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "443400970375",
+    "uikName": "УИК №236",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "443400970376",
+    "uikName": "УИК №237",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "443400970377",
+    "uikName": "УИК №238",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "443400970378",
+    "uikName": "УИК №239",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "443400970379",
+    "uikName": "УИК №240",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "443400970380",
+    "uikName": "УИК №241",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "443400970381",
+    "uikName": "УИК №242",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "443400970382",
+    "uikName": "УИК №243",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "443400970383",
+    "uikName": "УИК №244",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "443400970384",
+    "uikName": "УИК №245",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "443400970385",
+    "uikName": "УИК №246",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "443400970386",
+    "uikName": "УИК №247",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "443400970387",
+    "uikName": "УИК №248",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "443400970388",
+    "uikName": "УИК №249",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "443400970389",
+    "uikName": "УИК №250",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "443400970390",
+    "uikName": "УИК №251",
     "tikTvd": "243200070829",
-    "tikName": "Зуевская"
+    "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "443401070362",
+    "uikName": "УИК №252",
     "tikTvd": "243200070837",
-    "tikName": "Кикнурская"
+    "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "443401070363",
+    "uikName": "УИК №253",
     "tikTvd": "243200070837",
-    "tikName": "Кикнурская"
+    "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "443401070364",
+    "uikName": "УИК №254",
     "tikTvd": "243200070837",
-    "tikName": "Кикнурская"
+    "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "443401070365",
+    "uikName": "УИК №255",
     "tikTvd": "243200070837",
-    "tikName": "Кикнурская"
+    "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "443401070366",
+    "uikName": "УИК №256",
     "tikTvd": "243200070837",
-    "tikName": "Кикнурская"
+    "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "443401070367",
+    "uikName": "УИК №257",
     "tikTvd": "243200070837",
-    "tikName": "Кикнурская"
+    "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "443401070368",
+    "uikName": "УИК №258",
     "tikTvd": "243200070837",
-    "tikName": "Кикнурская"
+    "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "443401070369",
+    "uikName": "УИК №259",
     "tikTvd": "243200070837",
-    "tikName": "Кикнурская"
+    "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "443401070370",
+    "uikName": "УИК №260",
     "tikTvd": "243200070837",
-    "tikName": "Кикнурская"
+    "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "443401070371",
+    "uikName": "УИК №261",
     "tikTvd": "243200070837",
-    "tikName": "Кикнурская"
+    "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "443401070372",
+    "uikName": "УИК №262",
     "tikTvd": "243200070837",
-    "tikName": "Кикнурская"
+    "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "443401070373",
+    "uikName": "УИК №263",
     "tikTvd": "243200070837",
-    "tikName": "Кикнурская"
+    "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "443401070374",
+    "uikName": "УИК №264",
     "tikTvd": "243200070837",
-    "tikName": "Кикнурская"
+    "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "443401070375",
+    "uikName": "УИК №265",
     "tikTvd": "243200070837",
-    "tikName": "Кикнурская"
+    "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "443401070376",
+    "uikName": "УИК №266",
     "tikTvd": "243200070837",
-    "tikName": "Кикнурская"
+    "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "443401070377",
+    "uikName": "УИК №267",
     "tikTvd": "243200070837",
-    "tikName": "Кикнурская"
+    "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "443401070378",
+    "uikName": "УИК №268",
     "tikTvd": "243200070837",
-    "tikName": "Кикнурская"
+    "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "443401070379",
+    "uikName": "УИК №269",
     "tikTvd": "243200070837",
-    "tikName": "Кикнурская"
+    "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "443401070380",
+    "uikName": "УИК №270",
     "tikTvd": "243200070837",
-    "tikName": "Кикнурская"
+    "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "443401070381",
+    "uikName": "УИК №271",
     "tikTvd": "243200070837",
-    "tikName": "Кикнурская"
+    "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "443401070382",
+    "uikName": "УИК №272",
     "tikTvd": "243200070837",
-    "tikName": "Кикнурская"
+    "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "443401070383",
+    "uikName": "УИК №273",
     "tikTvd": "243200070837",
-    "tikName": "Кикнурская"
+    "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "443401166908",
+    "uikName": "УИК №274",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "443401166909",
+    "uikName": "УИК №275",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "443401166910",
+    "uikName": "УИК №276",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "443401166911",
+    "uikName": "УИК №277",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "443401166912",
+    "uikName": "УИК №278",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "443401166913",
+    "uikName": "УИК №279",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "443401166914",
+    "uikName": "УИК №280",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "443401166915",
+    "uikName": "УИК №281",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "443401166916",
+    "uikName": "УИК №282",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "443401166917",
+    "uikName": "УИК №283",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "443401166918",
+    "uikName": "УИК №284",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "443401166919",
+    "uikName": "УИК №285",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "443401166920",
+    "uikName": "УИК №286",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "443401166921",
+    "uikName": "УИК №287",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "443401166922",
+    "uikName": "УИК №288",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "443401166923",
+    "uikName": "УИК №289",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "443401166924",
+    "uikName": "УИК №290",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "443401166925",
+    "uikName": "УИК №291",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "443401166926",
+    "uikName": "УИК №292",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "443401166927",
+    "uikName": "УИК №293",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "443401166928",
+    "uikName": "УИК №294",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "443401166929",
+    "uikName": "УИК №295",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "443401166930",
+    "uikName": "УИК №296",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "443401166931",
+    "uikName": "УИК №297",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "443401166932",
+    "uikName": "УИК №298",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "443401166933",
+    "uikName": "УИК №299",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "443401166934",
+    "uikName": "УИК №300",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "443401166935",
+    "uikName": "УИК №301",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "443401166936",
+    "uikName": "УИК №302",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "443401166937",
+    "uikName": "УИК №303",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "443401166938",
+    "uikName": "УИК №304",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "443401166939",
+    "uikName": "УИК №305",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "443401166940",
+    "uikName": "УИК №306",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "443401166941",
+    "uikName": "УИК №307",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "443401166942",
+    "uikName": "УИК №308",
     "tikTvd": "243200070835",
-    "tikName": "Кильмезская"
+    "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "443401270503",
+    "uikName": "УИК №309",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "443401270504",
+    "uikName": "УИК №310",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "443401270505",
+    "uikName": "УИК №311",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "443401270506",
+    "uikName": "УИК №312",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "443401270507",
+    "uikName": "УИК №313",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "443401270508",
+    "uikName": "УИК №314",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "443401270509",
+    "uikName": "УИК №315",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "443401270510",
+    "uikName": "УИК №316",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "443401270511",
+    "uikName": "УИК №317",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "443401270512",
+    "uikName": "УИК №318",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "443401270513",
+    "uikName": "УИК №319",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "443401270514",
+    "uikName": "УИК №320",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "443401270515",
+    "uikName": "УИК №321",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "443401270516",
+    "uikName": "УИК №322",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "443401270517",
+    "uikName": "УИК №323",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "443401270518",
+    "uikName": "УИК №324",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "443401270519",
+    "uikName": "УИК №325",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "443401270520",
+    "uikName": "УИК №326",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "443401270521",
+    "uikName": "УИК №327",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "443401270522",
+    "uikName": "УИК №328",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "443401270523",
+    "uikName": "УИК №329",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "443401270524",
+    "uikName": "УИК №330",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "443401270525",
+    "uikName": "УИК №331",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "443401270526",
+    "uikName": "УИК №332",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "443401270527",
+    "uikName": "УИК №333",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "443401270528",
+    "uikName": "УИК №334",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "443401270529",
+    "uikName": "УИК №335",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "443401270530",
+    "uikName": "УИК №336",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "443401270531",
+    "uikName": "УИК №337",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "443401270532",
+    "uikName": "УИК №338",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "443401270533",
+    "uikName": "УИК №339",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "443401270534",
+    "uikName": "УИК №340",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "443401270535",
+    "uikName": "УИК №341",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "443401270536",
+    "uikName": "УИК №342",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "443401270537",
+    "uikName": "УИК №343",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "443401270538",
+    "uikName": "УИК №344",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "443401270539",
+    "uikName": "УИК №345",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "443401270540",
+    "uikName": "УИК №346",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "443401270541",
+    "uikName": "УИК №347",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "443401270542",
+    "uikName": "УИК №348",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "443401270543",
+    "uikName": "УИК №349",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "443401270544",
+    "uikName": "УИК №350",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "443401270545",
+    "uikName": "УИК №351",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "443401270546",
+    "uikName": "УИК №352",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "443401270547",
+    "uikName": "УИК №353",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "443401270548",
+    "uikName": "УИК №354",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "443401270549",
+    "uikName": "УИК №355",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "443401270550",
+    "uikName": "УИК №356",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "443401270551",
+    "uikName": "УИК №357",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "443401270552",
+    "uikName": "УИК №358",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "443401270553",
+    "uikName": "УИК №359",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "443401270554",
+    "uikName": "УИК №360",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "443401270555",
+    "uikName": "УИК №361",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "443401270556",
+    "uikName": "УИК №362",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "443401270557",
+    "uikName": "УИК №363",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "443401270558",
+    "uikName": "УИК №364",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "443401270559",
+    "uikName": "УИК №365",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "443401270560",
+    "uikName": "УИК №366",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "443401270561",
+    "uikName": "УИК №367",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "443401270562",
+    "uikName": "УИК №368",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "443401270563",
+    "uikName": "УИК №369",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "443401270564",
+    "uikName": "УИК №370",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "443401270565",
+    "uikName": "УИК №371",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "443401270566",
+    "uikName": "УИК №372",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "443401270567",
+    "uikName": "УИК №373",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "443401270568",
+    "uikName": "УИК №374",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "443401270569",
+    "uikName": "УИК №375",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "443401270570",
+    "uikName": "УИК №376",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "443401270571",
+    "uikName": "УИК №377",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "443401270572",
+    "uikName": "УИК №378",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "443401270573",
+    "uikName": "УИК №379",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "443401270574",
+    "uikName": "УИК №380",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "443401270575",
+    "uikName": "УИК №381",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "443401270576",
+    "uikName": "УИК №382",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "443401270577",
+    "uikName": "УИК №383",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "443401270578",
+    "uikName": "УИК №384",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "443401270579",
+    "uikName": "УИК №385",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "443401270580",
+    "uikName": "УИК №386",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "443401270581",
+    "uikName": "УИК №387",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "443401270582",
+    "uikName": "УИК №388",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "443401270583",
+    "uikName": "УИК №389",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "443401270584",
+    "uikName": "УИК №390",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "443401270585",
+    "uikName": "УИК №391",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "443401270586",
+    "uikName": "УИК №392",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "443401270587",
+    "uikName": "УИК №393",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "443401270588",
+    "uikName": "УИК №394",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "443401270589",
+    "uikName": "УИК №395",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "443401270590",
+    "uikName": "УИК №396",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "443401270591",
+    "uikName": "УИК №397",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "443401270592",
+    "uikName": "УИК №398",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "443401270593",
+    "uikName": "УИК №399",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "443401270594",
+    "uikName": "УИК №400",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "443401270595",
+    "uikName": "УИК №401",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "443401270596",
+    "uikName": "УИК №402",
     "tikTvd": "243200070815",
-    "tikName": "Киров, Ленинская"
+    "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "443401370420",
+    "uikName": "УИК №403",
     "tikTvd": "243200070814",
-    "tikName": "Киров, Нововятская"
+    "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "443401370421",
+    "uikName": "УИК №404",
     "tikTvd": "243200070814",
-    "tikName": "Киров, Нововятская"
+    "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "443401370422",
+    "uikName": "УИК №405",
     "tikTvd": "243200070814",
-    "tikName": "Киров, Нововятская"
+    "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "443401370423",
+    "uikName": "УИК №406",
     "tikTvd": "243200070814",
-    "tikName": "Киров, Нововятская"
+    "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "443401370424",
+    "uikName": "УИК №407",
     "tikTvd": "243200070814",
-    "tikName": "Киров, Нововятская"
+    "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "443401370425",
+    "uikName": "УИК №408",
     "tikTvd": "243200070814",
-    "tikName": "Киров, Нововятская"
+    "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "443401370426",
+    "uikName": "УИК №409",
     "tikTvd": "243200070814",
-    "tikName": "Киров, Нововятская"
+    "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "443401370427",
+    "uikName": "УИК №410",
     "tikTvd": "243200070814",
-    "tikName": "Киров, Нововятская"
+    "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "443401370428",
+    "uikName": "УИК №411",
     "tikTvd": "243200070814",
-    "tikName": "Киров, Нововятская"
+    "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "443401370429",
+    "uikName": "УИК №412",
     "tikTvd": "243200070814",
-    "tikName": "Киров, Нововятская"
+    "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "443401370430",
+    "uikName": "УИК №413",
     "tikTvd": "243200070814",
-    "tikName": "Киров, Нововятская"
+    "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "443401370431",
+    "uikName": "УИК №414",
     "tikTvd": "243200070814",
-    "tikName": "Киров, Нововятская"
+    "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "443401370432",
+    "uikName": "УИК №415",
     "tikTvd": "243200070814",
-    "tikName": "Киров, Нововятская"
+    "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "443401370433",
+    "uikName": "УИК №416",
     "tikTvd": "243200070814",
-    "tikName": "Киров, Нововятская"
+    "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "443401370434",
+    "uikName": "УИК №417",
     "tikTvd": "243200070814",
-    "tikName": "Киров, Нововятская"
+    "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "443401370435",
+    "uikName": "УИК №418",
     "tikTvd": "243200070814",
-    "tikName": "Киров, Нововятская"
+    "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "443401370436",
+    "uikName": "УИК №419",
     "tikTvd": "243200070814",
-    "tikName": "Киров, Нововятская"
+    "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "443401370437",
+    "uikName": "УИК №420",
     "tikTvd": "243200070814",
-    "tikName": "Киров, Нововятская"
+    "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "443401370438",
+    "uikName": "УИК №421",
     "tikTvd": "243200070814",
-    "tikName": "Киров, Нововятская"
+    "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "443401466810",
+    "uikName": "УИК №422",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "443401466811",
+    "uikName": "УИК №423",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "443401466812",
+    "uikName": "УИК №424",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "443401466813",
+    "uikName": "УИК №425",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "443401466814",
+    "uikName": "УИК №426",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "443401466815",
+    "uikName": "УИК №427",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "443401466816",
+    "uikName": "УИК №428",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "443401466817",
+    "uikName": "УИК №429",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "443401466818",
+    "uikName": "УИК №430",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "443401466819",
+    "uikName": "УИК №431",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "443401466820",
+    "uikName": "УИК №432",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "443401466821",
+    "uikName": "УИК №433",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "443401466822",
+    "uikName": "УИК №434",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "443401466823",
+    "uikName": "УИК №435",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "443401466824",
+    "uikName": "УИК №436",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "443401466825",
+    "uikName": "УИК №437",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "443401466826",
+    "uikName": "УИК №438",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "443401466827",
+    "uikName": "УИК №439",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "443401466828",
+    "uikName": "УИК №440",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "443401466829",
+    "uikName": "УИК №441",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "443401466830",
+    "uikName": "УИК №442",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "443401466831",
+    "uikName": "УИК №443",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "443401466832",
+    "uikName": "УИК №444",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "443401466833",
+    "uikName": "УИК №445",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "443401466834",
+    "uikName": "УИК №446",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "443401466835",
+    "uikName": "УИК №447",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "443401466836",
+    "uikName": "УИК №448",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "443401466837",
+    "uikName": "УИК №449",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "443401466838",
+    "uikName": "УИК №450",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "443401466839",
+    "uikName": "УИК №451",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "443401466840",
+    "uikName": "УИК №452",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "443401466841",
+    "uikName": "УИК №453",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "443401466842",
+    "uikName": "УИК №454",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "443401466843",
+    "uikName": "УИК №455",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "443401466844",
+    "uikName": "УИК №456",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "443401466845",
+    "uikName": "УИК №457",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "443401466846",
+    "uikName": "УИК №458",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "443401466847",
+    "uikName": "УИК №459",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "443401466848",
+    "uikName": "УИК №460",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "443401466849",
+    "uikName": "УИК №461",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "443401466850",
+    "uikName": "УИК №462",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "443401466851",
+    "uikName": "УИК №463",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "443401466852",
+    "uikName": "УИК №464",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "443401466853",
+    "uikName": "УИК №465",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "443401466854",
+    "uikName": "УИК №466",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "443401466855",
+    "uikName": "УИК №467",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "443401466856",
+    "uikName": "УИК №468",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "443401466857",
+    "uikName": "УИК №469",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "443401466858",
+    "uikName": "УИК №470",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "443401466859",
+    "uikName": "УИК №471",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "443401466860",
+    "uikName": "УИК №472",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "443401466861",
+    "uikName": "УИК №473",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "443401466862",
+    "uikName": "УИК №474",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "443401466863",
+    "uikName": "УИК №475",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "443401466864",
+    "uikName": "УИК №476",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "443401466865",
+    "uikName": "УИК №477",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "443401466866",
+    "uikName": "УИК №478",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "443401466867",
+    "uikName": "УИК №479",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "443401466868",
+    "uikName": "УИК №480",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "443401466869",
+    "uikName": "УИК №481",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "443401466870",
+    "uikName": "УИК №482",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "443401466871",
+    "uikName": "УИК №483",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "443401466872",
+    "uikName": "УИК №484",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "443401466873",
+    "uikName": "УИК №485",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "443401466874",
+    "uikName": "УИК №486",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "443401466875",
+    "uikName": "УИК №487",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "443401466876",
+    "uikName": "УИК №488",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "443401466877",
+    "uikName": "УИК №489",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "443401466878",
+    "uikName": "УИК №490",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "443401466879",
+    "uikName": "УИК №491",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "443401466880",
+    "uikName": "УИК №492",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "443401466881",
+    "uikName": "УИК №493",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "443401466882",
+    "uikName": "УИК №494",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "443401466883",
+    "uikName": "УИК №495",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "443401466884",
+    "uikName": "УИК №496",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "443401466885",
+    "uikName": "УИК №497",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "443401466886",
+    "uikName": "УИК №498",
     "tikTvd": "243200070813",
-    "tikName": "Киров, Октябрьская"
+    "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "443401670440",
+    "uikName": "УИК №499",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "443401670441",
+    "uikName": "УИК №500",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "443401670442",
+    "uikName": "УИК №501",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "443401670443",
+    "uikName": "УИК №502",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "443401670444",
+    "uikName": "УИК №503",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "443401670445",
+    "uikName": "УИК №504",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "443401670446",
+    "uikName": "УИК №505",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "443401670447",
+    "uikName": "УИК №506",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "443401670448",
+    "uikName": "УИК №507",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "443401670449",
+    "uikName": "УИК №508",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "443401670450",
+    "uikName": "УИК №509",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "443401670451",
+    "uikName": "УИК №510",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "443401670452",
+    "uikName": "УИК №511",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "443401670453",
+    "uikName": "УИК №512",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "443401670454",
+    "uikName": "УИК №513",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "443401670455",
+    "uikName": "УИК №514",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "443401670456",
+    "uikName": "УИК №515",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "443401670457",
+    "uikName": "УИК №516",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "443401670458",
+    "uikName": "УИК №517",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "443401670459",
+    "uikName": "УИК №518",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "443401670460",
+    "uikName": "УИК №519",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "443401670461",
+    "uikName": "УИК №520",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "443401670462",
+    "uikName": "УИК №521",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "443401670463",
+    "uikName": "УИК №522",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "443401670464",
+    "uikName": "УИК №523",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "443401670465",
+    "uikName": "УИК №524",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "443401670466",
+    "uikName": "УИК №525",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "443401670467",
+    "uikName": "УИК №526",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "443401670468",
+    "uikName": "УИК №527",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "443401670469",
+    "uikName": "УИК №528",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "443401670470",
+    "uikName": "УИК №529",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "443401670471",
+    "uikName": "УИК №530",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "443401670472",
+    "uikName": "УИК №531",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "443401670473",
+    "uikName": "УИК №532",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "443401670474",
+    "uikName": "УИК №533",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "443401670475",
+    "uikName": "УИК №534",
     "tikTvd": "243200070812",
-    "tikName": "Киров, Первомайская"
+    "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "443401870481",
+    "uikName": "УИК №535",
     "tikTvd": "243200070841",
-    "tikName": "Кирово-Чепецкая"
+    "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "443401870482",
+    "uikName": "УИК №536",
     "tikTvd": "243200070841",
-    "tikName": "Кирово-Чепецкая"
+    "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "443401870483",
+    "uikName": "УИК №537",
     "tikTvd": "243200070841",
-    "tikName": "Кирово-Чепецкая"
+    "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "443401870484",
+    "uikName": "УИК №538",
     "tikTvd": "243200070841",
-    "tikName": "Кирово-Чепецкая"
+    "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "443401870485",
+    "uikName": "УИК №539",
     "tikTvd": "243200070841",
-    "tikName": "Кирово-Чепецкая"
+    "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "443401870486",
+    "uikName": "УИК №540",
     "tikTvd": "243200070841",
-    "tikName": "Кирово-Чепецкая"
+    "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "443401870487",
+    "uikName": "УИК №541",
     "tikTvd": "243200070841",
-    "tikName": "Кирово-Чепецкая"
+    "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "443401870488",
+    "uikName": "УИК №542",
     "tikTvd": "243200070841",
-    "tikName": "Кирово-Чепецкая"
+    "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "443401870489",
+    "uikName": "УИК №543",
     "tikTvd": "243200070841",
-    "tikName": "Кирово-Чепецкая"
+    "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "443401870490",
+    "uikName": "УИК №544",
     "tikTvd": "243200070841",
-    "tikName": "Кирово-Чепецкая"
+    "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "443401870491",
+    "uikName": "УИК №545",
     "tikTvd": "243200070841",
-    "tikName": "Кирово-Чепецкая"
+    "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "443401870492",
+    "uikName": "УИК №546",
     "tikTvd": "243200070841",
-    "tikName": "Кирово-Чепецкая"
+    "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "443401870493",
+    "uikName": "УИК №547",
     "tikTvd": "243200070841",
-    "tikName": "Кирово-Чепецкая"
+    "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "443401870494",
+    "uikName": "УИК №548",
     "tikTvd": "243200070841",
-    "tikName": "Кирово-Чепецкая"
+    "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "443401870495",
+    "uikName": "УИК №549",
     "tikTvd": "243200070841",
-    "tikName": "Кирово-Чепецкая"
+    "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "443401870496",
+    "uikName": "УИК №550",
     "tikTvd": "243200070841",
-    "tikName": "Кирово-Чепецкая"
+    "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "443401870497",
+    "uikName": "УИК №551",
     "tikTvd": "243200070841",
-    "tikName": "Кирово-Чепецкая"
+    "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "443401870498",
+    "uikName": "УИК №552",
     "tikTvd": "243200070841",
-    "tikName": "Кирово-Чепецкая"
+    "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "443401770403",
+    "uikName": "УИК №553",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "443401770404",
+    "uikName": "УИК №554",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "443401770405",
+    "uikName": "УИК №555",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "443401770406",
+    "uikName": "УИК №556",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "443401770407",
+    "uikName": "УИК №557",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "443401770408",
+    "uikName": "УИК №558",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "443401770409",
+    "uikName": "УИК №559",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "443401770410",
+    "uikName": "УИК №560",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "443401770411",
+    "uikName": "УИК №561",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "443401770412",
+    "uikName": "УИК №562",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "443401770413",
+    "uikName": "УИК №563",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "443401770414",
+    "uikName": "УИК №564",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "443401770415",
+    "uikName": "УИК №565",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "443401770416",
+    "uikName": "УИК №566",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "443401770417",
+    "uikName": "УИК №567",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "443401770418",
+    "uikName": "УИК №568",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "443401770419",
+    "uikName": "УИК №569",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "443401770420",
+    "uikName": "УИК №570",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "443401770421",
+    "uikName": "УИК №571",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "443401770422",
+    "uikName": "УИК №572",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "443401770423",
+    "uikName": "УИК №573",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "443401770424",
+    "uikName": "УИК №574",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "443401770425",
+    "uikName": "УИК №575",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "443401770426",
+    "uikName": "УИК №576",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "443401770427",
+    "uikName": "УИК №577",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "443401770428",
+    "uikName": "УИК №578",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "443401770429",
+    "uikName": "УИК №579",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "443401770430",
+    "uikName": "УИК №580",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "443401770431",
+    "uikName": "УИК №581",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "443401770432",
+    "uikName": "УИК №582",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "443401770433",
+    "uikName": "УИК №583",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "443401770434",
+    "uikName": "УИК №584",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "443401770435",
+    "uikName": "УИК №585",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "443401770436",
+    "uikName": "УИК №586",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "443401770437",
+    "uikName": "УИК №587",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "443401770438",
+    "uikName": "УИК №588",
     "tikTvd": "243200070836",
-    "tikName": "Кирово-Чепецкая городская"
+    "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "443401970380",
+    "uikName": "УИК №589",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "443401970381",
+    "uikName": "УИК №590",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "443401970382",
+    "uikName": "УИК №591",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "443401970383",
+    "uikName": "УИК №592",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "443401970384",
+    "uikName": "УИК №593",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "443401970385",
+    "uikName": "УИК №594",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "443401970386",
+    "uikName": "УИК №595",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "443401970387",
+    "uikName": "УИК №596",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "443401970388",
+    "uikName": "УИК №597",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "443401970389",
+    "uikName": "УИК №598",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "443401970390",
+    "uikName": "УИК №599",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "443401970391",
+    "uikName": "УИК №600",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "443401970392",
+    "uikName": "УИК №601",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "443401970393",
+    "uikName": "УИК №602",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "443401970394",
+    "uikName": "УИК №603",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "443401970395",
+    "uikName": "УИК №604",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "443401970396",
+    "uikName": "УИК №605",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "443401970397",
+    "uikName": "УИК №606",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "443401970398",
+    "uikName": "УИК №607",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "443401970399",
+    "uikName": "УИК №608",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "443401970400",
+    "uikName": "УИК №609",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "443401970401",
+    "uikName": "УИК №610",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "443401970402",
+    "uikName": "УИК №611",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "443401970403",
+    "uikName": "УИК №612",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "443401970404",
+    "uikName": "УИК №613",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "443401970405",
+    "uikName": "УИК №614",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "443401970406",
+    "uikName": "УИК №615",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "443401970407",
+    "uikName": "УИК №616",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "443401970408",
+    "uikName": "УИК №617",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "443401970409",
+    "uikName": "УИК №618",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "443401970410",
+    "uikName": "УИК №619",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "443401970411",
+    "uikName": "УИК №620",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "443401970412",
+    "uikName": "УИК №621",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "443401970413",
+    "uikName": "УИК №622",
     "tikTvd": "243200070840",
-    "tikName": "Котельничская"
+    "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "443404770376",
+    "uikName": "УИК №623",
     "tikTvd": "243200070828",
-    "tikName": "Котельничская городская"
+    "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "443404770377",
+    "uikName": "УИК №624",
     "tikTvd": "243200070828",
-    "tikName": "Котельничская городская"
+    "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "443404770378",
+    "uikName": "УИК №625",
     "tikTvd": "243200070828",
-    "tikName": "Котельничская городская"
+    "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "443404770379",
+    "uikName": "УИК №626",
     "tikTvd": "243200070828",
-    "tikName": "Котельничская городская"
+    "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "443404770380",
+    "uikName": "УИК №627",
     "tikTvd": "243200070828",
-    "tikName": "Котельничская городская"
+    "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "443404770381",
+    "uikName": "УИК №628",
     "tikTvd": "243200070828",
-    "tikName": "Котельничская городская"
+    "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "443404770382",
+    "uikName": "УИК №629",
     "tikTvd": "243200070828",
-    "tikName": "Котельничская городская"
+    "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "443404770383",
+    "uikName": "УИК №630",
     "tikTvd": "243200070828",
-    "tikName": "Котельничская городская"
+    "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "443404770384",
+    "uikName": "УИК №631",
     "tikTvd": "243200070828",
-    "tikName": "Котельничская городская"
+    "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "443404770385",
+    "uikName": "УИК №632",
     "tikTvd": "243200070828",
-    "tikName": "Котельничская городская"
+    "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "443404770386",
+    "uikName": "УИК №633",
     "tikTvd": "243200070828",
-    "tikName": "Котельничская городская"
+    "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "443404770387",
+    "uikName": "УИК №634",
     "tikTvd": "243200070828",
-    "tikName": "Котельничская городская"
+    "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "443404770388",
+    "uikName": "УИК №635",
     "tikTvd": "243200070828",
-    "tikName": "Котельничская городская"
+    "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "443404770389",
+    "uikName": "УИК №636",
     "tikTvd": "243200070828",
-    "tikName": "Котельничская городская"
+    "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "443404770390",
+    "uikName": "УИК №637",
     "tikTvd": "243200070828",
-    "tikName": "Котельничская городская"
+    "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "443404770391",
+    "uikName": "УИК №638",
     "tikTvd": "243200070828",
-    "tikName": "Котельничская городская"
+    "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "443404770392",
+    "uikName": "УИК №639",
     "tikTvd": "243200070828",
-    "tikName": "Котельничская городская"
+    "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "443404770393",
+    "uikName": "УИК №640",
     "tikTvd": "243200070828",
-    "tikName": "Котельничская городская"
+    "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "443404770394",
+    "uikName": "УИК №641",
     "tikTvd": "243200070828",
-    "tikName": "Котельничская городская"
+    "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "443404770395",
+    "uikName": "УИК №642",
     "tikTvd": "243200070828",
-    "tikName": "Котельничская городская"
+    "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "443404770396",
+    "uikName": "УИК №643",
     "tikTvd": "243200070828",
-    "tikName": "Котельничская городская"
+    "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "443404770397",
+    "uikName": "УИК №644",
     "tikTvd": "243200070828",
-    "tikName": "Котельничская городская"
+    "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "443402070393",
+    "uikName": "УИК №645",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "443402070394",
+    "uikName": "УИК №646",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "443402070395",
+    "uikName": "УИК №647",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "443402070396",
+    "uikName": "УИК №648",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "443402070397",
+    "uikName": "УИК №649",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "443402070398",
+    "uikName": "УИК №650",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "443402070399",
+    "uikName": "УИК №651",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "443402070400",
+    "uikName": "УИК №652",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "443402070401",
+    "uikName": "УИК №653",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "443402070402",
+    "uikName": "УИК №654",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "443402070403",
+    "uikName": "УИК №655",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "443402070404",
+    "uikName": "УИК №656",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "443402070405",
+    "uikName": "УИК №657",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "443402070406",
+    "uikName": "УИК №658",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "443402070407",
+    "uikName": "УИК №659",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "443402070408",
+    "uikName": "УИК №660",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "443402070409",
+    "uikName": "УИК №661",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "443402070410",
+    "uikName": "УИК №662",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "443402070411",
+    "uikName": "УИК №663",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "443402070412",
+    "uikName": "УИК №664",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "443402070413",
+    "uikName": "УИК №665",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "443402070414",
+    "uikName": "УИК №666",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "443402070415",
+    "uikName": "УИК №667",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "443402070416",
+    "uikName": "УИК №668",
     "tikTvd": "243200070842",
-    "tikName": "Куменская"
+    "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "443402170431",
+    "uikName": "УИК №669",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "443402170432",
+    "uikName": "УИК №670",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "443402170433",
+    "uikName": "УИК №671",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "443402170434",
+    "uikName": "УИК №672",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "443402170435",
+    "uikName": "УИК №673",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "443402170436",
+    "uikName": "УИК №674",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "443402170437",
+    "uikName": "УИК №675",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "443402170438",
+    "uikName": "УИК №676",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "443402170439",
+    "uikName": "УИК №677",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "443402170440",
+    "uikName": "УИК №678",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "443402170441",
+    "uikName": "УИК №679",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "443402170442",
+    "uikName": "УИК №680",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 681,
     "uikTvd": "443402170443",
+    "uikName": "УИК №681",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "443402170444",
+    "uikName": "УИК №682",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "443402170445",
+    "uikName": "УИК №683",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 684,
     "uikTvd": "443402170446",
+    "uikName": "УИК №684",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "443402170447",
+    "uikName": "УИК №685",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "443402170448",
+    "uikName": "УИК №686",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "443402170449",
+    "uikName": "УИК №687",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 688,
     "uikTvd": "443402170450",
+    "uikName": "УИК №688",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 689,
     "uikTvd": "443402170451",
+    "uikName": "УИК №689",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "443402170452",
+    "uikName": "УИК №690",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "443402170453",
+    "uikName": "УИК №691",
     "tikTvd": "243200070838",
-    "tikName": "Лебяжская"
+    "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "443402270400",
+    "uikName": "УИК №692",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "443402270401",
+    "uikName": "УИК №693",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "443402270402",
+    "uikName": "УИК №694",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "443402270403",
+    "uikName": "УИК №695",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "443402270404",
+    "uikName": "УИК №696",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "443402270405",
+    "uikName": "УИК №697",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "443402270406",
+    "uikName": "УИК №698",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "443402270407",
+    "uikName": "УИК №699",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "443402270408",
+    "uikName": "УИК №700",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "443402270409",
+    "uikName": "УИК №701",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "443402270410",
+    "uikName": "УИК №702",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "443402270411",
+    "uikName": "УИК №703",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "443402270412",
+    "uikName": "УИК №704",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "443402270413",
+    "uikName": "УИК №705",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "443402270414",
+    "uikName": "УИК №706",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "443402270415",
+    "uikName": "УИК №707",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "443402270416",
+    "uikName": "УИК №708",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "443402270417",
+    "uikName": "УИК №709",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "443402270418",
+    "uikName": "УИК №710",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "443402270419",
+    "uikName": "УИК №711",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "443402270420",
+    "uikName": "УИК №712",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "443402270421",
+    "uikName": "УИК №713",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "443402270422",
+    "uikName": "УИК №714",
     "tikTvd": "243200070811",
-    "tikName": "Лузская"
+    "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "443402370493",
+    "uikName": "УИК №715",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "443402370361",
+    "uikName": "УИК №716",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "443402370362",
+    "uikName": "УИК №717",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "443402370363",
+    "uikName": "УИК №718",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "443402370364",
+    "uikName": "УИК №719",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "443402370365",
+    "uikName": "УИК №720",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "443402370366",
+    "uikName": "УИК №721",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "443402370367",
+    "uikName": "УИК №722",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "443402370368",
+    "uikName": "УИК №723",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "443402370369",
+    "uikName": "УИК №724",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "443402370370",
+    "uikName": "УИК №725",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "443402370371",
+    "uikName": "УИК №726",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "443402370372",
+    "uikName": "УИК №727",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "443402370373",
+    "uikName": "УИК №728",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "443402370374",
+    "uikName": "УИК №729",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "443402370375",
+    "uikName": "УИК №730",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "443402370376",
+    "uikName": "УИК №731",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "443402370377",
+    "uikName": "УИК №732",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "443402370378",
+    "uikName": "УИК №733",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "443402370379",
+    "uikName": "УИК №734",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "443402370380",
+    "uikName": "УИК №735",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "443402370381",
+    "uikName": "УИК №736",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "443402370382",
+    "uikName": "УИК №737",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "443402370383",
+    "uikName": "УИК №738",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "443402370384",
+    "uikName": "УИК №739",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "443402370385",
+    "uikName": "УИК №740",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "443402370386",
+    "uikName": "УИК №741",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "443402370387",
+    "uikName": "УИК №742",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "443402370388",
+    "uikName": "УИК №743",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "443402370389",
+    "uikName": "УИК №744",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "443402370390",
+    "uikName": "УИК №745",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "443402370391",
+    "uikName": "УИК №746",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "443402370392",
+    "uikName": "УИК №747",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "443402370393",
+    "uikName": "УИК №748",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "443402370394",
+    "uikName": "УИК №749",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "443402370395",
+    "uikName": "УИК №750",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "443402370396",
+    "uikName": "УИК №751",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "443402370397",
+    "uikName": "УИК №752",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "443402370399",
+    "uikName": "УИК  753",
     "tikTvd": "243200070839",
-    "tikName": "Малмыжская"
+    "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "443402470426",
+    "uikName": "УИК №754",
     "tikTvd": "243200070810",
-    "tikName": "Мурашинская"
+    "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "443402470427",
+    "uikName": "УИК №755",
     "tikTvd": "243200070810",
-    "tikName": "Мурашинская"
+    "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "443402470428",
+    "uikName": "УИК №756",
     "tikTvd": "243200070810",
-    "tikName": "Мурашинская"
+    "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 757,
     "uikTvd": "443402470429",
+    "uikName": "УИК №757",
     "tikTvd": "243200070810",
-    "tikName": "Мурашинская"
+    "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "443402470430",
+    "uikName": "УИК №758",
     "tikTvd": "243200070810",
-    "tikName": "Мурашинская"
+    "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 759,
     "uikTvd": "443402470431",
+    "uikName": "УИК №759",
     "tikTvd": "243200070810",
-    "tikName": "Мурашинская"
+    "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 760,
     "uikTvd": "443402470432",
+    "uikName": "УИК №760",
     "tikTvd": "243200070810",
-    "tikName": "Мурашинская"
+    "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 761,
     "uikTvd": "443402470433",
+    "uikName": "УИК №761",
     "tikTvd": "243200070810",
-    "tikName": "Мурашинская"
+    "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "443402470434",
+    "uikName": "УИК №762",
     "tikTvd": "243200070810",
-    "tikName": "Мурашинская"
+    "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 763,
     "uikTvd": "443402470435",
+    "uikName": "УИК №763",
     "tikTvd": "243200070810",
-    "tikName": "Мурашинская"
+    "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 764,
     "uikTvd": "443402470436",
+    "uikName": "УИК №764",
     "tikTvd": "243200070810",
-    "tikName": "Мурашинская"
+    "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 765,
     "uikTvd": "443402470437",
+    "uikName": "УИК №765",
     "tikTvd": "243200070810",
-    "tikName": "Мурашинская"
+    "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 766,
     "uikTvd": "443402470438",
+    "uikName": "УИК №766",
     "tikTvd": "243200070810",
-    "tikName": "Мурашинская"
+    "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 767,
     "uikTvd": "443402470439",
+    "uikName": "УИК №767",
     "tikTvd": "243200070810",
-    "tikName": "Мурашинская"
+    "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 768,
     "uikTvd": "443402470440",
+    "uikName": "УИК №768",
     "tikTvd": "243200070810",
-    "tikName": "Мурашинская"
+    "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "443402470441",
+    "uikName": "УИК №769",
     "tikTvd": "243200070810",
-    "tikName": "Мурашинская"
+    "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "443402470442",
+    "uikName": "УИК №770",
     "tikTvd": "243200070810",
-    "tikName": "Мурашинская"
+    "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "443402470443",
+    "uikName": "УИК №771",
     "tikTvd": "243200070810",
-    "tikName": "Мурашинская"
+    "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "443402470444",
+    "uikName": "УИК №772",
     "tikTvd": "243200070810",
-    "tikName": "Мурашинская"
+    "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "443402570400",
+    "uikName": "УИК №773",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "443402570401",
+    "uikName": "УИК №774",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "443402570402",
+    "uikName": "УИК №775",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "443402570403",
+    "uikName": "УИК №776",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "443402570404",
+    "uikName": "УИК №777",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "443402570405",
+    "uikName": "УИК №778",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 779,
     "uikTvd": "443402570406",
+    "uikName": "УИК №779",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 780,
     "uikTvd": "443402570407",
+    "uikName": "УИК №780",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 781,
     "uikTvd": "443402570408",
+    "uikName": "УИК №781",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "443402570409",
+    "uikName": "УИК №782",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "443402570410",
+    "uikName": "УИК №783",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 784,
     "uikTvd": "443402570411",
+    "uikName": "УИК №784",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 785,
     "uikTvd": "443402570412",
+    "uikName": "УИК №785",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 786,
     "uikTvd": "443402570413",
+    "uikName": "УИК №786",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 787,
     "uikTvd": "443402570414",
+    "uikName": "УИК №787",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 788,
     "uikTvd": "443402570415",
+    "uikName": "УИК №788",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 789,
     "uikTvd": "443402570416",
+    "uikName": "УИК №789",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 790,
     "uikTvd": "443402570417",
+    "uikName": "УИК №790",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 791,
     "uikTvd": "443402570418",
+    "uikName": "УИК №791",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 792,
     "uikTvd": "443402570419",
+    "uikName": "УИК №792",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 793,
     "uikTvd": "443402570420",
+    "uikName": "УИК №793",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 794,
     "uikTvd": "443402570421",
+    "uikName": "УИК №794",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 795,
     "uikTvd": "443402570422",
+    "uikName": "УИК №795",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 796,
     "uikTvd": "443402570423",
+    "uikName": "УИК №796",
     "tikTvd": "243200070809",
-    "tikName": "Нагорская"
+    "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 797,
     "uikTvd": "943902670385",
+    "uikName": "УИК №797",
     "tikTvd": "243200070846",
-    "tikName": "Немская"
+    "tikName": "Немская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 798,
     "uikTvd": "943902670386",
+    "uikName": "УИК №798",
     "tikTvd": "243200070846",
-    "tikName": "Немская"
+    "tikName": "Немская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 799,
     "uikTvd": "943902670387",
+    "uikName": "УИК №799",
     "tikTvd": "243200070846",
-    "tikName": "Немская"
+    "tikName": "Немская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 800,
     "uikTvd": "943902670388",
+    "uikName": "УИК №800",
     "tikTvd": "243200070846",
-    "tikName": "Немская"
+    "tikName": "Немская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "943902670389",
+    "uikName": "УИК №801",
     "tikTvd": "243200070846",
-    "tikName": "Немская"
+    "tikName": "Немская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "943902670390",
+    "uikName": "УИК №802",
     "tikTvd": "243200070846",
-    "tikName": "Немская"
+    "tikName": "Немская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "943902670391",
+    "uikName": "УИК №803",
     "tikTvd": "243200070846",
-    "tikName": "Немская"
+    "tikName": "Немская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "943902670392",
+    "uikName": "УИК №804",
     "tikTvd": "243200070846",
-    "tikName": "Немская"
+    "tikName": "Немская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "943902670393",
+    "uikName": "УИК №805",
     "tikTvd": "243200070846",
-    "tikName": "Немская"
+    "tikName": "Немская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "943902670394",
+    "uikName": "УИК №806",
     "tikTvd": "243200070846",
-    "tikName": "Немская"
+    "tikName": "Немская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "943902670395",
+    "uikName": "УИК №807",
     "tikTvd": "243200070846",
-    "tikName": "Немская"
+    "tikName": "Немская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "943902670396",
+    "uikName": "УИК №808",
     "tikTvd": "243200070846",
-    "tikName": "Немская"
+    "tikName": "Немская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "943902670397",
+    "uikName": "УИК №809",
     "tikTvd": "243200070846",
-    "tikName": "Немская"
+    "tikName": "Немская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "943902670398",
+    "uikName": "УИК №810",
     "tikTvd": "243200070846",
-    "tikName": "Немская"
+    "tikName": "Немская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "943902670399",
+    "uikName": "УИК №811",
     "tikTvd": "243200070846",
-    "tikName": "Немская"
+    "tikName": "Немская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "443402770446",
+    "uikName": "УИК №812",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "443402770447",
+    "uikName": "УИК №813",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "443402770448",
+    "uikName": "УИК №814",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "443402770449",
+    "uikName": "УИК №815",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "443402770450",
+    "uikName": "УИК №816",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "443402770451",
+    "uikName": "УИК №817",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "443402770452",
+    "uikName": "УИК №818",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "443402770453",
+    "uikName": "УИК №819",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "443402770454",
+    "uikName": "УИК №820",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "443402770455",
+    "uikName": "УИК №821",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "443402770456",
+    "uikName": "УИК №822",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 823,
     "uikTvd": "443402770457",
+    "uikName": "УИК №823",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 824,
     "uikTvd": "443402770458",
+    "uikName": "УИК №824",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 825,
     "uikTvd": "443402770459",
+    "uikName": "УИК №825",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 826,
     "uikTvd": "443402770460",
+    "uikName": "УИК №826",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 827,
     "uikTvd": "443402770461",
+    "uikName": "УИК №827",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 828,
     "uikTvd": "443402770462",
+    "uikName": "УИК №828",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 829,
     "uikTvd": "443402770463",
+    "uikName": "УИК №829",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 830,
     "uikTvd": "443402770464",
+    "uikName": "УИК №830",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "443402770465",
+    "uikName": "УИК №831",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "443402770466",
+    "uikName": "УИК №832",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 833,
     "uikTvd": "443402770467",
+    "uikName": "УИК №833",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 834,
     "uikTvd": "443402770468",
+    "uikName": "УИК №834",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 835,
     "uikTvd": "443402770469",
+    "uikName": "УИК №835",
     "tikTvd": "243200070847",
-    "tikName": "Нолинская"
+    "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 836,
     "uikTvd": "443402870621",
+    "uikName": "УИК №836",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 837,
     "uikTvd": "443402870622",
+    "uikName": "УИК №837",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 838,
     "uikTvd": "443402870623",
+    "uikName": "УИК №838",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 839,
     "uikTvd": "443402870624",
+    "uikName": "УИК №839",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 840,
     "uikTvd": "443402870625",
+    "uikName": "УИК №840",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 841,
     "uikTvd": "443402870626",
+    "uikName": "УИК №841",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 842,
     "uikTvd": "443402870627",
+    "uikName": "УИК №842",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 843,
     "uikTvd": "443402870628",
+    "uikName": "УИК №843",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 844,
     "uikTvd": "443402870629",
+    "uikName": "УИК №844",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 845,
     "uikTvd": "443402870630",
+    "uikName": "УИК №845",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 846,
     "uikTvd": "443402870631",
+    "uikName": "УИК №846",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 847,
     "uikTvd": "443402870632",
+    "uikName": "УИК №847",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 848,
     "uikTvd": "443402870633",
+    "uikName": "УИК №848",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 849,
     "uikTvd": "443402870634",
+    "uikName": "УИК №849",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 850,
     "uikTvd": "443402870635",
+    "uikName": "УИК №850",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 851,
     "uikTvd": "443402870636",
+    "uikName": "УИК №851",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 852,
     "uikTvd": "443402870637",
+    "uikName": "УИК №852",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 853,
     "uikTvd": "443402870638",
+    "uikName": "УИК №853",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 854,
     "uikTvd": "443402870639",
+    "uikName": "УИК №854",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 855,
     "uikTvd": "443402870640",
+    "uikName": "УИК №855",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 856,
     "uikTvd": "443402870641",
+    "uikName": "УИК №856",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 857,
     "uikTvd": "443402870642",
+    "uikName": "УИК №857",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 858,
     "uikTvd": "443402870643",
+    "uikName": "УИК №858",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 859,
     "uikTvd": "443402870644",
+    "uikName": "УИК №859",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 860,
     "uikTvd": "443402870645",
+    "uikName": "УИК №860",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 861,
     "uikTvd": "443402870646",
+    "uikName": "УИК №861",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 862,
     "uikTvd": "443402870647",
+    "uikName": "УИК №862",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 863,
     "uikTvd": "443402870648",
+    "uikName": "УИК №863",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 864,
     "uikTvd": "443402870649",
+    "uikName": "УИК №864",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 865,
     "uikTvd": "443402870650",
+    "uikName": "УИК №865",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 866,
     "uikTvd": "443402870651",
+    "uikName": "УИК №866",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 867,
     "uikTvd": "443402870652",
+    "uikName": "УИК №867",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 868,
     "uikTvd": "443402870653",
+    "uikName": "УИК №868",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 869,
     "uikTvd": "443402870654",
+    "uikName": "УИК №869",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 870,
     "uikTvd": "443402870655",
+    "uikName": "УИК №870",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 871,
     "uikTvd": "443402870656",
+    "uikName": "УИК №871",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 872,
     "uikTvd": "443402870657",
+    "uikName": "УИК №872",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 873,
     "uikTvd": "443402870658",
+    "uikName": "УИК №873",
     "tikTvd": "243200070808",
-    "tikName": "Омутнинская"
+    "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 874,
     "uikTvd": "443402970355",
+    "uikName": "УИК №874",
     "tikTvd": "243200070807",
-    "tikName": "Опаpинская"
+    "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 875,
     "uikTvd": "443402970356",
+    "uikName": "УИК №875",
     "tikTvd": "243200070807",
-    "tikName": "Опаpинская"
+    "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 876,
     "uikTvd": "443402970357",
+    "uikName": "УИК №876",
     "tikTvd": "243200070807",
-    "tikName": "Опаpинская"
+    "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 877,
     "uikTvd": "443402970358",
+    "uikName": "УИК №877",
     "tikTvd": "243200070807",
-    "tikName": "Опаpинская"
+    "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 878,
     "uikTvd": "443402970359",
+    "uikName": "УИК №878",
     "tikTvd": "243200070807",
-    "tikName": "Опаpинская"
+    "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 879,
     "uikTvd": "443402970360",
+    "uikName": "УИК №879",
     "tikTvd": "243200070807",
-    "tikName": "Опаpинская"
+    "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 880,
     "uikTvd": "443402970361",
+    "uikName": "УИК №880",
     "tikTvd": "243200070807",
-    "tikName": "Опаpинская"
+    "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 881,
     "uikTvd": "443402970362",
+    "uikName": "УИК №881",
     "tikTvd": "243200070807",
-    "tikName": "Опаpинская"
+    "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 882,
     "uikTvd": "443402970363",
+    "uikName": "УИК №882",
     "tikTvd": "243200070807",
-    "tikName": "Опаpинская"
+    "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 883,
     "uikTvd": "443402970364",
+    "uikName": "УИК №883",
     "tikTvd": "243200070807",
-    "tikName": "Опаpинская"
+    "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 884,
     "uikTvd": "443402970365",
+    "uikName": "УИК №884",
     "tikTvd": "243200070807",
-    "tikName": "Опаpинская"
+    "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 885,
     "uikTvd": "443402970366",
+    "uikName": "УИК №885",
     "tikTvd": "243200070807",
-    "tikName": "Опаpинская"
+    "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 886,
     "uikTvd": "443402970367",
+    "uikName": "УИК №886",
     "tikTvd": "243200070807",
-    "tikName": "Опаpинская"
+    "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 887,
     "uikTvd": "443402970368",
+    "uikName": "УИК №887",
     "tikTvd": "243200070807",
-    "tikName": "Опаpинская"
+    "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 888,
     "uikTvd": "443402970369",
+    "uikName": "УИК №888",
     "tikTvd": "243200070807",
-    "tikName": "Опаpинская"
+    "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 889,
     "uikTvd": "443402970370",
+    "uikName": "УИК №889",
     "tikTvd": "243200070807",
-    "tikName": "Опаpинская"
+    "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 890,
     "uikTvd": "443402970371",
+    "uikName": "УИК №890",
     "tikTvd": "243200070807",
-    "tikName": "Опаpинская"
+    "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 891,
     "uikTvd": "443402970372",
+    "uikName": "УИК №891",
     "tikTvd": "243200070807",
-    "tikName": "Опаpинская"
+    "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 892,
     "uikTvd": "443403070428",
+    "uikName": "УИК №892",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 893,
     "uikTvd": "443403070429",
+    "uikName": "УИК №893",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 894,
     "uikTvd": "443403070430",
+    "uikName": "УИК №894",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 895,
     "uikTvd": "443403070431",
+    "uikName": "УИК №895",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 896,
     "uikTvd": "443403070432",
+    "uikName": "УИК №896",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 897,
     "uikTvd": "443403070433",
+    "uikName": "УИК №897",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 898,
     "uikTvd": "443403070434",
+    "uikName": "УИК №898",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 899,
     "uikTvd": "443403070435",
+    "uikName": "УИК №899",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 900,
     "uikTvd": "443403070436",
+    "uikName": "УИК №900",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "443403070437",
+    "uikName": "УИК №901",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "443403070438",
+    "uikName": "УИК №902",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "443403070439",
+    "uikName": "УИК №903",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "443403070440",
+    "uikName": "УИК №904",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "443403070441",
+    "uikName": "УИК №905",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "443403070442",
+    "uikName": "УИК №906",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "443403070443",
+    "uikName": "УИК №907",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "443403070444",
+    "uikName": "УИК №908",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "443403070445",
+    "uikName": "УИК №909",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "443403070446",
+    "uikName": "УИК №910",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "443403070447",
+    "uikName": "УИК №911",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "443403070448",
+    "uikName": "УИК №912",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "443403070449",
+    "uikName": "УИК №913",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "443403070450",
+    "uikName": "УИК №914",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "443403070451",
+    "uikName": "УИК №915",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "443403070452",
+    "uikName": "УИК №916",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "443403070453",
+    "uikName": "УИК №917",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "443403070454",
+    "uikName": "УИК №918",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "443403070455",
+    "uikName": "УИК №919",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "443403070456",
+    "uikName": "УИК №920",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "443403070457",
+    "uikName": "УИК №921",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "443403070458",
+    "uikName": "УИК №922",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "443403070459",
+    "uikName": "УИК №923",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "443403070460",
+    "uikName": "УИК №924",
     "tikTvd": "243200070845",
-    "tikName": "Оричевская"
+    "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "443403170406",
+    "uikName": "УИК №925",
     "tikTvd": "243200070844",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "443403170407",
+    "uikName": "УИК №926",
     "tikTvd": "243200070844",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 927,
     "uikTvd": "443403170408",
+    "uikName": "УИК №927",
     "tikTvd": "243200070844",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 928,
     "uikTvd": "443403170409",
+    "uikName": "УИК №928",
     "tikTvd": "243200070844",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 929,
     "uikTvd": "443403170410",
+    "uikName": "УИК №929",
     "tikTvd": "243200070844",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 930,
     "uikTvd": "443403170554",
+    "uikName": "УИК №930",
     "tikTvd": "243200070844",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 931,
     "uikTvd": "443403170412",
+    "uikName": "УИК №931",
     "tikTvd": "243200070844",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 932,
     "uikTvd": "443403170413",
+    "uikName": "УИК №932",
     "tikTvd": "243200070844",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 933,
     "uikTvd": "443403170414",
+    "uikName": "УИК №933",
     "tikTvd": "243200070844",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 934,
     "uikTvd": "443403170415",
+    "uikName": "УИК №934",
     "tikTvd": "243200070844",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 935,
     "uikTvd": "443403170416",
+    "uikName": "УИК №935",
     "tikTvd": "243200070844",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 936,
     "uikTvd": "443403170552",
+    "uikName": "УИК №936",
     "tikTvd": "243200070844",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 937,
     "uikTvd": "443403170417",
+    "uikName": "УИК №937",
     "tikTvd": "243200070844",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 938,
     "uikTvd": "443403170418",
+    "uikName": "УИК №938",
     "tikTvd": "243200070844",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 939,
     "uikTvd": "443403170419",
+    "uikName": "УИК №939",
     "tikTvd": "243200070844",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 940,
     "uikTvd": "443403170420",
+    "uikName": "УИК №940",
     "tikTvd": "243200070844",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 941,
     "uikTvd": "443403170421",
+    "uikName": "УИК №941",
     "tikTvd": "243200070844",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 942,
     "uikTvd": "443403170422",
+    "uikName": "УИК №942",
     "tikTvd": "243200070844",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 943,
     "uikTvd": "443403170423",
+    "uikName": "УИК №943",
     "tikTvd": "243200070844",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 944,
     "uikTvd": "443403170424",
+    "uikName": "УИК №944",
     "tikTvd": "243200070844",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 945,
     "uikTvd": "443403170425",
+    "uikName": "УИК №945",
     "tikTvd": "243200070844",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 946,
     "uikTvd": "443401570334",
+    "uikName": "УИК №946",
     "tikTvd": "243200070806",
-    "tikName": "Первомайская поселковая"
+    "tikName": "Первомайская поселковая",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 956,
     "uikTvd": "443403270369",
+    "uikName": "УИК №956",
     "tikTvd": "243200070843",
-    "tikName": "Пижанская"
+    "tikName": "Пижанская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 957,
     "uikTvd": "443403270370",
+    "uikName": "УИК №957",
     "tikTvd": "243200070843",
-    "tikName": "Пижанская"
+    "tikName": "Пижанская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 958,
     "uikTvd": "443403270371",
+    "uikName": "УИК №958",
     "tikTvd": "243200070843",
-    "tikName": "Пижанская"
+    "tikName": "Пижанская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 959,
     "uikTvd": "443403270372",
+    "uikName": "УИК №959",
     "tikTvd": "243200070843",
-    "tikName": "Пижанская"
+    "tikName": "Пижанская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 960,
     "uikTvd": "443403270373",
+    "uikName": "УИК №960",
     "tikTvd": "243200070843",
-    "tikName": "Пижанская"
+    "tikName": "Пижанская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 961,
     "uikTvd": "443403270374",
+    "uikName": "УИК №961",
     "tikTvd": "243200070843",
-    "tikName": "Пижанская"
+    "tikName": "Пижанская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 962,
     "uikTvd": "443403270375",
+    "uikName": "УИК №962",
     "tikTvd": "243200070843",
-    "tikName": "Пижанская"
+    "tikName": "Пижанская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 963,
     "uikTvd": "443403270376",
+    "uikName": "УИК №963",
     "tikTvd": "243200070843",
-    "tikName": "Пижанская"
+    "tikName": "Пижанская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 964,
     "uikTvd": "443403270377",
+    "uikName": "УИК №964",
     "tikTvd": "243200070843",
-    "tikName": "Пижанская"
+    "tikName": "Пижанская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 965,
     "uikTvd": "443403270378",
+    "uikName": "УИК №965",
     "tikTvd": "243200070843",
-    "tikName": "Пижанская"
+    "tikName": "Пижанская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 966,
     "uikTvd": "443403270379",
+    "uikName": "УИК №966",
     "tikTvd": "243200070843",
-    "tikName": "Пижанская"
+    "tikName": "Пижанская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 967,
     "uikTvd": "443403270380",
+    "uikName": "УИК №967",
     "tikTvd": "243200070843",
-    "tikName": "Пижанская"
+    "tikName": "Пижанская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 968,
     "uikTvd": "443403270381",
+    "uikName": "УИК №968",
     "tikTvd": "243200070843",
-    "tikName": "Пижанская"
+    "tikName": "Пижанская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 969,
     "uikTvd": "443403370420",
+    "uikName": "УИК №969",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 970,
     "uikTvd": "443403370421",
+    "uikName": "УИК №970",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 971,
     "uikTvd": "443403370422",
+    "uikName": "УИК №971",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 972,
     "uikTvd": "443403370423",
+    "uikName": "УИК №972",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 973,
     "uikTvd": "443403370424",
+    "uikName": "УИК №973",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 974,
     "uikTvd": "443403370425",
+    "uikName": "УИК №974",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 975,
     "uikTvd": "443403370426",
+    "uikName": "УИК №975",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 976,
     "uikTvd": "443403370427",
+    "uikName": "УИК №976",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 977,
     "uikTvd": "443403370428",
+    "uikName": "УИК №977",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 978,
     "uikTvd": "443403370429",
+    "uikName": "УИК №978",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 979,
     "uikTvd": "443403370430",
+    "uikName": "УИК №979",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 980,
     "uikTvd": "443403370431",
+    "uikName": "УИК №980",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 981,
     "uikTvd": "443403370432",
+    "uikName": "УИК №981",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 982,
     "uikTvd": "443403370433",
+    "uikName": "УИК №982",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 983,
     "uikTvd": "443403370434",
+    "uikName": "УИК №983",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 984,
     "uikTvd": "443403370435",
+    "uikName": "УИК №984",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 985,
     "uikTvd": "443403370436",
+    "uikName": "УИК №985",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 986,
     "uikTvd": "443403370437",
+    "uikName": "УИК №986",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 987,
     "uikTvd": "443403370438",
+    "uikName": "УИК №987",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 988,
     "uikTvd": "443403370439",
+    "uikName": "УИК №988",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 989,
     "uikTvd": "443403370440",
+    "uikName": "УИК №989",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 990,
     "uikTvd": "443403370441",
+    "uikName": "УИК №990",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 991,
     "uikTvd": "443403370442",
+    "uikName": "УИК №991",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 992,
     "uikTvd": "443403370443",
+    "uikName": "УИК №992",
     "tikTvd": "243200070805",
-    "tikName": "Подосиновская"
+    "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 993,
     "uikTvd": "443403470361",
+    "uikName": "УИК №993",
     "tikTvd": "243200070819",
-    "tikName": "Санчурская"
+    "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 994,
     "uikTvd": "443403470362",
+    "uikName": "УИК №994",
     "tikTvd": "243200070819",
-    "tikName": "Санчурская"
+    "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 995,
     "uikTvd": "443403470363",
+    "uikName": "УИК №995",
     "tikTvd": "243200070819",
-    "tikName": "Санчурская"
+    "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 996,
     "uikTvd": "443403470364",
+    "uikName": "УИК №996",
     "tikTvd": "243200070819",
-    "tikName": "Санчурская"
+    "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 997,
     "uikTvd": "443403470365",
+    "uikName": "УИК №997",
     "tikTvd": "243200070819",
-    "tikName": "Санчурская"
+    "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 998,
     "uikTvd": "443403470366",
+    "uikName": "УИК №998",
     "tikTvd": "243200070819",
-    "tikName": "Санчурская"
+    "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 999,
     "uikTvd": "443403470367",
+    "uikName": "УИК №999",
     "tikTvd": "243200070819",
-    "tikName": "Санчурская"
+    "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1000,
     "uikTvd": "443403470368",
+    "uikName": "УИК №1000",
     "tikTvd": "243200070819",
-    "tikName": "Санчурская"
+    "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "443403470369",
+    "uikName": "УИК №1001",
     "tikTvd": "243200070819",
-    "tikName": "Санчурская"
+    "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "443403470370",
+    "uikName": "УИК №1002",
     "tikTvd": "243200070819",
-    "tikName": "Санчурская"
+    "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "443403470371",
+    "uikName": "УИК №1003",
     "tikTvd": "243200070819",
-    "tikName": "Санчурская"
+    "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "443403470372",
+    "uikName": "УИК №1004",
     "tikTvd": "243200070819",
-    "tikName": "Санчурская"
+    "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "443403470373",
+    "uikName": "УИК №1005",
     "tikTvd": "243200070819",
-    "tikName": "Санчурская"
+    "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "443403470374",
+    "uikName": "УИК №1006",
     "tikTvd": "243200070819",
-    "tikName": "Санчурская"
+    "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "443403470375",
+    "uikName": "УИК №1007",
     "tikTvd": "243200070819",
-    "tikName": "Санчурская"
+    "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "443403470376",
+    "uikName": "УИК №1008",
     "tikTvd": "243200070819",
-    "tikName": "Санчурская"
+    "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "443403470377",
+    "uikName": "УИК №1009",
     "tikTvd": "243200070819",
-    "tikName": "Санчурская"
+    "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "443403470378",
+    "uikName": "УИК №1010",
     "tikTvd": "243200070819",
-    "tikName": "Санчурская"
+    "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "443403470379",
+    "uikName": "УИК №1011",
     "tikTvd": "243200070819",
-    "tikName": "Санчурская"
+    "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "443403470380",
+    "uikName": "УИК №1012",
     "tikTvd": "243200070819",
-    "tikName": "Санчурская"
+    "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "443403570411",
+    "uikName": "УИК №1013",
     "tikTvd": "243200070824",
-    "tikName": "Свечинская"
+    "tikName": "Свечинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "443403570412",
+    "uikName": "УИК №1014",
     "tikTvd": "243200070824",
-    "tikName": "Свечинская"
+    "tikName": "Свечинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "443403570413",
+    "uikName": "УИК №1015",
     "tikTvd": "243200070824",
-    "tikName": "Свечинская"
+    "tikName": "Свечинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "443403570414",
+    "uikName": "УИК №1016",
     "tikTvd": "243200070824",
-    "tikName": "Свечинская"
+    "tikName": "Свечинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "443403570415",
+    "uikName": "УИК №1017",
     "tikTvd": "243200070824",
-    "tikName": "Свечинская"
+    "tikName": "Свечинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "443403570416",
+    "uikName": "УИК №1018",
     "tikTvd": "243200070824",
-    "tikName": "Свечинская"
+    "tikName": "Свечинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "443403570417",
+    "uikName": "УИК №1019",
     "tikTvd": "243200070824",
-    "tikName": "Свечинская"
+    "tikName": "Свечинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "443403570418",
+    "uikName": "УИК №1020",
     "tikTvd": "243200070824",
-    "tikName": "Свечинская"
+    "tikName": "Свечинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "443403570419",
+    "uikName": "УИК №1021",
     "tikTvd": "243200070824",
-    "tikName": "Свечинская"
+    "tikName": "Свечинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1022,
     "uikTvd": "443403570420",
+    "uikName": "УИК №1022",
     "tikTvd": "243200070824",
-    "tikName": "Свечинская"
+    "tikName": "Свечинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "443403570421",
+    "uikName": "УИК №1023",
     "tikTvd": "243200070824",
-    "tikName": "Свечинская"
+    "tikName": "Свечинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "443403570422",
+    "uikName": "УИК №1024",
     "tikTvd": "243200070824",
-    "tikName": "Свечинская"
+    "tikName": "Свечинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "443403570423",
+    "uikName": "УИК №1025",
     "tikTvd": "243200070824",
-    "tikName": "Свечинская"
+    "tikName": "Свечинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "443403570424",
+    "uikName": "УИК №1026",
     "tikTvd": "243200070824",
-    "tikName": "Свечинская"
+    "tikName": "Свечинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "443403570425",
+    "uikName": "УИК №1027",
     "tikTvd": "243200070824",
-    "tikName": "Свечинская"
+    "tikName": "Свечинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "443403670422",
+    "uikName": "УИК №1028",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "443403670423",
+    "uikName": "УИК №1029",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "443403670424",
+    "uikName": "УИК №1030",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "443403670425",
+    "uikName": "УИК №1031",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "443403670426",
+    "uikName": "УИК №1032",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "443403670427",
+    "uikName": "УИК №1033",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "443403670428",
+    "uikName": "УИК №1034",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "443403670429",
+    "uikName": "УИК №1035",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "443403670430",
+    "uikName": "УИК №1036",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "443403670431",
+    "uikName": "УИК №1037",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "443403670432",
+    "uikName": "УИК №1038",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "443403670433",
+    "uikName": "УИК №1039",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "443403670434",
+    "uikName": "УИК №1040",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1041,
     "uikTvd": "443403670435",
+    "uikName": "УИК №1041",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1042,
     "uikTvd": "443403670436",
+    "uikName": "УИК №1042",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1043,
     "uikTvd": "443403670437",
+    "uikName": "УИК №1043",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1044,
     "uikTvd": "443403670438",
+    "uikName": "УИК №1044",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1045,
     "uikTvd": "443403670439",
+    "uikName": "УИК №1045",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1046,
     "uikTvd": "443403670440",
+    "uikName": "УИК №1046",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1047,
     "uikTvd": "443403670441",
+    "uikName": "УИК №1047",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1048,
     "uikTvd": "443403670442",
+    "uikName": "УИК №1048",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1049,
     "uikTvd": "443403670443",
+    "uikName": "УИК №1049",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1050,
     "uikTvd": "443403670444",
+    "uikName": "УИК №1050",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1051,
     "uikTvd": "443403670445",
+    "uikName": "УИК №1051",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1052,
     "uikTvd": "443403670446",
+    "uikName": "УИК №1052",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1053,
     "uikTvd": "443403670447",
+    "uikName": "УИК №1053",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1054,
     "uikTvd": "443403670448",
+    "uikName": "УИК №1054",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1055,
     "uikTvd": "443403670449",
+    "uikName": "УИК №1055",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1056,
     "uikTvd": "443403670450",
+    "uikName": "УИК №1056",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1057,
     "uikTvd": "443403670451",
+    "uikName": "УИК №1057",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1058,
     "uikTvd": "443403670452",
+    "uikName": "УИК №1058",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1059,
     "uikTvd": "443403670453",
+    "uikName": "УИК №1059",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1060,
     "uikTvd": "443403670454",
+    "uikName": "УИК №1060",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1061,
     "uikTvd": "443403670455",
+    "uikName": "УИК №1061",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1062,
     "uikTvd": "443403670456",
+    "uikName": "УИК №1062",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1063,
     "uikTvd": "443403670457",
+    "uikName": "УИК №1063",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1064,
     "uikTvd": "443403670458",
+    "uikName": "УИК №1064",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1065,
     "uikTvd": "443403670459",
+    "uikName": "УИК №1065",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1066,
     "uikTvd": "443403670460",
+    "uikName": "УИК №1066",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1067,
     "uikTvd": "443403670461",
+    "uikName": "УИК №1067",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1068,
     "uikTvd": "443403670462",
+    "uikName": "УИК №1068",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1069,
     "uikTvd": "443403670463",
+    "uikName": "УИК №1069",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1070,
     "uikTvd": "443403670464",
+    "uikName": "УИК №1070",
     "tikTvd": "243200070804",
-    "tikName": "Слободская"
+    "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1071,
     "uikTvd": "443404670355",
+    "uikName": "УИК №1071",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1072,
     "uikTvd": "443404670356",
+    "uikName": "УИК №1072",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1073,
     "uikTvd": "443404670357",
+    "uikName": "УИК №1073",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1074,
     "uikTvd": "443404670358",
+    "uikName": "УИК №1074",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1075,
     "uikTvd": "443404670359",
+    "uikName": "УИК №1075",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1076,
     "uikTvd": "443404670360",
+    "uikName": "УИК №1076",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1077,
     "uikTvd": "443404670361",
+    "uikName": "УИК №1077",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1078,
     "uikTvd": "443404670362",
+    "uikName": "УИК №1078",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1079,
     "uikTvd": "443404670363",
+    "uikName": "УИК №1079",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1080,
     "uikTvd": "443404670364",
+    "uikName": "УИК №1080",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1081,
     "uikTvd": "443404670365",
+    "uikName": "УИК №1081",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1082,
     "uikTvd": "443404670366",
+    "uikName": "УИК №1082",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1083,
     "uikTvd": "443404670367",
+    "uikName": "УИК №1083",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1084,
     "uikTvd": "443404670368",
+    "uikName": "УИК №1084",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1085,
     "uikTvd": "443404670369",
+    "uikName": "УИК №1085",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1086,
     "uikTvd": "443404670370",
+    "uikName": "УИК №1086",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1087,
     "uikTvd": "443404670371",
+    "uikName": "УИК №1087",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1088,
     "uikTvd": "443404670372",
+    "uikName": "УИК №1088",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1089,
     "uikTvd": "443404670373",
+    "uikName": "УИК №1089",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1090,
     "uikTvd": "443404670374",
+    "uikName": "УИК №1090",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1091,
     "uikTvd": "443404670375",
+    "uikName": "УИК №1091",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1092,
     "uikTvd": "443404670376",
+    "uikName": "УИК №1092",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1093,
     "uikTvd": "443404670377",
+    "uikName": "УИК №1093",
     "tikTvd": "243200070803",
-    "tikName": "Слободская городская"
+    "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1094,
     "uikTvd": "443403770447",
+    "uikName": "УИК №1094",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1095,
     "uikTvd": "443403770448",
+    "uikName": "УИК №1095",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1096,
     "uikTvd": "443403770449",
+    "uikName": "УИК №1096",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1097,
     "uikTvd": "443403770450",
+    "uikName": "УИК №1097",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1098,
     "uikTvd": "443403770451",
+    "uikName": "УИК №1098",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1099,
     "uikTvd": "443403770452",
+    "uikName": "УИК №1099",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1100,
     "uikTvd": "443403770453",
+    "uikName": "УИК №1100",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "443403770454",
+    "uikName": "УИК №1101",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "443403770455",
+    "uikName": "УИК №1102",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "443403770456",
+    "uikName": "УИК №1103",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "443403770457",
+    "uikName": "УИК №1104",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "443403770458",
+    "uikName": "УИК №1105",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "443403770459",
+    "uikName": "УИК №1106",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "443403770460",
+    "uikName": "УИК №1107",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "443403770461",
+    "uikName": "УИК №1108",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "443403770462",
+    "uikName": "УИК №1109",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "443403770463",
+    "uikName": "УИК №1110",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "443403770464",
+    "uikName": "УИК №1111",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "443403770465",
+    "uikName": "УИК №1112",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "443403770466",
+    "uikName": "УИК №1113",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "443403770467",
+    "uikName": "УИК №1114",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1115,
     "uikTvd": "443403770468",
+    "uikName": "УИК №1115",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "443403770469",
+    "uikName": "УИК №1116",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "443403770470",
+    "uikName": "УИК №1117",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1118,
     "uikTvd": "443403770471",
+    "uikName": "УИК №1118",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1119,
     "uikTvd": "443403770472",
+    "uikName": "УИК №1119",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1120,
     "uikTvd": "443403770473",
+    "uikName": "УИК №1120",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1121,
     "uikTvd": "443403770474",
+    "uikName": "УИК №1121",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1122,
     "uikTvd": "443403770475",
+    "uikName": "УИК №1122",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1123,
     "uikTvd": "443403770476",
+    "uikName": "УИК №1123",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1124,
     "uikTvd": "443403770477",
+    "uikName": "УИК №1124",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1125,
     "uikTvd": "443403770478",
+    "uikName": "УИК №1125",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1126,
     "uikTvd": "443403770479",
+    "uikName": "УИК №1126",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1127,
     "uikTvd": "443403770480",
+    "uikName": "УИК №1127",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1128,
     "uikTvd": "443403770481",
+    "uikName": "УИК №1128",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1129,
     "uikTvd": "443403770482",
+    "uikName": "УИК №1129",
     "tikTvd": "243200070821",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1130,
     "uikTvd": "443403870341",
+    "uikName": "УИК №1130",
     "tikTvd": "243200070820",
-    "tikName": "Сунская"
+    "tikName": "Сунская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1131,
     "uikTvd": "443403870342",
+    "uikName": "УИК №1131",
     "tikTvd": "243200070820",
-    "tikName": "Сунская"
+    "tikName": "Сунская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1132,
     "uikTvd": "443403870343",
+    "uikName": "УИК №1132",
     "tikTvd": "243200070820",
-    "tikName": "Сунская"
+    "tikName": "Сунская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1133,
     "uikTvd": "443403870344",
+    "uikName": "УИК №1133",
     "tikTvd": "243200070820",
-    "tikName": "Сунская"
+    "tikName": "Сунская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1134,
     "uikTvd": "443403870345",
+    "uikName": "УИК №1134",
     "tikTvd": "243200070820",
-    "tikName": "Сунская"
+    "tikName": "Сунская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1135,
     "uikTvd": "443403870346",
+    "uikName": "УИК №1135",
     "tikTvd": "243200070820",
-    "tikName": "Сунская"
+    "tikName": "Сунская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1136,
     "uikTvd": "443403870347",
+    "uikName": "УИК №1136",
     "tikTvd": "243200070820",
-    "tikName": "Сунская"
+    "tikName": "Сунская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1137,
     "uikTvd": "443403870348",
+    "uikName": "УИК №1137",
     "tikTvd": "243200070820",
-    "tikName": "Сунская"
+    "tikName": "Сунская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1138,
     "uikTvd": "443403870349",
+    "uikName": "УИК №1138",
     "tikTvd": "243200070820",
-    "tikName": "Сунская"
+    "tikName": "Сунская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1139,
     "uikTvd": "443403870350",
+    "uikName": "УИК №1139",
     "tikTvd": "243200070820",
-    "tikName": "Сунская"
+    "tikName": "Сунская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1140,
     "uikTvd": "443403870351",
+    "uikName": "УИК №1140",
     "tikTvd": "243200070820",
-    "tikName": "Сунская"
+    "tikName": "Сунская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1141,
     "uikTvd": "443403870352",
+    "uikName": "УИК №1141",
     "tikTvd": "243200070820",
-    "tikName": "Сунская"
+    "tikName": "Сунская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1142,
     "uikTvd": "443403870353",
+    "uikName": "УИК №1142",
     "tikTvd": "243200070820",
-    "tikName": "Сунская"
+    "tikName": "Сунская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1143,
     "uikTvd": "443403870354",
+    "uikName": "УИК №1143",
     "tikTvd": "243200070820",
-    "tikName": "Сунская"
+    "tikName": "Сунская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1144,
     "uikTvd": "443403870355",
+    "uikName": "УИК №1144",
     "tikTvd": "243200070820",
-    "tikName": "Сунская"
+    "tikName": "Сунская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1145,
     "uikTvd": "443403970462",
+    "uikName": "УИК №1145",
     "tikTvd": "243200070823",
-    "tikName": "Тужинская"
+    "tikName": "Тужинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1146,
     "uikTvd": "443403970463",
+    "uikName": "УИК №1146",
     "tikTvd": "243200070823",
-    "tikName": "Тужинская"
+    "tikName": "Тужинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1147,
     "uikTvd": "443403970464",
+    "uikName": "УИК №1147",
     "tikTvd": "243200070823",
-    "tikName": "Тужинская"
+    "tikName": "Тужинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1148,
     "uikTvd": "443403970465",
+    "uikName": "УИК №1148",
     "tikTvd": "243200070823",
-    "tikName": "Тужинская"
+    "tikName": "Тужинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1149,
     "uikTvd": "443403970466",
+    "uikName": "УИК №1149",
     "tikTvd": "243200070823",
-    "tikName": "Тужинская"
+    "tikName": "Тужинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1150,
     "uikTvd": "443403970467",
+    "uikName": "УИК №1150",
     "tikTvd": "243200070823",
-    "tikName": "Тужинская"
+    "tikName": "Тужинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1151,
     "uikTvd": "443403970468",
+    "uikName": "УИК №1151",
     "tikTvd": "243200070823",
-    "tikName": "Тужинская"
+    "tikName": "Тужинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1152,
     "uikTvd": "443403970469",
+    "uikName": "УИК №1152",
     "tikTvd": "243200070823",
-    "tikName": "Тужинская"
+    "tikName": "Тужинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1153,
     "uikTvd": "443403970470",
+    "uikName": "УИК №1153",
     "tikTvd": "243200070823",
-    "tikName": "Тужинская"
+    "tikName": "Тужинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1154,
     "uikTvd": "443403970471",
+    "uikName": "УИК №1154",
     "tikTvd": "243200070823",
-    "tikName": "Тужинская"
+    "tikName": "Тужинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1155,
     "uikTvd": "443403970472",
+    "uikName": "УИК №1155",
     "tikTvd": "243200070823",
-    "tikName": "Тужинская"
+    "tikName": "Тужинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1156,
     "uikTvd": "443403970473",
+    "uikName": "УИК №1156",
     "tikTvd": "243200070823",
-    "tikName": "Тужинская"
+    "tikName": "Тужинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1157,
     "uikTvd": "443403970474",
+    "uikName": "УИК №1157",
     "tikTvd": "243200070823",
-    "tikName": "Тужинская"
+    "tikName": "Тужинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1158,
     "uikTvd": "443403970475",
+    "uikName": "УИК №1158",
     "tikTvd": "243200070823",
-    "tikName": "Тужинская"
+    "tikName": "Тужинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1159,
     "uikTvd": "443403970476",
+    "uikName": "УИК №1159",
     "tikTvd": "243200070823",
-    "tikName": "Тужинская"
+    "tikName": "Тужинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1160,
     "uikTvd": "443404070407",
+    "uikName": "УИК №1160",
     "tikTvd": "243200070822",
-    "tikName": "Унинская"
+    "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1161,
     "uikTvd": "443404070408",
+    "uikName": "УИК №1161",
     "tikTvd": "243200070822",
-    "tikName": "Унинская"
+    "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1162,
     "uikTvd": "443404070409",
+    "uikName": "УИК №1162",
     "tikTvd": "243200070822",
-    "tikName": "Унинская"
+    "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1163,
     "uikTvd": "443404070410",
+    "uikName": "УИК №1163",
     "tikTvd": "243200070822",
-    "tikName": "Унинская"
+    "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1164,
     "uikTvd": "443404070411",
+    "uikName": "УИК №1164",
     "tikTvd": "243200070822",
-    "tikName": "Унинская"
+    "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1165,
     "uikTvd": "443404070412",
+    "uikName": "УИК №1165",
     "tikTvd": "243200070822",
-    "tikName": "Унинская"
+    "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1166,
     "uikTvd": "443404070413",
+    "uikName": "УИК №1166",
     "tikTvd": "243200070822",
-    "tikName": "Унинская"
+    "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1167,
     "uikTvd": "443404070414",
+    "uikName": "УИК №1167",
     "tikTvd": "243200070822",
-    "tikName": "Унинская"
+    "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1168,
     "uikTvd": "443404070415",
+    "uikName": "УИК №1168",
     "tikTvd": "243200070822",
-    "tikName": "Унинская"
+    "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1169,
     "uikTvd": "443404070416",
+    "uikName": "УИК №1169",
     "tikTvd": "243200070822",
-    "tikName": "Унинская"
+    "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1170,
     "uikTvd": "443404070417",
+    "uikName": "УИК №1170",
     "tikTvd": "243200070822",
-    "tikName": "Унинская"
+    "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1171,
     "uikTvd": "443404070418",
+    "uikName": "УИК №1171",
     "tikTvd": "243200070822",
-    "tikName": "Унинская"
+    "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1172,
     "uikTvd": "443404070419",
+    "uikName": "УИК №1172",
     "tikTvd": "243200070822",
-    "tikName": "Унинская"
+    "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1173,
     "uikTvd": "443404070420",
+    "uikName": "УИК №1173",
     "tikTvd": "243200070822",
-    "tikName": "Унинская"
+    "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1174,
     "uikTvd": "443404070421",
+    "uikName": "УИК №1174",
     "tikTvd": "243200070822",
-    "tikName": "Унинская"
+    "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1175,
     "uikTvd": "443404070422",
+    "uikName": "УИК №1175",
     "tikTvd": "243200070822",
-    "tikName": "Унинская"
+    "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1176,
     "uikTvd": "443404070423",
+    "uikName": "УИК №1176",
     "tikTvd": "243200070822",
-    "tikName": "Унинская"
+    "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1177,
     "uikTvd": "443404070424",
+    "uikName": "УИК №1177",
     "tikTvd": "243200070822",
-    "tikName": "Унинская"
+    "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1178,
     "uikTvd": "443404070425",
+    "uikName": "УИК №1178",
     "tikTvd": "243200070822",
-    "tikName": "Унинская"
+    "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1179,
     "uikTvd": "443404070426",
+    "uikName": "УИК №1179",
     "tikTvd": "243200070822",
-    "tikName": "Унинская"
+    "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1180,
     "uikTvd": "443404070427",
+    "uikName": "УИК №1180",
     "tikTvd": "243200070822",
-    "tikName": "Унинская"
+    "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1181,
     "uikTvd": "443404170510",
+    "uikName": "УИК №1181",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1182,
     "uikTvd": "443404170511",
+    "uikName": "УИК №1182",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1183,
     "uikTvd": "443404170512",
+    "uikName": "УИК №1183",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1184,
     "uikTvd": "443404170513",
+    "uikName": "УИК №1184",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1185,
     "uikTvd": "443404170514",
+    "uikName": "УИК №1185",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1186,
     "uikTvd": "443404170515",
+    "uikName": "УИК №1186",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1187,
     "uikTvd": "443404170516",
+    "uikName": "УИК №1187",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1188,
     "uikTvd": "443404170517",
+    "uikName": "УИК №1188",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1189,
     "uikTvd": "443404170518",
+    "uikName": "УИК №1189",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1190,
     "uikTvd": "443404170519",
+    "uikName": "УИК №1190",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1191,
     "uikTvd": "443404170520",
+    "uikName": "УИК №1191",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1192,
     "uikTvd": "443404170521",
+    "uikName": "УИК №1192",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1193,
     "uikTvd": "443404170522",
+    "uikName": "УИК №1193",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1194,
     "uikTvd": "443404170523",
+    "uikName": "УИК №1194",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1195,
     "uikTvd": "443404170524",
+    "uikName": "УИК №1195",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1196,
     "uikTvd": "443404170525",
+    "uikName": "УИК №1196",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1197,
     "uikTvd": "443404170526",
+    "uikName": "УИК №1197",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1198,
     "uikTvd": "443404170527",
+    "uikName": "УИК №1198",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1199,
     "uikTvd": "443404170528",
+    "uikName": "УИК №1199",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1200,
     "uikTvd": "443404170529",
+    "uikName": "УИК №1200",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1201,
     "uikTvd": "443404170530",
+    "uikName": "УИК №1201",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1202,
     "uikTvd": "443404170531",
+    "uikName": "УИК №1202",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1203,
     "uikTvd": "443404170532",
+    "uikName": "УИК №1203",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1204,
     "uikTvd": "443404170533",
+    "uikName": "УИК №1204",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1205,
     "uikTvd": "443404170534",
+    "uikName": "УИК №1205",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1206,
     "uikTvd": "443404170535",
+    "uikName": "УИК №1206",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1207,
     "uikTvd": "443404170536",
+    "uikName": "УИК №1207",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1208,
     "uikTvd": "443404170537",
+    "uikName": "УИК №1208",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1209,
     "uikTvd": "443404170538",
+    "uikName": "УИК №1209",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1210,
     "uikTvd": "443404170539",
+    "uikName": "УИК №1210",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1211,
     "uikTvd": "443404170540",
+    "uikName": "УИК №1211",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1212,
     "uikTvd": "443404170541",
+    "uikName": "УИК №1212",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1213,
     "uikTvd": "443404170542",
+    "uikName": "УИК №1213",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1214,
     "uikTvd": "443404170543",
+    "uikName": "УИК №1214",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1215,
     "uikTvd": "443404170544",
+    "uikName": "УИК №1215",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1216,
     "uikTvd": "443404170545",
+    "uikName": "УИК №1216",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1217,
     "uikTvd": "443404170546",
+    "uikName": "УИК №1217",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1218,
     "uikTvd": "443404170547",
+    "uikName": "УИК №1218",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1219,
     "uikTvd": "443404170548",
+    "uikName": "УИК №1219",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1220,
     "uikTvd": "443404170549",
+    "uikName": "УИК №1220",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1221,
     "uikTvd": "443404170550",
+    "uikName": "УИК №1221",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1222,
     "uikTvd": "443404170551",
+    "uikName": "УИК №1222",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1223,
     "uikTvd": "443404170552",
+    "uikName": "УИК №1223",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1224,
     "uikTvd": "443404170553",
+    "uikName": "УИК №1224",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1225,
     "uikTvd": "443404170554",
+    "uikName": "УИК №1225",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1226,
     "uikTvd": "443404170555",
+    "uikName": "УИК №1226",
     "tikTvd": "243200070849",
-    "tikName": "Уржумская"
+    "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1227,
     "uikTvd": "443404270464",
+    "uikName": "УИК №1227",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1228,
     "uikTvd": "443404270465",
+    "uikName": "УИК №1228",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1229,
     "uikTvd": "443404270466",
+    "uikName": "УИК №1229",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1230,
     "uikTvd": "443404270467",
+    "uikName": "УИК №1230",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1231,
     "uikTvd": "443404270468",
+    "uikName": "УИК №1231",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1232,
     "uikTvd": "443404270469",
+    "uikName": "УИК №1232",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1233,
     "uikTvd": "443404270470",
+    "uikName": "УИК №1233",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1234,
     "uikTvd": "443404270471",
+    "uikName": "УИК №1234",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1235,
     "uikTvd": "443404270472",
+    "uikName": "УИК №1235",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1236,
     "uikTvd": "443404270473",
+    "uikName": "УИК №1236",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1237,
     "uikTvd": "443404270474",
+    "uikName": "УИК №1237",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1238,
     "uikTvd": "443404270475",
+    "uikName": "УИК №1238",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1239,
     "uikTvd": "443404270476",
+    "uikName": "УИК №1239",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1240,
     "uikTvd": "443404270477",
+    "uikName": "УИК №1240",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1241,
     "uikTvd": "443404270478",
+    "uikName": "УИК №1241",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1242,
     "uikTvd": "443404270479",
+    "uikName": "УИК №1242",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1243,
     "uikTvd": "443404270480",
+    "uikName": "УИК №1243",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1244,
     "uikTvd": "443404270481",
+    "uikName": "УИК №1244",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1245,
     "uikTvd": "443404270482",
+    "uikName": "УИК №1245",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1246,
     "uikTvd": "443404270483",
+    "uikName": "УИК №1246",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1247,
     "uikTvd": "443404270484",
+    "uikName": "УИК №1247",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1248,
     "uikTvd": "443404270485",
+    "uikName": "УИК №1248",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1249,
     "uikTvd": "443404270486",
+    "uikName": "УИК №1249",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1250,
     "uikTvd": "443404270487",
+    "uikName": "УИК №1250",
     "tikTvd": "243200070848",
-    "tikName": "Фаленская"
+    "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1251,
     "uikTvd": "443404370375",
+    "uikName": "УИК №1251",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1252,
     "uikTvd": "443404370376",
+    "uikName": "УИК №1252",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1253,
     "uikTvd": "443404370377",
+    "uikName": "УИК №1253",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1254,
     "uikTvd": "443404370378",
+    "uikName": "УИК №1254",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1255,
     "uikTvd": "443404370379",
+    "uikName": "УИК №1255",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1256,
     "uikTvd": "443404370380",
+    "uikName": "УИК №1256",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1257,
     "uikTvd": "443404370381",
+    "uikName": "УИК №1257",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1258,
     "uikTvd": "443404370382",
+    "uikName": "УИК №1258",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1259,
     "uikTvd": "443404370383",
+    "uikName": "УИК №1259",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1260,
     "uikTvd": "443404370384",
+    "uikName": "УИК №1260",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1261,
     "uikTvd": "443404370385",
+    "uikName": "УИК №1261",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1262,
     "uikTvd": "443404370386",
+    "uikName": "УИК №1262",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1263,
     "uikTvd": "443404370387",
+    "uikName": "УИК №1263",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1264,
     "uikTvd": "443404370388",
+    "uikName": "УИК №1264",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1265,
     "uikTvd": "443404370389",
+    "uikName": "УИК №1265",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1266,
     "uikTvd": "443404370390",
+    "uikName": "УИК №1266",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1267,
     "uikTvd": "443404370391",
+    "uikName": "УИК №1267",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1268,
     "uikTvd": "443404370392",
+    "uikName": "УИК №1268",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1269,
     "uikTvd": "443404370393",
+    "uikName": "УИК №1269",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1270,
     "uikTvd": "443404370394",
+    "uikName": "УИК №1270",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1271,
     "uikTvd": "443404370395",
+    "uikName": "УИК №1271",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1272,
     "uikTvd": "443404370396",
+    "uikName": "УИК №1272",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1273,
     "uikTvd": "443404370397",
+    "uikName": "УИК №1273",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1274,
     "uikTvd": "443404370398",
+    "uikName": "УИК №1274",
     "tikTvd": "243200070825",
-    "tikName": "Шабалинская"
+    "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1275,
     "uikTvd": "443404470366",
+    "uikName": "УИК №1275",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1276,
     "uikTvd": "443404470367",
+    "uikName": "УИК №1276",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1277,
     "uikTvd": "443404470368",
+    "uikName": "УИК №1277",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1278,
     "uikTvd": "443404470369",
+    "uikName": "УИК №1278",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1279,
     "uikTvd": "443404470370",
+    "uikName": "УИК №1279",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1280,
     "uikTvd": "443404470371",
+    "uikName": "УИК №1280",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1281,
     "uikTvd": "443404470372",
+    "uikName": "УИК №1281",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1282,
     "uikTvd": "443404470373",
+    "uikName": "УИК №1282",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1283,
     "uikTvd": "443404470374",
+    "uikName": "УИК №1283",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1284,
     "uikTvd": "443404470375",
+    "uikName": "УИК №1284",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1285,
     "uikTvd": "443404470376",
+    "uikName": "УИК №1285",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1286,
     "uikTvd": "443404470377",
+    "uikName": "УИК №1286",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1287,
     "uikTvd": "443404470378",
+    "uikName": "УИК №1287",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1288,
     "uikTvd": "443404470379",
+    "uikName": "УИК №1288",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1289,
     "uikTvd": "443404470380",
+    "uikName": "УИК №1289",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1290,
     "uikTvd": "443404470381",
+    "uikName": "УИК №1290",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1291,
     "uikTvd": "443404470382",
+    "uikName": "УИК №1291",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1292,
     "uikTvd": "443404470383",
+    "uikName": "УИК №1292",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1293,
     "uikTvd": "443404470384",
+    "uikName": "УИК №1293",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1294,
     "uikTvd": "443404470385",
+    "uikName": "УИК №1294",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1295,
     "uikTvd": "443404470386",
+    "uikName": "УИК №1295",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1296,
     "uikTvd": "443404470387",
+    "uikName": "УИК №1296",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1297,
     "uikTvd": "443404470388",
+    "uikName": "УИК №1297",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1298,
     "uikTvd": "443404470389",
+    "uikName": "УИК №1298",
     "tikTvd": "243200070802",
-    "tikName": "Юрьянская"
+    "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100095685",
+      "oikName": "Кировский"
+    }
   },
   {
     "uikNumber": 1299,
     "uikTvd": "443404570481",
+    "uikName": "УИК №1299",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1300,
     "uikTvd": "443404570483",
+    "uikName": "УИК №1300",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1301,
     "uikTvd": "443404570485",
+    "uikName": "УИК №1301",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1302,
     "uikTvd": "443404570487",
+    "uikName": "УИК №1302",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1303,
     "uikTvd": "443404570488",
+    "uikName": "УИК №1303",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1304,
     "uikTvd": "443404570489",
+    "uikName": "УИК №1304",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1305,
     "uikTvd": "443404570490",
+    "uikName": "УИК №1305",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1306,
     "uikTvd": "443404570491",
+    "uikName": "УИК №1306",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1307,
     "uikTvd": "443404570492",
+    "uikName": "УИК №1307",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1308,
     "uikTvd": "443404570493",
+    "uikName": "УИК №1308",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1309,
     "uikTvd": "443404570494",
+    "uikName": "УИК №1309",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1310,
     "uikTvd": "443404570495",
+    "uikName": "УИК №1310",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1311,
     "uikTvd": "443404570496",
+    "uikName": "УИК №1311",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1312,
     "uikTvd": "443404570497",
+    "uikName": "УИК №1312",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1313,
     "uikTvd": "443404570498",
+    "uikName": "УИК №1313",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1314,
     "uikTvd": "443404570499",
+    "uikName": "УИК №1314",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1315,
     "uikTvd": "443404570500",
+    "uikName": "УИК №1315",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1316,
     "uikTvd": "443404570501",
+    "uikName": "УИК №1316",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1317,
     "uikTvd": "443404570502",
+    "uikName": "УИК №1317",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1318,
     "uikTvd": "443404570503",
+    "uikName": "УИК №1318",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1319,
     "uikTvd": "443404570504",
+    "uikName": "УИК №1319",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1320,
     "uikTvd": "443404570505",
+    "uikName": "УИК №1320",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1321,
     "uikTvd": "443404570506",
+    "uikName": "УИК №1321",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1322,
     "uikTvd": "443404570507",
+    "uikName": "УИК №1322",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1323,
     "uikTvd": "443404570508",
+    "uikName": "УИК №1323",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1324,
     "uikTvd": "443404570509",
+    "uikName": "УИК №1324",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1325,
     "uikTvd": "443404570510",
+    "uikName": "УИК №1325",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1326,
     "uikTvd": "443404570511",
+    "uikName": "УИК №1326",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1327,
     "uikTvd": "443404570512",
+    "uikName": "УИК №1327",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1328,
     "uikTvd": "443404570513",
+    "uikName": "УИК №1328",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1329,
     "uikTvd": "443404570514",
+    "uikName": "УИК №1329",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1330,
     "uikTvd": "443404570515",
+    "uikName": "УИК №1330",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1331,
     "uikTvd": "443404570516",
+    "uikName": "УИК №1331",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1332,
     "uikTvd": "443404570517",
+    "uikName": "УИК №1332",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1333,
     "uikTvd": "443404570518",
+    "uikName": "УИК №1333",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1334,
     "uikTvd": "443404570519",
+    "uikName": "УИК №1334",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1335,
     "uikTvd": "443404570520",
+    "uikName": "УИК №1335",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1336,
     "uikTvd": "443404570521",
+    "uikName": "УИК №1336",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1337,
     "uikTvd": "443404570522",
+    "uikName": "УИК №1337",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1338,
     "uikTvd": "443404570523",
+    "uikName": "УИК №1338",
     "tikTvd": "243200070827",
-    "tikName": "Яранская"
+    "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

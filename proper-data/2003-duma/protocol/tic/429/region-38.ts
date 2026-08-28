@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300167381",
     "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки": 28297,
@@ -96,6 +104,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300167382",
     "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 11114,
@@ -165,6 +181,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300167383",
     "tikName": "Усть-Кутская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки": 45783,
@@ -254,6 +278,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300167384",
     "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки": 71726,
@@ -330,6 +362,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300167385",
     "tikName": "Усть-Илимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки": 16036,
@@ -393,6 +433,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300167386",
     "tikName": "Тайшетская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки": 35598,
@@ -473,6 +521,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300167387",
     "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки": 21395,
@@ -571,6 +627,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300167388",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки": 50101,
@@ -659,6 +723,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300167389",
     "tikName": "Мамско-Чуйская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в списки": 6205,
@@ -715,6 +787,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300167390",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки": 18421,
@@ -798,6 +878,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300167391",
     "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в списки": 3285,
@@ -856,6 +944,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300167392",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 15138,
@@ -925,6 +1021,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300167393",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 7249,
@@ -995,6 +1099,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300167394",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "uikCount": 97,
     "accounting": {
       "Число избирателей, включенных в списки": 197841,
@@ -1139,6 +1251,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300167395",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в списки": 46436,
@@ -1243,6 +1363,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300167396",
     "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 18955,
@@ -1312,6 +1440,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300167397",
     "tikName": "Балаганская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100095665",
+      "oikName": "Братский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в списки": 6783,
@@ -1370,6 +1506,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300267759",
     "tikName": "Иркутская городская №1",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 84,
+      "oikTvd": "100100095666",
+      "oikName": "Иркутский"
+    },
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в списки": 106710,
@@ -1481,6 +1625,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300267760",
     "tikName": "Иркутская городская №2",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 84,
+      "oikTvd": "100100095666",
+      "oikName": "Иркутский"
+    },
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в списки": 103027,
@@ -1585,6 +1737,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300267761",
     "tikName": "Иркутская городская №3",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 84,
+      "oikTvd": "100100095666",
+      "oikName": "Иркутский"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в списки": 75306,
@@ -1687,6 +1847,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300267762",
     "tikName": "Иркутская городская №4",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 84,
+      "oikTvd": "100100095666",
+      "oikName": "Иркутский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в списки": 141655,
@@ -1797,6 +1965,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300267763",
     "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 84,
+      "oikTvd": "100100095666",
+      "oikName": "Иркутский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки": 14170,
@@ -1897,6 +2073,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300267764",
     "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 84,
+      "oikTvd": "100100095666",
+      "oikName": "Иркутский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки": 5743,
@@ -1969,6 +2153,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300267765",
     "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 84,
+      "oikTvd": "100100095666",
+      "oikName": "Иркутский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 35717,
@@ -2052,6 +2244,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300267766",
     "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 84,
+      "oikTvd": "100100095666",
+      "oikName": "Иркутский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 45161,
@@ -2133,6 +2333,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300267768",
     "tikName": "Иркутская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 84,
+      "oikTvd": "100100095666",
+      "oikName": "Иркутский"
+    },
     "uikCount": 71,
     "accounting": {
       "Число избирателей, включенных в списки": 39631,
@@ -2259,6 +2467,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300367522",
     "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "uikCount": 106,
     "accounting": {
       "Число избирателей, включенных в списки": 200386,
@@ -2415,6 +2631,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300367523",
     "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки": 21347,
@@ -2508,6 +2732,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300367524",
     "tikName": "Зиминская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки": 10118,
@@ -2585,6 +2817,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300367525",
     "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки": 25307,
@@ -2651,6 +2891,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300367526",
     "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в списки": 26210,
@@ -2768,6 +3016,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300367527",
     "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в списки": 22012,
@@ -2878,6 +3134,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300367528",
     "tikName": "Нижнеудинская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки": 34737,
@@ -2955,6 +3219,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300367529",
     "tikName": "Саянская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 32359,
@@ -3030,6 +3302,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300367530",
     "tikName": "Тулунская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки": 20292,
@@ -3130,6 +3410,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300367531",
     "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки": 39285,
@@ -3218,6 +3506,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300367533",
     "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки": 69595,
@@ -3300,6 +3596,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300367534",
     "tikName": "Черемховская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки": 23623,
@@ -3391,6 +3695,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в списки": 51737,
@@ -3489,6 +3801,14 @@ export const duma_2003_tic_429_region_38 = [
     "ballot": "single-member",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки": 36313,

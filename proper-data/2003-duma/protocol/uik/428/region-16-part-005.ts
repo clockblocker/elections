@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1374,
     "uikTvd": "416401766832",
+    "uikName": "УИК №1374",
     "tikTvd": "316300270744",
     "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -61,8 +70,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1375,
     "uikTvd": "416401766833",
+    "uikName": "УИК №1375",
     "tikTvd": "316300270744",
     "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 477,
@@ -111,8 +129,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1376,
     "uikTvd": "416401766834",
+    "uikName": "УИК №1376",
     "tikTvd": "316300270744",
     "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 314,
       "Число бюллетеней, полученных участковыми комиссиями": 316,
@@ -161,8 +188,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1377,
     "uikTvd": "416401766835",
+    "uikName": "УИК №1377",
     "tikTvd": "316300270744",
     "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 475,
       "Число бюллетеней, полученных участковыми комиссиями": 478,
@@ -211,8 +247,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1378,
     "uikTvd": "416401766836",
+    "uikName": "УИК №1378",
     "tikTvd": "316300270744",
     "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -261,8 +306,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1379,
     "uikTvd": "416401766837",
+    "uikName": "УИК №1379",
     "tikTvd": "316300270744",
     "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 226,
@@ -311,8 +365,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1380,
     "uikTvd": "416401766838",
+    "uikName": "УИК №1380",
     "tikTvd": "316300270744",
     "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1426,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -361,8 +424,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1381,
     "uikTvd": "416401766839",
+    "uikName": "УИК №1381",
     "tikTvd": "316300270744",
     "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 787,
       "Число бюллетеней, полученных участковыми комиссиями": 791,
@@ -411,8 +483,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1382,
     "uikTvd": "416401766840",
+    "uikName": "УИК №1382",
     "tikTvd": "316300270744",
     "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1228,
       "Число бюллетеней, полученных участковыми комиссиями": 1235,
@@ -461,8 +542,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1383,
     "uikTvd": "416401766841",
+    "uikName": "УИК №1383",
     "tikTvd": "316300270744",
     "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 381,
       "Число бюллетеней, полученных участковыми комиссиями": 383,
@@ -511,8 +601,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1551,
     "uikTvd": "416405770422",
+    "uikName": "УИК №1551",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2105,
       "Число бюллетеней, полученных участковыми комиссиями": 2115,
@@ -561,8 +660,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1552,
     "uikTvd": "416405770423",
+    "uikName": "УИК №1552",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1603,
       "Число бюллетеней, полученных участковыми комиссиями": 1653,
@@ -611,8 +719,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1553,
     "uikTvd": "416405770424",
+    "uikName": "УИК №1553",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 951,
       "Число бюллетеней, полученных участковыми комиссиями": 959,
@@ -661,8 +778,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1554,
     "uikTvd": "416405770425",
+    "uikName": "УИК №1554",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 478,
       "Число бюллетеней, полученных участковыми комиссиями": 473,
@@ -711,8 +837,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1555,
     "uikTvd": "416405770426",
+    "uikName": "УИК №1555",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 248,
       "Число бюллетеней, полученных участковыми комиссиями": 251,
@@ -761,8 +896,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1556,
     "uikTvd": "416405770427",
+    "uikName": "УИК №1556",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1156,
       "Число бюллетеней, полученных участковыми комиссиями": 1171,
@@ -811,8 +955,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1557,
     "uikTvd": "416405770428",
+    "uikName": "УИК №1557",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 281,
@@ -861,8 +1014,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1558,
     "uikTvd": "416405770429",
+    "uikName": "УИК №1558",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 530,
       "Число бюллетеней, полученных участковыми комиссиями": 539,
@@ -911,8 +1073,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1559,
     "uikTvd": "416405770430",
+    "uikName": "УИК №1559",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 466,
       "Число бюллетеней, полученных участковыми комиссиями": 468,
@@ -961,8 +1132,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1560,
     "uikTvd": "416405770431",
+    "uikName": "УИК №1560",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 587,
       "Число бюллетеней, полученных участковыми комиссиями": 569,
@@ -1011,8 +1191,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1561,
     "uikTvd": "416405770432",
+    "uikName": "УИК №1561",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1972,
       "Число бюллетеней, полученных участковыми комиссиями": 2009,
@@ -1061,8 +1250,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1562,
     "uikTvd": "416405770433",
+    "uikName": "УИК №1562",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 571,
       "Число бюллетеней, полученных участковыми комиссиями": 573,
@@ -1111,8 +1309,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1563,
     "uikTvd": "416405770434",
+    "uikName": "УИК №1563",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 851,
       "Число бюллетеней, полученных участковыми комиссиями": 847,
@@ -1161,8 +1368,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1564,
     "uikTvd": "416405770435",
+    "uikName": "УИК №1564",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1431,
       "Число бюллетеней, полученных участковыми комиссиями": 1410,
@@ -1211,8 +1427,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1565,
     "uikTvd": "416405770436",
+    "uikName": "УИК №1565",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 562,
       "Число бюллетеней, полученных участковыми комиссиями": 564,
@@ -1261,8 +1486,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1566,
     "uikTvd": "416405770437",
+    "uikName": "УИК №1566",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 184,
@@ -1311,8 +1545,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1567,
     "uikTvd": "416405770438",
+    "uikName": "УИК №1567",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -1361,8 +1604,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1568,
     "uikTvd": "416405770439",
+    "uikName": "УИК №1568",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 435,
       "Число бюллетеней, полученных участковыми комиссиями": 427,
@@ -1411,8 +1663,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1569,
     "uikTvd": "416405770440",
+    "uikName": "УИК №1569",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 544,
       "Число бюллетеней, полученных участковыми комиссиями": 547,
@@ -1461,8 +1722,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1570,
     "uikTvd": "416405770441",
+    "uikName": "УИК №1570",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 394,
       "Число бюллетеней, полученных участковыми комиссиями": 394,
@@ -1511,8 +1781,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1571,
     "uikTvd": "416405770442",
+    "uikName": "УИК №1571",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2086,
       "Число бюллетеней, полученных участковыми комиссиями": 2105,
@@ -1561,8 +1840,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1572,
     "uikTvd": "416405770443",
+    "uikName": "УИК №1572",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1624,
       "Число бюллетеней, полученных участковыми комиссиями": 1576,
@@ -1611,8 +1899,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1573,
     "uikTvd": "416405770444",
+    "uikName": "УИК №1573",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1490,
       "Число бюллетеней, полученных участковыми комиссиями": 1441,
@@ -1661,8 +1958,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1574,
     "uikTvd": "416405770445",
+    "uikName": "УИК №1574",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1111,
       "Число бюллетеней, полученных участковыми комиссиями": 1106,
@@ -1711,8 +2017,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1575,
     "uikTvd": "416405770446",
+    "uikName": "УИК №1575",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 775,
       "Число бюллетеней, полученных участковыми комиссиями": 773,
@@ -1761,8 +2076,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1576,
     "uikTvd": "416405770447",
+    "uikName": "УИК №1576",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1483,
       "Число бюллетеней, полученных участковыми комиссиями": 1437,
@@ -1811,8 +2135,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1577,
     "uikTvd": "416405770448",
+    "uikName": "УИК №1577",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 946,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -1861,8 +2194,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1578,
     "uikTvd": "416405770449",
+    "uikName": "УИК №1578",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 665,
       "Число бюллетеней, полученных участковыми комиссиями": 701,
@@ -1911,8 +2253,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1579,
     "uikTvd": "416405770450",
+    "uikName": "УИК №1579",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1572,
       "Число бюллетеней, полученных участковыми комиссиями": 1487,
@@ -1961,8 +2312,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1580,
     "uikTvd": "416405770451",
+    "uikName": "УИК №1580",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 920,
       "Число бюллетеней, полученных участковыми комиссиями": 817,
@@ -2011,8 +2371,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1581,
     "uikTvd": "416405770452",
+    "uikName": "УИК №1581",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 744,
       "Число бюллетеней, полученных участковыми комиссиями": 689,
@@ -2061,8 +2430,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1582,
     "uikTvd": "416405770453",
+    "uikName": "УИК №1582",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 931,
       "Число бюллетеней, полученных участковыми комиссиями": 924,
@@ -2111,8 +2489,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1583,
     "uikTvd": "416405770454",
+    "uikName": "УИК №1583",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 626,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -2161,8 +2548,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1584,
     "uikTvd": "416405770455",
+    "uikName": "УИК №1584",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -2211,8 +2607,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1585,
     "uikTvd": "416405770456",
+    "uikName": "УИК №1585",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1211,
       "Число бюллетеней, полученных участковыми комиссиями": 1208,
@@ -2261,8 +2666,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1586,
     "uikTvd": "416405770457",
+    "uikName": "УИК №1586",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1596,
       "Число бюллетеней, полученных участковыми комиссиями": 1549,
@@ -2311,8 +2725,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1587,
     "uikTvd": "416405770458",
+    "uikName": "УИК №1587",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1411,
       "Число бюллетеней, полученных участковыми комиссиями": 1377,
@@ -2361,8 +2784,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1588,
     "uikTvd": "416405770459",
+    "uikName": "УИК №1588",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -2411,8 +2843,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1589,
     "uikTvd": "416405770460",
+    "uikName": "УИК №1589",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 363,
@@ -2461,8 +2902,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1590,
     "uikTvd": "416405770461",
+    "uikName": "УИК №1590",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 300,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -2511,8 +2961,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1591,
     "uikTvd": "416405770462",
+    "uikName": "УИК №1591",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 118,
@@ -2561,8 +3020,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1592,
     "uikTvd": "416405770463",
+    "uikName": "УИК №1592",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 365,
       "Число бюллетеней, полученных участковыми комиссиями": 352,
@@ -2611,8 +3079,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1593,
     "uikTvd": "416405770464",
+    "uikName": "УИК №1593",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 308,
@@ -2661,8 +3138,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1594,
     "uikTvd": "416405770465",
+    "uikName": "УИК №1594",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 145,
       "Число бюллетеней, полученных участковыми комиссиями": 147,
@@ -2711,8 +3197,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1595,
     "uikTvd": "416405770466",
+    "uikName": "УИК №1595",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 802,
       "Число бюллетеней, полученных участковыми комиссиями": 816,
@@ -2761,8 +3256,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1596,
     "uikTvd": "416405770467",
+    "uikName": "УИК №1596",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 461,
@@ -2811,8 +3315,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1597,
     "uikTvd": "416405770468",
+    "uikName": "УИК №1597",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1869,
       "Число бюллетеней, полученных участковыми комиссиями": 1870,
@@ -2861,8 +3374,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1598,
     "uikTvd": "416405770469",
+    "uikName": "УИК №1598",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 186,
@@ -2911,8 +3433,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1599,
     "uikTvd": "416405770470",
+    "uikName": "УИК №1599",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 832,
       "Число бюллетеней, полученных участковыми комиссиями": 816,
@@ -2961,8 +3492,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1600,
     "uikTvd": "416405770471",
+    "uikName": "УИК №1600",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -3011,8 +3551,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1601,
     "uikTvd": "416405770472",
+    "uikName": "УИК №1601",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 311,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -3061,8 +3610,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1602,
     "uikTvd": "416405770473",
+    "uikName": "УИК №1602",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 172,
       "Число бюллетеней, полученных участковыми комиссиями": 174,
@@ -3111,8 +3669,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1603,
     "uikTvd": "416405770474",
+    "uikName": "УИК №1603",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 192,
@@ -3161,8 +3728,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1604,
     "uikTvd": "416405770475",
+    "uikName": "УИК №1604",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 402,
@@ -3211,8 +3787,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1605,
     "uikTvd": "416405770476",
+    "uikName": "УИК №1605",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 470,
       "Число бюллетеней, полученных участковыми комиссиями": 461,
@@ -3261,8 +3846,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1606,
     "uikTvd": "416405770477",
+    "uikName": "УИК №1606",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 399,
       "Число бюллетеней, полученных участковыми комиссиями": 398,
@@ -3311,8 +3905,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1607,
     "uikTvd": "416405770478",
+    "uikName": "УИК №1607",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -3361,8 +3964,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1608,
     "uikTvd": "416405770479",
+    "uikName": "УИК №1608",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 609,
       "Число бюллетеней, полученных участковыми комиссиями": 618,
@@ -3411,8 +4023,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1609,
     "uikTvd": "416405770480",
+    "uikName": "УИК №1609",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 280,
       "Число бюллетеней, полученных участковыми комиссиями": 278,
@@ -3461,8 +4082,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1610,
     "uikTvd": "416405770481",
+    "uikName": "УИК №1610",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 319,
       "Число бюллетеней, полученных участковыми комиссиями": 317,
@@ -3511,8 +4141,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1611,
     "uikTvd": "416405770482",
+    "uikName": "УИК №1611",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 153,
@@ -3561,8 +4200,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1510,
     "uikTvd": "416402070678",
+    "uikName": "УИК №1510",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 760,
       "Число бюллетеней, полученных участковыми комиссиями": 745,
@@ -3611,8 +4259,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1511,
     "uikTvd": "416402070618",
+    "uikName": "УИК №1511",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1161,
       "Число бюллетеней, полученных участковыми комиссиями": 1145,
@@ -3661,8 +4318,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1512,
     "uikTvd": "416402070619",
+    "uikName": "УИК №1512",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2199,
       "Число бюллетеней, полученных участковыми комиссиями": 2220,
@@ -3711,8 +4377,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1513,
     "uikTvd": "416402070620",
+    "uikName": "УИК №1513",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2070,
       "Число бюллетеней, полученных участковыми комиссиями": 2075,
@@ -3761,8 +4436,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1514,
     "uikTvd": "416402070621",
+    "uikName": "УИК №1514",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1805,
       "Число бюллетеней, полученных участковыми комиссиями": 1795,
@@ -3811,8 +4495,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1515,
     "uikTvd": "416402070622",
+    "uikName": "УИК №1515",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1854,
       "Число бюллетеней, полученных участковыми комиссиями": 1870,
@@ -3861,8 +4554,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1516,
     "uikTvd": "416402070623",
+    "uikName": "УИК №1516",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1873,
       "Число бюллетеней, полученных участковыми комиссиями": 1895,
@@ -3911,8 +4613,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1517,
     "uikTvd": "416402070624",
+    "uikName": "УИК №1517",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2146,
       "Число бюллетеней, полученных участковыми комиссиями": 2185,
@@ -3961,8 +4672,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1518,
     "uikTvd": "416402070625",
+    "uikName": "УИК №1518",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1624,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4011,8 +4731,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1519,
     "uikTvd": "416402070626",
+    "uikName": "УИК №1519",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -4061,8 +4790,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1520,
     "uikTvd": "416402070627",
+    "uikName": "УИК №1520",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2106,
       "Число бюллетеней, полученных участковыми комиссиями": 2110,
@@ -4111,8 +4849,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1521,
     "uikTvd": "416402070628",
+    "uikName": "УИК №1521",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1995,
       "Число бюллетеней, полученных участковыми комиссиями": 1985,
@@ -4161,8 +4908,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1522,
     "uikTvd": "416402070629",
+    "uikName": "УИК №1522",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1597,
       "Число бюллетеней, полученных участковыми комиссиями": 1605,
@@ -4211,8 +4967,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1523,
     "uikTvd": "416402070630",
+    "uikName": "УИК №1523",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 232,
       "Число бюллетеней, полученных участковыми комиссиями": 202,
@@ -4261,8 +5026,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1524,
     "uikTvd": "416402070631",
+    "uikName": "УИК №1524",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1928,
       "Число бюллетеней, полученных участковыми комиссиями": 1945,
@@ -4311,8 +5085,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1525,
     "uikTvd": "416402070632",
+    "uikName": "УИК №1525",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1571,
       "Число бюллетеней, полученных участковыми комиссиями": 1575,
@@ -4361,8 +5144,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1526,
     "uikTvd": "416402070633",
+    "uikName": "УИК №1526",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1887,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4411,8 +5203,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1527,
     "uikTvd": "416402070634",
+    "uikName": "УИК №1527",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1755,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -4461,8 +5262,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1528,
     "uikTvd": "416402070635",
+    "uikName": "УИК №1528",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2136,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -4511,8 +5321,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1529,
     "uikTvd": "416402070636",
+    "uikName": "УИК №1529",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1826,
       "Число бюллетеней, полученных участковыми комиссиями": 1825,
@@ -4561,8 +5380,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1530,
     "uikTvd": "416402070637",
+    "uikName": "УИК №1530",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2115,
       "Число бюллетеней, полученных участковыми комиссиями": 2105,
@@ -4611,8 +5439,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1531,
     "uikTvd": "416402070638",
+    "uikName": "УИК №1531",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2142,
       "Число бюллетеней, полученных участковыми комиссиями": 2125,
@@ -4661,8 +5498,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1532,
     "uikTvd": "416402070639",
+    "uikName": "УИК №1532",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2094,
       "Число бюллетеней, полученных участковыми комиссиями": 2105,
@@ -4711,8 +5557,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1533,
     "uikTvd": "416402070640",
+    "uikName": "УИК №1533",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2170,
       "Число бюллетеней, полученных участковыми комиссиями": 2185,
@@ -4761,8 +5616,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1534,
     "uikTvd": "416402070641",
+    "uikName": "УИК №1534",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1486,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -4811,8 +5675,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1535,
     "uikTvd": "416402070642",
+    "uikName": "УИК №1535",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 450,
       "Число бюллетеней, полученных участковыми комиссиями": 448,
@@ -4861,8 +5734,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1536,
     "uikTvd": "416402070643",
+    "uikName": "УИК №1536",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2056,
       "Число бюллетеней, полученных участковыми комиссиями": 1995,
@@ -4911,8 +5793,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1537,
     "uikTvd": "416402070644",
+    "uikName": "УИК №1537",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2087,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -4961,8 +5852,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1538,
     "uikTvd": "416402070645",
+    "uikName": "УИК №1538",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2277,
       "Число бюллетеней, полученных участковыми комиссиями": 2280,
@@ -5011,8 +5911,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1539,
     "uikTvd": "416402070646",
+    "uikName": "УИК №1539",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 668,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -5061,8 +5970,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1540,
     "uikTvd": "416402070647",
+    "uikName": "УИК №1540",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1157,
       "Число бюллетеней, полученных участковыми комиссиями": 1145,
@@ -5111,8 +6029,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1541,
     "uikTvd": "416402070648",
+    "uikName": "УИК №1541",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2698,
       "Число бюллетеней, полученных участковыми комиссиями": 2695,
@@ -5161,8 +6088,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1542,
     "uikTvd": "416402070649",
+    "uikName": "УИК №1542",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2759,
       "Число бюллетеней, полученных участковыми комиссиями": 2770,
@@ -5211,8 +6147,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1543,
     "uikTvd": "416402070650",
+    "uikName": "УИК №1543",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2715,
       "Число бюллетеней, полученных участковыми комиссиями": 2730,
@@ -5261,8 +6206,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1544,
     "uikTvd": "416402070651",
+    "uikName": "УИК №1544",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2689,
       "Число бюллетеней, полученных участковыми комиссиями": 2795,
@@ -5311,8 +6265,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1545,
     "uikTvd": "416402070652",
+    "uikName": "УИК №1545",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2658,
       "Число бюллетеней, полученных участковыми комиссиями": 2670,
@@ -5361,8 +6324,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1546,
     "uikTvd": "416402070653",
+    "uikName": "УИК №1546",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2630,
       "Число бюллетеней, полученных участковыми комиссиями": 2670,
@@ -5411,8 +6383,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1547,
     "uikTvd": "416402070654",
+    "uikName": "УИК №1547",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2695,
       "Число бюллетеней, полученных участковыми комиссиями": 2720,
@@ -5461,8 +6442,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1548,
     "uikTvd": "416402070655",
+    "uikName": "УИК №1548",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2732,
       "Число бюллетеней, полученных участковыми комиссиями": 2730,
@@ -5511,8 +6501,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1549,
     "uikTvd": "416402070656",
+    "uikName": "УИК №1549",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1222,
       "Число бюллетеней, полученных участковыми комиссиями": 1110,
@@ -5561,8 +6560,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1550,
     "uikTvd": "416402070657",
+    "uikName": "УИК №1550",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2641,
       "Число бюллетеней, полученных участковыми комиссиями": 2660,
@@ -5611,8 +6619,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "416402266855",
+    "uikName": "УИК №1",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2726,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5661,8 +6678,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "416402266856",
+    "uikName": "УИК №2",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2534,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5711,8 +6737,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "416402266857",
+    "uikName": "УИК №3",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2405,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5761,8 +6796,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "416402266858",
+    "uikName": "УИК №4",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2711,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5811,8 +6855,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "416402266859",
+    "uikName": "УИК №5",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2672,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5861,8 +6914,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "416402266860",
+    "uikName": "УИК №6",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2117,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5911,8 +6973,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "416402266861",
+    "uikName": "УИК №7",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2689,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -5961,8 +7032,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "416402266862",
+    "uikName": "УИК №8",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2365,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6011,8 +7091,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "416402266863",
+    "uikName": "УИК №9",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2704,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6061,8 +7150,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "416402266864",
+    "uikName": "УИК №10",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2821,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6111,8 +7209,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "416402266865",
+    "uikName": "УИК №11",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2692,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -6161,8 +7268,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "416402266866",
+    "uikName": "УИК №12",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2502,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -6211,8 +7327,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "416402266867",
+    "uikName": "УИК №13",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2749,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6261,8 +7386,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "416402266868",
+    "uikName": "УИК №14",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1815,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6311,8 +7445,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "416402266869",
+    "uikName": "УИК №15",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1641,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6361,8 +7504,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "416402266870",
+    "uikName": "УИК №16",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2895,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6411,8 +7563,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "416402266871",
+    "uikName": "УИК №17",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2384,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6461,8 +7622,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "416402266872",
+    "uikName": "УИК №18",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2738,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -6511,8 +7681,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "416402266873",
+    "uikName": "УИК №19",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2247,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6561,8 +7740,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "416402266874",
+    "uikName": "УИК №20",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2669,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6611,8 +7799,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "416402266875",
+    "uikName": "УИК №21",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1751,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6661,8 +7858,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "416402266876",
+    "uikName": "УИК №22",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2114,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6711,8 +7917,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "416402266877",
+    "uikName": "УИК №23",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1872,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -6761,8 +7976,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "416402266878",
+    "uikName": "УИК №24",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2471,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6811,8 +8035,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "416402266879",
+    "uikName": "УИК №25",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2188,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6861,8 +8094,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "416402266880",
+    "uikName": "УИК №26",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2078,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6911,8 +8153,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "416402266881",
+    "uikName": "УИК №27",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2457,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6961,8 +8212,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "416402266882",
+    "uikName": "УИК №28",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2812,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7011,8 +8271,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "416402266883",
+    "uikName": "УИК №29",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1618,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7061,8 +8330,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "416402266884",
+    "uikName": "УИК №30",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2717,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7111,8 +8389,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "416402266885",
+    "uikName": "УИК №31",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2100,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -7161,8 +8448,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "416402266886",
+    "uikName": "УИК №32",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2323,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7211,8 +8507,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "416402266887",
+    "uikName": "УИК №33",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7261,8 +8566,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "416402266888",
+    "uikName": "УИК №34",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 488,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -7311,8 +8625,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "416402266889",
+    "uikName": "УИК №35",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 819,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -7361,8 +8684,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "416402266890",
+    "uikName": "УИК №36",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2300,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -7411,8 +8743,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "416402266891",
+    "uikName": "УИК №37",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1459,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -7461,8 +8802,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "416402266892",
+    "uikName": "УИК №38",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 443,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7511,8 +8861,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "416402370401",
+    "uikName": "УИК №114",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2418,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7561,8 +8920,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "416402370403",
+    "uikName": "УИК №115",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2130,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7611,8 +8979,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "416402370405",
+    "uikName": "УИК №116",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2411,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7661,8 +9038,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "416402370408",
+    "uikName": "УИК №117",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2657,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7711,8 +9097,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "416402370409",
+    "uikName": "УИК №118",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1499,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7761,8 +9156,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "416402370410",
+    "uikName": "УИК №119",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1795,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7811,8 +9215,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "416402370411",
+    "uikName": "УИК №120",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2523,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -7861,8 +9274,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "416402370412",
+    "uikName": "УИК №121",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2023,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7911,8 +9333,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "416402370413",
+    "uikName": "УИК №122",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1648,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -7961,8 +9392,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "416402370414",
+    "uikName": "УИК №123",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 992,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8011,8 +9451,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "416402370415",
+    "uikName": "УИК №124",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2172,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8061,8 +9510,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "416402370416",
+    "uikName": "УИК №125",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2343,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8111,8 +9569,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "416402370417",
+    "uikName": "УИК №126",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2293,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8161,8 +9628,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "416402370418",
+    "uikName": "УИК №127",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1756,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8211,8 +9687,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "416402370419",
+    "uikName": "УИК №128",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1133,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8261,8 +9746,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "416402370420",
+    "uikName": "УИК №129",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1647,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8311,8 +9805,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "416402370421",
+    "uikName": "УИК №130",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1574,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8361,8 +9864,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "416402370422",
+    "uikName": "УИК №131",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1884,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8411,8 +9923,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "416402370423",
+    "uikName": "УИК №132",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1060,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8461,8 +9982,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "416402370424",
+    "uikName": "УИК №133",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2472,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8511,8 +10041,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "416402370425",
+    "uikName": "УИК №134",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2398,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8561,8 +10100,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "416402370426",
+    "uikName": "УИК №135",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2095,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8611,8 +10159,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "416402370427",
+    "uikName": "УИК №136",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 464,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -8661,8 +10218,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "416402370428",
+    "uikName": "УИК №137",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1018,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8711,8 +10277,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "416402370429",
+    "uikName": "УИК №138",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2007,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8761,8 +10336,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "416402370430",
+    "uikName": "УИК №139",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1960,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8811,8 +10395,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "416402370431",
+    "uikName": "УИК №140",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1882,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8861,8 +10454,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "416402370432",
+    "uikName": "УИК №141",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1294,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -8911,8 +10513,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "416402370433",
+    "uikName": "УИК №142",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 593,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -8961,8 +10572,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "416402370434",
+    "uikName": "УИК №143",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1130,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -9011,8 +10631,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "416402370435",
+    "uikName": "УИК №144",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1667,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9061,8 +10690,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "416402370436",
+    "uikName": "УИК №145",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1094,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -9111,8 +10749,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "416402370437",
+    "uikName": "УИК №146",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2683,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9161,8 +10808,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "416402370438",
+    "uikName": "УИК №147",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2478,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9211,8 +10867,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "416402370439",
+    "uikName": "УИК №148",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2021,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9261,8 +10926,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "416402370440",
+    "uikName": "УИК №149",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2790,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9311,8 +10985,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "416402370441",
+    "uikName": "УИК №150",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2720,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9361,8 +11044,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "416402370442",
+    "uikName": "УИК №151",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2402,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9411,8 +11103,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "416402370443",
+    "uikName": "УИК №152",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1876,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9461,8 +11162,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "416402370444",
+    "uikName": "УИК №153",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 341,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -9511,8 +11221,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "416402370445",
+    "uikName": "УИК №154",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2581,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9561,8 +11280,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "416402370446",
+    "uikName": "УИК №155",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2003,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9611,8 +11339,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "416402370447",
+    "uikName": "УИК №156",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1847,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -9661,8 +11398,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "416402370448",
+    "uikName": "УИК №157",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 325,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -9711,8 +11457,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "416402370479",
+    "uikName": "УИК №158",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 165,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -9761,8 +11516,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "416402370480",
+    "uikName": "УИК №159",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 42,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -9811,8 +11575,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "416402370481",
+    "uikName": "УИК №160",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 42,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -9861,8 +11634,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "416402370482",
+    "uikName": "УИК №161",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -9911,8 +11693,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "416402466823",
+    "uikName": "УИК №162",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2757,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9961,8 +11752,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "416402466824",
+    "uikName": "УИК №163",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2558,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10011,8 +11811,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "416402466825",
+    "uikName": "УИК №164",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2349,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10061,8 +11870,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "416402466826",
+    "uikName": "УИК №165",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1869,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10111,8 +11929,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "416402466827",
+    "uikName": "УИК №166",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1888,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10161,8 +11988,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "416402466828",
+    "uikName": "УИК №167",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2123,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10211,8 +12047,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "416402466829",
+    "uikName": "УИК №168",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2056,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10261,8 +12106,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "416402466830",
+    "uikName": "УИК №169",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2196,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10311,8 +12165,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "416402466831",
+    "uikName": "УИК №170",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2484,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10361,8 +12224,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "416402466832",
+    "uikName": "УИК №171",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1931,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10411,8 +12283,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "416402466833",
+    "uikName": "УИК №172",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1204,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10461,8 +12342,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "416402466834",
+    "uikName": "УИК №173",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1967,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10511,8 +12401,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "416402466835",
+    "uikName": "УИК №174",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1655,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10561,8 +12460,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "416402466836",
+    "uikName": "УИК №175",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1187,
       "Число бюллетеней, полученных участковыми комиссиями": 1889,
@@ -10611,8 +12519,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "416402466837",
+    "uikName": "УИК №176",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2005,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10661,8 +12578,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "416402466838",
+    "uikName": "УИК №177",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1558,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10711,8 +12637,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "416402466839",
+    "uikName": "УИК №178",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2064,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10761,8 +12696,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "416402466840",
+    "uikName": "УИК №179",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1989,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10811,8 +12755,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "416402466841",
+    "uikName": "УИК №180",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2029,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10861,8 +12814,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "416402466842",
+    "uikName": "УИК №181",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2844,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -10911,8 +12873,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "416402466843",
+    "uikName": "УИК №182",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1763,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10961,8 +12932,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "416402466844",
+    "uikName": "УИК №183",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1718,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11011,8 +12991,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "416402466845",
+    "uikName": "УИК №184",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1836,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11061,8 +13050,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "416402466846",
+    "uikName": "УИК №185",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2284,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11111,8 +13109,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "416402466847",
+    "uikName": "УИК №186",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2066,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11161,8 +13168,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "416402466848",
+    "uikName": "УИК №187",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1900,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11211,8 +13227,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "416402466849",
+    "uikName": "УИК №188",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2275,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11261,8 +13286,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "416402466850",
+    "uikName": "УИК №189",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2466,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11311,8 +13345,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "416402466851",
+    "uikName": "УИК №190",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2306,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11361,8 +13404,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "416402466852",
+    "uikName": "УИК №191",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2348,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11411,8 +13463,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "416402466853",
+    "uikName": "УИК №192",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2848,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -11461,8 +13522,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "416402466854",
+    "uikName": "УИК №193",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2768,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -11511,8 +13581,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "416402466855",
+    "uikName": "УИК №194",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2840,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -11561,8 +13640,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "416402466856",
+    "uikName": "УИК №195",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1820,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11611,8 +13699,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "416402466857",
+    "uikName": "УИК №196",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1644,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11661,8 +13758,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "416402466858",
+    "uikName": "УИК №197",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1569,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -11711,8 +13817,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "416402466859",
+    "uikName": "УИК №198",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1840,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11761,8 +13876,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "416402466860",
+    "uikName": "УИК №199",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1947,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11811,8 +13935,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "416402466861",
+    "uikName": "УИК №200",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1835,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11861,8 +13994,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "416402466862",
+    "uikName": "УИК №201",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2179,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11911,8 +14053,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "416402466863",
+    "uikName": "УИК №202",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1683,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11961,8 +14112,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "416402466864",
+    "uikName": "УИК №203",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2631,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -12011,8 +14171,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "416402466865",
+    "uikName": "УИК №204",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2610,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -12061,8 +14230,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "416402466866",
+    "uikName": "УИК №205",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2433,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -12111,8 +14289,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "416402466867",
+    "uikName": "УИК №206",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2668,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -12161,8 +14348,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "416402466868",
+    "uikName": "УИК №207",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2637,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -12211,8 +14407,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "416402466869",
+    "uikName": "УИК №208",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -12261,8 +14466,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "416402466870",
+    "uikName": "УИК №209",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 37,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -12311,8 +14525,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "416402466871",
+    "uikName": "УИК №210",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 56,
       "Число бюллетеней, полученных участковыми комиссиями": 56,
@@ -12361,8 +14584,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "416402466872",
+    "uikName": "УИК №211",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 162,
       "Число бюллетеней, полученных участковыми комиссиями": 222,
@@ -12411,8 +14643,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "416402466873",
+    "uikName": "УИК №212",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -12461,8 +14702,17 @@ export const duma_2003_uik_428_region_16_part_005 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "416402466874",
+    "uikName": "УИК №213",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 207,

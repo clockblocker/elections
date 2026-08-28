@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "483400270564",
+    "uikName": "УИК №1",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -60,8 +69,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "483400270565",
+    "uikName": "УИК №2",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 45,
       "Число бюллетеней, полученных участковыми комиссиями": 45,
@@ -109,8 +127,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "483400270566",
+    "uikName": "УИК №3",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 80,
       "Число бюллетеней, полученных участковыми комиссиями": 74,
@@ -158,8 +185,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "483400270567",
+    "uikName": "УИК №4",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 981,
       "Число бюллетеней, полученных участковыми комиссиями": 965,
@@ -207,8 +243,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "483400270568",
+    "uikName": "УИК №5",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 30,
       "Число бюллетеней, полученных участковыми комиссиями": 28,
@@ -256,8 +301,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "483400270569",
+    "uikName": "УИК №6",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 74,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -305,8 +359,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "483400270570",
+    "uikName": "УИК №7",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 503,
       "Число бюллетеней, полученных участковыми комиссиями": 501,
@@ -354,8 +417,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "483400270571",
+    "uikName": "УИК №8",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 75,
       "Число бюллетеней, полученных участковыми комиссиями": 72,
@@ -403,8 +475,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "483400270572",
+    "uikName": "УИК №9",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 506,
       "Число бюллетеней, полученных участковыми комиссиями": 456,
@@ -452,8 +533,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "483400270573",
+    "uikName": "УИК №10",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 102,
@@ -501,8 +591,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "483400270574",
+    "uikName": "УИК №11",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 132,
@@ -550,8 +649,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "483400270575",
+    "uikName": "УИК №12",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 65,
       "Число бюллетеней, полученных участковыми комиссиями": 63,
@@ -599,8 +707,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "483400270576",
+    "uikName": "УИК №13",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 36,
       "Число бюллетеней, полученных участковыми комиссиями": 36,
@@ -648,8 +765,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "483400270577",
+    "uikName": "УИК №14",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 387,
       "Число бюллетеней, полученных участковыми комиссиями": 418,
@@ -697,8 +823,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "483400270578",
+    "uikName": "УИК №15",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 130,
       "Число бюллетеней, полученных участковыми комиссиями": 147,
@@ -746,8 +881,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "483400270579",
+    "uikName": "УИК №16",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 338,
       "Число бюллетеней, полученных участковыми комиссиями": 327,
@@ -795,8 +939,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "483400270580",
+    "uikName": "УИК №17",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 663,
       "Число бюллетеней, полученных участковыми комиссиями": 651,
@@ -844,8 +997,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "483400270581",
+    "uikName": "УИК №18",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 114,
@@ -893,8 +1055,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "483400270582",
+    "uikName": "УИК №19",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 124,
       "Число бюллетеней, полученных участковыми комиссиями": 122,
@@ -942,8 +1113,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "483400270583",
+    "uikName": "УИК №20",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 253,
       "Число бюллетеней, полученных участковыми комиссиями": 253,
@@ -991,8 +1171,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "483400270584",
+    "uikName": "УИК №21",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 32,
       "Число бюллетеней, полученных участковыми комиссиями": 51,
@@ -1040,8 +1229,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "483400270585",
+    "uikName": "УИК №22",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 215,
       "Число бюллетеней, полученных участковыми комиссиями": 272,
@@ -1089,8 +1287,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "483400270586",
+    "uikName": "УИК №23",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 177,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -1138,8 +1345,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "483400270587",
+    "uikName": "УИК №24",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 365,
       "Число бюллетеней, полученных участковыми комиссиями": 361,
@@ -1187,8 +1403,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "483400270588",
+    "uikName": "УИК №25",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 386,
@@ -1236,8 +1461,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "483400270589",
+    "uikName": "УИК №26",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 264,
@@ -1285,8 +1519,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "483400270590",
+    "uikName": "УИК №27",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 87,
       "Число бюллетеней, полученных участковыми комиссиями": 83,
@@ -1334,8 +1577,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "483400270591",
+    "uikName": "УИК №28",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1069,
       "Число бюллетеней, полученных участковыми комиссиями": 1045,
@@ -1383,8 +1635,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "483400270592",
+    "uikName": "УИК №29",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 631,
       "Число бюллетеней, полученных участковыми комиссиями": 611,
@@ -1432,8 +1693,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "483400270593",
+    "uikName": "УИК №30",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 164,
@@ -1481,8 +1751,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "483400270594",
+    "uikName": "УИК №31",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 34,
@@ -1530,8 +1809,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "483400270595",
+    "uikName": "УИК №32",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 499,
       "Число бюллетеней, полученных участковыми комиссиями": 502,
@@ -1579,8 +1867,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "483400270596",
+    "uikName": "УИК №33",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 527,
       "Число бюллетеней, полученных участковыми комиссиями": 519,
@@ -1628,8 +1925,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "483400270597",
+    "uikName": "УИК №34",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 532,
       "Число бюллетеней, полученных участковыми комиссиями": 522,
@@ -1677,8 +1983,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "483400270598",
+    "uikName": "УИК №35",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 369,
@@ -1726,8 +2041,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "483400270599",
+    "uikName": "УИК №36",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 291,
       "Число бюллетеней, полученных участковыми комиссиями": 242,
@@ -1775,8 +2099,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "483400270600",
+    "uikName": "УИК №37",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 403,
       "Число бюллетеней, полученных участковыми комиссиями": 364,
@@ -1824,8 +2157,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "483400270601",
+    "uikName": "УИК №38",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2263,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1873,8 +2215,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "483400270602",
+    "uikName": "УИК №39",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1778,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -1922,8 +2273,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "483400270603",
+    "uikName": "УИК №40",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 475,
       "Число бюллетеней, полученных участковыми комиссиями": 508,
@@ -1971,8 +2331,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "483400270604",
+    "uikName": "УИК №41",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 913,
       "Число бюллетеней, полученных участковыми комиссиями": 707,
@@ -2020,8 +2389,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "483400170484",
+    "uikName": "УИК №42",
     "tikTvd": "283200070442",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 756,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -2069,8 +2447,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "483400170485",
+    "uikName": "УИК №43",
     "tikTvd": "283200070442",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1458,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -2118,8 +2505,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "483400170486",
+    "uikName": "УИК №44",
     "tikTvd": "283200070442",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 946,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -2167,8 +2563,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "483400170487",
+    "uikName": "УИК №45",
     "tikTvd": "283200070442",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1610,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2216,8 +2621,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "483400170488",
+    "uikName": "УИК №46",
     "tikTvd": "283200070442",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 835,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -2265,8 +2679,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "483400170489",
+    "uikName": "УИК №47",
     "tikTvd": "283200070442",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 842,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -2314,8 +2737,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "483400170490",
+    "uikName": "УИК №48",
     "tikTvd": "283200070442",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1446,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -2363,8 +2795,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "483400170491",
+    "uikName": "УИК №49",
     "tikTvd": "283200070442",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 657,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -2412,8 +2853,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "483400170492",
+    "uikName": "УИК №50",
     "tikTvd": "283200070442",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1102,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2461,8 +2911,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "483400170493",
+    "uikName": "УИК №51",
     "tikTvd": "283200070442",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 943,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -2510,8 +2969,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "483400170494",
+    "uikName": "УИК №52",
     "tikTvd": "283200070442",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 378,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -2559,8 +3027,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "483400170495",
+    "uikName": "УИК №53",
     "tikTvd": "283200070442",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1609,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2608,8 +3085,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "483400170496",
+    "uikName": "УИК №54",
     "tikTvd": "283200070442",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 317,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -2657,8 +3143,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "483400170497",
+    "uikName": "УИК №55",
     "tikTvd": "283200070442",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1200,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2706,8 +3201,17 @@ export const duma_2003_uik_428_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "483400170482",
+    "uikName": "УИК №56",
     "tikTvd": "283200070442",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 123,
       "Число бюллетеней, полученных участковыми комиссиями": 230,

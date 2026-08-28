@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4601,
     "uikTvd": "423404470662",
+    "uikName": "УИК №4601",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1559,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -61,8 +70,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4602,
     "uikTvd": "423404470663",
+    "uikName": "УИК №4602",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1124,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -111,8 +129,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4603,
     "uikTvd": "423404470664",
+    "uikName": "УИК №4603",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 817,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -161,8 +188,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4604,
     "uikTvd": "423404470665",
+    "uikName": "УИК №4604",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1376,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -211,8 +247,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4605,
     "uikTvd": "423404470666",
+    "uikName": "УИК №4605",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2026,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -261,8 +306,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4606,
     "uikTvd": "423404470667",
+    "uikName": "УИК №4606",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1912,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -311,8 +365,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4607,
     "uikTvd": "423404470668",
+    "uikName": "УИК №4607",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1684,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -361,8 +424,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4608,
     "uikTvd": "423404470669",
+    "uikName": "УИК №4608",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1923,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -411,8 +483,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4609,
     "uikTvd": "423404470670",
+    "uikName": "УИК №4609",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1548,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -461,8 +542,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4610,
     "uikTvd": "423404470671",
+    "uikName": "УИК №4610",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 986,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -511,8 +601,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4611,
     "uikTvd": "423404470672",
+    "uikName": "УИК №4611",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 615,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -561,8 +660,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4612,
     "uikTvd": "423404470673",
+    "uikName": "УИК №4612",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 976,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -611,8 +719,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4613,
     "uikTvd": "423404470674",
+    "uikName": "УИК №4613",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1160,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -661,8 +778,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4614,
     "uikTvd": "423404470675",
+    "uikName": "УИК №4614",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1360,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -711,8 +837,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4615,
     "uikTvd": "423404470676",
+    "uikName": "УИК №4615",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2145,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -761,8 +896,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4616,
     "uikTvd": "423404470677",
+    "uikName": "УИК №4616",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2223,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -811,8 +955,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4617,
     "uikTvd": "423404470678",
+    "uikName": "УИК №4617",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1834,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -861,8 +1014,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4618,
     "uikTvd": "423404470679",
+    "uikName": "УИК №4618",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1620,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -911,8 +1073,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4619,
     "uikTvd": "423404470680",
+    "uikName": "УИК №4619",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1066,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -961,8 +1132,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4620,
     "uikTvd": "423404470681",
+    "uikName": "УИК №4620",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2867,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1011,8 +1191,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4621,
     "uikTvd": "423404470682",
+    "uikName": "УИК №4621",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1678,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1061,8 +1250,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4622,
     "uikTvd": "423404470683",
+    "uikName": "УИК №4622",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2400,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1111,8 +1309,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4623,
     "uikTvd": "423404470684",
+    "uikName": "УИК №4623",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1917,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -1161,8 +1368,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4624,
     "uikTvd": "423404470685",
+    "uikName": "УИК №4624",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1597,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1211,8 +1427,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4625,
     "uikTvd": "423404470686",
+    "uikName": "УИК №4625",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1734,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1261,8 +1486,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4626,
     "uikTvd": "423404470687",
+    "uikName": "УИК №4626",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2470,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1311,8 +1545,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4627,
     "uikTvd": "423404470688",
+    "uikName": "УИК №4627",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2306,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1361,8 +1604,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4628,
     "uikTvd": "423404470689",
+    "uikName": "УИК №4628",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2084,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1411,8 +1663,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4629,
     "uikTvd": "423404470690",
+    "uikName": "УИК №4629",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2670,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1461,8 +1722,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4630,
     "uikTvd": "423404470691",
+    "uikName": "УИК №4630",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1902,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -1511,8 +1781,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4631,
     "uikTvd": "423404470692",
+    "uikName": "УИК №4631",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1700,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1561,8 +1840,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4632,
     "uikTvd": "423404470693",
+    "uikName": "УИК №4632",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 688,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -1611,8 +1899,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4633,
     "uikTvd": "423404470694",
+    "uikName": "УИК №4633",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2089,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1661,8 +1958,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4634,
     "uikTvd": "423404470695",
+    "uikName": "УИК №4634",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2660,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1711,8 +2017,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4635,
     "uikTvd": "423404470696",
+    "uikName": "УИК №4635",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1767,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -1761,8 +2076,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4636,
     "uikTvd": "423404470697",
+    "uikName": "УИК №4636",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1507,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1811,8 +2135,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4637,
     "uikTvd": "423404470698",
+    "uikName": "УИК №4637",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1256,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1861,8 +2194,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4638,
     "uikTvd": "423404470699",
+    "uikName": "УИК №4638",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1131,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1911,8 +2253,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4639,
     "uikTvd": "423404470700",
+    "uikName": "УИК №4639",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2271,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1961,8 +2312,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4640,
     "uikTvd": "423404470701",
+    "uikName": "УИК №4640",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1202,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2011,8 +2371,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4641,
     "uikTvd": "423404470702",
+    "uikName": "УИК №4641",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1618,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2061,8 +2430,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4642,
     "uikTvd": "423404470703",
+    "uikName": "УИК №4642",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1245,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2111,8 +2489,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4643,
     "uikTvd": "423404470704",
+    "uikName": "УИК №4643",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1933,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2161,8 +2548,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4644,
     "uikTvd": "423404470705",
+    "uikName": "УИК №4644",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2365,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2211,8 +2607,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4645,
     "uikTvd": "423404470706",
+    "uikName": "УИК №4645",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2058,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2261,8 +2666,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4646,
     "uikTvd": "423404470707",
+    "uikName": "УИК №4646",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 942,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -2311,8 +2725,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4647,
     "uikTvd": "423404470708",
+    "uikName": "УИК №4647",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2920,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2361,8 +2784,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4648,
     "uikTvd": "423404470709",
+    "uikName": "УИК №4648",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2420,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2411,8 +2843,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4649,
     "uikTvd": "423404470710",
+    "uikName": "УИК №4649",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2620,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2461,8 +2902,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4650,
     "uikTvd": "423404470711",
+    "uikName": "УИК №4650",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1209,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -2511,8 +2961,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4651,
     "uikTvd": "423404470712",
+    "uikName": "УИК №4651",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1519,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2561,8 +3020,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4652,
     "uikTvd": "423404470713",
+    "uikName": "УИК №4652",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2011,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2611,8 +3079,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4653,
     "uikTvd": "423404470714",
+    "uikName": "УИК №4653",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 721,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -2661,8 +3138,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4654,
     "uikTvd": "423404470715",
+    "uikName": "УИК №4654",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1883,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2711,8 +3197,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4655,
     "uikTvd": "423404470716",
+    "uikName": "УИК №4655",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1522,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2761,8 +3256,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4656,
     "uikTvd": "423404470717",
+    "uikName": "УИК №4656",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1172,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -2811,8 +3315,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4657,
     "uikTvd": "423404470718",
+    "uikName": "УИК №4657",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1629,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2861,8 +3374,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4658,
     "uikTvd": "423404470719",
+    "uikName": "УИК №4658",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1020,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -2911,8 +3433,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4659,
     "uikTvd": "423404470720",
+    "uikName": "УИК №4659",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2521,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2961,8 +3492,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4660,
     "uikTvd": "423404470721",
+    "uikName": "УИК №4660",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2550,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3011,8 +3551,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4661,
     "uikTvd": "423404470722",
+    "uikName": "УИК №4661",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1396,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3061,8 +3610,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4662,
     "uikTvd": "423404470723",
+    "uikName": "УИК №4662",
     "tikTvd": "223200070365",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1584,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3111,8 +3669,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4501,
     "uikTvd": "423404370766",
+    "uikName": "УИК №4501",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1336,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -3161,8 +3728,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4502,
     "uikTvd": "423404370767",
+    "uikName": "УИК №4502",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1089,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -3211,8 +3787,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4503,
     "uikTvd": "423404370768",
+    "uikName": "УИК №4503",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1890,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -3261,8 +3846,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4504,
     "uikTvd": "423404370769",
+    "uikName": "УИК №4504",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1720,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3311,8 +3905,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4505,
     "uikTvd": "423404370770",
+    "uikName": "УИК №4505",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1232,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3361,8 +3964,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4506,
     "uikTvd": "423404370771",
+    "uikName": "УИК №4506",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1325,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -3411,8 +4023,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4507,
     "uikTvd": "423404370772",
+    "uikName": "УИК №4507",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1023,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -3461,8 +4082,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4508,
     "uikTvd": "423404370773",
+    "uikName": "УИК №4508",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1804,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3511,8 +4141,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4509,
     "uikTvd": "423404370774",
+    "uikName": "УИК №4509",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2500,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -3561,8 +4200,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4510,
     "uikTvd": "423404370775",
+    "uikName": "УИК №4510",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1521,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3611,8 +4259,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4511,
     "uikTvd": "423404370776",
+    "uikName": "УИК №4511",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1780,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -3661,8 +4318,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4512,
     "uikTvd": "423404370777",
+    "uikName": "УИК №4512",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1058,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -3711,8 +4377,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4513,
     "uikTvd": "423404370778",
+    "uikName": "УИК №4513",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2753,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -3761,8 +4436,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4514,
     "uikTvd": "423404370779",
+    "uikName": "УИК №4514",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2674,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -3811,8 +4495,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4515,
     "uikTvd": "423404370780",
+    "uikName": "УИК №4515",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2206,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3861,8 +4554,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4516,
     "uikTvd": "423404370781",
+    "uikName": "УИК №4516",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1026,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3911,8 +4613,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4517,
     "uikTvd": "423404370782",
+    "uikName": "УИК №4517",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 963,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -3961,8 +4672,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4518,
     "uikTvd": "423404370783",
+    "uikName": "УИК №4518",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1760,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4011,8 +4731,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4519,
     "uikTvd": "423404370784",
+    "uikName": "УИК №4519",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2010,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4061,8 +4790,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4520,
     "uikTvd": "423404370785",
+    "uikName": "УИК №4520",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1038,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4111,8 +4849,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4521,
     "uikTvd": "423404370786",
+    "uikName": "УИК №4521",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2623,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4161,8 +4908,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4522,
     "uikTvd": "423404370787",
+    "uikName": "УИК №4522",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 989,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -4211,8 +4967,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4523,
     "uikTvd": "423404370788",
+    "uikName": "УИК №4523",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 903,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -4261,8 +5026,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4524,
     "uikTvd": "423404370789",
+    "uikName": "УИК №4524",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2262,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4311,8 +5085,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4525,
     "uikTvd": "423404370790",
+    "uikName": "УИК №4525",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 732,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -4361,8 +5144,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4526,
     "uikTvd": "423404370791",
+    "uikName": "УИК №4526",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 433,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -4411,8 +5203,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4527,
     "uikTvd": "423404370792",
+    "uikName": "УИК №4527",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1711,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -4461,8 +5262,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4528,
     "uikTvd": "423404370793",
+    "uikName": "УИК №4528",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1775,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -4511,8 +5321,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4529,
     "uikTvd": "423404370794",
+    "uikName": "УИК №4529",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1657,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4561,8 +5380,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4530,
     "uikTvd": "423404370795",
+    "uikName": "УИК №4530",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 653,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -4611,8 +5439,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4531,
     "uikTvd": "423404370796",
+    "uikName": "УИК №4531",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2768,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -4661,8 +5498,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4532,
     "uikTvd": "423404370797",
+    "uikName": "УИК №4532",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2197,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -4711,8 +5557,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4533,
     "uikTvd": "423404370798",
+    "uikName": "УИК №4533",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2595,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -4761,8 +5616,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4534,
     "uikTvd": "423404370799",
+    "uikName": "УИК №4534",
     "tikTvd": "223200070366",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -4811,8 +5675,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4401,
     "uikTvd": "423404270541",
+    "uikName": "УИК №4401",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 222,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -4861,8 +5734,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4402,
     "uikTvd": "423404270542",
+    "uikName": "УИК №4402",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -4911,8 +5793,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4403,
     "uikTvd": "423404270543",
+    "uikName": "УИК №4403",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 931,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -4961,8 +5852,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4404,
     "uikTvd": "423404270544",
+    "uikName": "УИК №4404",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 350,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -5011,8 +5911,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4405,
     "uikTvd": "423404270545",
+    "uikName": "УИК №4405",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1002,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -5061,8 +5970,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4406,
     "uikTvd": "423404270546",
+    "uikName": "УИК №4406",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 632,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -5111,8 +6029,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4407,
     "uikTvd": "423404270547",
+    "uikName": "УИК №4407",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1509,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -5161,8 +6088,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4408,
     "uikTvd": "423404270548",
+    "uikName": "УИК №4408",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 443,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -5211,8 +6147,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4409,
     "uikTvd": "423404270549",
+    "uikName": "УИК №4409",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1035,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -5261,8 +6206,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4410,
     "uikTvd": "423404270550",
+    "uikName": "УИК №4410",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 118,
@@ -5311,8 +6265,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4411,
     "uikTvd": "423404270551",
+    "uikName": "УИК №4411",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2223,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -5361,8 +6324,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4412,
     "uikTvd": "423404270552",
+    "uikName": "УИК №4412",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 613,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -5411,8 +6383,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4413,
     "uikTvd": "423404270553",
+    "uikName": "УИК №4413",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1833,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5461,8 +6442,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4414,
     "uikTvd": "423404270554",
+    "uikName": "УИК №4414",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1385,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -5511,8 +6501,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4415,
     "uikTvd": "423404270555",
+    "uikName": "УИК №4415",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2312,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5561,8 +6560,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4416,
     "uikTvd": "423404270556",
+    "uikName": "УИК №4416",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2452,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -5611,8 +6619,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4417,
     "uikTvd": "423404270557",
+    "uikName": "УИК №4417",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1449,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -5661,8 +6678,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4418,
     "uikTvd": "423404270558",
+    "uikName": "УИК №4418",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1474,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -5711,8 +6737,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4419,
     "uikTvd": "423404270559",
+    "uikName": "УИК №4419",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1881,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5761,8 +6796,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4420,
     "uikTvd": "423404270560",
+    "uikName": "УИК №4420",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 713,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -5811,8 +6855,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4421,
     "uikTvd": "423404270561",
+    "uikName": "УИК №4421",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 615,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -5861,8 +6914,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4422,
     "uikTvd": "423404270562",
+    "uikName": "УИК №4422",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1012,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -5911,8 +6973,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4423,
     "uikTvd": "423404270563",
+    "uikName": "УИК №4423",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1488,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -5961,8 +7032,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4424,
     "uikTvd": "423404270564",
+    "uikName": "УИК №4424",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 825,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -6011,8 +7091,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4425,
     "uikTvd": "423404270565",
+    "uikName": "УИК №4425",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 839,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -6061,8 +7150,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4426,
     "uikTvd": "423404270566",
+    "uikName": "УИК №4426",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 704,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -6111,8 +7209,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4427,
     "uikTvd": "423404270567",
+    "uikName": "УИК №4427",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1501,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -6161,8 +7268,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4428,
     "uikTvd": "423404270568",
+    "uikName": "УИК №4428",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 820,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -6211,8 +7327,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4429,
     "uikTvd": "423404270569",
+    "uikName": "УИК №4429",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1095,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -6261,8 +7386,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4430,
     "uikTvd": "423404270570",
+    "uikName": "УИК №4430",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1028,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -6311,8 +7445,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4431,
     "uikTvd": "423404270571",
+    "uikName": "УИК №4431",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1388,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -6361,8 +7504,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4432,
     "uikTvd": "423404270572",
+    "uikName": "УИК №4432",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1394,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -6411,8 +7563,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4433,
     "uikTvd": "423404270573",
+    "uikName": "УИК №4433",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 908,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -6461,8 +7622,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4434,
     "uikTvd": "423404270574",
+    "uikName": "УИК №4434",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 691,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -6511,8 +7681,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4435,
     "uikTvd": "423404270575",
+    "uikName": "УИК №4435",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2721,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -6561,8 +7740,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4437,
     "uikTvd": "423404270576",
+    "uikName": "УИК №4437",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2230,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -6611,8 +7799,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4438,
     "uikTvd": "423404270577",
+    "uikName": "УИК №4438",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1265,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -6661,8 +7858,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4439,
     "uikTvd": "423404270578",
+    "uikName": "УИК №4439",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1105,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -6711,8 +7917,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4440,
     "uikTvd": "423404270579",
+    "uikName": "УИК №4440",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 882,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -6761,8 +7976,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4441,
     "uikTvd": "423404270580",
+    "uikName": "УИК №4441",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2712,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6811,8 +8035,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4442,
     "uikTvd": "423404270581",
+    "uikName": "УИК №4442",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1272,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -6861,8 +8094,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4443,
     "uikTvd": "423404270582",
+    "uikName": "УИК №4443",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2410,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -6911,8 +8153,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4444,
     "uikTvd": "423404270583",
+    "uikName": "УИК №4444",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2656,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -6961,8 +8212,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4445,
     "uikTvd": "423404270584",
+    "uikName": "УИК №4445",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2660,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7011,8 +8271,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4446,
     "uikTvd": "423404270585",
+    "uikName": "УИК №4446",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 891,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -7061,8 +8330,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4447,
     "uikTvd": "423404270586",
+    "uikName": "УИК №4447",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 914,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7111,8 +8389,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4448,
     "uikTvd": "423404270587",
+    "uikName": "УИК №4448",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1657,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -7161,8 +8448,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4449,
     "uikTvd": "423404270588",
+    "uikName": "УИК №4449",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 196,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -7211,8 +8507,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4450,
     "uikTvd": "423404270589",
+    "uikName": "УИК №4450",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1166,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -7261,8 +8566,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4451,
     "uikTvd": "423404270590",
+    "uikName": "УИК №4451",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 919,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -7311,8 +8625,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4452,
     "uikTvd": "423404270591",
+    "uikName": "УИК №4452",
     "tikTvd": "223200070367",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 708,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -7361,8 +8684,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4301,
     "uikTvd": "423404170511",
+    "uikName": "УИК  4301",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7411,8 +8743,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4302,
     "uikTvd": "423404170512",
+    "uikName": "УИК  4302",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 276,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7461,8 +8802,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4303,
     "uikTvd": "423404170513",
+    "uikName": "УИК  4303",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 103,
@@ -7511,8 +8861,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4304,
     "uikTvd": "423404170514",
+    "uikName": "УИК  4304",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1697,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7561,8 +8920,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4305,
     "uikTvd": "423404170515",
+    "uikName": "УИК  4305",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1987,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7611,8 +8979,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4306,
     "uikTvd": "423404170516",
+    "uikName": "УИК  4306",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 466,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -7661,8 +9038,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4307,
     "uikTvd": "423404170517",
+    "uikName": "УИК  4307",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1750,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -7711,8 +9097,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4308,
     "uikTvd": "423404170518",
+    "uikName": "УИК  4308",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2790,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -7761,8 +9156,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4309,
     "uikTvd": "423404170519",
+    "uikName": "УИК  4309",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1564,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7811,8 +9215,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4310,
     "uikTvd": "423404170520",
+    "uikName": "УИК  4310",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1768,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7861,8 +9274,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4311,
     "uikTvd": "423404170521",
+    "uikName": "УИК  4311",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2239,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7911,8 +9333,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4312,
     "uikTvd": "423404170522",
+    "uikName": "УИК  4312",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1684,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7961,8 +9392,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4313,
     "uikTvd": "423404170523",
+    "uikName": "УИК  4313",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 556,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -8011,8 +9451,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4314,
     "uikTvd": "423404170524",
+    "uikName": "УИК  4314",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1948,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8061,8 +9510,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4315,
     "uikTvd": "423404170525",
+    "uikName": "УИК  4315",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 638,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -8111,8 +9569,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4316,
     "uikTvd": "423404170526",
+    "uikName": "УИК  4316",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 917,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -8161,8 +9628,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4317,
     "uikTvd": "423404170527",
+    "uikName": "УИК  4317",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2078,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8211,8 +9687,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4318,
     "uikTvd": "423404170528",
+    "uikName": "УИК  4318",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 851,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -8261,8 +9746,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4319,
     "uikTvd": "423404170529",
+    "uikName": "УИК  4319",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1608,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8311,8 +9805,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4320,
     "uikTvd": "423404170530",
+    "uikName": "УИК  4320",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1123,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8361,8 +9864,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4321,
     "uikTvd": "423404170531",
+    "uikName": "УИК  4321",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1911,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8411,8 +9923,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4322,
     "uikTvd": "423404170532",
+    "uikName": "УИК  4322",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1000,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8461,8 +9982,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4323,
     "uikTvd": "423404170533",
+    "uikName": "УИК  4323",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1464,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -8511,8 +10041,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4324,
     "uikTvd": "423404170534",
+    "uikName": "УИК  4324",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2466,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -8561,8 +10100,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4325,
     "uikTvd": "423404170535",
+    "uikName": "УИК  4325",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1705,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -8611,8 +10159,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4326,
     "uikTvd": "423404170536",
+    "uikName": "УИК  4326",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 765,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -8661,8 +10218,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4327,
     "uikTvd": "423404170537",
+    "uikName": "УИК  4327",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1075,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -8711,8 +10277,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4328,
     "uikTvd": "423404170538",
+    "uikName": "УИК  4328",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1097,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -8761,8 +10336,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4329,
     "uikTvd": "423404170539",
+    "uikName": "УИК  4329",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1874,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -8811,8 +10395,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4330,
     "uikTvd": "423404170540",
+    "uikName": "УИК  4330",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 674,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -8861,8 +10454,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4331,
     "uikTvd": "423404170541",
+    "uikName": "УИК  4331",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1901,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8911,8 +10513,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4332,
     "uikTvd": "423404170542",
+    "uikName": "УИК  4332",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1679,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -8961,8 +10572,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4333,
     "uikTvd": "423404170543",
+    "uikName": "УИК  4333",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2006,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9011,8 +10631,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4334,
     "uikTvd": "423404170544",
+    "uikName": "УИК  4334",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1365,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -9061,8 +10690,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4335,
     "uikTvd": "423404170545",
+    "uikName": "УИК  4335",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2496,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -9111,8 +10749,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4336,
     "uikTvd": "423404170546",
+    "uikName": "УИК  4336",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2001,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -9161,8 +10808,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4337,
     "uikTvd": "423404170547",
+    "uikName": "УИК  4337",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2559,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9211,8 +10867,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4338,
     "uikTvd": "423404170548",
+    "uikName": "УИК  4338",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 597,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -9261,8 +10926,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4339,
     "uikTvd": "423404170549",
+    "uikName": "УИК  4339",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -9311,8 +10985,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4340,
     "uikTvd": "423404170550",
+    "uikName": "УИК  4340",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1043,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -9361,8 +11044,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4341,
     "uikTvd": "423404170551",
+    "uikName": "УИК  4341",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 385,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -9411,8 +11103,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4342,
     "uikTvd": "423404170552",
+    "uikName": "УИК  4342",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 620,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -9461,8 +11162,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4343,
     "uikTvd": "423404170553",
+    "uikName": "УИК  4343",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 564,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -9511,8 +11221,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4344,
     "uikTvd": "423404170554",
+    "uikName": "УИК  4344",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1140,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -9561,8 +11280,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4345,
     "uikTvd": "423404170555",
+    "uikName": "УИК  4345",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 611,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -9611,8 +11339,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4346,
     "uikTvd": "423404170556",
+    "uikName": "УИК  4346",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1665,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -9661,8 +11398,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4347,
     "uikTvd": "423404170557",
+    "uikName": "УИК  4347",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1616,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9711,8 +11457,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4348,
     "uikTvd": "423404170558",
+    "uikName": "УИК  4348",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1501,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -9761,8 +11516,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4349,
     "uikTvd": "423404170559",
+    "uikName": "УИК  4349",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1986,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -9811,8 +11575,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4350,
     "uikTvd": "423404170560",
+    "uikName": "УИК  4350",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 779,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -9861,8 +11634,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4351,
     "uikTvd": "423404170561",
+    "uikName": "УИК  4351",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 441,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -9911,8 +11693,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4352,
     "uikTvd": "423404170562",
+    "uikName": "УИК  4352",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 282,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -9961,8 +11752,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4353,
     "uikTvd": "423404170563",
+    "uikName": "УИК  4353",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 587,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -10011,8 +11811,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4354,
     "uikTvd": "423404170564",
+    "uikName": "УИК  4354",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1555,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10061,8 +11870,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4355,
     "uikTvd": "423404170565",
+    "uikName": "УИК  4355",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 278,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -10111,8 +11929,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4356,
     "uikTvd": "423404170566",
+    "uikName": "УИК  4356",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 393,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -10161,8 +11988,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4357,
     "uikTvd": "423404170567",
+    "uikName": "УИК  4357",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -10211,8 +12047,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4358,
     "uikTvd": "423404170568",
+    "uikName": "УИК  4358",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1113,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -10261,8 +12106,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4359,
     "uikTvd": "423404170569",
+    "uikName": "УИК  4359",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 943,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -10311,8 +12165,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4360,
     "uikTvd": "423404170570",
+    "uikName": "УИК  4360",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1162,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -10361,8 +12224,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4361,
     "uikTvd": "423404170571",
+    "uikName": "УИК  4361",
     "tikTvd": "223200070368",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 900,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -10411,8 +12283,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1001,
     "uikTvd": "423400970542",
+    "uikName": "УИК  1001",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2680,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10461,8 +12342,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1002,
     "uikTvd": "423400970543",
+    "uikName": "УИК  1002",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1190,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -10511,8 +12401,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1003,
     "uikTvd": "423400970544",
+    "uikName": "УИК  1003",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1573,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10561,8 +12460,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1004,
     "uikTvd": "423400970545",
+    "uikName": "УИК  1004",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2545,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10611,8 +12519,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1005,
     "uikTvd": "423400970546",
+    "uikName": "УИК  1005",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1596,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10661,8 +12578,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1006,
     "uikTvd": "423400970547",
+    "uikName": "УИК  1006",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2299,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10711,8 +12637,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1007,
     "uikTvd": "423400970548",
+    "uikName": "УИК  1007",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2903,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10761,8 +12696,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1008,
     "uikTvd": "423400970549",
+    "uikName": "УИК  1008",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2469,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10811,8 +12755,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1009,
     "uikTvd": "423400970550",
+    "uikName": "УИК  1009",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2296,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10861,8 +12814,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1010,
     "uikTvd": "423400970551",
+    "uikName": "УИК  1010",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3008,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -10911,8 +12873,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1011,
     "uikTvd": "423400970552",
+    "uikName": "УИК  1011",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 621,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -10961,8 +12932,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1012,
     "uikTvd": "423400970553",
+    "uikName": "УИК  1012",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -11011,8 +12991,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1013,
     "uikTvd": "423400970554",
+    "uikName": "УИК  1013",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 897,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -11061,8 +13050,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1014,
     "uikTvd": "423400970555",
+    "uikName": "УИК  1014",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -11111,8 +13109,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1015,
     "uikTvd": "423400970556",
+    "uikName": "УИК  1015",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -11161,8 +13168,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1016,
     "uikTvd": "423400970557",
+    "uikName": "УИК  1016",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 606,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -11211,8 +13227,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1017,
     "uikTvd": "423400970558",
+    "uikName": "УИК  1017",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 346,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -11261,8 +13286,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1018,
     "uikTvd": "423400970559",
+    "uikName": "УИК  1018",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1352,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -11311,8 +13345,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1019,
     "uikTvd": "423400970560",
+    "uikName": "УИК  1019",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1078,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -11361,8 +13404,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1020,
     "uikTvd": "423400970561",
+    "uikName": "УИК  1020",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1991,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11411,8 +13463,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1021,
     "uikTvd": "423400970562",
+    "uikName": "УИК  1021",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1261,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -11461,8 +13522,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1022,
     "uikTvd": "423400970563",
+    "uikName": "УИК  1022",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1623,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -11511,8 +13581,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1023,
     "uikTvd": "423400970564",
+    "uikName": "УИК  1023",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 892,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -11561,8 +13640,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1024,
     "uikTvd": "423400970565",
+    "uikName": "УИК  1024",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1689,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11611,8 +13699,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1025,
     "uikTvd": "423400970566",
+    "uikName": "УИК  1025",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 960,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -11661,8 +13758,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1026,
     "uikTvd": "423400970567",
+    "uikName": "УИК  1026",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 874,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -11711,8 +13817,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1027,
     "uikTvd": "423400970568",
+    "uikName": "УИК  1027",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 496,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -11761,8 +13876,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1028,
     "uikTvd": "423400970569",
+    "uikName": "УИК  1028",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1688,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11811,8 +13935,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1029,
     "uikTvd": "423400970570",
+    "uikName": "УИК  1029",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -11861,8 +13994,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1030,
     "uikTvd": "423400970571",
+    "uikName": "УИК  1030",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -11911,8 +14053,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1031,
     "uikTvd": "423400970572",
+    "uikName": "УИК  1031",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 621,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -11961,8 +14112,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1099,
     "uikTvd": "423400970573",
+    "uikName": "УИК  1099",
     "tikTvd": "223200070369",
     "tikName": "Горячеключевская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2206,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -12011,8 +14171,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "423400571036",
+    "uikName": "УИК №601",
     "tikTvd": "223200070370",
     "tikName": "Белореченская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2086,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -12061,8 +14230,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "423400570969",
+    "uikName": "УИК №602",
     "tikTvd": "223200070370",
     "tikName": "Белореченская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2230,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -12111,8 +14289,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "423400570971",
+    "uikName": "УИК №603",
     "tikTvd": "223200070370",
     "tikName": "Белореченская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2303,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -12161,8 +14348,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "423400570972",
+    "uikName": "УИК №604",
     "tikTvd": "223200070370",
     "tikName": "Белореченская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2600,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -12211,8 +14407,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "423400570973",
+    "uikName": "УИК №605",
     "tikTvd": "223200070370",
     "tikName": "Белореченская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2017,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -12261,8 +14466,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "423400570974",
+    "uikName": "УИК №606",
     "tikTvd": "223200070370",
     "tikName": "Белореченская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2187,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -12311,8 +14525,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "423400570975",
+    "uikName": "УИК №607",
     "tikTvd": "223200070370",
     "tikName": "Белореченская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1220,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -12361,8 +14584,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "423400570976",
+    "uikName": "УИК №608",
     "tikTvd": "223200070370",
     "tikName": "Белореченская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2148,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -12411,8 +14643,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "423400570977",
+    "uikName": "УИК №609",
     "tikTvd": "223200070370",
     "tikName": "Белореченская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2517,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -12461,8 +14702,17 @@ export const duma_2003_uik_428_region_23_part_001 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "423400570978",
+    "uikName": "УИК №610",
     "tikTvd": "223200070370",
     "tikName": "Белореченская городская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100095676",
+      "oikName": "Апшеронский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2425,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,

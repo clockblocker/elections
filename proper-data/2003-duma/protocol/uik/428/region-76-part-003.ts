@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 536,
     "uikTvd": "476401170646",
+    "uikName": "УИК №536",
     "tikTvd": "276200070725",
     "tikName": "Переславль-Залесская городская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2194,
       "Число бюллетеней, полученных участковыми комиссиями": 2215,
@@ -62,8 +71,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 537,
     "uikTvd": "476401170647",
+    "uikName": "УИК №537",
     "tikTvd": "276200070725",
     "tikName": "Переславль-Залесская городская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1734,
       "Число бюллетеней, полученных участковыми комиссиями": 1647,
@@ -113,8 +131,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 538,
     "uikTvd": "476401170648",
+    "uikName": "УИК №538",
     "tikTvd": "276200070725",
     "tikName": "Переславль-Залесская городская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1731,
       "Число бюллетеней, полученных участковыми комиссиями": 1683,
@@ -164,8 +191,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 539,
     "uikTvd": "476401170649",
+    "uikName": "УИК №539",
     "tikTvd": "276200070725",
     "tikName": "Переславль-Залесская городская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2422,
       "Число бюллетеней, полученных участковыми комиссиями": 2283,
@@ -215,8 +251,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 540,
     "uikTvd": "476401170650",
+    "uikName": "УИК №540",
     "tikTvd": "276200070725",
     "tikName": "Переславль-Залесская городская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2074,
       "Число бюллетеней, полученных участковыми комиссиями": 1977,
@@ -266,8 +311,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 541,
     "uikTvd": "476401170651",
+    "uikName": "УИК №541",
     "tikTvd": "276200070725",
     "tikName": "Переславль-Залесская городская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2019,
       "Число бюллетеней, полученных участковыми комиссиями": 1977,
@@ -317,8 +371,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 542,
     "uikTvd": "476401170652",
+    "uikName": "УИК №542",
     "tikTvd": "276200070725",
     "tikName": "Переславль-Залесская городская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2239,
       "Число бюллетеней, полученных участковыми комиссиями": 2124,
@@ -368,8 +431,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 543,
     "uikTvd": "476401170653",
+    "uikName": "УИК №543",
     "tikTvd": "276200070725",
     "tikName": "Переславль-Залесская городская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1702,
       "Число бюллетеней, полученных участковыми комиссиями": 1613,
@@ -419,8 +491,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 544,
     "uikTvd": "476401170654",
+    "uikName": "УИК №544",
     "tikTvd": "276200070725",
     "tikName": "Переславль-Залесская городская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -470,8 +551,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 573,
     "uikTvd": "476401270472",
+    "uikName": "УИК №573",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 681,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -521,8 +611,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 574,
     "uikTvd": "476401270473",
+    "uikName": "УИК №574",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -572,8 +671,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 575,
     "uikTvd": "476401270474",
+    "uikName": "УИК №575",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 215,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -623,8 +731,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 576,
     "uikTvd": "476401270475",
+    "uikName": "УИК №576",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 428,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -674,8 +791,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 577,
     "uikTvd": "476401270476",
+    "uikName": "УИК №577",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -725,8 +851,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 578,
     "uikTvd": "476401270477",
+    "uikName": "УИК №578",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 696,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -776,8 +911,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 579,
     "uikTvd": "476401270478",
+    "uikName": "УИК №579",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 653,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -827,8 +971,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 580,
     "uikTvd": "476401270479",
+    "uikName": "УИК №580",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -878,8 +1031,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 581,
     "uikTvd": "476401270480",
+    "uikName": "УИК №581",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 282,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -929,8 +1091,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 582,
     "uikTvd": "476401270481",
+    "uikName": "УИК №582",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 273,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -980,8 +1151,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 583,
     "uikTvd": "476401270482",
+    "uikName": "УИК №583",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -1031,8 +1211,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 584,
     "uikTvd": "476401270483",
+    "uikName": "УИК №584",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 460,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -1082,8 +1271,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 585,
     "uikTvd": "476401270484",
+    "uikName": "УИК №585",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -1133,8 +1331,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 586,
     "uikTvd": "476401270485",
+    "uikName": "УИК №586",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 421,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -1184,8 +1391,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 587,
     "uikTvd": "476401270486",
+    "uikName": "УИК №587",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 531,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -1235,8 +1451,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 588,
     "uikTvd": "476401270487",
+    "uikName": "УИК №588",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -1286,8 +1511,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 589,
     "uikTvd": "476401270488",
+    "uikName": "УИК №589",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -1337,8 +1571,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 590,
     "uikTvd": "476401270489",
+    "uikName": "УИК №590",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 381,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -1388,8 +1631,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 591,
     "uikTvd": "476401270490",
+    "uikName": "УИК №591",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 311,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -1439,8 +1691,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 592,
     "uikTvd": "476401270491",
+    "uikName": "УИК №592",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 360,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -1490,8 +1751,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 593,
     "uikTvd": "476401270492",
+    "uikName": "УИК №593",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 283,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -1541,8 +1811,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 594,
     "uikTvd": "476401270493",
+    "uikName": "УИК №594",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 420,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -1592,8 +1871,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 595,
     "uikTvd": "476401270494",
+    "uikName": "УИК №595",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 271,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -1643,8 +1931,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 596,
     "uikTvd": "476401270495",
+    "uikName": "УИК №596",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1518,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1694,8 +1991,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 597,
     "uikTvd": "476401270496",
+    "uikName": "УИК №597",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1462,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -1745,8 +2051,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 598,
     "uikTvd": "476401270497",
+    "uikName": "УИК №598",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1616,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -1796,8 +2111,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 599,
     "uikTvd": "476401270498",
+    "uikName": "УИК №599",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -1847,8 +2171,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 600,
     "uikTvd": "476401270499",
+    "uikName": "УИК №600",
     "tikTvd": "276200070726",
     "tikName": "Пошехонская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 365,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -1898,8 +2231,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "476401070466",
+    "uikName": "УИК №502",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 678,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -1949,8 +2291,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 503,
     "uikTvd": "476401070467",
+    "uikName": "УИК №503",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 340,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -2000,8 +2351,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 504,
     "uikTvd": "476401070468",
+    "uikName": "УИК №504",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 168,
       "Число бюллетеней, полученных участковыми комиссиями": 167,
@@ -2051,8 +2411,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 505,
     "uikTvd": "476401070469",
+    "uikName": "УИК №505",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 179,
@@ -2102,8 +2471,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "476401070470",
+    "uikName": "УИК №506",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 337,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -2153,8 +2531,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 507,
     "uikTvd": "476401070471",
+    "uikName": "УИК №507",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 145,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -2204,8 +2591,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 508,
     "uikTvd": "476401070472",
+    "uikName": "УИК №508",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 147,
@@ -2255,8 +2651,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 509,
     "uikTvd": "476401070473",
+    "uikName": "УИК №509",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2306,8 +2711,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 510,
     "uikTvd": "476401070474",
+    "uikName": "УИК №510",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 552,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -2357,8 +2771,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 511,
     "uikTvd": "476401070475",
+    "uikName": "УИК №511",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 159,
       "Число бюллетеней, полученных участковыми комиссиями": 161,
@@ -2408,8 +2831,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 512,
     "uikTvd": "476401070476",
+    "uikName": "УИК №512",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 343,
@@ -2459,8 +2891,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 513,
     "uikTvd": "476401070477",
+    "uikName": "УИК №513",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 301,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2510,8 +2951,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 514,
     "uikTvd": "476401070478",
+    "uikName": "УИК №514",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 561,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -2561,8 +3011,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 515,
     "uikTvd": "476401070479",
+    "uikName": "УИК №515",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 434,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -2612,8 +3071,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 516,
     "uikTvd": "476401070480",
+    "uikName": "УИК №516",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 356,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -2663,8 +3131,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 517,
     "uikTvd": "476401070481",
+    "uikName": "УИК №517",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 167,
@@ -2714,8 +3191,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 518,
     "uikTvd": "476401070482",
+    "uikName": "УИК №518",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 284,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -2765,8 +3251,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 519,
     "uikTvd": "476401070483",
+    "uikName": "УИК №519",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 118,
@@ -2816,8 +3311,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 520,
     "uikTvd": "476401070484",
+    "uikName": "УИК №520",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 726,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -2867,8 +3371,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 521,
     "uikTvd": "476401070485",
+    "uikName": "УИК №521",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 812,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -2918,8 +3431,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 522,
     "uikTvd": "476401070486",
+    "uikName": "УИК №522",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1650,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2969,8 +3491,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 523,
     "uikTvd": "476401070487",
+    "uikName": "УИК №523",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 801,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -3020,8 +3551,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 524,
     "uikTvd": "476401070488",
+    "uikName": "УИК №524",
     "tikTvd": "276200070727",
     "tikName": "Первомайская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 815,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -3071,8 +3611,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 652,
     "uikTvd": "476402670642",
+    "uikName": "УИК №652",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2255,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3122,8 +3671,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 653,
     "uikTvd": "476402670648",
+    "uikName": "УИК №653",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2433,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3173,8 +3731,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 654,
     "uikTvd": "476402670646",
+    "uikName": "УИК №654",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2331,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3224,8 +3791,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 655,
     "uikTvd": "476402670649",
+    "uikName": "УИК №655",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2605,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3275,8 +3851,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 656,
     "uikTvd": "476402670650",
+    "uikName": "УИК №656",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2571,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3326,8 +3911,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 657,
     "uikTvd": "476402670651",
+    "uikName": "УИК №657",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2444,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3377,8 +3971,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 658,
     "uikTvd": "476402670652",
+    "uikName": "УИК №658",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2480,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3428,8 +4031,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 659,
     "uikTvd": "476402670653",
+    "uikName": "УИК №659",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2618,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3479,8 +4091,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 660,
     "uikTvd": "476402670654",
+    "uikName": "УИК №660",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2865,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -3530,8 +4151,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 661,
     "uikTvd": "476402670655",
+    "uikName": "УИК №661",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2905,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -3581,8 +4211,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 662,
     "uikTvd": "476402670644",
+    "uikName": "УИК №662",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2817,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -3632,8 +4271,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 663,
     "uikTvd": "476402670656",
+    "uikName": "УИК №663",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2768,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -3683,8 +4331,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 664,
     "uikTvd": "476402670657",
+    "uikName": "УИК №664",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2669,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3734,8 +4391,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 665,
     "uikTvd": "476402670658",
+    "uikName": "УИК №665",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2658,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -3785,8 +4451,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 666,
     "uikTvd": "476402670659",
+    "uikName": "УИК №666",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2458,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3836,8 +4511,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 667,
     "uikTvd": "476402670660",
+    "uikName": "УИК №667",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2347,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3887,8 +4571,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 668,
     "uikTvd": "476402670661",
+    "uikName": "УИК №668",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1926,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3938,8 +4631,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 669,
     "uikTvd": "476402670662",
+    "uikName": "УИК №669",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 522,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -3989,8 +4691,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 670,
     "uikTvd": "476402670663",
+    "uikName": "УИК №670",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1584,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4040,8 +4751,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 671,
     "uikTvd": "476402670664",
+    "uikName": "УИК №671",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1950,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4091,8 +4811,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 672,
     "uikTvd": "476402670665",
+    "uikName": "УИК №672",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2146,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4142,8 +4871,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 673,
     "uikTvd": "476402670666",
+    "uikName": "УИК №673",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1202,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -4193,8 +4931,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 674,
     "uikTvd": "476402670667",
+    "uikName": "УИК №674",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 603,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -4244,8 +4991,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 675,
     "uikTvd": "476402670668",
+    "uikName": "УИК №675",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 718,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -4295,8 +5051,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 676,
     "uikTvd": "476402670669",
+    "uikName": "УИК №676",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 587,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -4346,8 +5111,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 677,
     "uikTvd": "476402670670",
+    "uikName": "УИК №677",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 682,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -4397,8 +5171,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 678,
     "uikTvd": "476402670671",
+    "uikName": "УИК №678",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2061,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4448,8 +5231,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 679,
     "uikTvd": "476402670672",
+    "uikName": "УИК №679",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1820,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4499,8 +5291,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 680,
     "uikTvd": "476402670673",
+    "uikName": "УИК №680",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2097,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4550,8 +5351,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 681,
     "uikTvd": "476402670674",
+    "uikName": "УИК №681",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2708,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -4601,8 +5411,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 682,
     "uikTvd": "476402670675",
+    "uikName": "УИК №682",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2612,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4652,8 +5471,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 683,
     "uikTvd": "476402670676",
+    "uikName": "УИК №683",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2523,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4703,8 +5531,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 684,
     "uikTvd": "476402670677",
+    "uikName": "УИК №684",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2700,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4754,8 +5591,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 685,
     "uikTvd": "476402670678",
+    "uikName": "УИК №685",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2475,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4805,8 +5651,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 686,
     "uikTvd": "476402670679",
+    "uikName": "УИК №686",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2212,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4856,8 +5711,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 687,
     "uikTvd": "476402670680",
+    "uikName": "УИК №687",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2585,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4907,8 +5771,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 688,
     "uikTvd": "476402670681",
+    "uikName": "УИК №688",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2560,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4958,8 +5831,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 689,
     "uikTvd": "476402670682",
+    "uikName": "УИК №689",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2270,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5009,8 +5891,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 690,
     "uikTvd": "476402670683",
+    "uikName": "УИК №690",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2430,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5060,8 +5951,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 691,
     "uikTvd": "476402670684",
+    "uikName": "УИК №691",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2323,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5111,8 +6011,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 692,
     "uikTvd": "476402670685",
+    "uikName": "УИК №692",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2246,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5162,8 +6071,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 693,
     "uikTvd": "476402670686",
+    "uikName": "УИК №693",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1822,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5213,8 +6131,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 694,
     "uikTvd": "476402670687",
+    "uikName": "УИК №694",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1836,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -5264,8 +6191,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 695,
     "uikTvd": "476402670688",
+    "uikName": "УИК №695",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 742,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -5315,8 +6251,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 696,
     "uikTvd": "476402670689",
+    "uikName": "УИК №696",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -5366,8 +6311,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 697,
     "uikTvd": "476402670690",
+    "uikName": "УИК №697",
     "tikTvd": "276200070728",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -5417,8 +6371,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 698,
     "uikTvd": "476402570804",
+    "uikName": "УИК №698",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 890,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -5468,8 +6431,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 699,
     "uikTvd": "476402570805",
+    "uikName": "УИК №699",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2502,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5519,8 +6491,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 700,
     "uikTvd": "476402570806",
+    "uikName": "УИК №700",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2078,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5570,8 +6551,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 701,
     "uikTvd": "476402570807",
+    "uikName": "УИК №701",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2081,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5621,8 +6611,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 702,
     "uikTvd": "476402570808",
+    "uikName": "УИК №702",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2315,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5672,8 +6671,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 703,
     "uikTvd": "476402570809",
+    "uikName": "УИК №703",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2115,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5723,8 +6731,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 704,
     "uikTvd": "476402570810",
+    "uikName": "УИК №704",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2831,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -5774,8 +6791,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 705,
     "uikTvd": "476402570811",
+    "uikName": "УИК №705",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2857,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5825,8 +6851,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 706,
     "uikTvd": "476402570812",
+    "uikName": "УИК №706",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2831,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -5876,8 +6911,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 707,
     "uikTvd": "476402570813",
+    "uikName": "УИК №707",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2517,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5927,8 +6971,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 708,
     "uikTvd": "476402570814",
+    "uikName": "УИК №708",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2465,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5978,8 +7031,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 709,
     "uikTvd": "476402570815",
+    "uikName": "УИК №709",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2354,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6029,8 +7091,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 710,
     "uikTvd": "476402570816",
+    "uikName": "УИК №710",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2179,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6080,8 +7151,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 711,
     "uikTvd": "476402570817",
+    "uikName": "УИК №711",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2656,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6131,8 +7211,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 712,
     "uikTvd": "476402570818",
+    "uikName": "УИК №712",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2692,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6182,8 +7271,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 713,
     "uikTvd": "476402570819",
+    "uikName": "УИК №713",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2553,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6233,8 +7331,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 714,
     "uikTvd": "476402570820",
+    "uikName": "УИК №714",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2531,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6284,8 +7391,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 715,
     "uikTvd": "476402570821",
+    "uikName": "УИК №715",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2231,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6335,8 +7451,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 716,
     "uikTvd": "476402570822",
+    "uikName": "УИК №716",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2088,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6386,8 +7511,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 717,
     "uikTvd": "476402570823",
+    "uikName": "УИК №717",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2271,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6437,8 +7571,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 718,
     "uikTvd": "476402570824",
+    "uikName": "УИК №718",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2254,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6488,8 +7631,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 719,
     "uikTvd": "476402570825",
+    "uikName": "УИК №719",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2200,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6539,8 +7691,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 720,
     "uikTvd": "476402570826",
+    "uikName": "УИК №720",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2555,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6590,8 +7751,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 721,
     "uikTvd": "476402570827",
+    "uikName": "УИК №721",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2406,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -6641,8 +7811,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 722,
     "uikTvd": "476402570828",
+    "uikName": "УИК №722",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2436,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -6692,8 +7871,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 723,
     "uikTvd": "476402570829",
+    "uikName": "УИК №723",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2478,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -6743,8 +7931,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 724,
     "uikTvd": "476402570830",
+    "uikName": "УИК №724",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2606,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6794,8 +7991,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 725,
     "uikTvd": "476402570831",
+    "uikName": "УИК №725",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2465,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -6845,8 +8051,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 726,
     "uikTvd": "476402570832",
+    "uikName": "УИК №726",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2447,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -6896,8 +8111,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 727,
     "uikTvd": "476402570833",
+    "uikName": "УИК №727",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2820,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -6947,8 +8171,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 728,
     "uikTvd": "476402570834",
+    "uikName": "УИК №728",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2777,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6998,8 +8231,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 729,
     "uikTvd": "476402570835",
+    "uikName": "УИК №729",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2537,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7049,8 +8291,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 730,
     "uikTvd": "476402570836",
+    "uikName": "УИК №730",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2183,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7100,8 +8351,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 731,
     "uikTvd": "476402570837",
+    "uikName": "УИК №731",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2034,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7151,8 +8411,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 732,
     "uikTvd": "476402570838",
+    "uikName": "УИК №732",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2536,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7202,8 +8471,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 733,
     "uikTvd": "476402570839",
+    "uikName": "УИК №733",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1944,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7253,8 +8531,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 734,
     "uikTvd": "476402570840",
+    "uikName": "УИК №734",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2164,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7304,8 +8591,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 735,
     "uikTvd": "476402570841",
+    "uikName": "УИК №735",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2214,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7355,8 +8651,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 736,
     "uikTvd": "476402570842",
+    "uikName": "УИК №736",
     "tikTvd": "276200070729",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 505,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7406,8 +8711,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 545,
     "uikTvd": "476402471256",
+    "uikName": "УИК  545",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 762,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -7457,8 +8771,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 546,
     "uikTvd": "476402471257",
+    "uikName": "УИК  546",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 329,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -7508,8 +8831,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 547,
     "uikTvd": "476402471261",
+    "uikName": "УИК  547",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 411,
@@ -7559,8 +8891,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 548,
     "uikTvd": "476402471262",
+    "uikName": "УИК  548",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 335,
@@ -7610,8 +8951,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 549,
     "uikTvd": "476402471263",
+    "uikName": "УИК  549",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 300,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7661,8 +9011,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 550,
     "uikTvd": "476402471264",
+    "uikName": "УИК  550",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1061,
       "Число бюллетеней, полученных участковыми комиссиями": 1090,
@@ -7712,8 +9071,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 551,
     "uikTvd": "476402471265",
+    "uikName": "УИК  551",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 532,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -7763,8 +9131,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 552,
     "uikTvd": "476402471266",
+    "uikName": "УИК  552",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 621,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -7814,8 +9191,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 553,
     "uikTvd": "476402471267",
+    "uikName": "УИК  553",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 569,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -7865,8 +9251,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 554,
     "uikTvd": "476402471268",
+    "uikName": "УИК  554",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 358,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -7916,8 +9311,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 555,
     "uikTvd": "476402471269",
+    "uikName": "УИК  555",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 319,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -7967,8 +9371,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 556,
     "uikTvd": "476402471270",
+    "uikName": "УИК  556",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 415,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -8018,8 +9431,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 557,
     "uikTvd": "476402471271",
+    "uikName": "УИК  557",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -8069,8 +9491,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 558,
     "uikTvd": "476402471272",
+    "uikName": "УИК  558",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1827,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -8120,8 +9551,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 559,
     "uikTvd": "476402471273",
+    "uikName": "УИК  559",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 355,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -8171,8 +9611,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 560,
     "uikTvd": "476402471274",
+    "uikName": "УИК  560",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -8222,8 +9671,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 561,
     "uikTvd": "476402471275",
+    "uikName": "УИК  561",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 444,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -8273,8 +9731,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 562,
     "uikTvd": "476402471276",
+    "uikName": "УИК  562",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 387,
       "Число бюллетеней, полученных участковыми комиссиями": 385,
@@ -8324,8 +9791,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 563,
     "uikTvd": "476402471277",
+    "uikName": "УИК  563",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 715,
       "Число бюллетеней, полученных участковыми комиссиями": 705,
@@ -8375,8 +9851,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 564,
     "uikTvd": "476402471278",
+    "uikName": "УИК  564",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 506,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -8426,8 +9911,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 565,
     "uikTvd": "476402471279",
+    "uikName": "УИК  565",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1459,
       "Число бюллетеней, полученных участковыми комиссиями": 1445,
@@ -8477,8 +9971,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 566,
     "uikTvd": "476402471280",
+    "uikName": "УИК  566",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 748,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -8528,8 +10031,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 567,
     "uikTvd": "476402471281",
+    "uikName": "УИК  567",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 375,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -8579,8 +10091,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 568,
     "uikTvd": "476402471282",
+    "uikName": "УИК  568",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 309,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -8630,8 +10151,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 569,
     "uikTvd": "476402471283",
+    "uikName": "УИК  569",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1527,
       "Число бюллетеней, полученных участковыми комиссиями": 1575,
@@ -8681,8 +10211,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 570,
     "uikTvd": "476402471284",
+    "uikName": "УИК  570",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1197,
       "Число бюллетеней, полученных участковыми комиссиями": 1241,
@@ -8732,8 +10271,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 571,
     "uikTvd": "476402471285",
+    "uikName": "УИК  571",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 792,
       "Число бюллетеней, полученных участковыми комиссиями": 815,
@@ -8783,8 +10331,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 572,
     "uikTvd": "476402471286",
+    "uikName": "УИК  572",
     "tikTvd": "276200070730",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 631,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -8834,8 +10391,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "476400170534",
+    "uikName": "УИК №311",
     "tikTvd": "276200070803",
     "tikName": "Большесельская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2947,
       "Число бюллетеней, полученных участковыми комиссиями": 2895,
@@ -8885,8 +10451,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "476400170535",
+    "uikName": "УИК №312",
     "tikTvd": "276200070803",
     "tikName": "Большесельская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 487,
       "Число бюллетеней, полученных участковыми комиссиями": 486,
@@ -8936,8 +10511,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "476400170536",
+    "uikName": "УИК №313",
     "tikTvd": "276200070803",
     "tikName": "Большесельская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1067,
       "Число бюллетеней, полученных участковыми комиссиями": 1064,
@@ -8987,8 +10571,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "476400170537",
+    "uikName": "УИК №314",
     "tikTvd": "276200070803",
     "tikName": "Большесельская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 564,
       "Число бюллетеней, полученных участковыми комиссиями": 548,
@@ -9038,8 +10631,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "476400170538",
+    "uikName": "УИК №315",
     "tikTvd": "276200070803",
     "tikName": "Большесельская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 273,
       "Число бюллетеней, полученных участковыми комиссиями": 271,
@@ -9089,8 +10691,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "476400170539",
+    "uikName": "УИК №316",
     "tikTvd": "276200070803",
     "tikName": "Большесельская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 817,
       "Число бюллетеней, полученных участковыми комиссиями": 817,
@@ -9140,8 +10751,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "476400170540",
+    "uikName": "УИК №317",
     "tikTvd": "276200070803",
     "tikName": "Большесельская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 369,
@@ -9191,8 +10811,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 318,
     "uikTvd": "476400170541",
+    "uikName": "УИК №318",
     "tikTvd": "276200070803",
     "tikName": "Большесельская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 158,
@@ -9242,8 +10871,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 319,
     "uikTvd": "476400170542",
+    "uikName": "УИК №319",
     "tikTvd": "276200070803",
     "tikName": "Большесельская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 284,
       "Число бюллетеней, полученных участковыми комиссиями": 283,
@@ -9293,8 +10931,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 320,
     "uikTvd": "476400170543",
+    "uikName": "УИК №320",
     "tikTvd": "276200070803",
     "tikName": "Большесельская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -9344,8 +10991,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 321,
     "uikTvd": "476400170544",
+    "uikName": "УИК №321",
     "tikTvd": "276200070803",
     "tikName": "Большесельская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 151,
@@ -9395,8 +11051,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 322,
     "uikTvd": "476400170545",
+    "uikName": "УИК №322",
     "tikTvd": "276200070803",
     "tikName": "Большесельская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 158,
@@ -9446,8 +11111,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 323,
     "uikTvd": "476400170546",
+    "uikName": "УИК №323",
     "tikTvd": "276200070803",
     "tikName": "Большесельская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 473,
       "Число бюллетеней, полученных участковыми комиссиями": 465,
@@ -9497,8 +11171,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 324,
     "uikTvd": "476400170547",
+    "uikName": "УИК №324",
     "tikTvd": "276200070803",
     "tikName": "Большесельская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 278,
       "Число бюллетеней, полученных участковыми комиссиями": 274,
@@ -9548,8 +11231,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 325,
     "uikTvd": "476400170548",
+    "uikName": "УИК №325",
     "tikTvd": "276200070803",
     "tikName": "Большесельская ",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100095734",
+      "oikName": "Рыбинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 231,
       "Число бюллетеней, полученных участковыми комиссиями": 233,
@@ -9599,8 +11291,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "476401770624",
+    "uikName": "УИК №1",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2907,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9648,8 +11349,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "476401770625",
+    "uikName": "УИК №2",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2519,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9697,8 +11407,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "476401770626",
+    "uikName": "УИК №3",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2495,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9746,8 +11465,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "476401770627",
+    "uikName": "УИК №4",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2179,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9795,8 +11523,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "476401770628",
+    "uikName": "УИК №5",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2454,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9844,8 +11581,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "476401770629",
+    "uikName": "УИК №6",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1899,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -9893,8 +11639,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "476401770630",
+    "uikName": "УИК №7",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2219,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9942,8 +11697,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "476401770631",
+    "uikName": "УИК №8",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2228,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9991,8 +11755,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "476401770632",
+    "uikName": "УИК №9",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2289,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10040,8 +11813,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "476401770633",
+    "uikName": "УИК №10",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2209,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10089,8 +11871,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "476401770634",
+    "uikName": "УИК №11",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2083,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10138,8 +11929,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "476401770635",
+    "uikName": "УИК №12",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2332,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10187,8 +11987,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "476401770636",
+    "uikName": "УИК №13",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2268,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10236,8 +12045,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "476401770637",
+    "uikName": "УИК №14",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2322,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10285,8 +12103,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "476401770638",
+    "uikName": "УИК №15",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2310,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10334,8 +12161,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "476401770639",
+    "uikName": "УИК №16",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2223,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10383,8 +12219,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "476401770640",
+    "uikName": "УИК №17",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2367,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10432,8 +12277,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "476401770641",
+    "uikName": "УИК №18",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2215,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10481,8 +12335,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "476401770642",
+    "uikName": "УИК №19",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2740,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10530,8 +12393,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "476401770643",
+    "uikName": "УИК №20",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2397,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10579,8 +12451,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "476401770644",
+    "uikName": "УИК №21",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2571,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10628,8 +12509,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "476401770645",
+    "uikName": "УИК №22",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2515,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10677,8 +12567,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "476401770646",
+    "uikName": "УИК №23",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2086,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10726,8 +12625,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "476401770647",
+    "uikName": "УИК №24",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2564,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10775,8 +12683,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "476401770648",
+    "uikName": "УИК №25",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2451,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10824,8 +12741,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "476401770649",
+    "uikName": "УИК №26",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2697,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10873,8 +12799,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "476401770650",
+    "uikName": "УИК №27",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2244,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10922,8 +12857,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "476401770651",
+    "uikName": "УИК №28",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2087,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10971,8 +12915,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "476401770652",
+    "uikName": "УИК №29",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2232,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11020,8 +12973,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "476401770653",
+    "uikName": "УИК №30",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1946,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11069,8 +13031,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "476401770654",
+    "uikName": "УИК №31",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2730,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11118,8 +13089,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "476401770655",
+    "uikName": "УИК №32",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2685,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11167,8 +13147,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "476401770656",
+    "uikName": "УИК №33",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2453,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11216,8 +13205,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "476401770657",
+    "uikName": "УИК №34",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2450,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11265,8 +13263,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "476401770658",
+    "uikName": "УИК №35",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2121,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11314,8 +13321,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "476401770659",
+    "uikName": "УИК №36",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2192,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11363,8 +13379,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "476401770660",
+    "uikName": "УИК №37",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2064,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11412,8 +13437,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "476401770661",
+    "uikName": "УИК №38",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1999,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11461,8 +13495,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "476401770662",
+    "uikName": "УИК №39",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2323,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11510,8 +13553,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "476401770663",
+    "uikName": "УИК №40",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2492,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11559,8 +13611,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "476401770664",
+    "uikName": "УИК №41",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2230,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11608,8 +13669,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "476401770665",
+    "uikName": "УИК №42",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2308,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11657,8 +13727,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "476401770666",
+    "uikName": "УИК №43",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2468,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11706,8 +13785,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "476401770667",
+    "uikName": "УИК №44",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2735,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11755,8 +13843,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "476401770668",
+    "uikName": "УИК №45",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2714,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11804,8 +13901,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "476401770669",
+    "uikName": "УИК №46",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2620,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11853,8 +13959,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "476401770670",
+    "uikName": "УИК №47",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2172,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11902,8 +14017,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "476401770671",
+    "uikName": "УИК №48",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2245,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11951,8 +14075,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "476401770672",
+    "uikName": "УИК №49",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2039,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -12000,8 +14133,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "476401770673",
+    "uikName": "УИК №50",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2322,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -12049,8 +14191,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "476401770674",
+    "uikName": "УИК №51",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2671,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -12098,8 +14249,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "476401770675",
+    "uikName": "УИК №52",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2625,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -12147,8 +14307,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "476401770676",
+    "uikName": "УИК №53",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2564,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -12196,8 +14365,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "476401770677",
+    "uikName": "УИК №54",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2534,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -12245,8 +14423,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "476401770678",
+    "uikName": "УИК №55",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2105,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -12294,8 +14481,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "476401770679",
+    "uikName": "УИК №56",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2230,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -12343,8 +14539,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "476401770680",
+    "uikName": "УИК №57",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1948,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -12392,8 +14597,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "476401770681",
+    "uikName": "УИК №58",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 245,
@@ -12441,8 +14655,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "476401771184",
+    "uikName": "УИК №59",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -12490,8 +14713,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "476401770683",
+    "uikName": "УИК №60",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 31,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -12539,8 +14771,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "476401770684",
+    "uikName": "УИК №61",
     "tikTvd": "376300170710",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -12588,8 +14829,17 @@ export const duma_2003_uik_428_region_76_part_003 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "476402170431",
+    "uikName": "УИК №157",
     "tikTvd": "376300170714",
     "tikName": "Ярославль, Ленинская",
+    "regionCode": "76",
+    "regionTvd": "100100095732",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100095733",
+      "oikName": "Кировский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2315,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,

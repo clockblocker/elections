@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300170721",
     "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в списки": 141886,
@@ -151,6 +154,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300170722",
     "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 88,
     "accounting": {
       "Число избирателей, внесенных в списки": 162871,
@@ -304,6 +310,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300170723",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 192,
     "accounting": {
       "Число избирателей, внесенных в списки": 155918,
@@ -561,6 +570,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300270599",
     "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 83,
     "accounting": {
       "Число избирателей, внесенных в списки": 192255,
@@ -709,6 +721,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300270603",
     "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в списки": 124494,
@@ -839,6 +854,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300270605",
     "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в списки": 143028,
@@ -967,6 +985,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300370412",
     "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в списки": 130199,
@@ -1090,6 +1111,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300370413",
     "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в списки": 126183,
@@ -1212,6 +1236,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300370414",
     "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки": 60747,
@@ -1306,6 +1333,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300370415",
     "tikName": "Ломоносовская № 9",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки": 35499,
@@ -1387,6 +1417,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300370416",
     "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в списки": 121062,
@@ -1513,6 +1546,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300470432",
     "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 116,
     "accounting": {
       "Число избирателей, внесенных в списки": 250357,
@@ -1694,6 +1730,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300470433",
     "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 96,
     "accounting": {
       "Число избирателей, внесенных в списки": 214049,
@@ -1855,6 +1894,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300570632",
     "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, внесенных в списки": 176449,
@@ -1994,6 +2036,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300570633",
     "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в списки": 135397,
@@ -2116,6 +2161,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300570634",
     "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки": 44687,
@@ -2210,6 +2258,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300570635",
     "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки": 85005,
@@ -2315,6 +2366,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300570636",
     "tikName": "Кронштадтская №15",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки": 35771,
@@ -2394,6 +2448,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300670479",
     "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки": 105843,
@@ -2512,6 +2569,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300670480",
     "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки": 76767,
@@ -2610,6 +2670,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300670481",
     "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в списки": 103246,
@@ -2737,6 +2800,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300670482",
     "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в списки": 143125,
@@ -2864,6 +2930,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300770490",
     "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в списки": 130871,
@@ -2993,6 +3062,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300770491",
     "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки": 92677,
@@ -3102,6 +3174,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300770492",
     "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки": 81901,
@@ -3204,6 +3279,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300770493",
     "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в списки": 139814,
@@ -3330,6 +3408,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300770494",
     "tikName": "Павловская № 22",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в списки": 12185,
@@ -3404,6 +3485,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300870569",
     "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в списки": 149869,
@@ -3531,6 +3615,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300870570",
     "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в списки": 169583,
@@ -3669,6 +3756,9 @@ export const duma_2003_tic_431_region_78 = [
     "ballot": "party",
     "tikTvd": "378300870571",
     "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, внесенных в списки": 165424,

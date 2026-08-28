@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073175",
     "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в списки": 39740,
@@ -117,6 +125,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073176",
     "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки": 42662,
@@ -205,6 +221,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073278",
     "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100095657",
+      "oikName": "Левобережный"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки": 50704,
@@ -298,6 +322,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073279",
     "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100095657",
+      "oikName": "Левобережный"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки": 68713,
@@ -389,6 +421,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073280",
     "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100095657",
+      "oikName": "Левобережный"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в списки": 97067,
@@ -487,6 +527,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073281",
     "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100095657",
+      "oikName": "Левобережный"
+    },
     "uikCount": 80,
     "accounting": {
       "Число избирателей, включенных в списки": 163871,
@@ -618,6 +666,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073282",
     "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100095657",
+      "oikName": "Левобережный"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в списки": 104694,
@@ -722,6 +778,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073283",
     "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100095657",
+      "oikName": "Левобережный"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 21928,
@@ -803,6 +867,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073284",
     "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 79,
+      "oikTvd": "100100095659",
+      "oikName": "Правобережный"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки": 26928,
@@ -886,6 +958,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073285",
     "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 79,
+      "oikTvd": "100100095659",
+      "oikName": "Правобережный"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в списки": 53612,
@@ -993,6 +1073,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073286",
     "tikName": "Репьевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 79,
+      "oikTvd": "100100095659",
+      "oikName": "Правобережный"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки": 14180,
@@ -1064,6 +1152,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073287",
     "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 79,
+      "oikTvd": "100100095659",
+      "oikName": "Правобережный"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки": 27152,
@@ -1149,6 +1245,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073288",
     "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 79,
+      "oikTvd": "100100095659",
+      "oikName": "Правобережный"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 20163,
@@ -1231,6 +1335,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073289",
     "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 79,
+      "oikTvd": "100100095659",
+      "oikName": "Правобережный"
+    },
     "uikCount": 73,
     "accounting": {
       "Число избирателей, включенных в списки": 153272,
@@ -1356,6 +1468,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073290",
     "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 79,
+      "oikTvd": "100100095659",
+      "oikName": "Правобережный"
+    },
     "uikCount": 96,
     "accounting": {
       "Число избирателей, включенных в списки": 215660,
@@ -1504,6 +1624,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073291",
     "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки": 24271,
@@ -1596,6 +1724,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 20047,
@@ -1675,6 +1811,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки": 37019,
@@ -1764,6 +1908,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073294",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки": 28174,
@@ -1834,6 +1986,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки": 24362,
@@ -1921,6 +2081,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки": 36104,
@@ -2010,6 +2178,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073297",
     "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки": 30892,
@@ -2071,6 +2247,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 21529,
@@ -2145,6 +2329,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки": 31135,
@@ -2232,6 +2424,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073300",
     "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки": 44901,
@@ -2327,6 +2527,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073301",
     "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки": 64876,
@@ -2426,6 +2634,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073302",
     "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 18919,
@@ -2497,6 +2713,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073303",
     "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки": 23197,
@@ -2581,6 +2805,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073304",
     "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки": 44449,
@@ -2676,6 +2908,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073305",
     "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "uikCount": 59,
     "accounting": {
       "Число избирателей, включенных в списки": 50680,
@@ -2784,6 +3024,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073306",
     "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 20069,
@@ -2855,6 +3103,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073307",
     "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в списки": 74388,
@@ -2969,6 +3225,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073308",
     "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки": 17551,
@@ -3037,6 +3301,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073309",
     "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки": 30823,
@@ -3132,6 +3404,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073310",
     "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 16285,
@@ -3205,6 +3485,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073311",
     "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "uikCount": 64,
     "accounting": {
       "Число избирателей, включенных в списки": 83449,
@@ -3318,6 +3606,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки": 49054,
@@ -3412,6 +3708,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки": 31460,
@@ -3506,6 +3810,14 @@ export const duma_2003_tic_429_region_36 = [
     "ballot": "single-member",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 16849,

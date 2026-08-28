@@ -3,8 +3,12 @@ from __future__ import annotations
 import argparse
 import concurrent.futures
 import json
+import re
 import time
+import unicodedata
+import urllib.parse
 from collections import Counter, defaultdict
+from html.parser import HTMLParser
 from pathlib import Path
 from typing import Any
 
@@ -13,6 +17,7 @@ try:
     from .decode_script_result import decode_script_tables
     from .export_uik_results import indexed_uiks, transpose_table
     from .pipeline import (
+        DUMA_VRN,
         classify_result,
         coverage_report,
         extract_report_links,
@@ -28,6 +33,7 @@ except ImportError:
     from decode_script_result import decode_script_tables
     from export_uik_results import indexed_uiks, transpose_table
     from pipeline import (
+        DUMA_VRN,
         classify_result,
         coverage_report,
         extract_report_links,
@@ -42,6 +48,163 @@ except ImportError:
 
 DEFAULT_RAW = Path("data/raw/gas-duma-2021")
 DEFAULT_REPORTS = Path("reports/generated/gas-duma-2021")
+OIK_BREADCRUMB_RE = re.compile(r"^ОИК\s*№\s*(\d+)$", re.IGNORECASE)
+
+
+def _normalized_text(value: str) -> str:
+    return " ".join(unicodedata.normalize("NFC", value).split())
+
+
+def _normalized_gas_text(value: str) -> str:
+    # Some live GAS pages expose Java-style escaping in otherwise plain HTML.
+    # It is a rendering artifact, not part of the official entity name.
+    return _normalized_text(value).replace('\\"', '"')
+
+
+class _LinkTextParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self._href: str | None = None
+        self._text: list[str] = []
+        self.links: list[tuple[str, str]] = []
+        self.base_href: str | None = None
+
+    def handle_starttag(
+        self, tag: str, attrs: list[tuple[str, str | None]]
+    ) -> None:
+        attributes = dict(attrs)
+        if tag.casefold() == "base" and attributes.get("href"):
+            self.base_href = attributes["href"]
+        elif tag.casefold() == "a":
+            self._href = attributes.get("href")
+            self._text = []
+
+    def handle_data(self, data: str) -> None:
+        if self._href is not None:
+            self._text.append(data)
+
+    def handle_endtag(self, tag: str) -> None:
+        if tag.casefold() == "a" and self._href is not None:
+            self.links.append((self._href, _normalized_text("".join(self._text))))
+            self._href = None
+            self._text = []
+
+
+def extract_oik_breadcrumbs(payload: bytes, source_url: str) -> list[dict[str, Any]]:
+    source, _ = decode_text(payload)
+    parser = _LinkTextParser()
+    parser.feed(source)
+    result: dict[tuple[int, str], dict[str, Any]] = {}
+    for href, label in parser.links:
+        match = OIK_BREADCRUMB_RE.fullmatch(label)
+        if not match:
+            continue
+        url = urllib.parse.urljoin(parser.base_href or source_url, href)
+        query = dict(urllib.parse.parse_qsl(urllib.parse.urlsplit(url).query))
+        oik_tvd = query.get("tvd")
+        if not oik_tvd:
+            continue
+        key = (int(match.group(1)), str(oik_tvd))
+        result[key] = {
+            "district_number": key[0],
+            "oik_tvd": key[1],
+            "url": url,
+        }
+    return [result[key] for key in sorted(result)]
+
+
+class _CandidateRegistryParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.in_table = False
+        self.table_depth = 0
+        self.row: list[dict[str, Any]] | None = None
+        self.cell: dict[str, Any] | None = None
+        self.rows: list[list[dict[str, Any]]] = []
+
+    def handle_starttag(
+        self, tag: str, attrs: list[tuple[str, str | None]]
+    ) -> None:
+        attributes = dict(attrs)
+        folded = tag.casefold()
+        if folded == "table":
+            if self.in_table:
+                self.table_depth += 1
+            elif str(attributes.get("id", "")).startswith("candidates-220-"):
+                self.in_table = True
+                self.table_depth = 1
+            return
+        if not self.in_table:
+            return
+        if folded == "tr":
+            self.row = []
+        elif folded in ("td", "th") and self.row is not None:
+            self.cell = {"text": [], "hrefs": []}
+        elif folded == "a" and self.cell is not None and attributes.get("href"):
+            self.cell["hrefs"].append(str(attributes["href"]))
+        elif folded == "br" and self.cell is not None:
+            self.cell["text"].append(" ")
+
+    def handle_data(self, data: str) -> None:
+        if self.cell is not None:
+            self.cell["text"].append(data)
+
+    def handle_endtag(self, tag: str) -> None:
+        folded = tag.casefold()
+        if not self.in_table:
+            return
+        if folded in ("td", "th") and self.cell is not None and self.row is not None:
+            self.row.append(
+                {
+                    "text": _normalized_text("".join(self.cell["text"])),
+                    "hrefs": self.cell["hrefs"],
+                }
+            )
+            self.cell = None
+        elif folded == "tr" and self.row is not None:
+            self.rows.append(self.row)
+            self.row = None
+        elif folded == "table":
+            self.table_depth -= 1
+            if self.table_depth == 0:
+                self.in_table = False
+
+
+def parse_candidate_registry(payload: bytes, source_url: str = "") -> dict[str, Any]:
+    source, encoding = decode_text(payload)
+    parser = _CandidateRegistryParser()
+    parser.feed(source)
+    candidates: list[dict[str, Any]] = []
+    for row in parser.rows:
+        if len(row) < 10 or not row[0]["text"].isdigit():
+            continue
+        href = next(iter(row[1]["hrefs"]), "")
+        url = urllib.parse.urljoin(source_url, href)
+        query = dict(urllib.parse.parse_qsl(urllib.parse.urlsplit(url).query))
+        candidate_vibid = query.get("vibid")
+        district_text = row[4]["text"]
+        if not candidate_vibid or not district_text.isdigit():
+            continue
+        candidates.append(
+            {
+                "candidate_vibid": str(candidate_vibid),
+                "full_name": _normalized_text(row[1]["text"]),
+                "district_number": int(district_text),
+                "nominating_entity": _normalized_gas_text(row[3]["text"]),
+                "registration_status": _normalized_text(row[6]["text"]),
+                "is_elected": _normalized_text(row[9]["text"]).casefold()
+                == "избр.",
+            }
+        )
+    return {
+        "valid_candidate_registry": bool(candidates)
+        and DUMA_VRN in source
+        and "candidates-220-" in source,
+        "encoding": encoding,
+        "candidate_count": len(candidates),
+        "district_numbers": sorted({item["district_number"] for item in candidates}),
+        "candidates": candidates,
+    }
 
 
 def _load(path: Path) -> dict[str, Any]:
@@ -145,32 +308,42 @@ def discover(args: argparse.Namespace) -> int:
                         flush=True,
                     )
     output_nodes = [vars(nodes[key]) for key in sorted(nodes)]
-    summary = hierarchy_summary(output_nodes)
+    summary = hierarchy_summary(output_nodes, include_oik=True)
     by_id = {str(node["node_id"]): node for node in output_nodes}
     tik_ids = sorted(
         {str(item["tik_tvd"]) for item in summary["uik_to_tik"]}
     )
 
-    def resolve_report_links(tik_id: str) -> tuple[str, dict[str, str]]:
+    def resolve_report_links(
+        tik_id: str,
+    ) -> tuple[str, dict[str, str], list[dict[str, Any]]]:
         node = by_id[tik_id]
         record = fetcher.fetch(str(node["url"]), refresh=args.refresh)
         if "body_path" not in record or int(record.get("status", 0)) != 200:
-            return tik_id, {}
+            return tik_id, {}, []
+        payload = _body(store, record)
+        source_url = str(record.get("final_url", node["url"]))
         links = extract_report_links(
-            _body(store, record), str(record.get("final_url", node["url"]))
+            payload, source_url
         )
-        return tik_id, {
-            str(item["report_type"]): str(item["url"])
-            for item in links
-            if int(item["report_type"]) in (233, 464)
-        }
+        return (
+            tik_id,
+            {
+                str(item["report_type"]): str(item["url"])
+                for item in links
+                if int(item["report_type"]) in (233, 464)
+            },
+            extract_oik_breadcrumbs(payload, source_url),
+        )
 
     report_links: dict[str, dict[str, str]] = {}
+    breadcrumbs_by_tik: dict[str, list[dict[str, Any]]] = {}
     with concurrent.futures.ThreadPoolExecutor(max_workers=args.concurrency) as pool:
         futures = [pool.submit(resolve_report_links, tik_id) for tik_id in tik_ids]
         for index, future in enumerate(concurrent.futures.as_completed(futures), 1):
-            tik_id, links = future.result()
+            tik_id, links, breadcrumbs = future.result()
             report_links[tik_id] = links
+            breadcrumbs_by_tik[tik_id] = breadcrumbs
             if index % 100 == 0 or index == len(futures):
                 print(
                     json.dumps(
@@ -188,14 +361,164 @@ def discover(args: argparse.Namespace) -> int:
     links_complete = all(
         {"233", "464"}.issubset(report_links.get(tik_id, {})) for tik_id in tik_ids
     )
+    breadcrumb_errors = [
+        {
+            "tik_tvd": tik_id,
+            "expected_oik_tvd": next(
+                (
+                    str(item.get("oik_tvd"))
+                    for item in summary["uik_to_tik"]
+                    if str(item["tik_tvd"]) == tik_id
+                ),
+                "",
+            ),
+            "breadcrumbs": breadcrumbs_by_tik.get(tik_id, []),
+        }
+        for tik_id in tik_ids
+        if len(breadcrumbs_by_tik.get(tik_id, [])) != 1
+    ]
+    relation_by_tik = {
+        str(item["tik_tvd"]): item for item in summary["uik_to_tik"]
+    }
+    for tik_id, breadcrumbs in breadcrumbs_by_tik.items():
+        if len(breadcrumbs) == 1 and str(breadcrumbs[0]["oik_tvd"]) != str(
+            relation_by_tik[tik_id].get("oik_tvd")
+        ):
+            breadcrumb_errors.append(
+                {
+                    "tik_tvd": tik_id,
+                    "expected_oik_tvd": relation_by_tik[tik_id].get("oik_tvd"),
+                    "breadcrumbs": breadcrumbs,
+                }
+            )
+    district_links: defaultdict[str, list[dict[str, Any]]] = defaultdict(list)
+    for breadcrumbs in breadcrumbs_by_tik.values():
+        if len(breadcrumbs) == 1:
+            district_links[str(breadcrumbs[0]["oik_tvd"])].append(breadcrumbs[0])
+    district_identities: dict[str, dict[str, Any]] = {}
+    district_conflicts: list[dict[str, Any]] = []
+    for oik_tvd, links in sorted(district_links.items()):
+        numbers = {int(item["district_number"]) for item in links}
+        urls = {str(item["url"]) for item in links}
+        if len(numbers) != 1 or len(urls) != 1:
+            district_conflicts.append(
+                {
+                    "oik_tvd": oik_tvd,
+                    "district_numbers": sorted(numbers),
+                    "urls": sorted(urls),
+                }
+            )
+            continue
+        district_identities[oik_tvd] = {
+            "district_number": next(iter(numbers)),
+            "oik_tvd": oik_tvd,
+            "oik_url": next(iter(urls)),
+        }
+    oiks_by_number: defaultdict[int, list[str]] = defaultdict(list)
+    for oik_tvd, item in district_identities.items():
+        oiks_by_number[int(item["district_number"])].append(oik_tvd)
+    district_conflicts.extend(
+        {
+            "district_number": district_number,
+            "oik_tvds": sorted(values),
+            "error": "district-number-is-not-a-bijection",
+        }
+        for district_number, values in sorted(oiks_by_number.items())
+        if len(values) != 1
+    )
+
+    def resolve_candidate_registry(
+        district: dict[str, Any],
+    ) -> tuple[str, dict[str, Any]]:
+        record = fetcher.fetch(str(district["oik_url"]), refresh=args.refresh)
+        result = {**district, "navigation": record}
+        if "body_path" not in record or int(record.get("status", 0)) != 200:
+            return str(district["oik_tvd"]), result
+        links = extract_report_links(
+            _body(store, record),
+            str(record.get("final_url", district["oik_url"])),
+            report_kind={220: ("oik", "candidate-registry")},
+        )
+        exact = sorted({str(item["url"]) for item in links})
+        if len(exact) == 1:
+            result["candidate_registry_url"] = exact[0]
+        else:
+            result["candidate_registry_urls"] = exact
+        return str(district["oik_tvd"]), result
+
+    resolved_districts: dict[str, dict[str, Any]] = {}
+    with concurrent.futures.ThreadPoolExecutor(max_workers=args.concurrency) as pool:
+        futures = [
+            pool.submit(resolve_candidate_registry, district)
+            for district in district_identities.values()
+        ]
+        for index, future in enumerate(concurrent.futures.as_completed(futures), 1):
+            oik_tvd, district = future.result()
+            resolved_districts[oik_tvd] = district
+            if index % 25 == 0 or index == len(futures):
+                print(
+                    json.dumps(
+                        {
+                            "oik_navigation_requests": index,
+                            "total": len(futures),
+                            "candidate_registry_links": sum(
+                                "candidate_registry_url" in item
+                                for item in resolved_districts.values()
+                            ),
+                        }
+                    ),
+                    flush=True,
+                )
+    district_catalog: list[dict[str, Any]] = []
+    for oik_tvd, district in sorted(
+        resolved_districts.items(), key=lambda item: item[1]["district_number"]
+    ):
+        oik = by_id.get(oik_tvd, {})
+        region = by_id.get(str(oik.get("parent_id")), {})
+        district_catalog.append(
+            {
+                "district_number": int(district["district_number"]),
+                "oik_tvd": oik_tvd,
+                "oik_name": str(oik.get("text") or ""),
+                "oik_url": str(district["oik_url"]),
+                "region_code": str(region.get("region") or oik.get("region") or ""),
+                "region_tvd": str(region.get("node_id") or ""),
+                "region_name": str(region.get("text") or ""),
+                **(
+                    {"candidate_registry_url": district["candidate_registry_url"]}
+                    if district.get("candidate_registry_url")
+                    else {}
+                ),
+            }
+        )
+    district_number_by_oik = {
+        item["oik_tvd"]: item["district_number"] for item in district_catalog
+    }
+    for relation in summary["uik_to_tik"]:
+        if relation.get("oik_tvd") in district_number_by_oik:
+            relation["district_number"] = district_number_by_oik[
+                str(relation["oik_tvd"])
+            ]
+    candidate_links_complete = (
+        not breadcrumb_errors
+        and not district_conflicts
+        and len(district_catalog) == int(summary["districts"])
+        and len({item["district_number"] for item in district_catalog})
+        == len(district_catalog)
+        and all(item.get("candidate_registry_url") for item in district_catalog)
+    )
     result = {
-        "schema_version": 1,
+        "schema_version": 2,
         "root_source": str(args.root_html),
         "root_encoding": encoding,
         "nodes": output_nodes,
         **summary,
         "report_links": dict(sorted(report_links.items())),
         "report_links_complete": links_complete,
+        "district_catalog": district_catalog,
+        "district_breadcrumb_errors": breadcrumb_errors,
+        "district_identity_conflicts": district_conflicts,
+        "candidate_registry_links_complete": candidate_links_complete,
     }
     json_write(args.output, result)
     print(
@@ -204,10 +527,12 @@ def discover(args: argparse.Namespace) -> int:
                 key: result[key]
                 for key in (
                     "regions",
+                    "districts",
                     "tiks",
                     "uiks",
                     "complete",
                     "report_links_complete",
+                    "candidate_registry_links_complete",
                 )
             },
             indent=2,
@@ -223,6 +548,8 @@ def plan(args: argparse.Namespace) -> int:
         direct_uik=args.direct_uik,
         region_filter=set(args.region or []),
         report_links=hierarchy.get("report_links"),
+        candidate_registries=hierarchy.get("district_catalog"),
+        include_oik=True,
     )
     result["rate"] = args.rate
     result["concurrency"] = args.concurrency
@@ -236,8 +563,32 @@ def plan(args: argparse.Namespace) -> int:
     exact_links_complete = result["url_sources"].get(
         "official-navigation", 0
     ) == result["estimated_requests"]
+    expected_district_requests = len(
+        {
+            str(item.get("oik_tvd"))
+            for item in hierarchy.get("district_catalog", [])
+            if item.get("oik_tvd")
+            and (not args.region or str(item.get("region_code")) in set(args.region))
+        }
+    )
+    candidate_links_complete = (
+        result["request_classes"].get("district-220", 0)
+        == expected_district_requests
+        and expected_district_requests > 0
+    )
+    # A full plan must retain all discovered OIKs. Regional probe plans retain
+    # exactly the OIK subset for the requested region codes.
+    if not args.region:
+        candidate_links_complete = candidate_links_complete and (
+            expected_district_requests == int(result["hierarchy"].get("districts", 0))
+        )
     result["exact_report_links_complete"] = exact_links_complete
-    result["ready"] = result["hierarchy"]["complete"] and exact_links_complete
+    result["candidate_registry_links_complete"] = candidate_links_complete
+    result["ready"] = (
+        result["hierarchy"]["complete"]
+        and exact_links_complete
+        and candidate_links_complete
+    )
     if result["ready"]:
         result["resume_command"] = (
             "backend/.venv/bin/python proper-data/crawler/duma2021.py "
@@ -247,7 +598,7 @@ def plan(args: argparse.Namespace) -> int:
         result["blocked_reason"] = (
             "hierarchy has unresolved load-on-demand nodes"
             if not result["hierarchy"]["complete"]
-            else "official navigation report links are incomplete; resume discovery"
+            else "official navigation report or candidate-registry links are incomplete; resume discovery"
         )
         result["resume_command"] = (
             "backend/.venv/bin/python proper-data/crawler/duma2021.py discover --root-html data/raw/duma-2021-single-member-cec/index/a52134a1b6d1e88209d6.html --output reports/generated/gas-duma-2021/hierarchy.json"
@@ -304,9 +655,26 @@ def crawl(args: argparse.Namespace) -> int:
         )
         classification = {}
         if record.get("body_path"):
-            classification = classify_result(
-                _body(store, record), int(item["report_type"])
-            )
+            if int(item["report_type"]) == 220:
+                classification = parse_candidate_registry(
+                    _body(store, record), str(record.get("final_url", item["url"]))
+                )
+                classification.update(
+                    {
+                        "valid_result": classification[
+                            "valid_candidate_registry"
+                        ]
+                        and classification["district_numbers"]
+                        == [int(item["district_number"])],
+                        "kind_matches_requested_type": True,
+                        "level": "district-candidate-registry",
+                        "ballot": "candidate-registry",
+                    }
+                )
+            else:
+                classification = classify_result(
+                    _body(store, record), int(item["report_type"])
+                )
         return {**item, **record, **classification}
 
     total = len(requests)
@@ -398,7 +766,8 @@ def validate(args: argparse.Namespace) -> int:
         }
         region_tiks: defaultdict[str, set[str]] = defaultdict(set)
         for relation in hierarchy.get(
-            "uik_to_tik", hierarchy_summary(hierarchy["nodes"])["uik_to_tik"]
+            "uik_to_tik",
+            hierarchy_summary(hierarchy["nodes"], include_oik=True)["uik_to_tik"],
         ):
             region_tiks[str(relation.get("region", ""))].add(str(relation["tik_tvd"]))
         for row in report["regions"]:
@@ -466,8 +835,114 @@ def build(args: argparse.Namespace) -> int:
     conflicts: list[dict[str, Any]] = []
     tik_names = {str(node["node_id"]): str(node["text"]) for node in hierarchy["nodes"]}
     relations = hierarchy.get(
-        "uik_to_tik", hierarchy_summary(hierarchy["nodes"])["uik_to_tik"]
+        "uik_to_tik",
+        hierarchy_summary(hierarchy["nodes"], include_oik=True)["uik_to_tik"],
     )
+    district_catalog_seed = list(hierarchy.get("district_catalog", []))
+    district_by_number = {
+        int(item["district_number"]): item
+        for item in district_catalog_seed
+        if item.get("district_number") is not None
+    }
+    registry_candidates: defaultdict[int, list[dict[str, Any]]] = defaultdict(list)
+    registry_sources: dict[int, dict[str, Any]] = {}
+    candidate_registry_errors: list[dict[str, Any]] = []
+    for observation in observations:
+        if int(observation.get("report_type", 0)) != 220:
+            continue
+        district_number = int(observation.get("district_number", 0))
+        if (
+            not district_number
+            or not observation.get("body_path")
+            or not observation.get("sha256")
+            or int(observation.get("status", 0)) != 200
+        ):
+            candidate_registry_errors.append(
+                {
+                    "district_number": district_number or None,
+                    "oik_tvd": observation.get("oik_tvd")
+                    or observation.get("entity_id"),
+                    "error": "missing-or-unhashed-type-220-source",
+                }
+            )
+            continue
+        parsed = parse_candidate_registry(
+            _body(store, observation),
+            str(observation.get("final_url") or observation.get("url") or ""),
+        )
+        if (
+            not parsed["valid_candidate_registry"]
+            or parsed["district_numbers"] != [district_number]
+        ):
+            candidate_registry_errors.append(
+                {
+                    "district_number": district_number,
+                    "oik_tvd": observation.get("oik_tvd")
+                    or observation.get("entity_id"),
+                    "error": "invalid-or-wrong-district-type-220-source",
+                    "parsed_district_numbers": parsed["district_numbers"],
+                }
+            )
+            continue
+        if district_number in registry_sources:
+            candidate_registry_errors.append(
+                {
+                    "district_number": district_number,
+                    "error": "duplicate-type-220-source",
+                }
+            )
+            continue
+        registry_candidates[district_number] = parsed["candidates"]
+        registry_sources[district_number] = {
+            "official_url": observation.get("url")
+            or observation.get("requested_url"),
+            "final_url": observation.get("final_url"),
+            "sha256": observation["sha256"],
+            "retrieved_at": observation.get("retrieved_at"),
+            "provenance": observation.get("provenance"),
+        }
+    registered_by_name: dict[tuple[int, str], str] = {}
+    candidate_identity_errors: list[dict[str, Any]] = []
+    for district_number, candidates in sorted(registry_candidates.items()):
+        for candidate in candidates:
+            if candidate["registration_status"].casefold() != "зарегистрирован":
+                continue
+            key = (district_number, _normalized_text(candidate["full_name"]))
+            previous = registered_by_name.get(key)
+            if previous and previous != candidate["candidate_vibid"]:
+                candidate_identity_errors.append(
+                    {
+                        "district_number": district_number,
+                        "full_name": candidate["full_name"],
+                        "candidate_vibids": sorted(
+                            {previous, candidate["candidate_vibid"]}
+                        ),
+                        "error": "ambiguous-registered-candidate-name",
+                    }
+                )
+            registered_by_name[key] = candidate["candidate_vibid"]
+
+    def candidate_keyed_votes(
+        district_number: int, votes: dict[str, int], context: dict[str, Any]
+    ) -> dict[str, int]:
+        keyed: dict[str, int] = {}
+        for full_name, count in votes.items():
+            candidate_vibid = registered_by_name.get(
+                (district_number, _normalized_text(full_name))
+            )
+            if not candidate_vibid:
+                candidate_identity_errors.append(
+                    {
+                        **context,
+                        "district_number": district_number,
+                        "full_name": full_name,
+                        "error": "unmatched-result-candidate",
+                    }
+                )
+                continue
+            keyed[candidate_vibid] = int(count)
+        return keyed
+
     relation_by_uik = {str(item["uik_tvd"]): item for item in relations}
     region_by_tik = {
         str(item["tik_tvd"]): str(item.get("region", "")) for item in relations
@@ -504,6 +979,13 @@ def build(args: argparse.Namespace) -> int:
                     "provenance": observation.get("provenance"),
                 },
             }
+            if kind == "candidate":
+                relation = relation_by_uik[uik_tvd]
+                direct[uik_tvd][kind]["votes"] = candidate_keyed_votes(
+                    int(relation["district_number"]),
+                    direct[uik_tvd][kind]["votes"],
+                    {"uik_tvd": uik_tvd, "report_type": report_type},
+                )
             continue
         tik_tvd = str(observation["entity_id"])
         kind = "party" if report_type == 233 else "candidate"
@@ -520,15 +1002,42 @@ def build(args: argparse.Namespace) -> int:
                     "tik_tvd": tik_tvd,
                     "tik_name": tik_names.get(tik_tvd, ""),
                     "region": str(relation.get("region", "")),
+                    "region_code": str(
+                        relation.get("region_code") or relation.get("region") or ""
+                    ),
+                    "region_tvd": str(relation.get("region_tvd") or ""),
+                    "region_name": str(relation.get("region_name") or ""),
+                    "district_number": relation.get("district_number"),
+                    "oik_tvd": str(relation.get("oik_tvd") or ""),
+                    "oik_name": str(relation.get("oik_name") or ""),
                     f"{kind}_accounting": record["accounting"],
                     f"{kind}_votes": record[f"{kind}_votes"],
                 }
             )
+            if kind == "candidate" and relation.get("district_number") is not None:
+                item[f"{kind}_votes"] = candidate_keyed_votes(
+                    int(relation["district_number"]),
+                    item[f"{kind}_votes"],
+                    {
+                        "uik_tvd": str(record["uik_tvd"]),
+                        "tik_tvd": tik_tvd,
+                        "report_type": report_type,
+                    },
+                )
         aggregate = _aggregate(rows)
+        tik_relation = relation_by_uik[str(records[0]["uik_tvd"])] if records else {}
+        if kind == "candidate" and tik_relation.get("district_number") is not None:
+            aggregate["votes"] = candidate_keyed_votes(
+                int(tik_relation["district_number"]),
+                aggregate["votes"],
+                {"tik_tvd": tik_tvd, "report_type": report_type},
+            )
         tik_protocols[tik_tvd][kind] = {
             **aggregate,
             "uik_tvds": [str(record["uik_tvd"]) for record in records],
             "uik_count": len(records),
+            "district_number": tik_relation.get("district_number"),
+            "oik_tvd": tik_relation.get("oik_tvd"),
         }
         normalized = [
             {"accounting": record["accounting"], "votes": record[f"{kind}_votes"]}
@@ -584,8 +1093,139 @@ def build(args: argparse.Namespace) -> int:
         for relation in relations
         if str(relation["uik_tvd"]) not in paired
     ]
+    district_numbers = [
+        int(item["district_number"])
+        for item in district_catalog_seed
+        if item.get("district_number") is not None
+    ]
+    oik_tvds = [
+        str(item["oik_tvd"])
+        for item in district_catalog_seed
+        if item.get("oik_tvd")
+    ]
+    relation_assignment_errors = [
+        {
+            "uik_tvd": item.get("uik_tvd"),
+            "tik_tvd": item.get("tik_tvd"),
+            "error": "missing-region-or-district-assignment",
+        }
+        for item in relations
+        if not all(
+            item.get(key) is not None and str(item.get(key)) != ""
+            for key in (
+                "region_code",
+                "region_tvd",
+                "region_name",
+                "district_number",
+                "oik_tvd",
+                "oik_name",
+                "tik_tvd",
+                "tik_name",
+                "uik_tvd",
+            )
+        )
+    ]
+    tik_districts: defaultdict[str, set[int]] = defaultdict(set)
+    for item in relations:
+        if item.get("district_number") is not None:
+            tik_districts[str(item["tik_tvd"])].add(int(item["district_number"]))
+    relation_assignment_errors.extend(
+        {
+            "tik_tvd": tik_tvd,
+            "district_numbers": sorted(numbers),
+            "error": "tik-not-assigned-to-exactly-one-district",
+        }
+        for tik_tvd, numbers in tik_districts.items()
+        if len(numbers) != 1
+    )
+    district_vote_totals: defaultdict[int, defaultdict[str, int]] = defaultdict(
+        lambda: defaultdict(int)
+    )
+    for tik_tvd, values in tik_protocols.items():
+        candidate = values.get("candidate")
+        numbers = tik_districts.get(tik_tvd, set())
+        if not candidate or len(numbers) != 1:
+            continue
+        district_number = next(iter(numbers))
+        for candidate_vibid, count in candidate["votes"].items():
+            district_vote_totals[district_number][candidate_vibid] += int(count)
+    elected_errors: list[dict[str, Any]] = []
+    winner_errors: list[dict[str, Any]] = []
+    district_catalog: list[dict[str, Any]] = []
+    for district_number, seed in sorted(district_by_number.items()):
+        candidates = registry_candidates.get(district_number, [])
+        elected = [item for item in candidates if item["is_elected"]]
+        if len(elected) != 1:
+            elected_errors.append(
+                {
+                    "district_number": district_number,
+                    "elected_candidate_vibids": [
+                        item["candidate_vibid"] for item in elected
+                    ],
+                    "error": "expected-exactly-one-elected-candidate",
+                }
+            )
+            winner_vibid = ""
+        else:
+            winner_vibid = str(elected[0]["candidate_vibid"])
+        totals = district_vote_totals.get(district_number, {})
+        if totals:
+            high = max(totals.values())
+            highest = sorted(
+                candidate_vibid
+                for candidate_vibid, count in totals.items()
+                if count == high
+            )
+        else:
+            highest = []
+        if len(highest) != 1 or highest[0] != winner_vibid:
+            winner_errors.append(
+                {
+                    "district_number": district_number,
+                    "official_winner_candidate_vibid": winner_vibid,
+                    "highest_vote_candidate_vibids": highest,
+                    "error": "official-winner-disagrees-with-unique-highest-total",
+                }
+            )
+        if candidates and district_number in registry_sources:
+            district_catalog.append(
+                {
+                    **seed,
+                    "winner_candidate_vibid": winner_vibid,
+                    "candidates": candidates,
+                    "source": registry_sources[district_number],
+                }
+            )
+    identity_gate = (
+        len(district_numbers) == 225
+        and len(set(district_numbers)) == 225
+        and set(district_numbers) == set(range(1, 226))
+        and len(oik_tvds) == 225
+        and len(set(oik_tvds)) == 225
+    )
+    assignment_gate = (
+        not relation_assignment_errors
+        and len(relations) == int(hierarchy.get("uiks", len(relations)))
+        and len(tik_districts) == int(hierarchy.get("tiks", len(tik_districts)))
+    )
+    source_gate = (
+        not candidate_registry_errors
+        and len(registry_sources) == 225
+        and all(source.get("sha256") for source in registry_sources.values())
+    )
+    gates = {
+        "exactly_225_unique_district_numbers_and_oik_tvds": identity_gate,
+        "every_tik_and_uik_assigned_to_one_district": assignment_gate,
+        "every_result_candidate_matched_to_registered_official_candidate": not candidate_identity_errors,
+        "exactly_one_official_elected_candidate_per_district": not elected_errors
+        and len(registry_candidates) == 225,
+        "official_winner_agrees_with_unique_highest_district_vote_total": not winner_errors
+        and len(district_vote_totals) == 225,
+        "no_missing_or_unhashed_type_220_source": source_gate,
+    }
+    gates["passed"] = all(gates.values())
     result = {
-        "schema_version": 2,
+        "schema_version": 3,
         "election": "2021-duma",
         "records": available,
         "complete_uik_count": len(complete),
@@ -609,6 +1249,15 @@ def build(args: argparse.Namespace) -> int:
         "incomplete_uiks": incomplete,
         "missing_hierarchy_uiks": missing_hierarchy_uiks,
         "relations": relations,
+        "districts": district_catalog,
+        "district_gates": gates,
+        "district_gate_errors": {
+            "candidate_registry": candidate_registry_errors,
+            "candidate_identity": candidate_identity_errors,
+            "relation_assignment": relation_assignment_errors,
+            "elected": elected_errors,
+            "winner": winner_errors,
+        },
     }
     json_write(args.output, result)
     print(
@@ -620,11 +1269,21 @@ def build(args: argparse.Namespace) -> int:
                 "missing_hierarchy_uiks": len(missing_hierarchy_uiks),
                 "reconciliation_failures": len(failures),
                 "duplicate_conflicts": len(conflicts),
+                "districts": len(district_catalog),
+                "district_gates_passed": gates["passed"],
             },
             indent=2,
         )
     )
-    return 2 if incomplete or missing_hierarchy_uiks or failures or conflicts else 0
+    return (
+        2
+        if incomplete
+        or missing_hierarchy_uiks
+        or failures
+        or conflicts
+        or not gates["passed"]
+        else 0
+    )
 
 
 def probe(args: argparse.Namespace) -> int:
@@ -714,7 +1373,8 @@ def recover_gaps(args: argparse.Namespace) -> int:
     relations = {
         str(item["uik_tvd"]): item
         for item in hierarchy.get(
-            "uik_to_tik", hierarchy_summary(hierarchy["nodes"])["uik_to_tik"]
+            "uik_to_tik",
+            hierarchy_summary(hierarchy["nodes"], include_oik=True)["uik_to_tik"],
         )
     }
     store, fetcher = _settings(args)

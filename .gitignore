@@ -14,6 +14,17 @@ __pycache__/
 node_modules/
 frontend/dist/
 frontend/coverage/
+proper-app/node_modules/
+proper-app/**/node_modules/
+proper-app/frontend/dist/
+proper-app/backend/dist/
+proper-app/frontend/test-results/
+proper-app/frontend/playwright-report/
+proper-app/**/*.tsbuildinfo
+proper-app/.env
+proper-app/research/.venv/
+proper-app/research/.pytest_cache/
+proper-app/research/**/__pycache__/
 
 # Local election data and generated artifacts
 data/raw/

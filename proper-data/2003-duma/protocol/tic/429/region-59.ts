@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки": 27934,
@@ -85,6 +93,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "259200072724",
     "tikName": "Соликамская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки": 10337,
@@ -149,6 +165,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки": 58987,
@@ -247,6 +271,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки": 18174,
@@ -327,6 +359,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "259200072727",
     "tikName": "Усольская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки": 9436,
@@ -393,6 +433,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки": 74913,
@@ -480,6 +528,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки": 19577,
@@ -563,6 +619,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "259200072730",
     "tikName": "Кизеловская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки": 25175,
@@ -629,6 +693,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "259200072731",
     "tikName": "Добрянская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки": 45168,
@@ -721,6 +793,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "259200072732",
     "tikName": "Губахинская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 33110,
@@ -794,6 +874,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "259200072733",
     "tikName": "Гремячинская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки": 14300,
@@ -856,6 +944,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "259200072734",
     "tikName": "Горнозаводская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки": 22383,
@@ -924,6 +1020,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "259200072735",
     "tikName": "Березниковская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в списки": 133352,
@@ -1038,6 +1142,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "259200072744",
     "tikName": "Звездная поселковая",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100095750",
+      "oikName": "Ленинский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в списки": 7382,
@@ -1096,6 +1208,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "259200072746",
     "tikName": "Пермь, Ленинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100095750",
+      "oikName": "Ленинский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки": 41890,
@@ -1177,6 +1297,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "259200072749",
     "tikName": "Пермская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100095750",
+      "oikName": "Ленинский"
+    },
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в списки": 64361,
@@ -1291,6 +1419,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "uikCount": 91,
     "accounting": {
       "Число избирателей, включенных в списки": 174371,
@@ -1434,6 +1570,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки": 84925,
@@ -1536,6 +1680,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "uikCount": 74,
     "accounting": {
       "Число избирателей, включенных в списки": 132437,
@@ -1662,6 +1814,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки": 55445,
@@ -1754,6 +1914,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "259200072756",
     "tikName": "Ильинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 15810,
@@ -1830,6 +1998,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300266782",
     "tikName": "Бардымская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки": 19709,
@@ -1925,6 +2101,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300266784",
     "tikName": "Березовская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки": 12918,
@@ -2014,6 +2198,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300266786",
     "tikName": "Большесосновская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки": 11247,
@@ -2082,6 +2274,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300266788",
     "tikName": "Верещагинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки": 32960,
@@ -2168,6 +2368,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300266790",
     "tikName": "Еловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки": 9078,
@@ -2230,6 +2438,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300266792",
     "tikName": "Кишертская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 11631,
@@ -2303,6 +2519,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300266794",
     "tikName": "Куединская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки": 22429,
@@ -2393,6 +2617,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки": 51472,
@@ -2469,6 +2701,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в списки": 67725,
@@ -2567,6 +2807,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки": 24739,
@@ -2661,6 +2909,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 12047,
@@ -2733,6 +2989,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 24473,
@@ -2810,6 +3074,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300266806",
     "tikName": "Оханская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки": 12126,
@@ -2872,6 +3144,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки": 18819,
@@ -2948,6 +3228,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 16529,
@@ -3021,6 +3309,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300266812",
     "tikName": "Уинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 9094,
@@ -3093,6 +3389,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300266814",
     "tikName": "Чайковская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в списки": 81434,
@@ -3190,6 +3494,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300266816",
     "tikName": "Частинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки": 10018,
@@ -3259,6 +3571,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300266818",
     "tikName": "Чернушинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки": 39262,
@@ -3347,6 +3667,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300266820",
     "tikName": "Кунгурская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100095749",
+      "oikName": "Кунгурский"
+    },
     "uikCount": 59,
     "accounting": {
       "Число избирателей, включенных в списки": 31743,
@@ -3455,6 +3783,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300366979",
     "tikName": "Карагайская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100095750",
+      "oikName": "Ленинский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 17554,
@@ -3533,6 +3869,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300366980",
     "tikName": "Нытвенская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100095750",
+      "oikName": "Ленинский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки": 35913,
@@ -3617,6 +3961,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300366982",
     "tikName": "Пермь, Дзержинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100095750",
+      "oikName": "Ленинский"
+    },
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в списки": 115704,
@@ -3731,6 +4083,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300366983",
     "tikName": "Пермь, Индустриальная",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100095750",
+      "oikName": "Ленинский"
+    },
     "uikCount": 64,
     "accounting": {
       "Число избирателей, включенных в списки": 116846,
@@ -3847,6 +4207,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300366984",
     "tikName": "Пермь, Кировская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100095750",
+      "oikName": "Ленинский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в списки": 100033,
@@ -3954,6 +4322,14 @@ export const duma_2003_tic_429_region_59 = [
     "ballot": "single-member",
     "tikTvd": "359300366986",
     "tikName": "Сивинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100095750",
+      "oikName": "Ленинский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 12002,

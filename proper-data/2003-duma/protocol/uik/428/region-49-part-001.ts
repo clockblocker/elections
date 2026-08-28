@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "249200068450",
+    "uikName": "УИК  91",
     "tikTvd": "249200066626",
     "tikName": "Северо-Эвенская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1500,
       "Число бюллетеней, полученных участковыми комиссиями": 1404,
@@ -63,8 +72,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "249200068451",
+    "uikName": "УИК  92",
     "tikTvd": "249200066626",
     "tikName": "Северо-Эвенская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 386,
       "Число бюллетеней, полученных участковыми комиссиями": 398,
@@ -115,8 +133,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "249200068452",
+    "uikName": "УИК  93",
     "tikTvd": "249200066626",
     "tikName": "Северо-Эвенская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 157,
@@ -167,8 +194,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "249200068453",
+    "uikName": "УИК  95",
     "tikTvd": "249200066626",
     "tikName": "Северо-Эвенская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 163,
@@ -219,8 +255,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "249200068454",
+    "uikName": "УИК  96",
     "tikTvd": "249200066626",
     "tikName": "Северо-Эвенская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -271,8 +316,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "249200068455",
+    "uikName": "УИК  97",
     "tikTvd": "249200066626",
     "tikName": "Северо-Эвенская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 158,
@@ -323,8 +377,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "449400266802",
+    "uikName": "УИК  71",
     "tikTvd": "249200067022",
     "tikName": "Ольская ",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 281,
       "Число бюллетеней, полученных участковыми комиссиями": 283,
@@ -375,8 +438,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "449400266803",
+    "uikName": "УИК  72",
     "tikTvd": "249200067022",
     "tikName": "Ольская ",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 104,
@@ -427,8 +499,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "449400266804",
+    "uikName": "УИК  73",
     "tikTvd": "249200067022",
     "tikName": "Ольская ",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 536,
       "Число бюллетеней, полученных участковыми комиссиями": 536,
@@ -479,8 +560,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "449400266805",
+    "uikName": "УИК  74",
     "tikTvd": "249200067022",
     "tikName": "Ольская ",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 403,
       "Число бюллетеней, полученных участковыми комиссиями": 394,
@@ -531,8 +621,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "449400266806",
+    "uikName": "УИК  75",
     "tikTvd": "249200067022",
     "tikName": "Ольская ",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1425,
       "Число бюллетеней, полученных участковыми комиссиями": 1405,
@@ -583,8 +682,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "449400266807",
+    "uikName": "УИК  76",
     "tikTvd": "249200067022",
     "tikName": "Ольская ",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1766,
       "Число бюллетеней, полученных участковыми комиссиями": 1758,
@@ -635,8 +743,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "449400266808",
+    "uikName": "УИК  77",
     "tikTvd": "249200067022",
     "tikName": "Ольская ",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1204,
       "Число бюллетеней, полученных участковыми комиссиями": 1153,
@@ -687,8 +804,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "449400266809",
+    "uikName": "УИК  78",
     "tikTvd": "249200067022",
     "tikName": "Ольская ",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1290,
       "Число бюллетеней, полученных участковыми комиссиями": 1129,
@@ -739,8 +865,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "449400366617",
+    "uikName": "УИК  86",
     "tikTvd": "249200067024",
     "tikName": "Омсукчанская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1602,
       "Число бюллетеней, полученных участковыми комиссиями": 1558,
@@ -791,8 +926,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "449400366618",
+    "uikName": "УИК  87",
     "tikTvd": "249200067024",
     "tikName": "Омсукчанская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1690,
       "Число бюллетеней, полученных участковыми комиссиями": 1729,
@@ -843,8 +987,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "449400366619",
+    "uikName": "УИК  88",
     "tikTvd": "249200067024",
     "tikName": "Омсукчанская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1095,
       "Число бюллетеней, полученных участковыми комиссиями": 1042,
@@ -895,8 +1048,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "449400366620",
+    "uikName": "УИК  89",
     "tikTvd": "249200067024",
     "tikName": "Омсукчанская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 113,
       "Число бюллетеней, полученных участковыми комиссиями": 98,
@@ -947,8 +1109,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "449400366621",
+    "uikName": "УИК  90",
     "tikTvd": "249200067024",
     "tikName": "Омсукчанская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 117,
@@ -999,8 +1170,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "449400566710",
+    "uikName": "УИК  98",
     "tikTvd": "249200067026",
     "tikName": "Среднеканская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1513,
       "Число бюллетеней, полученных участковыми комиссиями": 1517,
@@ -1051,8 +1231,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "449400566711",
+    "uikName": "УИК  99",
     "tikTvd": "249200067026",
     "tikName": "Среднеканская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1451,
       "Число бюллетеней, полученных участковыми комиссиями": 1439,
@@ -1103,8 +1292,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "449400566820",
+    "uikName": "УИК  101",
     "tikTvd": "249200067026",
     "tikName": "Среднеканская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 381,
       "Число бюллетеней, полученных участковыми комиссиями": 389,
@@ -1155,8 +1353,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "449400566713",
+    "uikName": "УИК  102",
     "tikTvd": "249200067026",
     "tikName": "Среднеканская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 491,
       "Число бюллетеней, полученных участковыми комиссиями": 526,
@@ -1207,8 +1414,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "449400566714",
+    "uikName": "УИК  103",
     "tikTvd": "249200067026",
     "tikName": "Среднеканская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 366,
       "Число бюллетеней, полученных участковыми комиссиями": 353,
@@ -1259,8 +1475,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "449400666704",
+    "uikName": "УИК №104",
     "tikTvd": "249200067028",
     "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2675,
       "Число бюллетеней, полученных участковыми комиссиями": 2649,
@@ -1311,8 +1536,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "449400666706",
+    "uikName": "УИК №105",
     "tikTvd": "249200067028",
     "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1526,
       "Число бюллетеней, полученных участковыми комиссиями": 1496,
@@ -1363,8 +1597,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "449400666708",
+    "uikName": "УИК №106",
     "tikTvd": "249200067028",
     "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 390,
       "Число бюллетеней, полученных участковыми комиссиями": 376,
@@ -1415,8 +1658,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "449400666710",
+    "uikName": "УИК №107",
     "tikTvd": "249200067028",
     "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 720,
       "Число бюллетеней, полученных участковыми комиссиями": 726,
@@ -1467,8 +1719,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "449400666712",
+    "uikName": "УИК №109",
     "tikTvd": "249200067028",
     "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 394,
@@ -1519,8 +1780,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "449400666714",
+    "uikName": "УИК №111",
     "tikTvd": "249200067028",
     "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 87,
@@ -1571,8 +1841,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "449400666716",
+    "uikName": "УИК №112",
     "tikTvd": "249200067028",
     "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 862,
       "Число бюллетеней, полученных участковыми комиссиями": 871,
@@ -1623,8 +1902,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "449400666718",
+    "uikName": "УИК №114",
     "tikTvd": "249200067028",
     "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 60,
       "Число бюллетеней, полученных участковыми комиссиями": 69,
@@ -1675,8 +1963,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "449400666720",
+    "uikName": "УИК №116",
     "tikTvd": "249200067028",
     "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 132,
@@ -1727,8 +2024,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "449400666722",
+    "uikName": "УИК №117",
     "tikTvd": "249200067028",
     "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1393,
       "Число бюллетеней, полученных участковыми комиссиями": 1290,
@@ -1779,8 +2085,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "449400666724",
+    "uikName": "УИК №118",
     "tikTvd": "249200067028",
     "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -1831,8 +2146,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "449400666726",
+    "uikName": "УИК №120",
     "tikTvd": "249200067028",
     "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 65,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -1883,8 +2207,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "449400766796",
+    "uikName": "УИК №122",
     "tikTvd": "249200067030",
     "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -1935,8 +2268,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "449400766797",
+    "uikName": "УИК №123",
     "tikTvd": "249200067030",
     "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1982,
       "Число бюллетеней, полученных участковыми комиссиями": 1954,
@@ -1987,8 +2329,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "449400766798",
+    "uikName": "УИК №124",
     "tikTvd": "249200067030",
     "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1828,
       "Число бюллетеней, полученных участковыми комиссиями": 1808,
@@ -2039,8 +2390,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "449400766799",
+    "uikName": "УИК №125",
     "tikTvd": "249200067030",
     "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -2091,8 +2451,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "449400766800",
+    "uikName": "УИК №126",
     "tikTvd": "249200067030",
     "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 95,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -2143,8 +2512,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "449400766801",
+    "uikName": "УИК №127",
     "tikTvd": "249200067030",
     "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 504,
       "Число бюллетеней, полученных участковыми комиссиями": 511,
@@ -2195,8 +2573,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "449400766802",
+    "uikName": "УИК №128",
     "tikTvd": "249200067030",
     "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 548,
       "Число бюллетеней, полученных участковыми комиссиями": 532,
@@ -2247,8 +2634,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "449400766803",
+    "uikName": "УИК №129",
     "tikTvd": "249200067030",
     "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 319,
       "Число бюллетеней, полученных участковыми комиссиями": 315,
@@ -2299,8 +2695,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "449400766804",
+    "uikName": "УИК №130",
     "tikTvd": "249200067030",
     "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 166,
@@ -2351,8 +2756,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "449400766805",
+    "uikName": "УИК №131",
     "tikTvd": "249200067030",
     "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -2403,8 +2817,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "449400866708",
+    "uikName": "УИК  136",
     "tikTvd": "249200067032",
     "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1706,
       "Число бюллетеней, полученных участковыми комиссиями": 1686,
@@ -2455,8 +2878,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "449400866709",
+    "uikName": "УИК  137",
     "tikTvd": "249200067032",
     "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 547,
       "Число бюллетеней, полученных участковыми комиссиями": 552,
@@ -2507,8 +2939,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "449400866710",
+    "uikName": "УИК  138",
     "tikTvd": "249200067032",
     "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1097,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -2559,8 +3000,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "449400866711",
+    "uikName": "УИК  139",
     "tikTvd": "249200067032",
     "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1423,
       "Число бюллетеней, полученных участковыми комиссиями": 1410,
@@ -2611,8 +3061,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "449400866712",
+    "uikName": "УИК  140",
     "tikTvd": "249200067032",
     "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1444,
       "Число бюллетеней, полученных участковыми комиссиями": 1485,
@@ -2663,8 +3122,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "449400866713",
+    "uikName": "УИК  142",
     "tikTvd": "249200067032",
     "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 606,
       "Число бюллетеней, полученных участковыми комиссиями": 644,
@@ -2715,8 +3183,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "449400866714",
+    "uikName": "УИК  143",
     "tikTvd": "249200067032",
     "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 456,
       "Число бюллетеней, полученных участковыми комиссиями": 475,
@@ -2767,8 +3244,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "449400866715",
+    "uikName": "УИК  144",
     "tikTvd": "249200067032",
     "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 574,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -2819,8 +3305,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "449400966622",
+    "uikName": "УИК  147",
     "tikTvd": "249200067034",
     "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 402,
       "Число бюллетеней, полученных участковыми комиссиями": 453,
@@ -2871,8 +3366,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "449400966623",
+    "uikName": "УИК  150",
     "tikTvd": "249200067034",
     "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 407,
       "Число бюллетеней, полученных участковыми комиссиями": 413,
@@ -2923,8 +3427,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "449400966624",
+    "uikName": "УИК  151",
     "tikTvd": "249200067034",
     "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2005,
       "Число бюллетеней, полученных участковыми комиссиями": 1966,
@@ -2975,8 +3488,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "449400966625",
+    "uikName": "УИК  152",
     "tikTvd": "249200067034",
     "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1920,
       "Число бюллетеней, полученных участковыми комиссиями": 1865,
@@ -3027,8 +3549,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "449400966626",
+    "uikName": "УИК  153",
     "tikTvd": "249200067034",
     "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 406,
       "Число бюллетеней, полученных участковыми комиссиями": 391,
@@ -3079,8 +3610,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "449400966627",
+    "uikName": "УИК  154",
     "tikTvd": "249200067034",
     "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 664,
       "Число бюллетеней, полученных участковыми комиссиями": 672,
@@ -3131,8 +3671,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "449400966628",
+    "uikName": "УИК  155",
     "tikTvd": "249200067034",
     "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1377,
       "Число бюллетеней, полученных участковыми комиссиями": 1342,
@@ -3183,8 +3732,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "449400966629",
+    "uikName": "УИК  156",
     "tikTvd": "249200067034",
     "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1957,
       "Число бюллетеней, полученных участковыми комиссиями": 1901,
@@ -3235,8 +3793,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "449400966630",
+    "uikName": "УИК  157",
     "tikTvd": "249200067034",
     "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 620,
       "Число бюллетеней, полученных участковыми комиссиями": 655,
@@ -3287,8 +3854,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "449400966631",
+    "uikName": "УИК  158",
     "tikTvd": "249200067034",
     "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1838,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -3339,8 +3915,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "449401066658",
+    "uikName": "УИК  79",
     "tikTvd": "249200067036",
     "tikName": "Арманская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1326,
       "Число бюллетеней, полученных участковыми комиссиями": 1312,
@@ -3391,8 +3976,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "449401066660",
+    "uikName": "УИК  80",
     "tikTvd": "249200067036",
     "tikName": "Арманская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 70,
       "Число бюллетеней, полученных участковыми комиссиями": 63,
@@ -3443,8 +4037,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "449401066661",
+    "uikName": "УИК  81",
     "tikTvd": "249200067036",
     "tikName": "Арманская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 95,
       "Число бюллетеней, полученных участковыми комиссиями": 97,
@@ -3495,8 +4098,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "449401066662",
+    "uikName": "УИК  82",
     "tikTvd": "249200067036",
     "tikName": "Арманская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 520,
       "Число бюллетеней, полученных участковыми комиссиями": 505,
@@ -3547,8 +4159,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "449401066663",
+    "uikName": "УИК  83",
     "tikTvd": "249200067036",
     "tikName": "Арманская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 356,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -3599,8 +4220,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "449401066664",
+    "uikName": "УИК  84",
     "tikTvd": "249200067036",
     "tikName": "Арманская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 542,
       "Число бюллетеней, полученных участковыми комиссиями": 539,
@@ -3651,8 +4281,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "449400166721",
+    "uikName": "УИК  1",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2368,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -3703,8 +4342,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "449400166722",
+    "uikName": "УИК  2",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2162,
       "Число бюллетеней, полученных участковыми комиссиями": 1918,
@@ -3755,8 +4403,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "449400166723",
+    "uikName": "УИК  3",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2324,
       "Число бюллетеней, полученных участковыми комиссиями": 2330,
@@ -3807,8 +4464,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "449400166724",
+    "uikName": "УИК  4",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1824,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -3859,8 +4525,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "449400166725",
+    "uikName": "УИК  5",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1985,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -3911,8 +4586,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "449400166726",
+    "uikName": "УИК  6",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2011,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -3963,8 +4647,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "449400166727",
+    "uikName": "УИК  7",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 708,
       "Число бюллетеней, полученных участковыми комиссиями": 710,
@@ -4015,8 +4708,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "449400166728",
+    "uikName": "УИК  8",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2279,
       "Число бюллетеней, полученных участковыми комиссиями": 2305,
@@ -4067,8 +4769,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "449400166729",
+    "uikName": "УИК  9",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2652,
       "Число бюллетеней, полученных участковыми комиссиями": 2638,
@@ -4119,8 +4830,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "449400166730",
+    "uikName": "УИК  10",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2078,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -4171,8 +4891,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "449400166731",
+    "uikName": "УИК  11",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2807,
       "Число бюллетеней, полученных участковыми комиссиями": 2810,
@@ -4223,8 +4952,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "449400166732",
+    "uikName": "УИК  12",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1692,
       "Число бюллетеней, полученных участковыми комиссиями": 1694,
@@ -4275,8 +5013,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "449400166733",
+    "uikName": "УИК  13",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2685,
       "Число бюллетеней, полученных участковыми комиссиями": 2620,
@@ -4327,8 +5074,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "449400166734",
+    "uikName": "УИК  14",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2960,
       "Число бюллетеней, полученных участковыми комиссиями": 2920,
@@ -4379,8 +5135,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "449400166735",
+    "uikName": "УИК  15",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2647,
       "Число бюллетеней, полученных участковыми комиссиями": 2618,
@@ -4431,8 +5196,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "449400166736",
+    "uikName": "УИК  16",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2853,
       "Число бюллетеней, полученных участковыми комиссиями": 2879,
@@ -4483,8 +5257,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "449400166737",
+    "uikName": "УИК  17",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2134,
       "Число бюллетеней, полученных участковыми комиссиями": 2144,
@@ -4535,8 +5318,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "449400166738",
+    "uikName": "УИК  18",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1623,
       "Число бюллетеней, полученных участковыми комиссиями": 1615,
@@ -4587,8 +5379,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "449400166739",
+    "uikName": "УИК  19",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1015,
       "Число бюллетеней, полученных участковыми комиссиями": 957,
@@ -4639,8 +5440,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "449400166740",
+    "uikName": "УИК  20",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1189,
       "Число бюллетеней, полученных участковыми комиссиями": 1179,
@@ -4691,8 +5501,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "449400166741",
+    "uikName": "УИК  21",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2336,
       "Число бюллетеней, полученных участковыми комиссиями": 2328,
@@ -4743,8 +5562,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "449400166742",
+    "uikName": "УИК  22",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2483,
       "Число бюллетеней, полученных участковыми комиссиями": 2504,
@@ -4795,8 +5623,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "449400166743",
+    "uikName": "УИК  23",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1991,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4847,8 +5684,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "449400166744",
+    "uikName": "УИК  24",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1295,
       "Число бюллетеней, полученных участковыми комиссиями": 1290,
@@ -4899,8 +5745,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "449400166745",
+    "uikName": "УИК  25",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2629,
       "Число бюллетеней, полученных участковыми комиссиями": 2530,
@@ -4951,8 +5806,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "449400166746",
+    "uikName": "УИК  26",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2392,
       "Число бюллетеней, полученных участковыми комиссиями": 2376,
@@ -5003,8 +5867,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "449400166747",
+    "uikName": "УИК  27",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 720,
       "Число бюллетеней, полученных участковыми комиссиями": 716,
@@ -5055,8 +5928,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "449400166748",
+    "uikName": "УИК  28",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1633,
       "Число бюллетеней, полученных участковыми комиссиями": 1629,
@@ -5107,8 +5989,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "449400166749",
+    "uikName": "УИК  29",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2490,
       "Число бюллетеней, полученных участковыми комиссиями": 2469,
@@ -5159,8 +6050,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "449400166750",
+    "uikName": "УИК  30",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2480,
       "Число бюллетеней, полученных участковыми комиссиями": 2470,
@@ -5211,8 +6111,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "449400166751",
+    "uikName": "УИК  31",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2549,
       "Число бюллетеней, полученных участковыми комиссиями": 2545,
@@ -5263,8 +6172,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "449400166752",
+    "uikName": "УИК  32",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2687,
       "Число бюллетеней, полученных участковыми комиссиями": 2680,
@@ -5315,8 +6233,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "449400166753",
+    "uikName": "УИК  33",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2761,
       "Число бюллетеней, полученных участковыми комиссиями": 2766,
@@ -5367,8 +6294,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "449400166754",
+    "uikName": "УИК  34",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2430,
       "Число бюллетеней, полученных участковыми комиссиями": 2225,
@@ -5419,8 +6355,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "449400166755",
+    "uikName": "УИК  35",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -5471,8 +6416,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "449400166756",
+    "uikName": "УИК  36",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 315,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -5523,8 +6477,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "449400166757",
+    "uikName": "УИК  37",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 649,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -5575,8 +6538,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "449400166758",
+    "uikName": "УИК  38",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1198,
       "Число бюллетеней, полученных участковыми комиссиями": 1189,
@@ -5627,8 +6599,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "449400166759",
+    "uikName": "УИК  39",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 442,
       "Число бюллетеней, полученных участковыми комиссиями": 428,
@@ -5679,8 +6660,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "449400166760",
+    "uikName": "УИК  40",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1379,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5731,8 +6721,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "449400166761",
+    "uikName": "УИК  41",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2183,
       "Число бюллетеней, полученных участковыми комиссиями": 2165,
@@ -5783,8 +6782,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "449400166762",
+    "uikName": "УИК  42",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1818,
       "Число бюллетеней, полученных участковыми комиссиями": 1798,
@@ -5835,8 +6843,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "449400166763",
+    "uikName": "УИК  43",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 380,
       "Число бюллетеней, полученных участковыми комиссиями": 434,
@@ -5887,8 +6904,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "449400166764",
+    "uikName": "УИК  44",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1609,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5939,8 +6965,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "449400166765",
+    "uikName": "УИК  45",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2367,
       "Число бюллетеней, полученных участковыми комиссиями": 2365,
@@ -5991,8 +7026,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "449400166766",
+    "uikName": "УИК  46",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -6043,8 +7087,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "449400166767",
+    "uikName": "УИК  159",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 27,
       "Число бюллетеней, полученных участковыми комиссиями": 27,
@@ -6095,8 +7148,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "449400166768",
+    "uikName": "УИК  160",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 7,
       "Число бюллетеней, полученных участковыми комиссиями": 7,
@@ -6147,8 +7209,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "449400166769",
+    "uikName": "УИК  161",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 23,
       "Число бюллетеней, полученных участковыми комиссиями": 23,
@@ -6199,8 +7270,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "449400166771",
+    "uikName": "УИК  163",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 70,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -6251,8 +7331,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "449400166772",
+    "uikName": "УИК  164",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 25,
@@ -6303,8 +7392,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "449400166773",
+    "uikName": "УИК  165",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 26,
       "Число бюллетеней, полученных участковыми комиссиями": 26,
@@ -6355,8 +7453,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "449400166775",
+    "uikName": "УИК  167",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 20,
       "Число бюллетеней, полученных участковыми комиссиями": 20,
@@ -6407,8 +7514,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "449400166776",
+    "uikName": "УИК  168",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 25,
@@ -6459,8 +7575,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "449400166777",
+    "uikName": "УИК  169",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3,
       "Число бюллетеней, полученных участковыми комиссиями": 3,
@@ -6511,8 +7636,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "449400166778",
+    "uikName": "УИК  170",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 22,
       "Число бюллетеней, полученных участковыми комиссиями": 22,
@@ -6563,8 +7697,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "449400166779",
+    "uikName": "УИК  171",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 16,
       "Число бюллетеней, полученных участковыми комиссиями": 16,
@@ -6615,8 +7758,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "449400166780",
+    "uikName": "УИК  172",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 5,
       "Число бюллетеней, полученных участковыми комиссиями": 5,
@@ -6667,8 +7819,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "449400166781",
+    "uikName": "УИК  173",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 19,
       "Число бюллетеней, полученных участковыми комиссиями": 19,
@@ -6719,8 +7880,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "449400166782",
+    "uikName": "УИК  174",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 19,
       "Число бюллетеней, полученных участковыми комиссиями": 19,
@@ -6771,8 +7941,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "449400166783",
+    "uikName": "УИК  175",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 24,
       "Число бюллетеней, полученных участковыми комиссиями": 24,
@@ -6823,8 +8002,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "449400166785",
+    "uikName": "УИК  177",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 8,
       "Число бюллетеней, полученных участковыми комиссиями": 8,
@@ -6875,8 +8063,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "449400166787",
+    "uikName": "УИК  179",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 11,
       "Число бюллетеней, полученных участковыми комиссиями": 11,
@@ -6927,8 +8124,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "449400166788",
+    "uikName": "УИК  180",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 15,
       "Число бюллетеней, полученных участковыми комиссиями": 15,
@@ -6979,8 +8185,17 @@ export const duma_2003_uik_428_region_49_part_001 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "449400166901",
+    "uikName": "УИК  181",
     "tikTvd": "249200067468",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100095823",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100095824",
+      "oikName": "Магаданский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 13,
       "Число бюллетеней, полученных участковыми комиссиями": 13,

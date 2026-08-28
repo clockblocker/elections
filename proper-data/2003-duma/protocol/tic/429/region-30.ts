@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_30 = [
     "ballot": "single-member",
     "tikTvd": "230200072463",
     "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки": 59424,
@@ -114,6 +122,14 @@ export const duma_2003_tic_429_region_30 = [
     "ballot": "single-member",
     "tikTvd": "230200072464",
     "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "uikCount": 74,
     "accounting": {
       "Число избирателей, включенных в списки": 112880,
@@ -241,6 +257,14 @@ export const duma_2003_tic_429_region_30 = [
     "ballot": "single-member",
     "tikTvd": "230200072465",
     "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "uikCount": 75,
     "accounting": {
       "Число избирателей, включенных в списки": 100926,
@@ -369,6 +393,14 @@ export const duma_2003_tic_429_region_30 = [
     "ballot": "single-member",
     "tikTvd": "230200072466",
     "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в списки": 78161,
@@ -478,6 +510,14 @@ export const duma_2003_tic_429_region_30 = [
     "ballot": "single-member",
     "tikTvd": "230200072467",
     "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "uikCount": 61,
     "accounting": {
       "Число избирателей, включенных в списки": 78970,
@@ -592,6 +632,14 @@ export const duma_2003_tic_429_region_30 = [
     "ballot": "single-member",
     "tikTvd": "230200072468",
     "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 30837,
@@ -673,6 +721,14 @@ export const duma_2003_tic_429_region_30 = [
     "ballot": "single-member",
     "tikTvd": "230200072469",
     "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 29379,
@@ -752,6 +808,14 @@ export const duma_2003_tic_429_region_30 = [
     "ballot": "single-member",
     "tikTvd": "230200072470",
     "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 25179,
@@ -831,6 +895,14 @@ export const duma_2003_tic_429_region_30 = [
     "ballot": "single-member",
     "tikTvd": "230200072471",
     "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки": 26404,
@@ -920,6 +992,14 @@ export const duma_2003_tic_429_region_30 = [
     "ballot": "single-member",
     "tikTvd": "230200072472",
     "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в списки": 37565,
@@ -1028,6 +1108,14 @@ export const duma_2003_tic_429_region_30 = [
     "ballot": "single-member",
     "tikTvd": "230200072473",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки": 32447,
@@ -1114,6 +1202,14 @@ export const duma_2003_tic_429_region_30 = [
     "ballot": "single-member",
     "tikTvd": "230200072474",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки": 20478,
@@ -1188,6 +1284,14 @@ export const duma_2003_tic_429_region_30 = [
     "ballot": "single-member",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки": 33557,
@@ -1284,6 +1388,14 @@ export const duma_2003_tic_429_region_30 = [
     "ballot": "single-member",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки": 36964,
@@ -1376,6 +1488,14 @@ export const duma_2003_tic_429_region_30 = [
     "ballot": "single-member",
     "tikTvd": "230200072477",
     "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки": 26498,
@@ -1441,6 +1561,14 @@ export const duma_2003_tic_429_region_30 = [
     "ballot": "single-member",
     "tikTvd": "230200072478",
     "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в списки": 15274,

@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 674,
     "uikTvd": "428401866906",
+    "uikName": "УИК №674",
     "tikTvd": "228200066710",
     "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 724,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -64,8 +73,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 675,
     "uikTvd": "428401866907",
+    "uikName": "УИК №675",
     "tikTvd": "228200066710",
     "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 361,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -117,8 +135,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 676,
     "uikTvd": "428401866908",
+    "uikName": "УИК №676",
     "tikTvd": "228200066710",
     "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 782,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -170,8 +197,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 677,
     "uikTvd": "428401866909",
+    "uikName": "УИК №677",
     "tikTvd": "228200066710",
     "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 536,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -223,8 +259,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 678,
     "uikTvd": "428401866910",
+    "uikName": "УИК №678",
     "tikTvd": "228200066710",
     "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1064,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -276,8 +321,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 679,
     "uikTvd": "428401866911",
+    "uikName": "УИК №679",
     "tikTvd": "228200066710",
     "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1121,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -329,8 +383,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 680,
     "uikTvd": "428401866912",
+    "uikName": "УИК №680",
     "tikTvd": "228200066710",
     "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1337,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -382,8 +445,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 681,
     "uikTvd": "428401866913",
+    "uikName": "УИК №681",
     "tikTvd": "228200066710",
     "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 295,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -435,8 +507,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 682,
     "uikTvd": "428401866914",
+    "uikName": "УИК №682",
     "tikTvd": "228200066710",
     "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -488,8 +569,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 683,
     "uikTvd": "428401866915",
+    "uikName": "УИК №683",
     "tikTvd": "228200066710",
     "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -541,8 +631,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 684,
     "uikTvd": "428401866916",
+    "uikName": "УИК №684",
     "tikTvd": "228200066710",
     "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 799,
       "Число бюллетеней, полученных участковыми комиссиями": 799,
@@ -594,8 +693,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 685,
     "uikTvd": "428401866917",
+    "uikName": "УИК №685",
     "tikTvd": "228200066710",
     "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 254,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -647,8 +755,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 686,
     "uikTvd": "428401866918",
+    "uikName": "УИК №686",
     "tikTvd": "228200066710",
     "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 295,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -700,8 +817,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 687,
     "uikTvd": "428401866919",
+    "uikName": "УИК №687",
     "tikTvd": "228200066710",
     "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 61,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -753,8 +879,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 688,
     "uikTvd": "428401866920",
+    "uikName": "УИК №688",
     "tikTvd": "228200066710",
     "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 248,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -806,8 +941,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "428401666708",
+    "uikName": "УИК №603",
     "tikTvd": "228200066711",
     "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 620,
       "Число бюллетеней, полученных участковыми комиссиями": 588,
@@ -859,8 +1003,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "428401666709",
+    "uikName": "УИК №604",
     "tikTvd": "228200066711",
     "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 93,
@@ -912,8 +1065,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "428401666710",
+    "uikName": "УИК №605",
     "tikTvd": "228200066711",
     "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -965,8 +1127,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "428401666711",
+    "uikName": "УИК №606",
     "tikTvd": "228200066711",
     "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 936,
       "Число бюллетеней, полученных участковыми комиссиями": 961,
@@ -1018,8 +1189,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "428401666712",
+    "uikName": "УИК №607",
     "tikTvd": "228200066711",
     "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 790,
       "Число бюллетеней, полученных участковыми комиссиями": 822,
@@ -1071,8 +1251,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "428401666713",
+    "uikName": "УИК №608",
     "tikTvd": "228200066711",
     "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 360,
       "Число бюллетеней, полученных участковыми комиссиями": 364,
@@ -1124,8 +1313,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "428401666714",
+    "uikName": "УИК №609",
     "tikTvd": "228200066711",
     "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 315,
       "Число бюллетеней, полученных участковыми комиссиями": 342,
@@ -1177,8 +1375,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "428401666715",
+    "uikName": "УИК №610",
     "tikTvd": "228200066711",
     "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 723,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -1230,8 +1437,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "428401666716",
+    "uikName": "УИК №611",
     "tikTvd": "228200066711",
     "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 217,
@@ -1283,8 +1499,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "428401666717",
+    "uikName": "УИК №612",
     "tikTvd": "228200066711",
     "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 185,
       "Число бюллетеней, полученных участковыми комиссиями": 167,
@@ -1336,8 +1561,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "428401666718",
+    "uikName": "УИК №613",
     "tikTvd": "228200066711",
     "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 137,
@@ -1389,8 +1623,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "428401666719",
+    "uikName": "УИК №614",
     "tikTvd": "228200066711",
     "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1068,
       "Число бюллетеней, полученных участковыми комиссиями": 1039,
@@ -1442,8 +1685,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "428401666720",
+    "uikName": "УИК №615",
     "tikTvd": "228200066711",
     "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1836,
       "Число бюллетеней, полученных участковыми комиссиями": 1731,
@@ -1495,8 +1747,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "428401666721",
+    "uikName": "УИК №616",
     "tikTvd": "228200066711",
     "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 388,
       "Число бюллетеней, полученных участковыми комиссиями": 404,
@@ -1548,8 +1809,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "428401666722",
+    "uikName": "УИК №617",
     "tikTvd": "228200066711",
     "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 311,
@@ -1601,8 +1871,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "428401766747",
+    "uikName": "УИК №618",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 555,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -1654,8 +1933,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "428401766748",
+    "uikName": "УИК №619",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 338,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -1707,8 +1995,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 620,
     "uikTvd": "428401766749",
+    "uikName": "УИК №620",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 575,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -1760,8 +2057,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "428401766750",
+    "uikName": "УИК №621",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 129,
@@ -1813,8 +2119,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "428401766751",
+    "uikName": "УИК №622",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -1866,8 +2181,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "428401766752",
+    "uikName": "УИК №623",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 66,
       "Число бюллетеней, полученных участковыми комиссиями": 64,
@@ -1919,8 +2243,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "428401766753",
+    "uikName": "УИК №624",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 498,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -1972,8 +2305,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "428401766754",
+    "uikName": "УИК №625",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 87,
       "Число бюллетеней, полученных участковыми комиссиями": 87,
@@ -2025,8 +2367,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "428401766755",
+    "uikName": "УИК №626",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -2078,8 +2429,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "428401766756",
+    "uikName": "УИК №627",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 928,
       "Число бюллетеней, полученных участковыми комиссиями": 930,
@@ -2131,8 +2491,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "428401766757",
+    "uikName": "УИК №628",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 386,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -2184,8 +2553,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "428401766758",
+    "uikName": "УИК №629",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 416,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -2237,8 +2615,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "428401766759",
+    "uikName": "УИК №630",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 44,
       "Число бюллетеней, полученных участковыми комиссиями": 44,
@@ -2290,8 +2677,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 631,
     "uikTvd": "428401766760",
+    "uikName": "УИК №631",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 377,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -2343,8 +2739,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 632,
     "uikTvd": "428401766761",
+    "uikName": "УИК №632",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 433,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -2396,8 +2801,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 633,
     "uikTvd": "428401766762",
+    "uikName": "УИК №633",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 222,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -2449,8 +2863,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 634,
     "uikTvd": "428401766763",
+    "uikName": "УИК №634",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -2502,8 +2925,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 635,
     "uikTvd": "428401766764",
+    "uikName": "УИК №635",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 464,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -2555,8 +2987,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 636,
     "uikTvd": "428401766765",
+    "uikName": "УИК №636",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 494,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -2608,8 +3049,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 637,
     "uikTvd": "428401766766",
+    "uikName": "УИК №637",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -2661,8 +3111,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 638,
     "uikTvd": "428401766767",
+    "uikName": "УИК №638",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 776,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -2714,8 +3173,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 639,
     "uikTvd": "428401766768",
+    "uikName": "УИК №639",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 693,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -2767,8 +3235,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 640,
     "uikTvd": "428401766769",
+    "uikName": "УИК №640",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 265,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -2820,8 +3297,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 641,
     "uikTvd": "428401766770",
+    "uikName": "УИК №641",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 338,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -2873,8 +3359,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 642,
     "uikTvd": "428401766771",
+    "uikName": "УИК №642",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 187,
@@ -2926,8 +3421,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 643,
     "uikTvd": "428401766772",
+    "uikName": "УИК №643",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -2979,8 +3483,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 644,
     "uikTvd": "428401766773",
+    "uikName": "УИК №644",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 571,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -3032,8 +3545,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 645,
     "uikTvd": "428401766774",
+    "uikName": "УИК №645",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 669,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -3085,8 +3607,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 646,
     "uikTvd": "428401766775",
+    "uikName": "УИК №646",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 254,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -3138,8 +3669,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 647,
     "uikTvd": "428401766776",
+    "uikName": "УИК №647",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 249,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -3191,8 +3731,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 648,
     "uikTvd": "428401766777",
+    "uikName": "УИК №648",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 499,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -3244,8 +3793,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 649,
     "uikTvd": "428401766778",
+    "uikName": "УИК №649",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 314,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3297,8 +3855,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 650,
     "uikTvd": "428401766779",
+    "uikName": "УИК №650",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 118,
@@ -3350,8 +3917,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 651,
     "uikTvd": "428401766780",
+    "uikName": "УИК №651",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 241,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -3403,8 +3979,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 652,
     "uikTvd": "428401766781",
+    "uikName": "УИК №652",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3456,8 +4041,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 653,
     "uikTvd": "428401766782",
+    "uikName": "УИК №653",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -3509,8 +4103,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 654,
     "uikTvd": "428401766783",
+    "uikName": "УИК №654",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 78,
       "Число бюллетеней, полученных участковыми комиссиями": 78,
@@ -3562,8 +4165,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 655,
     "uikTvd": "428401766784",
+    "uikName": "УИК №655",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 54,
       "Число бюллетеней, полученных участковыми комиссиями": 52,
@@ -3615,8 +4227,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 656,
     "uikTvd": "428401766785",
+    "uikName": "УИК №656",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1520,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -3668,8 +4289,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 657,
     "uikTvd": "428401766786",
+    "uikName": "УИК №657",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1882,
       "Число бюллетеней, полученных участковыми комиссиями": 1790,
@@ -3721,8 +4351,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 658,
     "uikTvd": "428401766787",
+    "uikName": "УИК №658",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1845,
       "Число бюллетеней, полученных участковыми комиссиями": 1760,
@@ -3774,8 +4413,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 659,
     "uikTvd": "428401766788",
+    "uikName": "УИК №659",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1975,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -3827,8 +4475,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 660,
     "uikTvd": "428401766789",
+    "uikName": "УИК №660",
     "tikTvd": "228200066712",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1261,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3880,8 +4537,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 575,
     "uikTvd": "428401566761",
+    "uikName": "УИК №575",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -3933,8 +4599,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 576,
     "uikTvd": "428401566762",
+    "uikName": "УИК №576",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 393,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -3986,8 +4661,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 577,
     "uikTvd": "428401566763",
+    "uikName": "УИК №577",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1661,
       "Число бюллетеней, полученных участковыми комиссиями": 1870,
@@ -4039,8 +4723,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 578,
     "uikTvd": "428401566764",
+    "uikName": "УИК №578",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2391,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4092,8 +4785,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 579,
     "uikTvd": "428401566765",
+    "uikName": "УИК №579",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1841,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4145,8 +4847,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 580,
     "uikTvd": "428401566766",
+    "uikName": "УИК №580",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2749,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -4198,8 +4909,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 581,
     "uikTvd": "428401566767",
+    "uikName": "УИК №581",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1691,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4251,8 +4971,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 582,
     "uikTvd": "428401566768",
+    "uikName": "УИК №582",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 838,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -4304,8 +5033,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 583,
     "uikTvd": "428401566769",
+    "uikName": "УИК №583",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1836,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4357,8 +5095,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 584,
     "uikTvd": "428401566770",
+    "uikName": "УИК №584",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1017,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4410,8 +5157,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 585,
     "uikTvd": "428401566771",
+    "uikName": "УИК №585",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2269,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4463,8 +5219,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 586,
     "uikTvd": "428401566772",
+    "uikName": "УИК №586",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2367,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4516,8 +5281,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 587,
     "uikTvd": "428401566773",
+    "uikName": "УИК №587",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 855,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -4569,8 +5343,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 588,
     "uikTvd": "428401566774",
+    "uikName": "УИК №588",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1634,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4622,8 +5405,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 589,
     "uikTvd": "428401566775",
+    "uikName": "УИК №589",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2474,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4675,8 +5467,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 590,
     "uikTvd": "428401566776",
+    "uikName": "УИК №590",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2312,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4728,8 +5529,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 591,
     "uikTvd": "428401566777",
+    "uikName": "УИК №591",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2421,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4781,8 +5591,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 592,
     "uikTvd": "428401566778",
+    "uikName": "УИК №592",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1203,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -4834,8 +5653,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 593,
     "uikTvd": "428401566779",
+    "uikName": "УИК №593",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1974,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4887,8 +5715,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 594,
     "uikTvd": "428401566780",
+    "uikName": "УИК №594",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1360,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -4940,8 +5777,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 595,
     "uikTvd": "428401566781",
+    "uikName": "УИК №595",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2142,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4993,8 +5839,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 596,
     "uikTvd": "428401566782",
+    "uikName": "УИК №596",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2371,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5046,8 +5901,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 597,
     "uikTvd": "428401566783",
+    "uikName": "УИК №597",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1909,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5099,8 +5963,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 598,
     "uikTvd": "428401566784",
+    "uikName": "УИК №598",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1269,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -5152,8 +6025,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 599,
     "uikTvd": "428401566785",
+    "uikName": "УИК №599",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2063,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5205,8 +6087,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 600,
     "uikTvd": "428401566786",
+    "uikName": "УИК №600",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1220,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -5258,8 +6149,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "428401566787",
+    "uikName": "УИК №601",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2593,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5311,8 +6211,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "428401566788",
+    "uikName": "УИК №602",
     "tikTvd": "228200066713",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2537,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5364,8 +6273,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 489,
     "uikTvd": "428401366900",
+    "uikName": "УИК №489",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1974,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5417,8 +6335,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 490,
     "uikTvd": "428401366901",
+    "uikName": "УИК №490",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2298,
       "Число бюллетеней, полученных участковыми комиссиями": 2230,
@@ -5470,8 +6397,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 491,
     "uikTvd": "428401366902",
+    "uikName": "УИК №491",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1681,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -5523,8 +6459,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 492,
     "uikTvd": "428401366903",
+    "uikName": "УИК №492",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2933,
       "Число бюллетеней, полученных участковыми комиссиями": 2985,
@@ -5576,8 +6521,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 493,
     "uikTvd": "428401366904",
+    "uikName": "УИК №493",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2919,
       "Число бюллетеней, полученных участковыми комиссиями": 2929,
@@ -5629,8 +6583,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 494,
     "uikTvd": "428401366905",
+    "uikName": "УИК №494",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1497,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5682,8 +6645,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 495,
     "uikTvd": "428401366906",
+    "uikName": "УИК №495",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1826,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5735,8 +6707,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 496,
     "uikTvd": "428401366907",
+    "uikName": "УИК №496",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1678,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -5788,8 +6769,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 497,
     "uikTvd": "428401366908",
+    "uikName": "УИК №497",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 885,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -5841,8 +6831,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 498,
     "uikTvd": "428401366909",
+    "uikName": "УИК №498",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 576,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -5894,8 +6893,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 499,
     "uikTvd": "428401366910",
+    "uikName": "УИК №499",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1270,
       "Число бюллетеней, полученных участковыми комиссиями": 1260,
@@ -5947,8 +6955,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 500,
     "uikTvd": "428401366911",
+    "uikName": "УИК №500",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 647,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -6000,8 +7017,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "428401366912",
+    "uikName": "УИК №501",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 550,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -6053,8 +7079,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "428401366913",
+    "uikName": "УИК №502",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 539,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6106,8 +7141,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 503,
     "uikTvd": "428401366914",
+    "uikName": "УИК №503",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1158,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6159,8 +7203,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 504,
     "uikTvd": "428401366915",
+    "uikName": "УИК №504",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 350,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -6212,8 +7265,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 505,
     "uikTvd": "428401366916",
+    "uikName": "УИК №505",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 417,
       "Число бюллетеней, полученных участковыми комиссиями": 406,
@@ -6265,8 +7327,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "428401366917",
+    "uikName": "УИК №506",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1932,
       "Число бюллетеней, полученных участковыми комиссиями": 1862,
@@ -6318,8 +7389,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 507,
     "uikTvd": "428401366918",
+    "uikName": "УИК №507",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2585,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6371,8 +7451,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 508,
     "uikTvd": "428401366919",
+    "uikName": "УИК №508",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2722,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6424,8 +7513,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 509,
     "uikTvd": "428401366920",
+    "uikName": "УИК №509",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2434,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -6477,8 +7575,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 510,
     "uikTvd": "428401366921",
+    "uikName": "УИК №510",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 888,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -6530,8 +7637,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 511,
     "uikTvd": "428401366922",
+    "uikName": "УИК №511",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 452,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -6583,8 +7699,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 512,
     "uikTvd": "428401366923",
+    "uikName": "УИК №512",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 745,
       "Число бюллетеней, полученных участковыми комиссиями": 685,
@@ -6636,8 +7761,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 513,
     "uikTvd": "428401366924",
+    "uikName": "УИК №513",
     "tikTvd": "228200066714",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1240,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6689,8 +7823,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 514,
     "uikTvd": "428401466771",
+    "uikName": "УИК №514",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 236,
@@ -6742,8 +7885,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 515,
     "uikTvd": "428401466772",
+    "uikName": "УИК №515",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 385,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -6795,8 +7947,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 516,
     "uikTvd": "428401466773",
+    "uikName": "УИК №516",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 113,
@@ -6848,8 +8009,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 517,
     "uikTvd": "428401466774",
+    "uikName": "УИК №517",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 309,
@@ -6901,8 +8071,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 518,
     "uikTvd": "428401466775",
+    "uikName": "УИК №518",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 102,
@@ -6954,8 +8133,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 519,
     "uikTvd": "428401466776",
+    "uikName": "УИК №519",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 95,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -7007,8 +8195,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 520,
     "uikTvd": "428401466777",
+    "uikName": "УИК №520",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 282,
       "Число бюллетеней, полученных участковыми комиссиями": 285,
@@ -7060,8 +8257,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 521,
     "uikTvd": "428401466778",
+    "uikName": "УИК №521",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 215,
       "Число бюллетеней, полученных участковыми комиссиями": 212,
@@ -7113,8 +8319,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 522,
     "uikTvd": "428401466779",
+    "uikName": "УИК №522",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1432,
       "Число бюллетеней, полученных участковыми комиссиями": 1436,
@@ -7166,8 +8381,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 523,
     "uikTvd": "428401466780",
+    "uikName": "УИК №523",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1391,
       "Число бюллетеней, полученных участковыми комиссиями": 1381,
@@ -7219,8 +8443,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 524,
     "uikTvd": "428401466781",
+    "uikName": "УИК №524",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 224,
@@ -7272,8 +8505,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 525,
     "uikTvd": "428401466782",
+    "uikName": "УИК №525",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 318,
       "Число бюллетеней, полученных участковыми комиссиями": 318,
@@ -7325,8 +8567,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 526,
     "uikTvd": "428401466783",
+    "uikName": "УИК №526",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 543,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -7378,8 +8629,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 527,
     "uikTvd": "428401466784",
+    "uikName": "УИК №527",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 274,
@@ -7431,8 +8691,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 528,
     "uikTvd": "428401466785",
+    "uikName": "УИК №528",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 149,
       "Число бюллетеней, полученных участковыми комиссиями": 153,
@@ -7484,8 +8753,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 529,
     "uikTvd": "428401466786",
+    "uikName": "УИК №529",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 940,
       "Число бюллетеней, полученных участковыми комиссиями": 886,
@@ -7537,8 +8815,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 530,
     "uikTvd": "428401466787",
+    "uikName": "УИК №530",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 678,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -7590,8 +8877,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 531,
     "uikTvd": "428401466788",
+    "uikName": "УИК №531",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 396,
       "Число бюллетеней, полученных участковыми комиссиями": 401,
@@ -7643,8 +8939,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 532,
     "uikTvd": "428401466789",
+    "uikName": "УИК №532",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 133,
@@ -7696,8 +9001,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 533,
     "uikTvd": "428401466790",
+    "uikName": "УИК №533",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 374,
       "Число бюллетеней, полученных участковыми комиссиями": 383,
@@ -7749,8 +9063,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 534,
     "uikTvd": "428401466791",
+    "uikName": "УИК №534",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 80,
       "Число бюллетеней, полученных участковыми комиссиями": 83,
@@ -7802,8 +9125,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 535,
     "uikTvd": "428401466792",
+    "uikName": "УИК №535",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 46,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -7855,8 +9187,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 536,
     "uikTvd": "428401466793",
+    "uikName": "УИК №536",
     "tikTvd": "228200066715",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -7908,8 +9249,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 456,
     "uikTvd": "428401266718",
+    "uikName": "УИК №456",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 507,
       "Число бюллетеней, полученных участковыми комиссиями": 446,
@@ -7961,8 +9311,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 457,
     "uikTvd": "428401266719",
+    "uikName": "УИК №457",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 113,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -8014,8 +9373,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 458,
     "uikTvd": "428401266720",
+    "uikName": "УИК №458",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 252,
       "Число бюллетеней, полученных участковыми комиссиями": 229,
@@ -8067,8 +9435,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 459,
     "uikTvd": "428401266721",
+    "uikName": "УИК №459",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 347,
       "Число бюллетеней, полученных участковыми комиссиями": 308,
@@ -8120,8 +9497,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 460,
     "uikTvd": "428401266722",
+    "uikName": "УИК №460",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 181,
@@ -8173,8 +9559,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 461,
     "uikTvd": "428401266723",
+    "uikName": "УИК №461",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 78,
@@ -8226,8 +9621,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 462,
     "uikTvd": "428401266724",
+    "uikName": "УИК №462",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 151,
@@ -8279,8 +9683,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 463,
     "uikTvd": "428401266725",
+    "uikName": "УИК №463",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 487,
       "Число бюллетеней, полученных участковыми комиссиями": 441,
@@ -8332,8 +9745,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 464,
     "uikTvd": "428401266726",
+    "uikName": "УИК №464",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2021,
       "Число бюллетеней, полученных участковыми комиссиями": 1862,
@@ -8385,8 +9807,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 465,
     "uikTvd": "428401266727",
+    "uikName": "УИК №465",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 145,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -8438,8 +9869,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 466,
     "uikTvd": "428401266728",
+    "uikName": "УИК №466",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 132,
@@ -8491,8 +9931,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 467,
     "uikTvd": "428401266729",
+    "uikName": "УИК №467",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 513,
       "Число бюллетеней, полученных участковыми комиссиями": 448,
@@ -8544,8 +9993,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 468,
     "uikTvd": "428401266730",
+    "uikName": "УИК №468",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -8597,8 +10055,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 469,
     "uikTvd": "428401266731",
+    "uikName": "УИК №469",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 271,
       "Число бюллетеней, полученных участковыми комиссиями": 239,
@@ -8650,8 +10117,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 470,
     "uikTvd": "428401266732",
+    "uikName": "УИК №470",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 84,
@@ -8703,8 +10179,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 471,
     "uikTvd": "428401266733",
+    "uikName": "УИК №471",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 238,
@@ -8756,8 +10241,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "428401266734",
+    "uikName": "УИК №472",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 363,
@@ -8809,8 +10303,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "428401266735",
+    "uikName": "УИК №473",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -8862,8 +10365,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 474,
     "uikTvd": "428401266736",
+    "uikName": "УИК №474",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 114,
       "Число бюллетеней, полученных участковыми комиссиями": 126,
@@ -8915,8 +10427,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 475,
     "uikTvd": "428401266737",
+    "uikName": "УИК №475",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 409,
@@ -8968,8 +10489,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 476,
     "uikTvd": "428401266738",
+    "uikName": "УИК №476",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -9021,8 +10551,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 477,
     "uikTvd": "428401266739",
+    "uikName": "УИК №477",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 30,
       "Число бюллетеней, полученных участковыми комиссиями": 47,
@@ -9074,8 +10613,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 478,
     "uikTvd": "428401266740",
+    "uikName": "УИК №478",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 248,
       "Число бюллетеней, полученных участковыми комиссиями": 227,
@@ -9127,8 +10675,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 479,
     "uikTvd": "428401266741",
+    "uikName": "УИК №479",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 92,
@@ -9180,8 +10737,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 480,
     "uikTvd": "428401266742",
+    "uikName": "УИК №480",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1081,
       "Число бюллетеней, полученных участковыми комиссиями": 936,
@@ -9233,8 +10799,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 481,
     "uikTvd": "428401266743",
+    "uikName": "УИК №481",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 66,
       "Число бюллетеней, полученных участковыми комиссиями": 57,
@@ -9286,8 +10861,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 482,
     "uikTvd": "428401266744",
+    "uikName": "УИК №482",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 126,
       "Число бюллетеней, полученных участковыми комиссиями": 121,
@@ -9339,8 +10923,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 483,
     "uikTvd": "428401266745",
+    "uikName": "УИК №483",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 293,
@@ -9392,8 +10985,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 484,
     "uikTvd": "428401266746",
+    "uikName": "УИК №484",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1619,
       "Число бюллетеней, полученных участковыми комиссиями": 1409,
@@ -9445,8 +11047,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 485,
     "uikTvd": "428401266747",
+    "uikName": "УИК №485",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2333,
       "Число бюллетеней, полученных участковыми комиссиями": 2027,
@@ -9498,8 +11109,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 486,
     "uikTvd": "428401266748",
+    "uikName": "УИК №486",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1533,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -9551,8 +11171,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 487,
     "uikTvd": "428401266749",
+    "uikName": "УИК №487",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1527,
       "Число бюллетеней, полученных участковыми комиссиями": 1623,
@@ -9604,8 +11233,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 488,
     "uikTvd": "428401266750",
+    "uikName": "УИК №488",
     "tikTvd": "228200066716",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 835,
       "Число бюллетеней, полученных участковыми комиссиями": 716,
@@ -9657,8 +11295,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 423,
     "uikTvd": "428401166782",
+    "uikName": "УИК №423",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 527,
       "Число бюллетеней, полученных участковыми комиссиями": 461,
@@ -9710,8 +11357,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 424,
     "uikTvd": "428401166784",
+    "uikName": "УИК №424",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 681,
       "Число бюллетеней, полученных участковыми комиссиями": 615,
@@ -9763,8 +11419,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 425,
     "uikTvd": "428401166785",
+    "uikName": "УИК №425",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 734,
       "Число бюллетеней, полученных участковыми комиссиями": 665,
@@ -9816,8 +11481,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 426,
     "uikTvd": "428401166786",
+    "uikName": "УИК №426",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1120,
       "Число бюллетеней, полученных участковыми комиссиями": 1008,
@@ -9869,8 +11543,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 427,
     "uikTvd": "428401166787",
+    "uikName": "УИК №427",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1406,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -9922,8 +11605,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 428,
     "uikTvd": "428401166788",
+    "uikName": "УИК №428",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1211,
       "Число бюллетеней, полученных участковыми комиссиями": 1080,
@@ -9975,8 +11667,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 429,
     "uikTvd": "428401166789",
+    "uikName": "УИК №429",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 580,
       "Число бюллетеней, полученных участковыми комиссиями": 522,
@@ -10028,8 +11729,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 430,
     "uikTvd": "428401166790",
+    "uikName": "УИК №430",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 201,
@@ -10081,8 +11791,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 431,
     "uikTvd": "428401166791",
+    "uikName": "УИК №431",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 72,
       "Число бюллетеней, полученных участковыми комиссиями": 72,
@@ -10134,8 +11853,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 432,
     "uikTvd": "428401166792",
+    "uikName": "УИК №432",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 261,
       "Число бюллетеней, полученных участковыми комиссиями": 261,
@@ -10187,8 +11915,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 433,
     "uikTvd": "428401166793",
+    "uikName": "УИК №433",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 83,
@@ -10240,8 +11977,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 434,
     "uikTvd": "428401166794",
+    "uikName": "УИК №434",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -10293,8 +12039,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 435,
     "uikTvd": "428401166795",
+    "uikName": "УИК №435",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 225,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -10346,8 +12101,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 436,
     "uikTvd": "428401166796",
+    "uikName": "УИК №436",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 64,
       "Число бюллетеней, полученных участковыми комиссиями": 64,
@@ -10399,8 +12163,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 437,
     "uikTvd": "428401166797",
+    "uikName": "УИК №437",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 72,
       "Число бюллетеней, полученных участковыми комиссиями": 72,
@@ -10452,8 +12225,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 438,
     "uikTvd": "428401166798",
+    "uikName": "УИК №438",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 77,
@@ -10505,8 +12287,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 439,
     "uikTvd": "428401166799",
+    "uikName": "УИК №439",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 276,
@@ -10558,8 +12349,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 440,
     "uikTvd": "428401166800",
+    "uikName": "УИК №440",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -10611,8 +12411,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 441,
     "uikTvd": "428401166801",
+    "uikName": "УИК №441",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 45,
       "Число бюллетеней, полученных участковыми комиссиями": 45,
@@ -10664,8 +12473,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 442,
     "uikTvd": "428401166802",
+    "uikName": "УИК №442",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 386,
       "Число бюллетеней, полученных участковыми комиссиями": 386,
@@ -10717,8 +12535,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 443,
     "uikTvd": "428401166803",
+    "uikName": "УИК №443",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 52,
       "Число бюллетеней, полученных участковыми комиссиями": 52,
@@ -10770,8 +12597,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 444,
     "uikTvd": "428401166804",
+    "uikName": "УИК №444",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 90,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -10823,8 +12659,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 445,
     "uikTvd": "428401166805",
+    "uikName": "УИК №445",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 524,
       "Число бюллетеней, полученных участковыми комиссиями": 472,
@@ -10876,8 +12721,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 446,
     "uikTvd": "428401166806",
+    "uikName": "УИК №446",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 133,
@@ -10929,8 +12783,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 447,
     "uikTvd": "428401166807",
+    "uikName": "УИК №447",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 123,
@@ -10982,8 +12845,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 448,
     "uikTvd": "428401166808",
+    "uikName": "УИК №448",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 206,
@@ -11035,8 +12907,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 449,
     "uikTvd": "428401166809",
+    "uikName": "УИК №449",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 425,
@@ -11088,8 +12969,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 450,
     "uikTvd": "428401166810",
+    "uikName": "УИК №450",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -11141,8 +13031,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 451,
     "uikTvd": "428401166811",
+    "uikName": "УИК №451",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 619,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -11194,8 +13093,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 452,
     "uikTvd": "428401166812",
+    "uikName": "УИК №452",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 582,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -11247,8 +13155,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 453,
     "uikTvd": "428401166813",
+    "uikName": "УИК №453",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 143,
@@ -11300,8 +13217,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 454,
     "uikTvd": "428401166814",
+    "uikName": "УИК №454",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 84,
       "Число бюллетеней, полученных участковыми комиссиями": 84,
@@ -11353,8 +13279,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 455,
     "uikTvd": "428401166815",
+    "uikName": "УИК №455",
     "tikTvd": "228200066717",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 645,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -11406,8 +13341,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 364,
     "uikTvd": "428400966626",
+    "uikName": "УИК №364",
     "tikTvd": "228200066718",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1152,
       "Число бюллетеней, полученных участковыми комиссиями": 1171,
@@ -11459,8 +13403,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 365,
     "uikTvd": "428400966627",
+    "uikName": "УИК №365",
     "tikTvd": "228200066718",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 885,
       "Число бюллетеней, полученных участковыми комиссиями": 874,
@@ -11512,8 +13465,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 366,
     "uikTvd": "428400966628",
+    "uikName": "УИК №366",
     "tikTvd": "228200066718",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1339,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -11565,8 +13527,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 367,
     "uikTvd": "428400966629",
+    "uikName": "УИК №367",
     "tikTvd": "228200066718",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 754,
       "Число бюллетеней, полученных участковыми комиссиями": 763,
@@ -11618,8 +13589,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 368,
     "uikTvd": "428400966630",
+    "uikName": "УИК №368",
     "tikTvd": "228200066718",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 392,
       "Число бюллетеней, полученных участковыми комиссиями": 394,
@@ -11671,8 +13651,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 369,
     "uikTvd": "428400966631",
+    "uikName": "УИК №369",
     "tikTvd": "228200066718",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1657,
       "Число бюллетеней, полученных участковыми комиссиями": 1691,
@@ -11724,8 +13713,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 370,
     "uikTvd": "428400966632",
+    "uikName": "УИК №370",
     "tikTvd": "228200066718",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 936,
       "Число бюллетеней, полученных участковыми комиссиями": 918,
@@ -11777,8 +13775,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 371,
     "uikTvd": "428400966633",
+    "uikName": "УИК №371",
     "tikTvd": "228200066718",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 691,
       "Число бюллетеней, полученных участковыми комиссиями": 706,
@@ -11830,8 +13837,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 372,
     "uikTvd": "428400966634",
+    "uikName": "УИК №372",
     "tikTvd": "228200066718",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1416,
       "Число бюллетеней, полученных участковыми комиссиями": 1331,
@@ -11883,8 +13899,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 373,
     "uikTvd": "428400966635",
+    "uikName": "УИК №373",
     "tikTvd": "228200066718",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1239,
       "Число бюллетеней, полученных участковыми комиссиями": 1189,
@@ -11936,8 +13961,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 374,
     "uikTvd": "428400966636",
+    "uikName": "УИК №374",
     "tikTvd": "228200066718",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2236,
       "Число бюллетеней, полученных участковыми комиссиями": 2191,
@@ -11989,8 +14023,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 375,
     "uikTvd": "428400966637",
+    "uikName": "УИК №375",
     "tikTvd": "228200066718",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2246,
       "Число бюллетеней, полученных участковыми комиссиями": 2259,
@@ -12042,8 +14085,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 376,
     "uikTvd": "428400966638",
+    "uikName": "УИК №376",
     "tikTvd": "228200066718",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2117,
       "Число бюллетеней, полученных участковыми комиссиями": 2136,
@@ -12095,8 +14147,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 377,
     "uikTvd": "428400966639",
+    "uikName": "УИК №377",
     "tikTvd": "228200066718",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 763,
       "Число бюллетеней, полученных участковыми комиссиями": 802,
@@ -12148,8 +14209,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 378,
     "uikTvd": "428400966640",
+    "uikName": "УИК №378",
     "tikTvd": "228200066718",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 315,
       "Число бюллетеней, полученных участковыми комиссиями": 316,
@@ -12201,8 +14271,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 379,
     "uikTvd": "428400966641",
+    "uikName": "УИК №379",
     "tikTvd": "228200066718",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 910,
       "Число бюллетеней, полученных участковыми комиссиями": 915,
@@ -12254,8 +14333,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 380,
     "uikTvd": "428400966642",
+    "uikName": "УИК №380",
     "tikTvd": "228200066718",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 203,
@@ -12307,8 +14395,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 381,
     "uikTvd": "428400966643",
+    "uikName": "УИК №381",
     "tikTvd": "228200066718",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 253,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -12360,8 +14457,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 382,
     "uikTvd": "428400966644",
+    "uikName": "УИК №382",
     "tikTvd": "228200066718",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 55,
       "Число бюллетеней, полученных участковыми комиссиями": 63,
@@ -12413,8 +14519,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 383,
     "uikTvd": "428400966645",
+    "uikName": "УИК №383",
     "tikTvd": "228200066718",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 42,
       "Число бюллетеней, полученных участковыми комиссиями": 44,
@@ -12466,8 +14581,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 384,
     "uikTvd": "428401066736",
+    "uikName": "УИК №384",
     "tikTvd": "228200066719",
     "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 565,
       "Число бюллетеней, полученных участковыми комиссиями": 567,
@@ -12519,8 +14643,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 385,
     "uikTvd": "428401066737",
+    "uikName": "УИК №385",
     "tikTvd": "228200066719",
     "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1412,
       "Число бюллетеней, полученных участковыми комиссиями": 1428,
@@ -12572,8 +14705,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 386,
     "uikTvd": "428401066738",
+    "uikName": "УИК №386",
     "tikTvd": "228200066719",
     "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1330,
       "Число бюллетеней, полученных участковыми комиссиями": 1212,
@@ -12625,8 +14767,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 387,
     "uikTvd": "428401066739",
+    "uikName": "УИК №387",
     "tikTvd": "228200066719",
     "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 438,
       "Число бюллетеней, полученных участковыми комиссиями": 408,
@@ -12678,8 +14829,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 388,
     "uikTvd": "428401066740",
+    "uikName": "УИК №388",
     "tikTvd": "228200066719",
     "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 169,
       "Число бюллетеней, полученных участковыми комиссиями": 156,
@@ -12731,8 +14891,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 389,
     "uikTvd": "428401066741",
+    "uikName": "УИК №389",
     "tikTvd": "228200066719",
     "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 249,
@@ -12784,8 +14953,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 390,
     "uikTvd": "428401066742",
+    "uikName": "УИК №390",
     "tikTvd": "228200066719",
     "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 245,
@@ -12837,8 +15015,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 391,
     "uikTvd": "428401066743",
+    "uikName": "УИК №391",
     "tikTvd": "228200066719",
     "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 86,
@@ -12890,8 +15077,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 392,
     "uikTvd": "428401066744",
+    "uikName": "УИК №392",
     "tikTvd": "228200066719",
     "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 197,
@@ -12943,8 +15139,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 393,
     "uikTvd": "428401066745",
+    "uikName": "УИК №393",
     "tikTvd": "228200066719",
     "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 469,
       "Число бюллетеней, полученных участковыми комиссиями": 503,
@@ -12996,8 +15201,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 394,
     "uikTvd": "428401066746",
+    "uikName": "УИК №394",
     "tikTvd": "228200066719",
     "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 154,
@@ -13049,8 +15263,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "428401066747",
+    "uikName": "УИК №395",
     "tikTvd": "228200066719",
     "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 264,
@@ -13102,8 +15325,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "428401066748",
+    "uikName": "УИК №396",
     "tikTvd": "228200066719",
     "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 40,
       "Число бюллетеней, полученных участковыми комиссиями": 40,
@@ -13155,8 +15387,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "428401066749",
+    "uikName": "УИК №397",
     "tikTvd": "228200066719",
     "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 465,
       "Число бюллетеней, полученных участковыми комиссиями": 422,
@@ -13208,8 +15449,17 @@ export const duma_2003_uik_428_region_28_part_002 = [
     "ballot": "single-member",
     "uikNumber": 398,
     "uikTvd": "428401066750",
+    "uikName": "УИК №398",
     "tikTvd": "228200066719",
     "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 503,
       "Число бюллетеней, полученных участковыми комиссиями": 460,

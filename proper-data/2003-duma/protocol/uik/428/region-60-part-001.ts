@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 523,
     "uikTvd": "460400770705",
+    "uikName": "УИК  523",
     "tikTvd": "260200070463",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1488,
       "Число бюллетеней, полученных участковыми комиссиями": 1505,
@@ -62,8 +71,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 524,
     "uikTvd": "460400770706",
+    "uikName": "УИК  524",
     "tikTvd": "260200070463",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 873,
       "Число бюллетеней, полученных участковыми комиссиями": 890,
@@ -113,8 +131,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 525,
     "uikTvd": "460400770707",
+    "uikName": "УИК  525",
     "tikTvd": "260200070463",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 347,
       "Число бюллетеней, полученных участковыми комиссиями": 357,
@@ -164,8 +191,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 526,
     "uikTvd": "460400770708",
+    "uikName": "УИК  526",
     "tikTvd": "260200070463",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 164,
@@ -215,8 +251,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 527,
     "uikTvd": "460400770709",
+    "uikName": "УИК  527",
     "tikTvd": "260200070463",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -266,8 +311,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 528,
     "uikTvd": "460400770710",
+    "uikName": "УИК  528",
     "tikTvd": "260200070463",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 375,
       "Число бюллетеней, полученных участковыми комиссиями": 377,
@@ -317,8 +371,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 529,
     "uikTvd": "460400770711",
+    "uikName": "УИК  529",
     "tikTvd": "260200070463",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 354,
@@ -368,8 +431,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 530,
     "uikTvd": "460400770712",
+    "uikName": "УИК  530",
     "tikTvd": "260200070463",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 722,
       "Число бюллетеней, полученных участковыми комиссиями": 739,
@@ -419,8 +491,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 531,
     "uikTvd": "460400770713",
+    "uikName": "УИК  531",
     "tikTvd": "260200070463",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 304,
@@ -470,8 +551,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 532,
     "uikTvd": "460400770714",
+    "uikName": "УИК  532",
     "tikTvd": "260200070463",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 247,
       "Число бюллетеней, полученных участковыми комиссиями": 252,
@@ -521,8 +611,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 533,
     "uikTvd": "460400770715",
+    "uikName": "УИК  533",
     "tikTvd": "260200070463",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 261,
       "Число бюллетеней, полученных участковыми комиссиями": 271,
@@ -572,8 +671,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 534,
     "uikTvd": "460400770716",
+    "uikName": "УИК  534",
     "tikTvd": "260200070463",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 457,
       "Число бюллетеней, полученных участковыми комиссиями": 465,
@@ -623,8 +731,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 535,
     "uikTvd": "460400770717",
+    "uikName": "УИК  535",
     "tikTvd": "260200070463",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 406,
       "Число бюллетеней, полученных участковыми комиссиями": 392,
@@ -674,8 +791,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 536,
     "uikTvd": "460400770718",
+    "uikName": "УИК  536",
     "tikTvd": "260200070463",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 318,
@@ -725,8 +851,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 537,
     "uikTvd": "460400770719",
+    "uikName": "УИК  537",
     "tikTvd": "260200070463",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 291,
@@ -776,8 +911,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 538,
     "uikTvd": "460400770720",
+    "uikName": "УИК  538",
     "tikTvd": "260200070463",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 305,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -827,8 +971,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 539,
     "uikTvd": "460400770721",
+    "uikName": "УИК  539",
     "tikTvd": "260200070463",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 327,
       "Число бюллетеней, полученных участковыми комиссиями": 328,
@@ -878,8 +1031,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 540,
     "uikTvd": "460400770722",
+    "uikName": "УИК  540",
     "tikTvd": "260200070463",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 278,
       "Число бюллетеней, полученных участковыми комиссиями": 278,
@@ -929,8 +1091,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 541,
     "uikTvd": "460400770723",
+    "uikName": "УИК  541",
     "tikTvd": "260200070463",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 157,
@@ -980,8 +1151,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 542,
     "uikTvd": "460400770724",
+    "uikName": "УИК  542",
     "tikTvd": "260200070463",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1144,
       "Число бюллетеней, полученных участковыми комиссиями": 1141,
@@ -1031,8 +1211,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 543,
     "uikTvd": "460400770725",
+    "uikName": "УИК  543",
     "tikTvd": "260200070463",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 334,
       "Число бюллетеней, полученных участковыми комиссиями": 331,
@@ -1082,8 +1271,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 544,
     "uikTvd": "460400770726",
+    "uikName": "УИК  544",
     "tikTvd": "260200070463",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 283,
       "Число бюллетеней, полученных участковыми комиссиями": 288,
@@ -1133,8 +1331,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 338,
     "uikTvd": "460400670718",
+    "uikName": "УИК №338",
     "tikTvd": "260200070464",
     "tikName": "Красногородская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1836,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -1184,8 +1391,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 339,
     "uikTvd": "460400670719",
+    "uikName": "УИК №339",
     "tikTvd": "260200070464",
     "tikName": "Красногородская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1791,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -1235,8 +1451,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 340,
     "uikTvd": "460400670720",
+    "uikName": "УИК №340",
     "tikTvd": "260200070464",
     "tikName": "Красногородская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -1286,8 +1511,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 341,
     "uikTvd": "460400670721",
+    "uikName": "УИК №341",
     "tikTvd": "260200070464",
     "tikName": "Красногородская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 161,
       "Число бюллетеней, полученных участковыми комиссиями": 163,
@@ -1337,8 +1571,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 342,
     "uikTvd": "460400670722",
+    "uikName": "УИК №342",
     "tikTvd": "260200070464",
     "tikName": "Красногородская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 270,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -1388,8 +1631,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 343,
     "uikTvd": "460400670723",
+    "uikName": "УИК №343",
     "tikTvd": "260200070464",
     "tikName": "Красногородская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 156,
@@ -1439,8 +1691,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 344,
     "uikTvd": "460400670724",
+    "uikName": "УИК №344",
     "tikTvd": "260200070464",
     "tikName": "Красногородская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 864,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -1490,8 +1751,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 345,
     "uikTvd": "460400670725",
+    "uikName": "УИК №345",
     "tikTvd": "260200070464",
     "tikName": "Красногородская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 769,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -1541,8 +1811,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 346,
     "uikTvd": "460400670726",
+    "uikName": "УИК №346",
     "tikTvd": "260200070464",
     "tikName": "Красногородская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 385,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -1592,8 +1871,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 347,
     "uikTvd": "460400670727",
+    "uikName": "УИК №347",
     "tikTvd": "260200070464",
     "tikName": "Красногородская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 159,
@@ -1643,8 +1931,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 348,
     "uikTvd": "460400670728",
+    "uikName": "УИК №348",
     "tikTvd": "260200070464",
     "tikName": "Красногородская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 312,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -1694,8 +1991,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 349,
     "uikTvd": "460400670729",
+    "uikName": "УИК №349",
     "tikTvd": "260200070464",
     "tikName": "Красногородская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 215,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -1745,8 +2051,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 350,
     "uikTvd": "460400670730",
+    "uikName": "УИК №350",
     "tikTvd": "260200070464",
     "tikName": "Красногородская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -1796,8 +2111,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 351,
     "uikTvd": "460400670731",
+    "uikName": "УИК №351",
     "tikTvd": "260200070464",
     "tikName": "Красногородская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 188,
@@ -1847,8 +2171,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 565,
     "uikTvd": "460400370469",
+    "uikName": "УИК №565",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1295,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -1898,8 +2231,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 566,
     "uikTvd": "460400370470",
+    "uikName": "УИК №566",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1104,
       "Число бюллетеней, полученных участковыми комиссиями": 1060,
@@ -1949,8 +2291,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 567,
     "uikTvd": "460400370471",
+    "uikName": "УИК №567",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1665,
       "Число бюллетеней, полученных участковыми комиссиями": 1610,
@@ -2000,8 +2351,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 568,
     "uikTvd": "460400370472",
+    "uikName": "УИК №568",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 392,
       "Число бюллетеней, полученных участковыми комиссиями": 385,
@@ -2051,8 +2411,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 569,
     "uikTvd": "460400370473",
+    "uikName": "УИК №569",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 592,
       "Число бюллетеней, полученных участковыми комиссиями": 575,
@@ -2102,8 +2471,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 570,
     "uikTvd": "460400370474",
+    "uikName": "УИК №570",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 148,
@@ -2153,8 +2531,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 571,
     "uikTvd": "460400370475",
+    "uikName": "УИК №571",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 35,
       "Число бюллетеней, полученных участковыми комиссиями": 38,
@@ -2204,8 +2591,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 572,
     "uikTvd": "460400370476",
+    "uikName": "УИК №572",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 65,
       "Число бюллетеней, полученных участковыми комиссиями": 66,
@@ -2255,8 +2651,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 573,
     "uikTvd": "460400370477",
+    "uikName": "УИК №573",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 201,
@@ -2306,8 +2711,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 574,
     "uikTvd": "460400370478",
+    "uikName": "УИК №574",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1388,
       "Число бюллетеней, полученных участковыми комиссиями": 1110,
@@ -2357,8 +2771,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 575,
     "uikTvd": "460400370479",
+    "uikName": "УИК №575",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 187,
@@ -2408,8 +2831,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 576,
     "uikTvd": "460400370480",
+    "uikName": "УИК №576",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 167,
       "Число бюллетеней, полученных участковыми комиссиями": 169,
@@ -2459,8 +2891,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 577,
     "uikTvd": "460400370481",
+    "uikName": "УИК №577",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 223,
@@ -2510,8 +2951,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 578,
     "uikTvd": "460400370482",
+    "uikName": "УИК №578",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 537,
       "Число бюллетеней, полученных участковыми комиссиями": 535,
@@ -2561,8 +3011,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 579,
     "uikTvd": "460400370483",
+    "uikName": "УИК №579",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1166,
       "Число бюллетеней, полученных участковыми комиссиями": 1135,
@@ -2612,8 +3071,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 580,
     "uikTvd": "460400370484",
+    "uikName": "УИК №580",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 309,
       "Число бюллетеней, полученных участковыми комиссиями": 308,
@@ -2663,8 +3131,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 581,
     "uikTvd": "460400370485",
+    "uikName": "УИК №581",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 321,
       "Число бюллетеней, полученных участковыми комиссиями": 318,
@@ -2714,8 +3191,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 582,
     "uikTvd": "460400370486",
+    "uikName": "УИК №582",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 321,
       "Число бюллетеней, полученных участковыми комиссиями": 325,
@@ -2765,8 +3251,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 583,
     "uikTvd": "460400370487",
+    "uikName": "УИК №583",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 342,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -2816,8 +3311,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 584,
     "uikTvd": "460400370488",
+    "uikName": "УИК №584",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 397,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -2867,8 +3371,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 585,
     "uikTvd": "460400370489",
+    "uikName": "УИК №585",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -2918,8 +3431,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 586,
     "uikTvd": "460400370490",
+    "uikName": "УИК №586",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 82,
       "Число бюллетеней, полученных участковыми комиссиями": 82,
@@ -2969,8 +3491,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 587,
     "uikTvd": "460400370491",
+    "uikName": "УИК №587",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 446,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -3020,8 +3551,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 588,
     "uikTvd": "460400370492",
+    "uikName": "УИК №588",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -3071,8 +3611,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 589,
     "uikTvd": "460400370493",
+    "uikName": "УИК №589",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 635,
       "Число бюллетеней, полученных участковыми комиссиями": 625,
@@ -3122,8 +3671,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 590,
     "uikTvd": "460400370494",
+    "uikName": "УИК №590",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -3173,8 +3731,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 591,
     "uikTvd": "460400370467",
+    "uikName": "УИК №591",
     "tikTvd": "260200070465",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -3224,8 +3791,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "460400270755",
+    "uikName": "УИК №87",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1612,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -3275,8 +3851,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "460400270756",
+    "uikName": "УИК №88",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2329,
       "Число бюллетеней, полученных участковыми комиссиями": 2090,
@@ -3326,8 +3911,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "460400270757",
+    "uikName": "УИК №89",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2624,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3377,8 +3971,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "460400270758",
+    "uikName": "УИК №90",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2886,
       "Число бюллетеней, полученных участковыми комиссиями": 2520,
@@ -3428,8 +4031,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "460400270759",
+    "uikName": "УИК №91",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2342,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -3479,8 +4091,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "460400270760",
+    "uikName": "УИК №92",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1378,
       "Число бюллетеней, полученных участковыми комиссиями": 1195,
@@ -3530,8 +4151,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "460400270761",
+    "uikName": "УИК №93",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1617,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -3581,8 +4211,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "460400270762",
+    "uikName": "УИК №94",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1464,
       "Число бюллетеней, полученных участковыми комиссиями": 1290,
@@ -3632,8 +4271,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "460400270763",
+    "uikName": "УИК №95",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1613,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -3683,8 +4331,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "460400270764",
+    "uikName": "УИК №96",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1805,
       "Число бюллетеней, полученных участковыми комиссиями": 1610,
@@ -3734,8 +4391,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "460400270765",
+    "uikName": "УИК №97",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1605,
       "Число бюллетеней, полученных участковыми комиссиями": 1410,
@@ -3785,8 +4451,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "460400270766",
+    "uikName": "УИК №98",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2033,
       "Число бюллетеней, полученных участковыми комиссиями": 1810,
@@ -3836,8 +4511,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "460400270767",
+    "uikName": "УИК №99",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2364,
       "Число бюллетеней, полученных участковыми комиссиями": 2090,
@@ -3887,8 +4571,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "460400270768",
+    "uikName": "УИК №100",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1423,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -3938,8 +4631,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "460400270769",
+    "uikName": "УИК №101",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1225,
       "Число бюллетеней, полученных участковыми комиссиями": 1045,
@@ -3989,8 +4691,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "460400270770",
+    "uikName": "УИК №102",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2170,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -4040,8 +4751,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "460400270771",
+    "uikName": "УИК №103",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1591,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -4091,8 +4811,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "460400270772",
+    "uikName": "УИК №104",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2402,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -4142,8 +4871,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "460400270773",
+    "uikName": "УИК №105",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2314,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -4193,8 +4931,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "460400270774",
+    "uikName": "УИК №106",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2240,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -4244,8 +4991,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "460400270775",
+    "uikName": "УИК №107",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2661,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -4295,8 +5051,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "460400270776",
+    "uikName": "УИК №108",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2435,
       "Число бюллетеней, полученных участковыми комиссиями": 2140,
@@ -4346,8 +5111,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "460400270777",
+    "uikName": "УИК №109",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2756,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -4397,8 +5171,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "460400270778",
+    "uikName": "УИК №110",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2480,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -4448,8 +5231,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "460400270779",
+    "uikName": "УИК №111",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2315,
       "Число бюллетеней, полученных участковыми комиссиями": 2040,
@@ -4499,8 +5291,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "460400270780",
+    "uikName": "УИК №112",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1768,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -4550,8 +5351,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "460400270781",
+    "uikName": "УИК №113",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2992,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4601,8 +5411,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "460400270782",
+    "uikName": "УИК №114",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2316,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -4652,8 +5471,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "460400270783",
+    "uikName": "УИК №115",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2960,
       "Число бюллетеней, полученных участковыми комиссиями": 2690,
@@ -4703,8 +5531,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "460400270784",
+    "uikName": "УИК №116",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1826,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4754,8 +5591,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "460400270785",
+    "uikName": "УИК №117",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1632,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -4805,8 +5651,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "460400270786",
+    "uikName": "УИК №118",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1403,
       "Число бюллетеней, полученных участковыми комиссиями": 1245,
@@ -4856,8 +5711,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "460400270787",
+    "uikName": "УИК №119",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2238,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -4907,8 +5771,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "460400270788",
+    "uikName": "УИК №120",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1278,
       "Число бюллетеней, полученных участковыми комиссиями": 1130,
@@ -4958,8 +5831,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "460400270789",
+    "uikName": "УИК №121",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1446,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -5009,8 +5891,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "460400270790",
+    "uikName": "УИК №122",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2940,
       "Число бюллетеней, полученных участковыми комиссиями": 2620,
@@ -5060,8 +5951,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "460400270791",
+    "uikName": "УИК №123",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2288,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -5111,8 +6011,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "460400270792",
+    "uikName": "УИК №124",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2236,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -5162,8 +6071,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "460400270793",
+    "uikName": "УИК №125",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2146,
       "Число бюллетеней, полученных участковыми комиссиями": 1910,
@@ -5213,8 +6131,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "460400270794",
+    "uikName": "УИК №126",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2748,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -5264,8 +6191,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "460400270795",
+    "uikName": "УИК №127",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1676,
       "Число бюллетеней, полученных участковыми комиссиями": 1460,
@@ -5315,8 +6251,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "460400270796",
+    "uikName": "УИК №128",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 696,
       "Число бюллетеней, полученных участковыми комиссиями": 1330,
@@ -5366,8 +6311,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "460400270797",
+    "uikName": "УИК №129",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1881,
       "Число бюллетеней, полученных участковыми комиссиями": 1640,
@@ -5417,8 +6371,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "460400270798",
+    "uikName": "УИК №130",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 214,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -5468,8 +6431,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "460400270799",
+    "uikName": "УИК №131",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -5519,8 +6491,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "460400270800",
+    "uikName": "УИК №132",
     "tikTvd": "260200070466",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -5570,8 +6551,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "460400570641",
+    "uikName": "УИК  215",
     "tikTvd": "260200070467",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 940,
       "Число бюллетеней, полученных участковыми комиссиями": 895,
@@ -5621,8 +6611,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "460400570642",
+    "uikName": "УИК  216",
     "tikTvd": "260200070467",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 948,
       "Число бюллетеней, полученных участковыми комиссиями": 883,
@@ -5672,8 +6671,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "460400570643",
+    "uikName": "УИК  217",
     "tikTvd": "260200070467",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1146,
       "Число бюллетеней, полученных участковыми комиссиями": 1069,
@@ -5723,8 +6731,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "460400570644",
+    "uikName": "УИК  218",
     "tikTvd": "260200070467",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1038,
       "Число бюллетеней, полученных участковыми комиссиями": 972,
@@ -5774,8 +6791,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "460400570645",
+    "uikName": "УИК  219",
     "tikTvd": "260200070467",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1116,
       "Число бюллетеней, полученных участковыми комиссиями": 1056,
@@ -5825,8 +6851,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "460400570646",
+    "uikName": "УИК  220",
     "tikTvd": "260200070467",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1117,
       "Число бюллетеней, полученных участковыми комиссиями": 1053,
@@ -5876,8 +6911,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "460400570647",
+    "uikName": "УИК  221",
     "tikTvd": "260200070467",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1114,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -5927,8 +6971,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "460400570648",
+    "uikName": "УИК  222",
     "tikTvd": "260200070467",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1113,
       "Число бюллетеней, полученных участковыми комиссиями": 1037,
@@ -5978,8 +7031,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "460400570649",
+    "uikName": "УИК  223",
     "tikTvd": "260200070467",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 597,
       "Число бюллетеней, полученных участковыми комиссиями": 605,
@@ -6029,8 +7091,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "460400570650",
+    "uikName": "УИК  224",
     "tikTvd": "260200070467",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 332,
@@ -6080,8 +7151,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "460400570651",
+    "uikName": "УИК  225",
     "tikTvd": "260200070467",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 379,
@@ -6131,8 +7211,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "460400570652",
+    "uikName": "УИК  226",
     "tikTvd": "260200070467",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 286,
       "Число бюллетеней, полученных участковыми комиссиями": 287,
@@ -6182,8 +7271,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "460400570653",
+    "uikName": "УИК  227",
     "tikTvd": "260200070467",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 356,
@@ -6233,8 +7331,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "460400570654",
+    "uikName": "УИК  228",
     "tikTvd": "260200070467",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 346,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -6284,8 +7391,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "460400570655",
+    "uikName": "УИК  229",
     "tikTvd": "260200070467",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 384,
       "Число бюллетеней, полученных участковыми комиссиями": 384,
@@ -6335,8 +7451,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "460400570656",
+    "uikName": "УИК  230",
     "tikTvd": "260200070467",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 362,
       "Число бюллетеней, полученных участковыми комиссиями": 369,
@@ -6386,8 +7511,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "460400570657",
+    "uikName": "УИК  231",
     "tikTvd": "260200070467",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 613,
       "Число бюллетеней, полученных участковыми комиссиями": 619,
@@ -6437,8 +7571,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "460400570658",
+    "uikName": "УИК  232",
     "tikTvd": "260200070467",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 299,
       "Число бюллетеней, полученных участковыми комиссиями": 301,
@@ -6488,8 +7631,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "460400570659",
+    "uikName": "УИК  233",
     "tikTvd": "260200070467",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 371,
       "Число бюллетеней, полученных участковыми комиссиями": 382,
@@ -6539,8 +7691,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "460400570660",
+    "uikName": "УИК  234",
     "tikTvd": "260200070467",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 361,
       "Число бюллетеней, полученных участковыми комиссиями": 365,
@@ -6590,8 +7751,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "460400470703",
+    "uikName": "УИК  235",
     "tikTvd": "260200070468",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2675,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -6641,8 +7811,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "460400470705",
+    "uikName": "УИК  236",
     "tikTvd": "260200070468",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2528,
       "Число бюллетеней, полученных участковыми комиссиями": 2280,
@@ -6692,8 +7871,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "460400470706",
+    "uikName": "УИК  237",
     "tikTvd": "260200070468",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2624,
       "Число бюллетеней, полученных участковыми комиссиями": 2310,
@@ -6743,8 +7931,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "460400470723",
+    "uikName": "УИК  238",
     "tikTvd": "260200070468",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 144,
@@ -6794,8 +7991,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "460400470708",
+    "uikName": "УИК  239",
     "tikTvd": "260200070468",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 296,
       "Число бюллетеней, полученных участковыми комиссиями": 373,
@@ -6845,8 +8051,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "460400470709",
+    "uikName": "УИК  240",
     "tikTvd": "260200070468",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 281,
@@ -6896,8 +8111,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "460400470710",
+    "uikName": "УИК  241",
     "tikTvd": "260200070468",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 662,
       "Число бюллетеней, полученных участковыми комиссиями": 597,
@@ -6947,8 +8171,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "460400470711",
+    "uikName": "УИК  242",
     "tikTvd": "260200070468",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 305,
       "Число бюллетеней, полученных участковыми комиссиями": 272,
@@ -6998,8 +8231,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "460400470712",
+    "uikName": "УИК  243",
     "tikTvd": "260200070468",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 342,
@@ -7049,8 +8291,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "460400470713",
+    "uikName": "УИК  244",
     "tikTvd": "260200070468",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 597,
       "Число бюллетеней, полученных участковыми комиссиями": 545,
@@ -7100,8 +8351,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "460400470714",
+    "uikName": "УИК  245",
     "tikTvd": "260200070468",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 345,
       "Число бюллетеней, полученных участковыми комиссиями": 312,
@@ -7151,8 +8411,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "460400470715",
+    "uikName": "УИК  246",
     "tikTvd": "260200070468",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 319,
       "Число бюллетеней, полученных участковыми комиссиями": 286,
@@ -7202,8 +8471,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "460400470716",
+    "uikName": "УИК  247",
     "tikTvd": "260200070468",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 384,
       "Число бюллетеней, полученных участковыми комиссиями": 342,
@@ -7253,8 +8531,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "460400470717",
+    "uikName": "УИК  248",
     "tikTvd": "260200070468",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 206,
@@ -7304,8 +8591,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "460400470718",
+    "uikName": "УИК  249",
     "tikTvd": "260200070468",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -7355,8 +8651,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "460400470719",
+    "uikName": "УИК  250",
     "tikTvd": "260200070468",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -7406,8 +8711,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "460400470720",
+    "uikName": "УИК  251",
     "tikTvd": "260200070468",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 355,
       "Число бюллетеней, полученных участковыми комиссиями": 319,
@@ -7457,8 +8771,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 252,
     "uikTvd": "460400470721",
+    "uikName": "УИК  252",
     "tikTvd": "260200070468",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 579,
       "Число бюллетеней, полученных участковыми комиссиями": 521,
@@ -7508,8 +8831,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 253,
     "uikTvd": "460400470722",
+    "uikName": "УИК  253",
     "tikTvd": "260200070468",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 172,
       "Число бюллетеней, полученных участковыми комиссиями": 158,
@@ -7559,8 +8891,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 291,
     "uikTvd": "460400170571",
+    "uikName": "УИК №291",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2739,
       "Число бюллетеней, полученных участковыми комиссиями": 2463,
@@ -7610,8 +8951,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 292,
     "uikTvd": "460400170572",
+    "uikName": "УИК №292",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 626,
       "Число бюллетеней, полученных участковыми комиссиями": 565,
@@ -7661,8 +9011,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 293,
     "uikTvd": "460400170573",
+    "uikName": "УИК №293",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1230,
       "Число бюллетеней, полученных участковыми комиссиями": 1084,
@@ -7712,8 +9071,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 294,
     "uikTvd": "460400170574",
+    "uikName": "УИК №294",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 159,
@@ -7763,8 +9131,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 295,
     "uikTvd": "460400170575",
+    "uikName": "УИК №295",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 335,
       "Число бюллетеней, полученных участковыми комиссиями": 351,
@@ -7814,8 +9191,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 296,
     "uikTvd": "460400170576",
+    "uikName": "УИК №296",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 441,
       "Число бюллетеней, полученных участковыми комиссиями": 446,
@@ -7865,8 +9251,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 297,
     "uikTvd": "460400170577",
+    "uikName": "УИК №297",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 213,
@@ -7916,8 +9311,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 298,
     "uikTvd": "460400170578",
+    "uikName": "УИК №298",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1064,
       "Число бюллетеней, полученных участковыми комиссиями": 955,
@@ -7967,8 +9371,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "460400170579",
+    "uikName": "УИК №299",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 304,
       "Число бюллетеней, полученных участковыми комиссиями": 304,
@@ -8018,8 +9431,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 300,
     "uikTvd": "460400170580",
+    "uikName": "УИК №300",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 371,
       "Число бюллетеней, полученных участковыми комиссиями": 368,
@@ -8069,8 +9491,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "460400170581",
+    "uikName": "УИК №301",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 338,
       "Число бюллетеней, полученных участковыми комиссиями": 334,
@@ -8120,8 +9551,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "460400170582",
+    "uikName": "УИК №302",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 599,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -8171,8 +9611,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "460400170583",
+    "uikName": "УИК №303",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 615,
       "Число бюллетеней, полученных участковыми комиссиями": 549,
@@ -8222,8 +9671,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "460400170584",
+    "uikName": "УИК №304",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 427,
       "Число бюллетеней, полученных участковыми комиссиями": 428,
@@ -8273,8 +9731,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "460400170585",
+    "uikName": "УИК №305",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 585,
       "Число бюллетеней, полученных участковыми комиссиями": 526,
@@ -8324,8 +9791,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "460400170586",
+    "uikName": "УИК №306",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 289,
@@ -8375,8 +9851,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "460400170587",
+    "uikName": "УИК №307",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 79,
       "Число бюллетеней, полученных участковыми комиссиями": 74,
@@ -8426,8 +9911,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "460400170588",
+    "uikName": "УИК №308",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 133,
@@ -8477,8 +9971,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "460400170589",
+    "uikName": "УИК №309",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 139,
@@ -8528,8 +10031,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "460400170590",
+    "uikName": "УИК №310",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 161,
@@ -8579,8 +10091,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "460400170591",
+    "uikName": "УИК №311",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 239,
@@ -8630,8 +10151,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "460400170592",
+    "uikName": "УИК №312",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 123,
       "Число бюллетеней, полученных участковыми комиссиями": 123,
@@ -8681,8 +10211,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "460400170593",
+    "uikName": "УИК №313",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 351,
       "Число бюллетеней, полученных участковыми комиссиями": 341,
@@ -8732,8 +10271,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "460400170594",
+    "uikName": "УИК №314",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 126,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -8783,8 +10331,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "460400170595",
+    "uikName": "УИК №315",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 591,
       "Число бюллетеней, полученных участковыми комиссиями": 553,
@@ -8834,8 +10391,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "460400170596",
+    "uikName": "УИК №316",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 920,
       "Число бюллетеней, полученных участковыми комиссиями": 836,
@@ -8885,8 +10451,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "460400170597",
+    "uikName": "УИК №317",
     "tikTvd": "260200070469",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 324,
@@ -8936,8 +10511,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 592,
     "uikTvd": "460401670622",
+    "uikName": "УИК  592",
     "tikTvd": "260200070470",
     "tikName": "Плюсская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 419,
       "Число бюллетеней, полученных участковыми комиссиями": 424,
@@ -8987,8 +10571,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 593,
     "uikTvd": "460401670623",
+    "uikName": "УИК  593",
     "tikTvd": "260200070470",
     "tikName": "Плюсская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 303,
       "Число бюллетеней, полученных участковыми комиссиями": 302,
@@ -9038,8 +10631,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 594,
     "uikTvd": "460401670624",
+    "uikName": "УИК  594",
     "tikTvd": "260200070470",
     "tikName": "Плюсская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 934,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -9089,8 +10691,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 595,
     "uikTvd": "460401670625",
+    "uikName": "УИК  595",
     "tikTvd": "260200070470",
     "tikName": "Плюсская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 346,
       "Число бюллетеней, полученных участковыми комиссиями": 358,
@@ -9140,8 +10751,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 596,
     "uikTvd": "460401670626",
+    "uikName": "УИК  596",
     "tikTvd": "260200070470",
     "tikName": "Плюсская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 337,
       "Число бюллетеней, полученных участковыми комиссиями": 337,
@@ -9191,8 +10811,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 597,
     "uikTvd": "460401670627",
+    "uikName": "УИК  597",
     "tikTvd": "260200070470",
     "tikName": "Плюсская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2009,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9242,8 +10871,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 598,
     "uikTvd": "460401670628",
+    "uikName": "УИК  598",
     "tikTvd": "260200070470",
     "tikName": "Плюсская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1194,
       "Число бюллетеней, полученных участковыми комиссиями": 1170,
@@ -9293,8 +10931,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 599,
     "uikTvd": "460401670629",
+    "uikName": "УИК  599",
     "tikTvd": "260200070470",
     "tikName": "Плюсская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 333,
       "Число бюллетеней, полученных участковыми комиссиями": 341,
@@ -9344,8 +10991,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 600,
     "uikTvd": "460401670630",
+    "uikName": "УИК  600",
     "tikTvd": "260200070470",
     "tikName": "Плюсская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 441,
       "Число бюллетеней, полученных участковыми комиссиями": 442,
@@ -9395,8 +11051,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "460401670631",
+    "uikName": "УИК  601",
     "tikTvd": "260200070470",
     "tikName": "Плюсская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 341,
@@ -9446,8 +11111,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "460401670632",
+    "uikName": "УИК  602",
     "tikTvd": "260200070470",
     "tikName": "Плюсская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 562,
       "Число бюллетеней, полученных участковыми комиссиями": 568,
@@ -9497,8 +11171,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "460401670633",
+    "uikName": "УИК  603",
     "tikTvd": "260200070470",
     "tikName": "Плюсская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 518,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -9548,8 +11231,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "460401670634",
+    "uikName": "УИК  604",
     "tikTvd": "260200070470",
     "tikName": "Плюсская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1233,
       "Число бюллетеней, полученных участковыми комиссиями": 1258,
@@ -9599,8 +11291,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "460401470682",
+    "uikName": "УИК №201",
     "tikTvd": "260200070471",
     "tikName": "Палкинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2689,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9650,8 +11351,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "460401470683",
+    "uikName": "УИК №202",
     "tikTvd": "260200070471",
     "tikName": "Палкинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -9701,8 +11411,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "460401470684",
+    "uikName": "УИК №203",
     "tikTvd": "260200070471",
     "tikName": "Палкинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 463,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -9752,8 +11471,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "460401470685",
+    "uikName": "УИК №204",
     "tikTvd": "260200070471",
     "tikName": "Палкинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -9803,8 +11531,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "460401470686",
+    "uikName": "УИК №205",
     "tikTvd": "260200070471",
     "tikName": "Палкинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 346,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -9854,8 +11591,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "460401470687",
+    "uikName": "УИК №206",
     "tikTvd": "260200070471",
     "tikName": "Палкинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -9905,8 +11651,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "460401470688",
+    "uikName": "УИК №207",
     "tikTvd": "260200070471",
     "tikName": "Палкинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 788,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -9956,8 +11711,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "460401470689",
+    "uikName": "УИК №208",
     "tikTvd": "260200070471",
     "tikName": "Палкинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 466,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -10007,8 +11771,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "460401470690",
+    "uikName": "УИК №209",
     "tikTvd": "260200070471",
     "tikName": "Палкинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 298,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -10058,8 +11831,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "460401470691",
+    "uikName": "УИК №210",
     "tikTvd": "260200070471",
     "tikName": "Палкинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 215,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -10109,8 +11891,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "460401470692",
+    "uikName": "УИК №211",
     "tikTvd": "260200070471",
     "tikName": "Палкинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 304,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -10160,8 +11951,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "460401470693",
+    "uikName": "УИК №212",
     "tikTvd": "260200070471",
     "tikName": "Палкинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 375,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -10211,8 +12011,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "460401470694",
+    "uikName": "УИК №213",
     "tikTvd": "260200070471",
     "tikName": "Палкинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 285,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -10262,8 +12071,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "460401470695",
+    "uikName": "УИК №214",
     "tikTvd": "260200070471",
     "tikName": "Палкинская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1005,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10313,8 +12131,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "460401570470",
+    "uikName": "УИК №181",
     "tikTvd": "260200070472",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1694,
       "Число бюллетеней, полученных участковыми комиссиями": 1640,
@@ -10364,8 +12191,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "460401570471",
+    "uikName": "УИК №182",
     "tikTvd": "260200070472",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1200,
       "Число бюллетеней, полученных участковыми комиссиями": 1148,
@@ -10415,8 +12251,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "460401570472",
+    "uikName": "УИК №183",
     "tikTvd": "260200070472",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1350,
       "Число бюллетеней, полученных участковыми комиссиями": 1274,
@@ -10466,8 +12311,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "460401570473",
+    "uikName": "УИК №184",
     "tikTvd": "260200070472",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1505,
       "Число бюллетеней, полученных участковыми комиссиями": 1455,
@@ -10517,8 +12371,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "460401570474",
+    "uikName": "УИК №185",
     "tikTvd": "260200070472",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1272,
       "Число бюллетеней, полученных участковыми комиссиями": 1241,
@@ -10568,8 +12431,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "460401570475",
+    "uikName": "УИК №186",
     "tikTvd": "260200070472",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 812,
       "Число бюллетеней, полученных участковыми комиссиями": 826,
@@ -10619,8 +12491,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "460401570476",
+    "uikName": "УИК №187",
     "tikTvd": "260200070472",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 386,
       "Число бюллетеней, полученных участковыми комиссиями": 391,
@@ -10670,8 +12551,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "460401570477",
+    "uikName": "УИК №188",
     "tikTvd": "260200070472",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 603,
       "Число бюллетеней, полученных участковыми комиссиями": 605,
@@ -10721,8 +12611,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "460401570478",
+    "uikName": "УИК №189",
     "tikTvd": "260200070472",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 622,
       "Число бюллетеней, полученных участковыми комиссиями": 622,
@@ -10772,8 +12671,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "460401570479",
+    "uikName": "УИК №190",
     "tikTvd": "260200070472",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 944,
       "Число бюллетеней, полученных участковыми комиссиями": 980,
@@ -10823,8 +12731,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "460401570480",
+    "uikName": "УИК №191",
     "tikTvd": "260200070472",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 653,
       "Число бюллетеней, полученных участковыми комиссиями": 653,
@@ -10874,8 +12791,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "460401570481",
+    "uikName": "УИК №192",
     "tikTvd": "260200070472",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 307,
@@ -10925,8 +12851,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "460401570482",
+    "uikName": "УИК №193",
     "tikTvd": "260200070472",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1045,
       "Число бюллетеней, полученных участковыми комиссиями": 1019,
@@ -10976,8 +12911,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "460401570483",
+    "uikName": "УИК №194",
     "tikTvd": "260200070472",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 363,
       "Число бюллетеней, полученных участковыми комиссиями": 357,
@@ -11027,8 +12971,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "460401570484",
+    "uikName": "УИК №195",
     "tikTvd": "260200070472",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 782,
       "Число бюллетеней, полученных участковыми комиссиями": 727,
@@ -11078,8 +13031,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "460401570485",
+    "uikName": "УИК №196",
     "tikTvd": "260200070472",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1178,
       "Число бюллетеней, полученных участковыми комиссиями": 1076,
@@ -11129,8 +13091,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "460401570486",
+    "uikName": "УИК №197",
     "tikTvd": "260200070472",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1034,
       "Число бюллетеней, полученных участковыми комиссиями": 1048,
@@ -11180,8 +13151,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "460401570487",
+    "uikName": "УИК №198",
     "tikTvd": "260200070472",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 979,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -11231,8 +13211,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "460401571186",
+    "uikName": "УИК №199",
     "tikTvd": "260200070472",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2611,
       "Число бюллетеней, полученных участковыми комиссиями": 2475,
@@ -11282,8 +13271,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "460401571187",
+    "uikName": "УИК №200",
     "tikTvd": "260200070472",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1127,
       "Число бюллетеней, полученных участковыми комиссиями": 1084,
@@ -11333,8 +13331,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 389,
     "uikTvd": "460401270482",
+    "uikName": "УИК №389",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1427,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -11384,8 +13391,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 390,
     "uikTvd": "460401270483",
+    "uikName": "УИК №390",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1307,
       "Число бюллетеней, полученных участковыми комиссиями": 1185,
@@ -11435,8 +13451,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 391,
     "uikTvd": "460401270484",
+    "uikName": "УИК №391",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1337,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -11486,8 +13511,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 392,
     "uikTvd": "460401270485",
+    "uikName": "УИК №392",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1457,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -11537,8 +13571,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 393,
     "uikTvd": "460401270486",
+    "uikName": "УИК №393",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1516,
       "Число бюллетеней, полученных участковыми комиссиями": 1385,
@@ -11588,8 +13631,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 394,
     "uikTvd": "460401270487",
+    "uikName": "УИК №394",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1348,
       "Число бюллетеней, полученных участковыми комиссиями": 1230,
@@ -11639,8 +13691,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "460401270488",
+    "uikName": "УИК №395",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 607,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -11690,8 +13751,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "460401270489",
+    "uikName": "УИК №396",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1559,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -11741,8 +13811,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "460401270490",
+    "uikName": "УИК №397",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 532,
       "Число бюллетеней, полученных участковыми комиссиями": 535,
@@ -11792,8 +13871,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 398,
     "uikTvd": "460401270491",
+    "uikName": "УИК №398",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1092,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -11843,8 +13931,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 399,
     "uikTvd": "460401270492",
+    "uikName": "УИК №399",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 333,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -11894,8 +13991,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 400,
     "uikTvd": "460401270493",
+    "uikName": "УИК №400",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 337,
       "Число бюллетеней, полученных участковыми комиссиями": 335,
@@ -11945,8 +14051,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "460401270494",
+    "uikName": "УИК №401",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 305,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -11996,8 +14111,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "460401270495",
+    "uikName": "УИК №402",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -12047,8 +14171,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "460401270496",
+    "uikName": "УИК №403",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 386,
       "Число бюллетеней, полученных участковыми комиссиями": 385,
@@ -12098,8 +14231,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "460401270497",
+    "uikName": "УИК №404",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -12149,8 +14291,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "460401270498",
+    "uikName": "УИК №405",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 361,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -12200,8 +14351,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "460401270499",
+    "uikName": "УИК №406",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -12251,8 +14411,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "460401270500",
+    "uikName": "УИК №407",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 365,
@@ -12302,8 +14471,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 408,
     "uikTvd": "460401270501",
+    "uikName": "УИК №408",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 491,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -12353,8 +14531,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 409,
     "uikTvd": "460401270502",
+    "uikName": "УИК №409",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -12404,8 +14591,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 410,
     "uikTvd": "460401270503",
+    "uikName": "УИК №410",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 278,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -12455,8 +14651,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 411,
     "uikTvd": "460401270504",
+    "uikName": "УИК №411",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -12506,8 +14711,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 412,
     "uikTvd": "460401270505",
+    "uikName": "УИК №412",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -12557,8 +14771,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 413,
     "uikTvd": "460401270506",
+    "uikName": "УИК №413",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -12608,8 +14831,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 414,
     "uikTvd": "460401270507",
+    "uikName": "УИК №414",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -12659,8 +14891,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 415,
     "uikTvd": "460401270508",
+    "uikName": "УИК №415",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -12710,8 +14951,17 @@ export const duma_2003_uik_428_region_60_part_001 = [
     "ballot": "single-member",
     "uikNumber": 416,
     "uikTvd": "460401270509",
+    "uikName": "УИК №416",
     "tikTvd": "260200070473",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100095793",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100095794",
+      "oikName": "Псковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 240,

@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1131,
     "uikTvd": "431402170556",
+    "uikName": "УИК №1131",
     "tikTvd": "331300171034",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -57,8 +66,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1132,
     "uikTvd": "431402170557",
+    "uikName": "УИК №1132",
     "tikTvd": "331300171034",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -103,8 +121,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1133,
     "uikTvd": "431402170558",
+    "uikName": "УИК №1133",
     "tikTvd": "331300171034",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 562,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -149,8 +176,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1134,
     "uikTvd": "431402170559",
+    "uikName": "УИК №1134",
     "tikTvd": "331300171034",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 992,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -195,8 +231,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1135,
     "uikTvd": "431402170560",
+    "uikName": "УИК №1135",
     "tikTvd": "331300171034",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -241,8 +286,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1136,
     "uikTvd": "431402170561",
+    "uikName": "УИК №1136",
     "tikTvd": "331300171034",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -287,8 +341,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1137,
     "uikTvd": "431402170562",
+    "uikName": "УИК №1137",
     "tikTvd": "331300171034",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 312,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -333,8 +396,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1138,
     "uikTvd": "431402170563",
+    "uikName": "УИК №1138",
     "tikTvd": "331300171034",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 124,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -379,8 +451,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1139,
     "uikTvd": "431402170564",
+    "uikName": "УИК №1139",
     "tikTvd": "331300171034",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 579,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -425,8 +506,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1140,
     "uikTvd": "431402170565",
+    "uikName": "УИК №1140",
     "tikTvd": "331300171034",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1878,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -471,8 +561,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1141,
     "uikTvd": "431402170566",
+    "uikName": "УИК №1141",
     "tikTvd": "331300171034",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1490,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -517,8 +616,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1142,
     "uikTvd": "431402170567",
+    "uikName": "УИК №1142",
     "tikTvd": "331300171034",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 652,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -563,8 +671,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1143,
     "uikTvd": "431402170568",
+    "uikName": "УИК №1143",
     "tikTvd": "331300171034",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 950,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -609,8 +726,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1144,
     "uikTvd": "431402170569",
+    "uikName": "УИК №1144",
     "tikTvd": "331300171034",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1150,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -655,8 +781,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1145,
     "uikTvd": "431402170570",
+    "uikName": "УИК №1145",
     "tikTvd": "331300171034",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 631,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -701,8 +836,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1146,
     "uikTvd": "431402170571",
+    "uikName": "УИК №1146",
     "tikTvd": "331300171034",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 804,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -747,8 +891,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1147,
     "uikTvd": "431402170572",
+    "uikName": "УИК №1147",
     "tikTvd": "331300171034",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 565,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -793,8 +946,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1148,
     "uikTvd": "431402170573",
+    "uikName": "УИК №1148",
     "tikTvd": "331300171034",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 775,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -839,8 +1001,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1149,
     "uikTvd": "431402170574",
+    "uikName": "УИК №1149",
     "tikTvd": "331300171034",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 552,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -885,8 +1056,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1150,
     "uikTvd": "431402170575",
+    "uikName": "УИК №1150",
     "tikTvd": "331300171034",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 587,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -931,8 +1111,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1151,
     "uikTvd": "431402270622",
+    "uikName": "УИК №1151",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2477,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -977,8 +1166,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1152,
     "uikTvd": "431402270623",
+    "uikName": "УИК №1152",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1034,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1023,8 +1221,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1153,
     "uikTvd": "431402270624",
+    "uikName": "УИК №1153",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2176,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1069,8 +1276,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1154,
     "uikTvd": "431402270625",
+    "uikName": "УИК №1154",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2366,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1115,8 +1331,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1155,
     "uikTvd": "431402270626",
+    "uikName": "УИК №1155",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2622,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1161,8 +1386,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1156,
     "uikTvd": "431402270627",
+    "uikName": "УИК №1156",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1387,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1207,8 +1441,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1157,
     "uikTvd": "431402270628",
+    "uikName": "УИК №1157",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1718,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1253,8 +1496,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1158,
     "uikTvd": "431402270629",
+    "uikName": "УИК №1158",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 999,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -1299,8 +1551,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1159,
     "uikTvd": "431402270630",
+    "uikName": "УИК №1159",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 866,
       "Число бюллетеней, полученных участковыми комиссиями": 1319,
@@ -1345,8 +1606,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1160,
     "uikTvd": "431402270631",
+    "uikName": "УИК №1160",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 693,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -1391,8 +1661,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1161,
     "uikTvd": "431402270632",
+    "uikName": "УИК №1161",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1677,
       "Число бюллетеней, полученных участковыми комиссиями": 1661,
@@ -1437,8 +1716,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1162,
     "uikTvd": "431402270633",
+    "uikName": "УИК №1162",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 695,
       "Число бюллетеней, полученных участковыми комиссиями": 743,
@@ -1483,8 +1771,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1163,
     "uikTvd": "431402270634",
+    "uikName": "УИК №1163",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1288,
       "Число бюллетеней, полученных участковыми комиссиями": 1281,
@@ -1529,8 +1826,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1164,
     "uikTvd": "431402270635",
+    "uikName": "УИК №1164",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1978,
       "Число бюллетеней, полученных участковыми комиссиями": 1993,
@@ -1575,8 +1881,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1165,
     "uikTvd": "431402270636",
+    "uikName": "УИК №1165",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 579,
       "Число бюллетеней, полученных участковыми комиссиями": 579,
@@ -1621,8 +1936,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1166,
     "uikTvd": "431402270637",
+    "uikName": "УИК №1166",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 891,
       "Число бюллетеней, полученных участковыми комиссиями": 956,
@@ -1667,8 +1991,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1167,
     "uikTvd": "431402270638",
+    "uikName": "УИК №1167",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -1713,8 +2046,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1168,
     "uikTvd": "431402270639",
+    "uikName": "УИК №1168",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 785,
       "Число бюллетеней, полученных участковыми комиссиями": 787,
@@ -1759,8 +2101,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1169,
     "uikTvd": "431402270640",
+    "uikName": "УИК №1169",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 74,
       "Число бюллетеней, полученных участковыми комиссиями": 74,
@@ -1805,8 +2156,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1170,
     "uikTvd": "431402270641",
+    "uikName": "УИК №1170",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 370,
       "Число бюллетеней, полученных участковыми комиссиями": 377,
@@ -1851,8 +2211,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1171,
     "uikTvd": "431402270642",
+    "uikName": "УИК №1171",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 954,
       "Число бюллетеней, полученных участковыми комиссиями": 1006,
@@ -1897,8 +2266,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1172,
     "uikTvd": "431402270643",
+    "uikName": "УИК №1172",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 72,
       "Число бюллетеней, полученных участковыми комиссиями": 74,
@@ -1943,8 +2321,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1173,
     "uikTvd": "431402270644",
+    "uikName": "УИК №1173",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 673,
       "Число бюллетеней, полученных участковыми комиссиями": 759,
@@ -1989,8 +2376,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1174,
     "uikTvd": "431402270645",
+    "uikName": "УИК №1174",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1277,
       "Число бюллетеней, полученных участковыми комиссиями": 1323,
@@ -2035,8 +2431,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1175,
     "uikTvd": "431402270646",
+    "uikName": "УИК №1175",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 113,
       "Число бюллетеней, полученных участковыми комиссиями": 126,
@@ -2081,8 +2486,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1176,
     "uikTvd": "431402270647",
+    "uikName": "УИК №1176",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 570,
       "Число бюллетеней, полученных участковыми комиссиями": 585,
@@ -2127,8 +2541,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1177,
     "uikTvd": "431402270648",
+    "uikName": "УИК №1177",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 792,
       "Число бюллетеней, полученных участковыми комиссиями": 776,
@@ -2173,8 +2596,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1178,
     "uikTvd": "431402270649",
+    "uikName": "УИК №1178",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 475,
       "Число бюллетеней, полученных участковыми комиссиями": 555,
@@ -2219,8 +2651,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1179,
     "uikTvd": "431402270650",
+    "uikName": "УИК №1179",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -2265,8 +2706,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1180,
     "uikTvd": "431402270651",
+    "uikName": "УИК №1180",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 456,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -2311,8 +2761,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1181,
     "uikTvd": "431402270652",
+    "uikName": "УИК №1181",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 301,
@@ -2357,8 +2816,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1182,
     "uikTvd": "431402270653",
+    "uikName": "УИК №1182",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 484,
       "Число бюллетеней, полученных участковыми комиссиями": 472,
@@ -2403,8 +2871,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1183,
     "uikTvd": "431402270654",
+    "uikName": "УИК №1183",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 215,
       "Число бюллетеней, полученных участковыми комиссиями": 219,
@@ -2449,8 +2926,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1184,
     "uikTvd": "431402270655",
+    "uikName": "УИК №1184",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 136,
@@ -2495,8 +2981,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1185,
     "uikTvd": "431402270656",
+    "uikName": "УИК №1185",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -2541,8 +3036,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1186,
     "uikTvd": "431402270657",
+    "uikName": "УИК №1186",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1289,
       "Число бюллетеней, полученных участковыми комиссиями": 1290,
@@ -2587,8 +3091,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1187,
     "uikTvd": "431402270658",
+    "uikName": "УИК №1187",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 948,
       "Число бюллетеней, полученных участковыми комиссиями": 973,
@@ -2633,8 +3146,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1188,
     "uikTvd": "431402270659",
+    "uikName": "УИК №1188",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 388,
@@ -2679,8 +3201,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1189,
     "uikTvd": "431402270660",
+    "uikName": "УИК №1189",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -2725,8 +3256,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1190,
     "uikTvd": "431402270661",
+    "uikName": "УИК №1190",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 456,
       "Число бюллетеней, полученных участковыми комиссиями": 482,
@@ -2771,8 +3311,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1191,
     "uikTvd": "431402270662",
+    "uikName": "УИК №1191",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -2817,8 +3366,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1192,
     "uikTvd": "431402270663",
+    "uikName": "УИК №1192",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 231,
@@ -2863,8 +3421,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1193,
     "uikTvd": "431402270664",
+    "uikName": "УИК №1193",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 420,
       "Число бюллетеней, полученных участковыми комиссиями": 471,
@@ -2909,8 +3476,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1194,
     "uikTvd": "431402270665",
+    "uikName": "УИК №1194",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 299,
       "Число бюллетеней, полученных участковыми комиссиями": 323,
@@ -2955,8 +3531,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1195,
     "uikTvd": "431402270666",
+    "uikName": "УИК №1195",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 218,
@@ -3001,8 +3586,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1196,
     "uikTvd": "431402270667",
+    "uikName": "УИК №1196",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 432,
       "Число бюллетеней, полученных участковыми комиссиями": 444,
@@ -3047,8 +3641,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1197,
     "uikTvd": "431402270668",
+    "uikName": "УИК №1197",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 566,
       "Число бюллетеней, полученных участковыми комиссиями": 594,
@@ -3093,8 +3696,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1198,
     "uikTvd": "431402270669",
+    "uikName": "УИК №1198",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 185,
       "Число бюллетеней, полученных участковыми комиссиями": 196,
@@ -3139,8 +3751,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1199,
     "uikTvd": "431402270670",
+    "uikName": "УИК №1199",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 951,
       "Число бюллетеней, полученных участковыми комиссиями": 996,
@@ -3185,8 +3806,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1200,
     "uikTvd": "431402270671",
+    "uikName": "УИК №1200",
     "tikTvd": "331300171035",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100095650",
+      "oikName": "Белгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 486,
@@ -3231,8 +3861,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "431400170682",
+    "uikName": "УИК №1",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2418,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3278,8 +3917,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "431400170683",
+    "uikName": "УИК №2",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2582,
       "Число бюллетеней, полученных участковыми комиссиями": 2630,
@@ -3325,8 +3973,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "431400170684",
+    "uikName": "УИК №3",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1421,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -3372,8 +4029,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "431400170685",
+    "uikName": "УИК №4",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2836,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -3419,8 +4085,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "431400170686",
+    "uikName": "УИК №5",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2402,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -3466,8 +4141,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "431400170687",
+    "uikName": "УИК №6",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2912,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -3513,8 +4197,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "431400170688",
+    "uikName": "УИК №7",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2893,
       "Число бюллетеней, полученных участковыми комиссиями": 2918,
@@ -3560,8 +4253,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "431400170689",
+    "uikName": "УИК №8",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2853,
       "Число бюллетеней, полученных участковыми комиссиями": 2831,
@@ -3607,8 +4309,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "431400170690",
+    "uikName": "УИК №9",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1570,
       "Число бюллетеней, полученных участковыми комиссиями": 1552,
@@ -3654,8 +4365,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "431400170691",
+    "uikName": "УИК №10",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2894,
       "Число бюллетеней, полученных участковыми комиссиями": 2881,
@@ -3701,8 +4421,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "431400170692",
+    "uikName": "УИК №11",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2221,
       "Число бюллетеней, полученных участковыми комиссиями": 2195,
@@ -3748,8 +4477,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "431400170693",
+    "uikName": "УИК №12",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1246,
       "Число бюллетеней, полученных участковыми комиссиями": 1246,
@@ -3795,8 +4533,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "431400170694",
+    "uikName": "УИК №13",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 807,
       "Число бюллетеней, полученных участковыми комиссиями": 791,
@@ -3842,8 +4589,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "431400170695",
+    "uikName": "УИК №14",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 394,
       "Число бюллетеней, полученных участковыми комиссиями": 387,
@@ -3889,8 +4645,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "431400170696",
+    "uikName": "УИК №15",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 608,
       "Число бюллетеней, полученных участковыми комиссиями": 614,
@@ -3936,8 +4701,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "431400170697",
+    "uikName": "УИК №16",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 360,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -3983,8 +4757,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "431400170698",
+    "uikName": "УИК №17",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 208,
@@ -4030,8 +4813,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "431400170699",
+    "uikName": "УИК №18",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1012,
       "Число бюллетеней, полученных участковыми комиссиями": 995,
@@ -4077,8 +4869,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "431400170700",
+    "uikName": "УИК №19",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 426,
       "Число бюллетеней, полученных участковыми комиссиями": 462,
@@ -4124,8 +4925,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "431400170701",
+    "uikName": "УИК №20",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 690,
       "Число бюллетеней, полученных участковыми комиссиями": 698,
@@ -4171,8 +4981,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "431400170702",
+    "uikName": "УИК №21",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 393,
@@ -4218,8 +5037,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "431400170703",
+    "uikName": "УИК №22",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 329,
       "Число бюллетеней, полученных участковыми комиссиями": 338,
@@ -4265,8 +5093,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "431400170704",
+    "uikName": "УИК №23",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 534,
       "Число бюллетеней, полученных участковыми комиссиями": 543,
@@ -4312,8 +5149,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "431400170705",
+    "uikName": "УИК №24",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 354,
       "Число бюллетеней, полученных участковыми комиссиями": 398,
@@ -4359,8 +5205,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "431400170706",
+    "uikName": "УИК №25",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 725,
       "Число бюллетеней, полученных участковыми комиссиями": 728,
@@ -4406,8 +5261,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "431400170707",
+    "uikName": "УИК №26",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 332,
       "Число бюллетеней, полученных участковыми комиссиями": 331,
@@ -4453,8 +5317,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "431400170708",
+    "uikName": "УИК №27",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 396,
       "Число бюллетеней, полученных участковыми комиссиями": 398,
@@ -4500,8 +5373,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "431400170709",
+    "uikName": "УИК №28",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 514,
       "Число бюллетеней, полученных участковыми комиссиями": 528,
@@ -4547,8 +5429,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "431400170710",
+    "uikName": "УИК №29",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 183,
@@ -4594,8 +5485,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "431400170711",
+    "uikName": "УИК №30",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1456,
       "Число бюллетеней, полученных участковыми комиссиями": 1465,
@@ -4641,8 +5541,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "431400170712",
+    "uikName": "УИК №31",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1190,
       "Число бюллетеней, полученных участковыми комиссиями": 1186,
@@ -4688,8 +5597,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "431400170713",
+    "uikName": "УИК №32",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1061,
       "Число бюллетеней, полученных участковыми комиссиями": 1061,
@@ -4735,8 +5653,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "431400170714",
+    "uikName": "УИК №33",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 114,
@@ -4782,8 +5709,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "431400170715",
+    "uikName": "УИК №34",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 509,
       "Число бюллетеней, полученных участковыми комиссиями": 517,
@@ -4829,8 +5765,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "431400170716",
+    "uikName": "УИК №35",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 490,
       "Число бюллетеней, полученных участковыми комиссиями": 493,
@@ -4876,8 +5821,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "431400170717",
+    "uikName": "УИК №36",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 161,
       "Число бюллетеней, полученных участковыми комиссиями": 166,
@@ -4923,8 +5877,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "431400170718",
+    "uikName": "УИК №37",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 564,
       "Число бюллетеней, полученных участковыми комиссиями": 572,
@@ -4970,8 +5933,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "431400170719",
+    "uikName": "УИК №38",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 159,
       "Число бюллетеней, полученных участковыми комиссиями": 158,
@@ -5017,8 +5989,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "431400170720",
+    "uikName": "УИК №39",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 712,
       "Число бюллетеней, полученных участковыми комиссиями": 707,
@@ -5064,8 +6045,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "431400170721",
+    "uikName": "УИК №40",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 248,
@@ -5111,8 +6101,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "431400170722",
+    "uikName": "УИК №41",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 441,
       "Число бюллетеней, полученных участковыми комиссиями": 447,
@@ -5158,8 +6157,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "431400170723",
+    "uikName": "УИК №42",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -5205,8 +6213,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "431400170724",
+    "uikName": "УИК №43",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -5252,8 +6269,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "431400170725",
+    "uikName": "УИК №44",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1049,
       "Число бюллетеней, полученных участковыми комиссиями": 1047,
@@ -5299,8 +6325,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "431400170726",
+    "uikName": "УИК №45",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1060,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -5346,8 +6381,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "431400170727",
+    "uikName": "УИК №46",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 462,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -5393,8 +6437,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "431400170728",
+    "uikName": "УИК №47",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 207,
@@ -5440,8 +6493,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "431400170729",
+    "uikName": "УИК №48",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 189,
@@ -5487,8 +6549,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "431400170730",
+    "uikName": "УИК №49",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1000,
       "Число бюллетеней, полученных участковыми комиссиями": 1008,
@@ -5534,8 +6605,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "431400170731",
+    "uikName": "УИК №50",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 406,
       "Число бюллетеней, полученных участковыми комиссиями": 403,
@@ -5581,8 +6661,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "431400170732",
+    "uikName": "УИК №51",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 498,
       "Число бюллетеней, полученных участковыми комиссиями": 487,
@@ -5628,8 +6717,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "431400170733",
+    "uikName": "УИК №52",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 714,
       "Число бюллетеней, полученных участковыми комиссиями": 717,
@@ -5675,8 +6773,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "431400170734",
+    "uikName": "УИК №53",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 196,
       "Число бюллетеней, полученных участковыми комиссиями": 189,
@@ -5722,8 +6829,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "431400170735",
+    "uikName": "УИК №54",
     "tikTvd": "331300270568",
     "tikName": "Алексеевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1020,
       "Число бюллетеней, полученных участковыми комиссиями": 991,
@@ -5769,8 +6885,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 297,
     "uikTvd": "431400570548",
+    "uikName": "УИК №297",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2298,
       "Число бюллетеней, полученных участковыми комиссиями": 2280,
@@ -5816,8 +6941,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 298,
     "uikTvd": "431400570549",
+    "uikName": "УИК №298",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1189,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -5863,8 +6997,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "431400570550",
+    "uikName": "УИК №299",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2179,
       "Число бюллетеней, полученных участковыми комиссиями": 2160,
@@ -5910,8 +7053,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 300,
     "uikTvd": "431400570551",
+    "uikName": "УИК №300",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2657,
       "Число бюллетеней, полученных участковыми комиссиями": 2640,
@@ -5957,8 +7109,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "431400570552",
+    "uikName": "УИК №301",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 37,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -6004,8 +7165,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "431400570553",
+    "uikName": "УИК №302",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1609,
       "Число бюллетеней, полученных участковыми комиссиями": 1610,
@@ -6051,8 +7221,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "431400570554",
+    "uikName": "УИК №303",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1836,
       "Число бюллетеней, полученных участковыми комиссиями": 1840,
@@ -6098,8 +7277,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "431400570555",
+    "uikName": "УИК №304",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 965,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -6145,8 +7333,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "431400570556",
+    "uikName": "УИК №305",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1199,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6192,8 +7389,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "431400570557",
+    "uikName": "УИК №306",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1484,
       "Число бюллетеней, полученных участковыми комиссиями": 1460,
@@ -6239,8 +7445,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "431400570558",
+    "uikName": "УИК №307",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1362,
       "Число бюллетеней, полученных участковыми комиссиями": 1340,
@@ -6286,8 +7501,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "431400570559",
+    "uikName": "УИК №308",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1989,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -6333,8 +7557,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "431400570560",
+    "uikName": "УИК №309",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2839,
       "Число бюллетеней, полученных участковыми комиссиями": 2830,
@@ -6380,8 +7613,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "431400570561",
+    "uikName": "УИК №310",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2821,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -6427,8 +7669,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "431400570562",
+    "uikName": "УИК №311",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2321,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6474,8 +7725,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "431400570563",
+    "uikName": "УИК №312",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 278,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -6521,8 +7781,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "431400570564",
+    "uikName": "УИК №313",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 252,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -6568,8 +7837,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "431400570565",
+    "uikName": "УИК №314",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 553,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -6615,8 +7893,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "431400570566",
+    "uikName": "УИК №315",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 296,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -6662,8 +7949,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "431400570567",
+    "uikName": "УИК №316",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -6709,8 +8005,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "431400570568",
+    "uikName": "УИК №317",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 710,
       "Число бюллетеней, полученных участковыми комиссиями": 710,
@@ -6756,8 +8061,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 318,
     "uikTvd": "431400570569",
+    "uikName": "УИК №318",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1427,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -6803,8 +8117,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 319,
     "uikTvd": "431400570570",
+    "uikName": "УИК №319",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -6850,8 +8173,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 320,
     "uikTvd": "431400570571",
+    "uikName": "УИК №320",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 830,
       "Число бюллетеней, полученных участковыми комиссиями": 810,
@@ -6897,8 +8229,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 321,
     "uikTvd": "431400570572",
+    "uikName": "УИК №321",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -6944,8 +8285,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 322,
     "uikTvd": "431400570573",
+    "uikName": "УИК №322",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -6991,8 +8341,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 323,
     "uikTvd": "431400570574",
+    "uikName": "УИК №323",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 59,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -7038,8 +8397,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 324,
     "uikTvd": "431400570575",
+    "uikName": "УИК №324",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -7085,8 +8453,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 325,
     "uikTvd": "431400570576",
+    "uikName": "УИК №325",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -7132,8 +8509,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 326,
     "uikTvd": "431400570577",
+    "uikName": "УИК №326",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 392,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -7179,8 +8565,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 327,
     "uikTvd": "431400570578",
+    "uikName": "УИК №327",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 298,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7226,8 +8621,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 328,
     "uikTvd": "431400570579",
+    "uikName": "УИК №328",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7273,8 +8677,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 329,
     "uikTvd": "431400570580",
+    "uikName": "УИК №329",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 397,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -7320,8 +8733,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 330,
     "uikTvd": "431400570581",
+    "uikName": "УИК №330",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 180,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -7367,8 +8789,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 331,
     "uikTvd": "431400570582",
+    "uikName": "УИК №331",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 712,
       "Число бюллетеней, полученных участковыми комиссиями": 710,
@@ -7414,8 +8845,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 332,
     "uikTvd": "431400570583",
+    "uikName": "УИК №332",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 914,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -7461,8 +8901,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 333,
     "uikTvd": "431400570584",
+    "uikName": "УИК №333",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1481,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7508,8 +8957,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 334,
     "uikTvd": "431400570585",
+    "uikName": "УИК №334",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 65,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -7555,8 +9013,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 335,
     "uikTvd": "431400570586",
+    "uikName": "УИК №335",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7602,8 +9069,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 336,
     "uikTvd": "431400570587",
+    "uikName": "УИК №336",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 450,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -7649,8 +9125,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 337,
     "uikTvd": "431400570588",
+    "uikName": "УИК №337",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7696,8 +9181,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 338,
     "uikTvd": "431400570589",
+    "uikName": "УИК №338",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 869,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -7743,8 +9237,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 339,
     "uikTvd": "431400570590",
+    "uikName": "УИК №339",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 74,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -7790,8 +9293,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 340,
     "uikTvd": "431400570591",
+    "uikName": "УИК №340",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 334,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -7837,8 +9349,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 341,
     "uikTvd": "431400570592",
+    "uikName": "УИК №341",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 491,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -7884,8 +9405,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 342,
     "uikTvd": "431400570593",
+    "uikName": "УИК №342",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1296,
       "Число бюллетеней, полученных участковыми комиссиями": 1310,
@@ -7931,8 +9461,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 343,
     "uikTvd": "431400570594",
+    "uikName": "УИК №343",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 452,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -7978,8 +9517,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 344,
     "uikTvd": "431400570595",
+    "uikName": "УИК №344",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 390,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -8025,8 +9573,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 345,
     "uikTvd": "431400570596",
+    "uikName": "УИК №345",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -8072,8 +9629,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 346,
     "uikTvd": "431400570597",
+    "uikName": "УИК №346",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -8119,8 +9685,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 347,
     "uikTvd": "431400570598",
+    "uikName": "УИК №347",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 658,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -8166,8 +9741,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 348,
     "uikTvd": "431400570599",
+    "uikName": "УИК №348",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 435,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -8213,8 +9797,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 349,
     "uikTvd": "431400570600",
+    "uikName": "УИК №349",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -8260,8 +9853,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 350,
     "uikTvd": "431400570601",
+    "uikName": "УИК №350",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -8307,8 +9909,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 351,
     "uikTvd": "431400570602",
+    "uikName": "УИК №351",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 375,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -8354,8 +9965,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 352,
     "uikTvd": "431400570603",
+    "uikName": "УИК №352",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1826,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -8401,8 +10021,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 353,
     "uikTvd": "431400570604",
+    "uikName": "УИК №353",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 600,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -8448,8 +10077,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 354,
     "uikTvd": "431400570605",
+    "uikName": "УИК №354",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 480,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -8495,8 +10133,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 355,
     "uikTvd": "431400570606",
+    "uikName": "УИК №355",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 358,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -8542,8 +10189,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 356,
     "uikTvd": "431400570607",
+    "uikName": "УИК №356",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 211,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -8589,8 +10245,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 357,
     "uikTvd": "431400570608",
+    "uikName": "УИК №357",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 331,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -8636,8 +10301,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 358,
     "uikTvd": "431400570609",
+    "uikName": "УИК №358",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -8683,8 +10357,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 359,
     "uikTvd": "431400570610",
+    "uikName": "УИК №359",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 399,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -8730,8 +10413,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 360,
     "uikTvd": "431400570611",
+    "uikName": "УИК №360",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1392,
       "Число бюллетеней, полученных участковыми комиссиями": 1380,
@@ -8777,8 +10469,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 361,
     "uikTvd": "431400570612",
+    "uikName": "УИК №361",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1047,
       "Число бюллетеней, полученных участковыми комиссиями": 1040,
@@ -8824,8 +10525,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 362,
     "uikTvd": "431400570613",
+    "uikName": "УИК №362",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1481,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -8871,8 +10581,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 363,
     "uikTvd": "431400570614",
+    "uikName": "УИК №363",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1296,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -8918,8 +10637,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 364,
     "uikTvd": "431400570615",
+    "uikName": "УИК №364",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 381,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -8965,8 +10693,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 365,
     "uikTvd": "431400570616",
+    "uikName": "УИК №365",
     "tikTvd": "331300270569",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 958,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -9012,8 +10749,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 366,
     "uikTvd": "431400670475",
+    "uikName": "УИК №366",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1108,
       "Число бюллетеней, полученных участковыми комиссиями": 1007,
@@ -9059,8 +10805,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 367,
     "uikTvd": "431400670476",
+    "uikName": "УИК №367",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 217,
       "Число бюллетеней, полученных участковыми комиссиями": 197,
@@ -9106,8 +10861,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 368,
     "uikTvd": "431400670477",
+    "uikName": "УИК №368",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 650,
       "Число бюллетеней, полученных участковыми комиссиями": 587,
@@ -9153,8 +10917,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 369,
     "uikTvd": "431400670478",
+    "uikName": "УИК №369",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1094,
       "Число бюллетеней, полученных участковыми комиссиями": 987,
@@ -9200,8 +10973,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 370,
     "uikTvd": "431400670479",
+    "uikName": "УИК №370",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1095,
       "Число бюллетеней, полученных участковыми комиссиями": 984,
@@ -9247,8 +11029,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 371,
     "uikTvd": "431400670480",
+    "uikName": "УИК №371",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1112,
       "Число бюллетеней, полученных участковыми комиссиями": 1011,
@@ -9294,8 +11085,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 372,
     "uikTvd": "431400670481",
+    "uikName": "УИК №372",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1114,
       "Число бюллетеней, полученных участковыми комиссиями": 1024,
@@ -9341,8 +11141,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 373,
     "uikTvd": "431400670482",
+    "uikName": "УИК №373",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 567,
       "Число бюллетеней, полученных участковыми комиссиями": 516,
@@ -9388,8 +11197,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 374,
     "uikTvd": "431400670483",
+    "uikName": "УИК №374",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 581,
       "Число бюллетеней, полученных участковыми комиссиями": 526,
@@ -9435,8 +11253,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 375,
     "uikTvd": "431400670484",
+    "uikName": "УИК №375",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 444,
       "Число бюллетеней, полученных участковыми комиссиями": 382,
@@ -9482,8 +11309,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 376,
     "uikTvd": "431400670485",
+    "uikName": "УИК №376",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1192,
       "Число бюллетеней, полученных участковыми комиссиями": 1068,
@@ -9529,8 +11365,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 377,
     "uikTvd": "431400670486",
+    "uikName": "УИК №377",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 377,
@@ -9576,8 +11421,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 378,
     "uikTvd": "431400670487",
+    "uikName": "УИК №378",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 261,
       "Число бюллетеней, полученных участковыми комиссиями": 234,
@@ -9623,8 +11477,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 379,
     "uikTvd": "431400670488",
+    "uikName": "УИК №379",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 980,
       "Число бюллетеней, полученных участковыми комиссиями": 975,
@@ -9670,8 +11533,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 380,
     "uikTvd": "431400670489",
+    "uikName": "УИК №380",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 382,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -9717,8 +11589,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 381,
     "uikTvd": "431400670490",
+    "uikName": "УИК №381",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 307,
       "Число бюллетеней, полученных участковыми комиссиями": 307,
@@ -9764,8 +11645,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 382,
     "uikTvd": "431400670491",
+    "uikName": "УИК №382",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 891,
       "Число бюллетеней, полученных участковыми комиссиями": 815,
@@ -9811,8 +11701,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 383,
     "uikTvd": "431400670492",
+    "uikName": "УИК №383",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 331,
@@ -9858,8 +11757,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 384,
     "uikTvd": "431400670493",
+    "uikName": "УИК №384",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 524,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -9905,8 +11813,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 385,
     "uikTvd": "431400670494",
+    "uikName": "УИК №385",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 289,
       "Число бюллетеней, полученных участковыми комиссиями": 289,
@@ -9952,8 +11869,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 386,
     "uikTvd": "431400670495",
+    "uikName": "УИК №386",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 872,
       "Число бюллетеней, полученных участковыми комиссиями": 793,
@@ -9999,8 +11925,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 387,
     "uikTvd": "431400670496",
+    "uikName": "УИК №387",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 433,
       "Число бюллетеней, полученных участковыми комиссиями": 392,
@@ -10046,8 +11981,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 388,
     "uikTvd": "431400670497",
+    "uikName": "УИК №388",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -10093,8 +12037,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 389,
     "uikTvd": "431400670498",
+    "uikName": "УИК №389",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 364,
@@ -10140,8 +12093,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 390,
     "uikTvd": "431400670499",
+    "uikName": "УИК №390",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 775,
       "Число бюллетеней, полученных участковыми комиссиями": 712,
@@ -10187,8 +12149,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 391,
     "uikTvd": "431400670500",
+    "uikName": "УИК №391",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 638,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -10234,8 +12205,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 392,
     "uikTvd": "431400670501",
+    "uikName": "УИК №392",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 613,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -10281,8 +12261,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 393,
     "uikTvd": "431400670502",
+    "uikName": "УИК №393",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 283,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -10328,8 +12317,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 394,
     "uikTvd": "431400670503",
+    "uikName": "УИК №394",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 226,
@@ -10375,8 +12373,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "431400670504",
+    "uikName": "УИК №395",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 189,
@@ -10422,8 +12429,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "431400670505",
+    "uikName": "УИК №396",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 348,
       "Число бюллетеней, полученных участковыми комиссиями": 314,
@@ -10469,8 +12485,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "431400670506",
+    "uikName": "УИК №397",
     "tikTvd": "331300270570",
     "tikName": "Вейделевская ",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 423,
       "Число бюллетеней, полученных участковыми комиссиями": 423,
@@ -10516,8 +12541,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 398,
     "uikTvd": "431400770419",
+    "uikName": "УИК №398",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1900,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10563,8 +12597,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 399,
     "uikTvd": "431400770420",
+    "uikName": "УИК №399",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1634,
       "Число бюллетеней, полученных участковыми комиссиями": 1639,
@@ -10610,8 +12653,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 400,
     "uikTvd": "431400770421",
+    "uikName": "УИК №400",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1890,
       "Число бюллетеней, полученных участковыми комиссиями": 1880,
@@ -10657,8 +12709,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "431400770422",
+    "uikName": "УИК №401",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1139,
       "Число бюллетеней, полученных участковыми комиссиями": 1143,
@@ -10704,8 +12765,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "431400770423",
+    "uikName": "УИК №402",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1392,
       "Число бюллетеней, полученных участковыми комиссиями": 1386,
@@ -10751,8 +12821,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "431400770424",
+    "uikName": "УИК №403",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 993,
       "Число бюллетеней, полученных участковыми комиссиями": 980,
@@ -10798,8 +12877,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "431400770425",
+    "uikName": "УИК №404",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1113,
       "Число бюллетеней, полученных участковыми комиссиями": 1116,
@@ -10845,8 +12933,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "431400770426",
+    "uikName": "УИК №405",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1892,
       "Число бюллетеней, полученных участковыми комиссиями": 1901,
@@ -10892,8 +12989,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "431400770427",
+    "uikName": "УИК №406",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1977,
       "Число бюллетеней, полученных участковыми комиссиями": 1965,
@@ -10939,8 +13045,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "431400770428",
+    "uikName": "УИК №407",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 687,
       "Число бюллетеней, полученных участковыми комиссиями": 691,
@@ -10986,8 +13101,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 408,
     "uikTvd": "431400770429",
+    "uikName": "УИК №408",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 590,
       "Число бюллетеней, полученных участковыми комиссиями": 589,
@@ -11033,8 +13157,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 409,
     "uikTvd": "431400770430",
+    "uikName": "УИК №409",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 325,
       "Число бюллетеней, полученных участковыми комиссиями": 329,
@@ -11080,8 +13213,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 410,
     "uikTvd": "431400770431",
+    "uikName": "УИК №410",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 307,
       "Число бюллетеней, полученных участковыми комиссиями": 308,
@@ -11127,8 +13269,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 411,
     "uikTvd": "431400770432",
+    "uikName": "УИК №411",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -11174,8 +13325,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 412,
     "uikTvd": "431400770433",
+    "uikName": "УИК №412",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 261,
       "Число бюллетеней, полученных участковыми комиссиями": 261,
@@ -11221,8 +13381,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 413,
     "uikTvd": "431400770434",
+    "uikName": "УИК №413",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 515,
       "Число бюллетеней, полученных участковыми комиссиями": 514,
@@ -11268,8 +13437,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 414,
     "uikTvd": "431400770435",
+    "uikName": "УИК №414",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -11315,8 +13493,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 415,
     "uikTvd": "431400770436",
+    "uikName": "УИК №415",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 552,
       "Число бюллетеней, полученных участковыми комиссиями": 554,
@@ -11362,8 +13549,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 416,
     "uikTvd": "431400770437",
+    "uikName": "УИК №416",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 793,
       "Число бюллетеней, полученных участковыми комиссиями": 794,
@@ -11409,8 +13605,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 417,
     "uikTvd": "431400770438",
+    "uikName": "УИК №417",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -11456,8 +13661,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 418,
     "uikTvd": "431400770439",
+    "uikName": "УИК №418",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 201,
@@ -11503,8 +13717,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 419,
     "uikTvd": "431400770440",
+    "uikName": "УИК №419",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 817,
       "Число бюллетеней, полученных участковыми комиссиями": 819,
@@ -11550,8 +13773,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 420,
     "uikTvd": "431400770441",
+    "uikName": "УИК №420",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -11597,8 +13829,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 421,
     "uikTvd": "431400770442",
+    "uikName": "УИК №421",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 374,
       "Число бюллетеней, полученных участковыми комиссиями": 376,
@@ -11644,8 +13885,17 @@ export const duma_2003_uik_428_region_31_part_003 = [
     "ballot": "single-member",
     "uikNumber": 422,
     "uikTvd": "431400770443",
+    "uikName": "УИК №422",
     "tikTvd": "331300270571",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100095649",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100095651",
+      "oikName": "Новооскольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 185,

@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "452400870442",
+    "uikName": "УИК №302",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1454,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -63,8 +72,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "452400870443",
+    "uikName": "УИК №303",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2014,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -115,8 +133,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "452400870444",
+    "uikName": "УИК №304",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2280,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -167,8 +194,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "452400870445",
+    "uikName": "УИК №305",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1312,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -219,8 +255,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "452400870446",
+    "uikName": "УИК №306",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1470,
       "Число бюллетеней, полученных участковыми комиссиями": 1130,
@@ -271,8 +316,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "452400870447",
+    "uikName": "УИК №307",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2793,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -323,8 +377,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "452400870448",
+    "uikName": "УИК №308",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1721,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -375,8 +438,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "452400870449",
+    "uikName": "УИК №309",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2250,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -427,8 +499,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "452400870450",
+    "uikName": "УИК №310",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2066,
       "Число бюллетеней, полученных участковыми комиссиями": 1610,
@@ -479,8 +560,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "452400870451",
+    "uikName": "УИК №311",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1312,
       "Число бюллетеней, полученных участковыми комиссиями": 1120,
@@ -531,8 +621,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "452400870452",
+    "uikName": "УИК №312",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1986,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -583,8 +682,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "452400870453",
+    "uikName": "УИК №313",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2073,
       "Число бюллетеней, полученных участковыми комиссиями": 1630,
@@ -635,8 +743,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "452400870454",
+    "uikName": "УИК №314",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1403,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -687,8 +804,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "452400870455",
+    "uikName": "УИК №315",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1059,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -739,8 +865,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "452400870456",
+    "uikName": "УИК №316",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1404,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -791,8 +926,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "452400870457",
+    "uikName": "УИК №317",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2138,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -843,8 +987,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 318,
     "uikTvd": "452400870458",
+    "uikName": "УИК №318",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1604,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -895,8 +1048,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 319,
     "uikTvd": "452400870459",
+    "uikName": "УИК №319",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 936,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -947,8 +1109,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 320,
     "uikTvd": "452400870460",
+    "uikName": "УИК №320",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1392,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -999,8 +1170,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 321,
     "uikTvd": "452400870461",
+    "uikName": "УИК №321",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2432,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -1051,8 +1231,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 322,
     "uikTvd": "452400870462",
+    "uikName": "УИК №322",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 475,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -1103,8 +1292,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 323,
     "uikTvd": "452400870463",
+    "uikName": "УИК №323",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -1155,8 +1353,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 324,
     "uikTvd": "452400870464",
+    "uikName": "УИК №324",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2154,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -1207,8 +1414,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 325,
     "uikTvd": "452400870465",
+    "uikName": "УИК №325",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1297,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -1259,8 +1475,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 326,
     "uikTvd": "452400870466",
+    "uikName": "УИК №326",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 855,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -1311,8 +1536,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 327,
     "uikTvd": "452400870467",
+    "uikName": "УИК №327",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1456,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -1363,8 +1597,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 328,
     "uikTvd": "452400870468",
+    "uikName": "УИК №328",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2000,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -1415,8 +1658,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 329,
     "uikTvd": "452400870469",
+    "uikName": "УИК №329",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 856,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -1467,8 +1719,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 330,
     "uikTvd": "452400870470",
+    "uikName": "УИК №330",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 859,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -1519,8 +1780,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 331,
     "uikTvd": "452400870471",
+    "uikName": "УИК №331",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1066,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -1571,8 +1841,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 332,
     "uikTvd": "452400870472",
+    "uikName": "УИК №332",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1264,
       "Число бюллетеней, полученных участковыми комиссиями": 980,
@@ -1623,8 +1902,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 333,
     "uikTvd": "452400870473",
+    "uikName": "УИК №333",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 604,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -1675,8 +1963,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 334,
     "uikTvd": "452400870474",
+    "uikName": "УИК №334",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1524,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1727,8 +2024,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 335,
     "uikTvd": "452400870475",
+    "uikName": "УИК №335",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1950,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -1779,8 +2085,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 336,
     "uikTvd": "452400870476",
+    "uikName": "УИК №336",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 555,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -1831,8 +2146,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 337,
     "uikTvd": "452400870477",
+    "uikName": "УИК №337",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 590,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -1883,8 +2207,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 338,
     "uikTvd": "452400870478",
+    "uikName": "УИК №338",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2359,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -1935,8 +2268,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 339,
     "uikTvd": "452400870479",
+    "uikName": "УИК №339",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1304,
       "Число бюллетеней, полученных участковыми комиссиями": 930,
@@ -1987,8 +2329,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 340,
     "uikTvd": "452400870480",
+    "uikName": "УИК №340",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2683,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2039,8 +2390,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 341,
     "uikTvd": "452400870481",
+    "uikName": "УИК №341",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 983,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -2091,8 +2451,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 342,
     "uikTvd": "452400870482",
+    "uikName": "УИК №342",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 685,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -2143,8 +2512,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 343,
     "uikTvd": "452400870483",
+    "uikName": "УИК №343",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 603,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -2195,8 +2573,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 344,
     "uikTvd": "452400870484",
+    "uikName": "УИК №344",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 764,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -2247,8 +2634,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 345,
     "uikTvd": "452400870485",
+    "uikName": "УИК №345",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 304,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -2299,8 +2695,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 346,
     "uikTvd": "452400870486",
+    "uikName": "УИК №346",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1141,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -2351,8 +2756,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 347,
     "uikTvd": "452400870487",
+    "uikName": "УИК №347",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2325,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2403,8 +2817,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 348,
     "uikTvd": "452400870488",
+    "uikName": "УИК №348",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2323,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -2455,8 +2878,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 349,
     "uikTvd": "452400870489",
+    "uikName": "УИК №349",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 779,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -2507,8 +2939,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 350,
     "uikTvd": "452400870490",
+    "uikName": "УИК №350",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 366,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2559,8 +3000,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 351,
     "uikTvd": "452400870491",
+    "uikName": "УИК №351",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 971,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -2611,8 +3061,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 352,
     "uikTvd": "452400870492",
+    "uikName": "УИК №352",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1013,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -2663,8 +3122,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 353,
     "uikTvd": "452400870493",
+    "uikName": "УИК №353",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1026,
       "Число бюллетеней, полученных участковыми комиссиями": 810,
@@ -2715,8 +3183,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 354,
     "uikTvd": "452400870494",
+    "uikName": "УИК №354",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1563,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2767,8 +3244,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 355,
     "uikTvd": "452400870495",
+    "uikName": "УИК №355",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2816,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2819,8 +3305,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 356,
     "uikTvd": "452400870496",
+    "uikName": "УИК №356",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 615,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -2871,8 +3366,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 357,
     "uikTvd": "452400870497",
+    "uikName": "УИК №357",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 841,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -2923,8 +3427,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 358,
     "uikTvd": "452400870498",
+    "uikName": "УИК №358",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -2975,8 +3488,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 359,
     "uikTvd": "452400870499",
+    "uikName": "УИК №359",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 653,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -3027,8 +3549,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 360,
     "uikTvd": "452400870500",
+    "uikName": "УИК №360",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1036,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -3079,8 +3610,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 361,
     "uikTvd": "452400870501",
+    "uikName": "УИК №361",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1098,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -3131,8 +3671,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 362,
     "uikTvd": "452400870502",
+    "uikName": "УИК №362",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -3183,8 +3732,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 363,
     "uikTvd": "452400870503",
+    "uikName": "УИК №363",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 653,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -3235,8 +3793,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 364,
     "uikTvd": "452400870504",
+    "uikName": "УИК №364",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 427,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -3287,8 +3854,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 365,
     "uikTvd": "452400870505",
+    "uikName": "УИК №365",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 666,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -3339,8 +3915,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 366,
     "uikTvd": "452400870506",
+    "uikName": "УИК №366",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 315,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -3391,8 +3976,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 367,
     "uikTvd": "452400870507",
+    "uikName": "УИК №367",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1394,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -3443,8 +4037,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 368,
     "uikTvd": "452400870508",
+    "uikName": "УИК №368",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1615,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -3495,8 +4098,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 369,
     "uikTvd": "452400870509",
+    "uikName": "УИК №369",
     "tikTvd": "352300670347",
     "tikName": "Борская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 271,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3547,8 +4159,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 373,
     "uikTvd": "452400970440",
+    "uikName": "УИК  373",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2135,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3599,8 +4220,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 374,
     "uikTvd": "452400970441",
+    "uikName": "УИК  374",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2093,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3651,8 +4281,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 375,
     "uikTvd": "452400970442",
+    "uikName": "УИК  375",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1630,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3703,8 +4342,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 376,
     "uikTvd": "452400970443",
+    "uikName": "УИК  376",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 374,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -3755,8 +4403,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 377,
     "uikTvd": "452400970444",
+    "uikName": "УИК  377",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 582,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -3807,8 +4464,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 378,
     "uikTvd": "452400970445",
+    "uikName": "УИК  378",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3859,8 +4525,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 379,
     "uikTvd": "452400970446",
+    "uikName": "УИК  379",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 116,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -3911,8 +4586,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 380,
     "uikTvd": "452400970447",
+    "uikName": "УИК  380",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 622,
       "Число бюллетеней, полученных участковыми комиссиями": 610,
@@ -3963,8 +4647,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 381,
     "uikTvd": "452400970448",
+    "uikName": "УИК  381",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -4015,8 +4708,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 382,
     "uikTvd": "452400970449",
+    "uikName": "УИК  382",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 265,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -4067,8 +4769,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 383,
     "uikTvd": "452400970450",
+    "uikName": "УИК  383",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4119,8 +4830,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 384,
     "uikTvd": "452400970451",
+    "uikName": "УИК  384",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 59,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -4171,8 +4891,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 385,
     "uikTvd": "452400970452",
+    "uikName": "УИК  385",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 291,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -4223,8 +4952,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 386,
     "uikTvd": "452400970453",
+    "uikName": "УИК  386",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 68,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -4275,8 +5013,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 387,
     "uikTvd": "452400970454",
+    "uikName": "УИК  387",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -4327,8 +5074,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 388,
     "uikTvd": "452400970455",
+    "uikName": "УИК  388",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 281,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -4379,8 +5135,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 389,
     "uikTvd": "452400970456",
+    "uikName": "УИК  389",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 50,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -4431,8 +5196,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 390,
     "uikTvd": "452400970457",
+    "uikName": "УИК  390",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 608,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -4483,8 +5257,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 391,
     "uikTvd": "452400970458",
+    "uikName": "УИК  391",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -4535,8 +5318,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 392,
     "uikTvd": "452400970459",
+    "uikName": "УИК  392",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -4587,8 +5379,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 393,
     "uikTvd": "452400970460",
+    "uikName": "УИК  393",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -4639,8 +5440,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 394,
     "uikTvd": "452400970461",
+    "uikName": "УИК  394",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -4691,8 +5501,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "452400970462",
+    "uikName": "УИК  395",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -4743,8 +5562,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "452400970463",
+    "uikName": "УИК  396",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 55,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -4795,8 +5623,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "452400970464",
+    "uikName": "УИК  397",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 33,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -4847,8 +5684,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 398,
     "uikTvd": "452400970465",
+    "uikName": "УИК  398",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 169,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -4899,8 +5745,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 399,
     "uikTvd": "452400970466",
+    "uikName": "УИК  399",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 347,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -4951,8 +5806,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 400,
     "uikTvd": "452400970467",
+    "uikName": "УИК  400",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 469,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -5003,8 +5867,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "452400970468",
+    "uikName": "УИК  401",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -5055,8 +5928,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "452400970469",
+    "uikName": "УИК  402",
     "tikTvd": "352300670348",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -5107,8 +5989,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 550,
     "uikTvd": "452401670436",
+    "uikName": "УИК №550",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 904,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -5159,8 +6050,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 551,
     "uikTvd": "452401670437",
+    "uikName": "УИК №551",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 794,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -5211,8 +6111,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 552,
     "uikTvd": "452401670438",
+    "uikName": "УИК №552",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1582,
       "Число бюллетеней, полученных участковыми комиссиями": 1410,
@@ -5263,8 +6172,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 553,
     "uikTvd": "452401670439",
+    "uikName": "УИК №553",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1360,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -5315,8 +6233,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 554,
     "uikTvd": "452401670440",
+    "uikName": "УИК №554",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 603,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -5367,8 +6294,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 555,
     "uikTvd": "452401670441",
+    "uikName": "УИК №555",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 957,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -5419,8 +6355,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 556,
     "uikTvd": "452401670442",
+    "uikName": "УИК №556",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -5471,8 +6416,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 557,
     "uikTvd": "452401670443",
+    "uikName": "УИК №557",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -5523,8 +6477,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 558,
     "uikTvd": "452401670444",
+    "uikName": "УИК №558",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 454,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -5575,8 +6538,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 559,
     "uikTvd": "452401670445",
+    "uikName": "УИК №559",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -5627,8 +6599,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 560,
     "uikTvd": "452401670446",
+    "uikName": "УИК №560",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -5679,8 +6660,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 561,
     "uikTvd": "452401670447",
+    "uikName": "УИК №561",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -5731,8 +6721,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 562,
     "uikTvd": "452401670448",
+    "uikName": "УИК №562",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 90,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -5783,8 +6782,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 563,
     "uikTvd": "452401670449",
+    "uikName": "УИК №563",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 381,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -5835,8 +6843,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 564,
     "uikTvd": "452401670450",
+    "uikName": "УИК №564",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 464,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -5887,8 +6904,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 565,
     "uikTvd": "452401670451",
+    "uikName": "УИК №565",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 391,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -5939,8 +6965,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 566,
     "uikTvd": "452401670452",
+    "uikName": "УИК №566",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -5991,8 +7026,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 567,
     "uikTvd": "452401670453",
+    "uikName": "УИК №567",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 161,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -6043,8 +7087,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 568,
     "uikTvd": "452401670454",
+    "uikName": "УИК №568",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -6095,8 +7148,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 569,
     "uikTvd": "452401670455",
+    "uikName": "УИК №569",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 57,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -6147,8 +7209,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 570,
     "uikTvd": "452401670456",
+    "uikName": "УИК №570",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -6199,8 +7270,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 571,
     "uikTvd": "452401670457",
+    "uikName": "УИК №571",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1162,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6251,8 +7331,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 572,
     "uikTvd": "452401670458",
+    "uikName": "УИК №572",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 43,
       "Число бюллетеней, полученных участковыми комиссиями": 40,
@@ -6303,8 +7392,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 573,
     "uikTvd": "452401670459",
+    "uikName": "УИК №573",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 82,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -6355,8 +7453,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 574,
     "uikTvd": "452401670460",
+    "uikName": "УИК №574",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 315,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -6407,8 +7514,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 575,
     "uikTvd": "452401670461",
+    "uikName": "УИК №575",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 219,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -6459,8 +7575,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 576,
     "uikTvd": "452401670462",
+    "uikName": "УИК №576",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 365,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -6511,8 +7636,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 577,
     "uikTvd": "452401670463",
+    "uikName": "УИК №577",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 397,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -6563,8 +7697,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 578,
     "uikTvd": "452401670464",
+    "uikName": "УИК №578",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 429,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -6615,8 +7758,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 579,
     "uikTvd": "452401670465",
+    "uikName": "УИК №579",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 554,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -6667,8 +7819,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 580,
     "uikTvd": "452401670466",
+    "uikName": "УИК №580",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 512,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -6719,8 +7880,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 581,
     "uikTvd": "452401670467",
+    "uikName": "УИК №581",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -6771,8 +7941,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 582,
     "uikTvd": "452401670468",
+    "uikName": "УИК №582",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1075,
       "Число бюллетеней, полученных участковыми комиссиями": 1090,
@@ -6823,8 +8002,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 583,
     "uikTvd": "452401670469",
+    "uikName": "УИК №583",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 425,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -6875,8 +8063,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 584,
     "uikTvd": "452401670470",
+    "uikName": "УИК №584",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 79,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -6927,8 +8124,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 585,
     "uikTvd": "452401670471",
+    "uikName": "УИК №585",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 56,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -6979,8 +8185,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 586,
     "uikTvd": "452401670472",
+    "uikName": "УИК №586",
     "tikTvd": "352300670349",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7031,8 +8246,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 965,
     "uikTvd": "452402570385",
+    "uikName": "УИК №965",
     "tikTvd": "352300670350",
     "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1690,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7083,8 +8307,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 966,
     "uikTvd": "452402570387",
+    "uikName": "УИК №966",
     "tikTvd": "352300670350",
     "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1177,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -7135,8 +8368,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 967,
     "uikTvd": "452402570388",
+    "uikName": "УИК №967",
     "tikTvd": "352300670350",
     "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1051,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -7187,8 +8429,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 968,
     "uikTvd": "452402570389",
+    "uikName": "УИК №968",
     "tikTvd": "352300670350",
     "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 562,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -7239,8 +8490,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 969,
     "uikTvd": "452402570390",
+    "uikName": "УИК №969",
     "tikTvd": "352300670350",
     "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1063,
       "Число бюллетеней, полученных участковыми комиссиями": 955,
@@ -7291,8 +8551,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 970,
     "uikTvd": "452402570391",
+    "uikName": "УИК №970",
     "tikTvd": "352300670350",
     "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 470,
       "Число бюллетеней, полученных участковыми комиссиями": 435,
@@ -7343,8 +8612,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 971,
     "uikTvd": "452402570392",
+    "uikName": "УИК №971",
     "tikTvd": "352300670350",
     "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -7395,8 +8673,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 972,
     "uikTvd": "452402570393",
+    "uikName": "УИК №972",
     "tikTvd": "352300670350",
     "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 309,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -7447,8 +8734,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 973,
     "uikTvd": "452402570394",
+    "uikName": "УИК №973",
     "tikTvd": "352300670350",
     "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 289,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -7499,8 +8795,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 974,
     "uikTvd": "452402570395",
+    "uikName": "УИК №974",
     "tikTvd": "352300670350",
     "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 413,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -7551,8 +8856,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 975,
     "uikTvd": "452402570396",
+    "uikName": "УИК №975",
     "tikTvd": "352300670350",
     "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 483,
       "Число бюллетеней, полученных участковыми комиссиями": 445,
@@ -7603,8 +8917,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 976,
     "uikTvd": "452402570397",
+    "uikName": "УИК №976",
     "tikTvd": "352300670350",
     "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -7655,8 +8978,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 977,
     "uikTvd": "452402570398",
+    "uikName": "УИК №977",
     "tikTvd": "352300670350",
     "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 314,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -7707,8 +9039,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 978,
     "uikTvd": "452402570399",
+    "uikName": "УИК №978",
     "tikTvd": "352300670350",
     "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -7759,8 +9100,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 979,
     "uikTvd": "452402570400",
+    "uikName": "УИК №979",
     "tikTvd": "352300670350",
     "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 245,
@@ -7811,8 +9161,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 980,
     "uikTvd": "452402570401",
+    "uikName": "УИК №980",
     "tikTvd": "352300670350",
     "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -7863,8 +9222,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 981,
     "uikTvd": "452402570402",
+    "uikName": "УИК №981",
     "tikTvd": "352300670350",
     "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 610,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -7915,8 +9283,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1025,
     "uikTvd": "452402870471",
+    "uikName": "УИК №1025",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 148,
@@ -7967,8 +9344,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1026,
     "uikTvd": "452402870472",
+    "uikName": "УИК №1026",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -8019,8 +9405,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1027,
     "uikTvd": "452402870473",
+    "uikName": "УИК №1027",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1141,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8071,8 +9466,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1028,
     "uikTvd": "452402870474",
+    "uikName": "УИК №1028",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 534,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -8123,8 +9527,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1029,
     "uikTvd": "452402870475",
+    "uikName": "УИК №1029",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 307,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -8175,8 +9588,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1030,
     "uikTvd": "452402870476",
+    "uikName": "УИК №1030",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 162,
@@ -8227,8 +9649,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1031,
     "uikTvd": "452402870477",
+    "uikName": "УИК №1031",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 106,
@@ -8279,8 +9710,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1032,
     "uikTvd": "452402870478",
+    "uikName": "УИК №1032",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 248,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -8331,8 +9771,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1033,
     "uikTvd": "452402870479",
+    "uikName": "УИК №1033",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 145,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -8383,8 +9832,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1034,
     "uikTvd": "452402870480",
+    "uikName": "УИК №1034",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 162,
@@ -8435,8 +9893,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1035,
     "uikTvd": "452402870481",
+    "uikName": "УИК №1035",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 122,
@@ -8487,8 +9954,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1036,
     "uikTvd": "452402870482",
+    "uikName": "УИК №1036",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 136,
@@ -8539,8 +10015,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1037,
     "uikTvd": "452402870483",
+    "uikName": "УИК №1037",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 350,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -8591,8 +10076,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1038,
     "uikTvd": "452402870484",
+    "uikName": "УИК №1038",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 535,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -8643,8 +10137,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1039,
     "uikTvd": "452402870485",
+    "uikName": "УИК №1039",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 349,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -8695,8 +10198,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1040,
     "uikTvd": "452402870486",
+    "uikName": "УИК №1040",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -8747,8 +10259,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1041,
     "uikTvd": "452402870487",
+    "uikName": "УИК №1041",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 236,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -8799,8 +10320,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1042,
     "uikTvd": "452402870488",
+    "uikName": "УИК №1042",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 99,
       "Число бюллетеней, полученных участковыми комиссиями": 99,
@@ -8851,8 +10381,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1043,
     "uikTvd": "452402870489",
+    "uikName": "УИК №1043",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 87,
@@ -8903,8 +10442,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1044,
     "uikTvd": "452402870490",
+    "uikName": "УИК №1044",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 153,
@@ -8955,8 +10503,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1045,
     "uikTvd": "452402870491",
+    "uikName": "УИК №1045",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 444,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -9007,8 +10564,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1046,
     "uikTvd": "452402870492",
+    "uikName": "УИК №1046",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 351,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -9059,8 +10625,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1047,
     "uikTvd": "452402870493",
+    "uikName": "УИК №1047",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1468,
       "Число бюллетеней, полученных участковыми комиссиями": 1330,
@@ -9111,8 +10686,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1048,
     "uikTvd": "452402870502",
+    "uikName": "УИК №1048",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -9163,8 +10747,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1049,
     "uikTvd": "452402870503",
+    "uikName": "УИК №1049",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -9215,8 +10808,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1050,
     "uikTvd": "452402870494",
+    "uikName": "УИК №1050",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 123,
       "Число бюллетеней, полученных участковыми комиссиями": 118,
@@ -9267,8 +10869,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1051,
     "uikTvd": "452402870495",
+    "uikName": "УИК №1051",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -9319,8 +10930,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1052,
     "uikTvd": "452402870496",
+    "uikName": "УИК №1052",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 181,
@@ -9371,8 +10991,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1053,
     "uikTvd": "452402870497",
+    "uikName": "УИК №1053",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 407,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -9423,8 +11052,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1054,
     "uikTvd": "452402870498",
+    "uikName": "УИК №1054",
     "tikTvd": "352300670351",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 492,
       "Число бюллетеней, полученных участковыми комиссиями": 434,
@@ -9475,8 +11113,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1055,
     "uikTvd": "452402970463",
+    "uikName": "УИК №1055",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1497,
       "Число бюллетеней, полученных участковыми комиссиями": 1340,
@@ -9527,8 +11174,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1056,
     "uikTvd": "452402970464",
+    "uikName": "УИК №1056",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1367,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -9579,8 +11235,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1057,
     "uikTvd": "452402970465",
+    "uikName": "УИК №1057",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1450,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -9631,8 +11296,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1058,
     "uikTvd": "452402970466",
+    "uikName": "УИК №1058",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1187,
       "Число бюллетеней, полученных участковыми комиссиями": 1170,
@@ -9683,8 +11357,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1059,
     "uikTvd": "452402970467",
+    "uikName": "УИК №1059",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1718,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -9735,8 +11418,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1060,
     "uikTvd": "452402970468",
+    "uikName": "УИК №1060",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2213,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -9787,8 +11479,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1061,
     "uikTvd": "452402970469",
+    "uikName": "УИК №1061",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1865,
       "Число бюллетеней, полученных участковыми комиссиями": 1680,
@@ -9839,8 +11540,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1062,
     "uikTvd": "452402970470",
+    "uikName": "УИК №1062",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1828,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -9891,8 +11601,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1063,
     "uikTvd": "452402970471",
+    "uikName": "УИК №1063",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1949,
       "Число бюллетеней, полученных участковыми комиссиями": 1740,
@@ -9943,8 +11662,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1064,
     "uikTvd": "452402970472",
+    "uikName": "УИК №1064",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1858,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -9995,8 +11723,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1065,
     "uikTvd": "452402970473",
+    "uikName": "УИК №1065",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1928,
       "Число бюллетеней, полученных участковыми комиссиями": 1740,
@@ -10047,8 +11784,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1066,
     "uikTvd": "452402970474",
+    "uikName": "УИК №1066",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1223,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -10099,8 +11845,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1067,
     "uikTvd": "452402970475",
+    "uikName": "УИК №1067",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1861,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -10151,8 +11906,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1068,
     "uikTvd": "452402970476",
+    "uikName": "УИК №1068",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1518,
       "Число бюллетеней, полученных участковыми комиссиями": 1360,
@@ -10203,8 +11967,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1069,
     "uikTvd": "452402970477",
+    "uikName": "УИК №1069",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1578,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -10255,8 +12028,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1070,
     "uikTvd": "452402970478",
+    "uikName": "УИК №1070",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1914,
       "Число бюллетеней, полученных участковыми комиссиями": 1720,
@@ -10307,8 +12089,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1071,
     "uikTvd": "452402970479",
+    "uikName": "УИК №1071",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1254,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -10359,8 +12150,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1072,
     "uikTvd": "452402970480",
+    "uikName": "УИК №1072",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1611,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -10411,8 +12211,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1073,
     "uikTvd": "452402970481",
+    "uikName": "УИК №1073",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1895,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10463,8 +12272,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1074,
     "uikTvd": "452402970482",
+    "uikName": "УИК №1074",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1519,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -10515,8 +12333,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1075,
     "uikTvd": "452402970483",
+    "uikName": "УИК №1075",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2019,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10567,8 +12394,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1076,
     "uikTvd": "452402970484",
+    "uikName": "УИК №1076",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1611,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -10619,8 +12455,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1077,
     "uikTvd": "452402970485",
+    "uikName": "УИК №1077",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2019,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -10671,8 +12516,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1078,
     "uikTvd": "452402970486",
+    "uikName": "УИК №1078",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2193,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -10723,8 +12577,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1079,
     "uikTvd": "452402970487",
+    "uikName": "УИК №1079",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1714,
       "Число бюллетеней, полученных участковыми комиссиями": 1540,
@@ -10775,8 +12638,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1080,
     "uikTvd": "452402970488",
+    "uikName": "УИК №1080",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1785,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10827,8 +12699,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1081,
     "uikTvd": "452402970489",
+    "uikName": "УИК №1081",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2659,
       "Число бюллетеней, полученных участковыми комиссиями": 2360,
@@ -10879,8 +12760,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1082,
     "uikTvd": "452402970490",
+    "uikName": "УИК №1082",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1070,
       "Число бюллетеней, полученных участковыми комиссиями": 960,
@@ -10931,8 +12821,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1083,
     "uikTvd": "452402970491",
+    "uikName": "УИК №1083",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1018,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -10983,8 +12882,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1084,
     "uikTvd": "452402970492",
+    "uikName": "УИК №1084",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2489,
       "Число бюллетеней, полученных участковыми комиссиями": 2230,
@@ -11035,8 +12943,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1085,
     "uikTvd": "452402970493",
+    "uikName": "УИК №1085",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -11087,8 +13004,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1086,
     "uikTvd": "452402970494",
+    "uikName": "УИК №1086",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 296,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -11139,8 +13065,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1087,
     "uikTvd": "452402970495",
+    "uikName": "УИК №1087",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 417,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -11191,8 +13126,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1088,
     "uikTvd": "452402970496",
+    "uikName": "УИК №1088",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 536,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -11243,8 +13187,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1089,
     "uikTvd": "452402970497",
+    "uikName": "УИК №1089",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 467,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -11295,8 +13248,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1090,
     "uikTvd": "452402970498",
+    "uikName": "УИК №1090",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2164,
       "Число бюллетеней, полученных участковыми комиссиями": 1940,
@@ -11347,8 +13309,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1091,
     "uikTvd": "452402970499",
+    "uikName": "УИК №1091",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 441,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -11399,8 +13370,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1092,
     "uikTvd": "452402970500",
+    "uikName": "УИК №1092",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 389,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -11451,8 +13431,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1093,
     "uikTvd": "452402970501",
+    "uikName": "УИК №1093",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2737,
       "Число бюллетеней, полученных участковыми комиссиями": 2460,
@@ -11503,8 +13492,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1094,
     "uikTvd": "452402970502",
+    "uikName": "УИК №1094",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -11555,8 +13553,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1095,
     "uikTvd": "452402970503",
+    "uikName": "УИК №1095",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1482,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -11607,8 +13614,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1096,
     "uikTvd": "452402970504",
+    "uikName": "УИК №1096",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1606,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -11659,8 +13675,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1097,
     "uikTvd": "452402970505",
+    "uikName": "УИК №1097",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1082,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -11711,8 +13736,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1098,
     "uikTvd": "452402970506",
+    "uikName": "УИК №1098",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1767,
       "Число бюллетеней, полученных участковыми комиссиями": 1590,
@@ -11763,8 +13797,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1099,
     "uikTvd": "452402970507",
+    "uikName": "УИК №1099",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1100,
       "Число бюллетеней, полученных участковыми комиссиями": 980,
@@ -11815,8 +13858,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1100,
     "uikTvd": "452402970508",
+    "uikName": "УИК №1100",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2177,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11867,8 +13919,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1101,
     "uikTvd": "452402970509",
+    "uikName": "УИК №1101",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1359,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -11919,8 +13980,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1102,
     "uikTvd": "452402970510",
+    "uikName": "УИК №1102",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 254,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -11971,8 +14041,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1103,
     "uikTvd": "452402970511",
+    "uikName": "УИК №1103",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 116,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -12023,8 +14102,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1104,
     "uikTvd": "452402970512",
+    "uikName": "УИК №1104",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -12075,8 +14163,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1105,
     "uikTvd": "452402970513",
+    "uikName": "УИК №1105",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1775,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -12127,8 +14224,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1106,
     "uikTvd": "452402970514",
+    "uikName": "УИК №1106",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 589,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -12179,8 +14285,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1107,
     "uikTvd": "452402970515",
+    "uikName": "УИК №1107",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -12231,8 +14346,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1108,
     "uikTvd": "452402970516",
+    "uikName": "УИК №1108",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -12283,8 +14407,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1109,
     "uikTvd": "452402970517",
+    "uikName": "УИК №1109",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 300,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -12335,8 +14468,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1110,
     "uikTvd": "452402970518",
+    "uikName": "УИК №1110",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 315,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -12387,8 +14529,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1111,
     "uikTvd": "452402970519",
+    "uikName": "УИК №1111",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 79,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -12439,8 +14590,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1112,
     "uikTvd": "452402970520",
+    "uikName": "УИК №1112",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2115,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -12491,8 +14651,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1113,
     "uikTvd": "452402970521",
+    "uikName": "УИК №1113",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 301,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -12543,8 +14712,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1114,
     "uikTvd": "452402970522",
+    "uikName": "УИК №1114",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 253,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -12595,8 +14773,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1115,
     "uikTvd": "452402970523",
+    "uikName": "УИК №1115",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1776,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -12647,8 +14834,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1116,
     "uikTvd": "452402970524",
+    "uikName": "УИК №1116",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1824,
       "Число бюллетеней, полученных участковыми комиссиями": 1640,
@@ -12699,8 +14895,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1117,
     "uikTvd": "452402970525",
+    "uikName": "УИК №1117",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1461,
       "Число бюллетеней, полученных участковыми комиссиями": 1320,
@@ -12751,8 +14956,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1118,
     "uikTvd": "452402970526",
+    "uikName": "УИК №1118",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 314,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -12803,8 +15017,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1119,
     "uikTvd": "452402970527",
+    "uikName": "УИК №1119",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -12855,8 +15078,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1120,
     "uikTvd": "452402970528",
+    "uikName": "УИК №1120",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 64,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -12907,8 +15139,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1121,
     "uikTvd": "452402970529",
+    "uikName": "УИК №1121",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 389,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -12959,8 +15200,17 @@ export const duma_2003_uik_428_region_52_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1122,
     "uikTvd": "452402970530",
+    "uikName": "УИК №1122",
     "tikTvd": "352300670352",
     "tikName": "Кстовская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100095830",
+      "oikName": "Кстовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1072,
       "Число бюллетеней, полученных участковыми комиссиями": 960,

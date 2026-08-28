@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070505",
     "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки": 59985,
@@ -120,6 +123,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070506",
     "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки": 70589,
@@ -226,6 +232,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070507",
     "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки": 73308,
@@ -328,6 +337,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070508",
     "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в списки": 59241,
@@ -468,6 +480,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070509",
     "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки": 30301,
@@ -556,6 +571,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070510",
     "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки": 9355,
@@ -648,6 +666,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070511",
     "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки": 7460,
@@ -744,6 +765,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070512",
     "tikName": "Новоземельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в списки": 2545,
@@ -812,6 +836,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070513",
     "tikName": "Новодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки": 35331,
@@ -894,6 +921,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070514",
     "tikName": "Соловецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в списки": 694,
@@ -960,6 +990,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070515",
     "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 80,
     "accounting": {
       "Число избирателей, внесенных в списки": 170695,
@@ -1105,6 +1138,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070516",
     "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки": 21958,
@@ -1213,6 +1249,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070517",
     "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки": 14012,
@@ -1316,6 +1355,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070518",
     "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки": 22784,
@@ -1425,6 +1467,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки": 27028,
@@ -1542,6 +1587,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки": 41053,
@@ -1649,6 +1697,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки": 23130,
@@ -1762,6 +1813,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки": 30706,
@@ -1866,6 +1920,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки": 25728,
@@ -1965,6 +2022,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070524",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 24754,
@@ -2051,6 +2111,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070525",
     "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 11974,
@@ -2137,6 +2200,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070526",
     "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 11890,
@@ -2226,6 +2292,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070527",
     "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 18802,
@@ -2315,6 +2384,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070529",
     "tikName": "Коряжемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки": 33019,
@@ -2393,6 +2465,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070530",
     "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки": 22339,
@@ -2497,6 +2572,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070531",
     "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки": 16316,
@@ -2598,6 +2676,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070532",
     "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки": 15113,
@@ -2694,6 +2775,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070533",
     "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки": 9825,
@@ -2777,6 +2861,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "229200070534",
     "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки": 16331,
@@ -2883,6 +2970,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "329300271178",
     "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в списки": 44910,
@@ -3017,6 +3107,9 @@ export const duma_2003_tic_431_region_29 = [
     "ballot": "party",
     "tikTvd": "329300271291",
     "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки": 61667,

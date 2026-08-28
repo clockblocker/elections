@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 588,
     "uikTvd": "422400366720",
+    "uikName": "УИК №588",
     "tikTvd": "322300466631",
     "tikName": "Баевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 589,
     "uikTvd": "422400366721",
+    "uikName": "УИК №589",
     "tikTvd": "322300466631",
     "tikName": "Баевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 373,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 590,
     "uikTvd": "422400366722",
+    "uikName": "УИК №590",
     "tikTvd": "322300466631",
     "tikName": "Баевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 798,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 591,
     "uikTvd": "422400366723",
+    "uikName": "УИК №591",
     "tikTvd": "322300466631",
     "tikName": "Баевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 953,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 592,
     "uikTvd": "422400366724",
+    "uikName": "УИК №592",
     "tikTvd": "322300466631",
     "tikName": "Баевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 706,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 593,
     "uikTvd": "422400366725",
+    "uikName": "УИК №593",
     "tikTvd": "322300466631",
     "tikName": "Баевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 233,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "422401366788",
+    "uikName": "УИК №627",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1764,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "422401366789",
+    "uikName": "УИК №628",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1105,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "422401366790",
+    "uikName": "УИК №629",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1506,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "422401366791",
+    "uikName": "УИК №630",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1055,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 631,
     "uikTvd": "422401366792",
+    "uikName": "УИК №631",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 903,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 632,
     "uikTvd": "422401366793",
+    "uikName": "УИК №632",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1755,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 633,
     "uikTvd": "422401366794",
+    "uikName": "УИК №633",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 939,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 634,
     "uikTvd": "422401366795",
+    "uikName": "УИК №634",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1731,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 635,
     "uikTvd": "422401366796",
+    "uikName": "УИК №635",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1682,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 636,
     "uikTvd": "422401366797",
+    "uikName": "УИК №636",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1995,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 637,
     "uikTvd": "422401366798",
+    "uikName": "УИК №637",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 562,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 638,
     "uikTvd": "422401366799",
+    "uikName": "УИК №638",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1226,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 639,
     "uikTvd": "422401366800",
+    "uikName": "УИК №639",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1315,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 640,
     "uikTvd": "422401366801",
+    "uikName": "УИК №640",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 731,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 641,
     "uikTvd": "422401366802",
+    "uikName": "УИК №641",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 909,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 642,
     "uikTvd": "422401366803",
+    "uikName": "УИК №642",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 643,
     "uikTvd": "422401366804",
+    "uikName": "УИК №643",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 474,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 644,
     "uikTvd": "422401366805",
+    "uikName": "УИК №644",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 543,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 645,
     "uikTvd": "422401366806",
+    "uikName": "УИК №645",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 311,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 646,
     "uikTvd": "422401366807",
+    "uikName": "УИК №646",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1110,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 647,
     "uikTvd": "422401366808",
+    "uikName": "УИК №647",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 356,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 648,
     "uikTvd": "422401366809",
+    "uikName": "УИК №648",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 649,
     "uikTvd": "422401366810",
+    "uikName": "УИК №649",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 999,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 650,
     "uikTvd": "422401366811",
+    "uikName": "УИК №650",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 973,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 651,
     "uikTvd": "422401366812",
+    "uikName": "УИК №651",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 652,
     "uikTvd": "422401366813",
+    "uikName": "УИК №652",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 615,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 653,
     "uikTvd": "422401366814",
+    "uikName": "УИК №653",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 654,
     "uikTvd": "422401466706",
+    "uikName": "УИК №654",
     "tikTvd": "322300466633",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2704,
       "Число бюллетеней, полученных участковыми комиссиями": 2420,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 655,
     "uikTvd": "422401466707",
+    "uikName": "УИК №655",
     "tikTvd": "322300466633",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1205,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 656,
     "uikTvd": "422401466708",
+    "uikName": "УИК №656",
     "tikTvd": "322300466633",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 713,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 657,
     "uikTvd": "422401466709",
+    "uikName": "УИК №657",
     "tikTvd": "322300466633",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 192,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 658,
     "uikTvd": "422401466710",
+    "uikName": "УИК №658",
     "tikTvd": "322300466633",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 219,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 659,
     "uikTvd": "422401466711",
+    "uikName": "УИК №659",
     "tikTvd": "322300466633",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 772,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 660,
     "uikTvd": "422401466712",
+    "uikName": "УИК №660",
     "tikTvd": "322300466633",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 661,
     "uikTvd": "422401466713",
+    "uikName": "УИК №661",
     "tikTvd": "322300466633",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 232,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 662,
     "uikTvd": "422401466714",
+    "uikName": "УИК №662",
     "tikTvd": "322300466633",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 663,
     "uikTvd": "422401466715",
+    "uikName": "УИК №663",
     "tikTvd": "322300466633",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 791,
       "Число бюллетеней, полученных участковыми комиссиями": 784,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 664,
     "uikTvd": "422401466716",
+    "uikName": "УИК №664",
     "tikTvd": "322300466633",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 665,
     "uikTvd": "422401466717",
+    "uikName": "УИК №665",
     "tikTvd": "322300466633",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 632,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 666,
     "uikTvd": "422401466718",
+    "uikName": "УИК №666",
     "tikTvd": "322300466633",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -2219,8 +2633,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 667,
     "uikTvd": "422401466719",
+    "uikName": "УИК №667",
     "tikTvd": "322300466633",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 385,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -2267,8 +2690,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 668,
     "uikTvd": "422401466720",
+    "uikName": "УИК №668",
     "tikTvd": "322300466633",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -2315,8 +2747,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 669,
     "uikTvd": "422401466721",
+    "uikName": "УИК №669",
     "tikTvd": "322300466633",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 79,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -2363,8 +2804,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 670,
     "uikTvd": "422401466722",
+    "uikName": "УИК №670",
     "tikTvd": "322300466633",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 508,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2411,8 +2861,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 671,
     "uikTvd": "422401466723",
+    "uikName": "УИК №671",
     "tikTvd": "322300466633",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 423,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -2459,8 +2918,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 672,
     "uikTvd": "422401466724",
+    "uikName": "УИК №672",
     "tikTvd": "322300466633",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 324,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2507,8 +2975,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 673,
     "uikTvd": "422401466725",
+    "uikName": "УИК №673",
     "tikTvd": "322300466633",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 949,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -2555,8 +3032,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 684,
     "uikTvd": "422401666722",
+    "uikName": "УИК №684",
     "tikTvd": "322300466634",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2334,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -2603,8 +3089,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 685,
     "uikTvd": "422401666723",
+    "uikName": "УИК №685",
     "tikTvd": "322300466634",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1710,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2651,8 +3146,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 686,
     "uikTvd": "422401666724",
+    "uikName": "УИК №686",
     "tikTvd": "322300466634",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2124,
       "Число бюллетеней, полученных участковыми комиссиями": 1870,
@@ -2699,8 +3203,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 687,
     "uikTvd": "422401666725",
+    "uikName": "УИК №687",
     "tikTvd": "322300466634",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2415,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2747,8 +3260,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 688,
     "uikTvd": "422401666726",
+    "uikName": "УИК №688",
     "tikTvd": "322300466634",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 506,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -2795,8 +3317,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 689,
     "uikTvd": "422401666727",
+    "uikName": "УИК №689",
     "tikTvd": "322300466634",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1044,
       "Число бюллетеней, полученных участковыми комиссиями": 960,
@@ -2843,8 +3374,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 690,
     "uikTvd": "422401666728",
+    "uikName": "УИК №690",
     "tikTvd": "322300466634",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 309,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2891,8 +3431,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 691,
     "uikTvd": "422401666729",
+    "uikName": "УИК №691",
     "tikTvd": "322300466634",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 797,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -2939,8 +3488,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 692,
     "uikTvd": "422401666730",
+    "uikName": "УИК №692",
     "tikTvd": "322300466634",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1028,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -2987,8 +3545,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 693,
     "uikTvd": "422401666731",
+    "uikName": "УИК №693",
     "tikTvd": "322300466634",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 765,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -3035,8 +3602,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 694,
     "uikTvd": "422401666732",
+    "uikName": "УИК №694",
     "tikTvd": "322300466634",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 371,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -3083,8 +3659,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 695,
     "uikTvd": "422401666733",
+    "uikName": "УИК №695",
     "tikTvd": "322300466634",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 339,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -3131,8 +3716,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 696,
     "uikTvd": "422401666734",
+    "uikName": "УИК №696",
     "tikTvd": "322300466634",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 607,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -3179,8 +3773,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 697,
     "uikTvd": "422401666735",
+    "uikName": "УИК №697",
     "tikTvd": "322300466634",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 506,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -3227,8 +3830,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 698,
     "uikTvd": "422401666736",
+    "uikName": "УИК №698",
     "tikTvd": "322300466634",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 807,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -3275,8 +3887,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 699,
     "uikTvd": "422401666737",
+    "uikName": "УИК №699",
     "tikTvd": "322300466634",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 797,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -3323,8 +3944,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 700,
     "uikTvd": "422401666738",
+    "uikName": "УИК №700",
     "tikTvd": "322300466634",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -3371,8 +4001,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 720,
     "uikTvd": "422401966709",
+    "uikName": "УИК №720",
     "tikTvd": "322300466635",
     "tikName": "Завьяловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1966,
       "Число бюллетеней, полученных участковыми комиссиями": 1908,
@@ -3419,8 +4058,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 721,
     "uikTvd": "422401966710",
+    "uikName": "УИК №721",
     "tikTvd": "322300466635",
     "tikName": "Завьяловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2268,
       "Число бюллетеней, полученных участковыми комиссиями": 2241,
@@ -3467,8 +4115,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 722,
     "uikTvd": "422401966711",
+    "uikName": "УИК №722",
     "tikTvd": "322300466635",
     "tikName": "Завьяловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1865,
       "Число бюллетеней, полученных участковыми комиссиями": 1822,
@@ -3515,8 +4172,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 723,
     "uikTvd": "422401966712",
+    "uikName": "УИК №723",
     "tikTvd": "322300466635",
     "tikName": "Завьяловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 253,
       "Число бюллетеней, полученных участковыми комиссиями": 261,
@@ -3563,8 +4229,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 724,
     "uikTvd": "422401966713",
+    "uikName": "УИК №724",
     "tikTvd": "322300466635",
     "tikName": "Завьяловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 867,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -3611,8 +4286,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 725,
     "uikTvd": "422401966714",
+    "uikName": "УИК №725",
     "tikTvd": "322300466635",
     "tikName": "Завьяловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 593,
       "Число бюллетеней, полученных участковыми комиссиями": 593,
@@ -3659,8 +4343,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 726,
     "uikTvd": "422401966715",
+    "uikName": "УИК №726",
     "tikTvd": "322300466635",
     "tikName": "Завьяловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1071,
       "Число бюллетеней, полученных участковыми комиссиями": 1052,
@@ -3707,8 +4400,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 727,
     "uikTvd": "422401966716",
+    "uikName": "УИК №727",
     "tikTvd": "322300466635",
     "tikName": "Завьяловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 365,
       "Число бюллетеней, полученных участковыми комиссиями": 364,
@@ -3755,8 +4457,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 728,
     "uikTvd": "422401966717",
+    "uikName": "УИК №728",
     "tikTvd": "322300466635",
     "tikName": "Завьяловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1263,
       "Число бюллетеней, полученных участковыми комиссиями": 1249,
@@ -3803,8 +4514,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 729,
     "uikTvd": "422401966718",
+    "uikName": "УИК №729",
     "tikTvd": "322300466635",
     "tikName": "Завьяловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1476,
       "Число бюллетеней, полученных участковыми комиссиями": 1443,
@@ -3851,8 +4571,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 730,
     "uikTvd": "422401966719",
+    "uikName": "УИК №730",
     "tikTvd": "322300466635",
     "tikName": "Завьяловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1013,
       "Число бюллетеней, полученных участковыми комиссиями": 981,
@@ -3899,8 +4628,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 731,
     "uikTvd": "422401966720",
+    "uikName": "УИК №731",
     "tikTvd": "322300466635",
     "tikName": "Завьяловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 740,
       "Число бюллетеней, полученных участковыми комиссиями": 728,
@@ -3947,8 +4685,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 732,
     "uikTvd": "422401966721",
+    "uikName": "УИК №732",
     "tikTvd": "322300466635",
     "tikName": "Завьяловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 469,
       "Число бюллетеней, полученных участковыми комиссиями": 469,
@@ -3995,8 +4742,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 733,
     "uikTvd": "422401966722",
+    "uikName": "УИК №733",
     "tikTvd": "322300466635",
     "tikName": "Завьяловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1676,
       "Число бюллетеней, полученных участковыми комиссиями": 1667,
@@ -4043,8 +4799,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 734,
     "uikTvd": "422401966723",
+    "uikName": "УИК №734",
     "tikTvd": "322300466635",
     "tikName": "Завьяловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1236,
       "Число бюллетеней, полученных участковыми комиссиями": 1251,
@@ -4091,8 +4856,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 833,
     "uikTvd": "422402466791",
+    "uikName": "УИК №833",
     "tikTvd": "322300466636",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -4139,8 +4913,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 834,
     "uikTvd": "422402466792",
+    "uikName": "УИК №834",
     "tikTvd": "322300466636",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 772,
       "Число бюллетеней, полученных участковыми комиссиями": 708,
@@ -4187,8 +4970,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 835,
     "uikTvd": "422402466793",
+    "uikName": "УИК №835",
     "tikTvd": "322300466636",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 423,
       "Число бюллетеней, полученных участковыми комиссиями": 642,
@@ -4235,8 +5027,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 836,
     "uikTvd": "422402466794",
+    "uikName": "УИК №836",
     "tikTvd": "322300466636",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 678,
       "Число бюллетеней, полученных участковыми комиссиями": 621,
@@ -4283,8 +5084,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 837,
     "uikTvd": "422402466795",
+    "uikName": "УИК №837",
     "tikTvd": "322300466636",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 117,
@@ -4331,8 +5141,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 838,
     "uikTvd": "422402466796",
+    "uikName": "УИК №838",
     "tikTvd": "322300466636",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3009,
       "Число бюллетеней, полученных участковыми комиссиями": 2695,
@@ -4379,8 +5198,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 839,
     "uikTvd": "422402466797",
+    "uikName": "УИК №839",
     "tikTvd": "322300466636",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 619,
       "Число бюллетеней, полученных участковыми комиссиями": 549,
@@ -4427,8 +5255,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 840,
     "uikTvd": "422402466798",
+    "uikName": "УИК №840",
     "tikTvd": "322300466636",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 439,
       "Число бюллетеней, полученных участковыми комиссиями": 391,
@@ -4475,8 +5312,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 841,
     "uikTvd": "422402466799",
+    "uikName": "УИК №841",
     "tikTvd": "322300466636",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -4523,8 +5369,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 842,
     "uikTvd": "422402466800",
+    "uikName": "УИК №842",
     "tikTvd": "322300466636",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 139,
@@ -4571,8 +5426,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 843,
     "uikTvd": "422402466801",
+    "uikName": "УИК №843",
     "tikTvd": "322300466636",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2326,
       "Число бюллетеней, полученных участковыми комиссиями": 2095,
@@ -4619,8 +5483,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 844,
     "uikTvd": "422402466802",
+    "uikName": "УИК №844",
     "tikTvd": "322300466636",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 167,
       "Число бюллетеней, полученных участковыми комиссиями": 169,
@@ -4667,8 +5540,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 845,
     "uikTvd": "422402466803",
+    "uikName": "УИК №845",
     "tikTvd": "322300466636",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 356,
       "Число бюллетеней, полученных участковыми комиссиями": 309,
@@ -4715,8 +5597,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 846,
     "uikTvd": "422402466804",
+    "uikName": "УИК №846",
     "tikTvd": "322300466636",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 66,
       "Число бюллетеней, полученных участковыми комиссиями": 67,
@@ -4763,8 +5654,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 847,
     "uikTvd": "422402466805",
+    "uikName": "УИК №847",
     "tikTvd": "322300466636",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 527,
       "Число бюллетеней, полученных участковыми комиссиями": 472,
@@ -4811,8 +5711,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 848,
     "uikTvd": "422402466806",
+    "uikName": "УИК №848",
     "tikTvd": "322300466636",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 539,
       "Число бюллетеней, полученных участковыми комиссиями": 489,
@@ -4859,8 +5768,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 849,
     "uikTvd": "422402466807",
+    "uikName": "УИК №849",
     "tikTvd": "322300466636",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 429,
       "Число бюллетеней, полученных участковыми комиссиями": 367,
@@ -4907,8 +5825,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 850,
     "uikTvd": "422402466808",
+    "uikName": "УИК №850",
     "tikTvd": "322300466636",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 424,
@@ -4955,8 +5882,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 851,
     "uikTvd": "422402566774",
+    "uikName": "УИК №851",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 807,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -5003,8 +5939,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 852,
     "uikTvd": "422402566775",
+    "uikName": "УИК №852",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -5051,8 +5996,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 853,
     "uikTvd": "422402566776",
+    "uikName": "УИК №853",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 459,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -5099,8 +6053,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 854,
     "uikTvd": "422402566777",
+    "uikName": "УИК №854",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -5147,8 +6110,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 855,
     "uikTvd": "422402566778",
+    "uikName": "УИК №855",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 61,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -5195,8 +6167,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 856,
     "uikTvd": "422402566779",
+    "uikName": "УИК №856",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 869,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -5243,8 +6224,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 857,
     "uikTvd": "422402566780",
+    "uikName": "УИК №857",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 351,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -5291,8 +6281,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 858,
     "uikTvd": "422402566781",
+    "uikName": "УИК №858",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -5339,8 +6338,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 859,
     "uikTvd": "422402566782",
+    "uikName": "УИК №859",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 130,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -5387,8 +6395,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 860,
     "uikTvd": "422402566783",
+    "uikName": "УИК №860",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 721,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -5435,8 +6452,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 861,
     "uikTvd": "422402566784",
+    "uikName": "УИК №861",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 285,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -5483,8 +6509,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 862,
     "uikTvd": "422402566785",
+    "uikName": "УИК №862",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -5531,8 +6566,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 863,
     "uikTvd": "422402566786",
+    "uikName": "УИК №863",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 778,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -5579,8 +6623,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 864,
     "uikTvd": "422402566787",
+    "uikName": "УИК №864",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 99,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -5627,8 +6680,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 865,
     "uikTvd": "422402566788",
+    "uikName": "УИК №865",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -5675,8 +6737,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 866,
     "uikTvd": "422402566789",
+    "uikName": "УИК №866",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 994,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -5723,8 +6794,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 867,
     "uikTvd": "422402566790",
+    "uikName": "УИК №867",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -5771,8 +6851,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 868,
     "uikTvd": "422402566791",
+    "uikName": "УИК №868",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -5819,8 +6908,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 869,
     "uikTvd": "422402566792",
+    "uikName": "УИК №869",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1459,
       "Число бюллетеней, полученных участковыми комиссиями": 1330,
@@ -5867,8 +6965,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 870,
     "uikTvd": "422402566793",
+    "uikName": "УИК №870",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 712,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -5915,8 +7022,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 871,
     "uikTvd": "422402566794",
+    "uikName": "УИК №871",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -5963,8 +7079,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 872,
     "uikTvd": "422402566795",
+    "uikName": "УИК №872",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -6011,8 +7136,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 873,
     "uikTvd": "422402566796",
+    "uikName": "УИК №873",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -6059,8 +7193,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 874,
     "uikTvd": "422402566797",
+    "uikName": "УИК №874",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1097,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -6107,8 +7250,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 875,
     "uikTvd": "422402566798",
+    "uikName": "УИК №875",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 610,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -6155,8 +7307,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 876,
     "uikTvd": "422402566799",
+    "uikName": "УИК №876",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -6203,8 +7364,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 877,
     "uikTvd": "422402566800",
+    "uikName": "УИК №877",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 358,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -6251,8 +7421,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 878,
     "uikTvd": "422402566801",
+    "uikName": "УИК №878",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -6299,8 +7478,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "422407466718",
+    "uikName": "УИК №395",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2455,
       "Число бюллетеней, полученных участковыми комиссиями": 1943,
@@ -6347,8 +7535,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "422407466719",
+    "uikName": "УИК №396",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1216,
       "Число бюллетеней, полученных участковыми комиссиями": 1482,
@@ -6395,8 +7592,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "422407466720",
+    "uikName": "УИК №397",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1394,
       "Число бюллетеней, полученных участковыми комиссиями": 1366,
@@ -6443,8 +7649,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 398,
     "uikTvd": "422407466721",
+    "uikName": "УИК №398",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2602,
       "Число бюллетеней, полученных участковыми комиссиями": 2482,
@@ -6491,8 +7706,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 399,
     "uikTvd": "422407466722",
+    "uikName": "УИК №399",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1725,
       "Число бюллетеней, полученных участковыми комиссиями": 1692,
@@ -6539,8 +7763,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 400,
     "uikTvd": "422407466723",
+    "uikName": "УИК №400",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1679,
       "Число бюллетеней, полученных участковыми комиссиями": 1585,
@@ -6587,8 +7820,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "422407466724",
+    "uikName": "УИК №401",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1324,
       "Число бюллетеней, полученных участковыми комиссиями": 1291,
@@ -6635,8 +7877,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "422407466725",
+    "uikName": "УИК №402",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1715,
       "Число бюллетеней, полученных участковыми комиссиями": 1621,
@@ -6683,8 +7934,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "422407466726",
+    "uikName": "УИК №403",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1495,
       "Число бюллетеней, полученных участковыми комиссиями": 1457,
@@ -6731,8 +7991,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "422407466727",
+    "uikName": "УИК №404",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1737,
       "Число бюллетеней, полученных участковыми комиссиями": 1679,
@@ -6779,8 +8048,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "422407466728",
+    "uikName": "УИК №405",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1305,
       "Число бюллетеней, полученных участковыми комиссиями": 1263,
@@ -6827,8 +8105,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "422407466729",
+    "uikName": "УИК №406",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1219,
       "Число бюллетеней, полученных участковыми комиссиями": 1212,
@@ -6875,8 +8162,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "422407466730",
+    "uikName": "УИК №407",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2109,
       "Число бюллетеней, полученных участковыми комиссиями": 2048,
@@ -6923,8 +8219,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 408,
     "uikTvd": "422407466731",
+    "uikName": "УИК №408",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1278,
       "Число бюллетеней, полученных участковыми комиссиями": 1252,
@@ -6971,8 +8276,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 409,
     "uikTvd": "422407466732",
+    "uikName": "УИК №409",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2950,
       "Число бюллетеней, полученных участковыми комиссиями": 2842,
@@ -7019,8 +8333,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 410,
     "uikTvd": "422407466733",
+    "uikName": "УИК №410",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 670,
       "Число бюллетеней, полученных участковыми комиссиями": 659,
@@ -7067,8 +8390,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 411,
     "uikTvd": "422407466734",
+    "uikName": "УИК №411",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2670,
       "Число бюллетеней, полученных участковыми комиссиями": 2568,
@@ -7115,8 +8447,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 412,
     "uikTvd": "422407466735",
+    "uikName": "УИК №412",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1375,
       "Число бюллетеней, полученных участковыми комиссиями": 1315,
@@ -7163,8 +8504,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 413,
     "uikTvd": "422407466736",
+    "uikName": "УИК №413",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 743,
       "Число бюллетеней, полученных участковыми комиссиями": 719,
@@ -7211,8 +8561,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 414,
     "uikTvd": "422407466737",
+    "uikName": "УИК №414",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 925,
       "Число бюллетеней, полученных участковыми комиссиями": 802,
@@ -7259,8 +8618,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 415,
     "uikTvd": "422407466738",
+    "uikName": "УИК №415",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 335,
       "Число бюллетеней, полученных участковыми комиссиями": 326,
@@ -7307,8 +8675,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 416,
     "uikTvd": "422407466739",
+    "uikName": "УИК №416",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 561,
       "Число бюллетеней, полученных участковыми комиссиями": 544,
@@ -7355,8 +8732,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 417,
     "uikTvd": "422407466740",
+    "uikName": "УИК №417",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1182,
       "Число бюллетеней, полученных участковыми комиссиями": 1152,
@@ -7403,8 +8789,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 418,
     "uikTvd": "422407466745",
+    "uikName": "УИК №418",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -7451,8 +8846,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 879,
     "uikTvd": "422402666862",
+    "uikName": "УИК №879",
     "tikTvd": "322300466639",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2675,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -7499,8 +8903,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 880,
     "uikTvd": "422402666863",
+    "uikName": "УИК №880",
     "tikTvd": "322300466639",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2564,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -7547,8 +8960,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 881,
     "uikTvd": "422402666864",
+    "uikName": "УИК №881",
     "tikTvd": "322300466639",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2195,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7595,8 +9017,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 882,
     "uikTvd": "422402666865",
+    "uikName": "УИК №882",
     "tikTvd": "322300466639",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1097,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7643,8 +9074,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 883,
     "uikTvd": "422402666866",
+    "uikName": "УИК №883",
     "tikTvd": "322300466639",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1364,
       "Число бюллетеней, полученных участковыми комиссиями": 1320,
@@ -7691,8 +9131,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 884,
     "uikTvd": "422402666867",
+    "uikName": "УИК №884",
     "tikTvd": "322300466639",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1052,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -7739,8 +9188,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 885,
     "uikTvd": "422402666868",
+    "uikName": "УИК №885",
     "tikTvd": "322300466639",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 215,
       "Число бюллетеней, полученных участковыми комиссиями": 216,
@@ -7787,8 +9245,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 886,
     "uikTvd": "422402666869",
+    "uikName": "УИК №886",
     "tikTvd": "322300466639",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 545,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -7835,8 +9302,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 887,
     "uikTvd": "422402666870",
+    "uikName": "УИК №887",
     "tikTvd": "322300466639",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 782,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -7883,8 +9359,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 888,
     "uikTvd": "422402666871",
+    "uikName": "УИК №888",
     "tikTvd": "322300466639",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -7931,8 +9416,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 889,
     "uikTvd": "422402666872",
+    "uikName": "УИК №889",
     "tikTvd": "322300466639",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 447,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -7979,8 +9473,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 890,
     "uikTvd": "422402666873",
+    "uikName": "УИК №890",
     "tikTvd": "322300466639",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 177,
@@ -8027,8 +9530,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 891,
     "uikTvd": "422402666874",
+    "uikName": "УИК №891",
     "tikTvd": "322300466639",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 242,
       "Число бюллетеней, полученных участковыми комиссиями": 242,
@@ -8075,8 +9587,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 892,
     "uikTvd": "422402666875",
+    "uikName": "УИК №892",
     "tikTvd": "322300466639",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 668,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -8123,8 +9644,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 893,
     "uikTvd": "422402666876",
+    "uikName": "УИК №893",
     "tikTvd": "322300466639",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 807,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -8171,8 +9701,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 894,
     "uikTvd": "422402666877",
+    "uikName": "УИК №894",
     "tikTvd": "322300466639",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 157,
@@ -8219,8 +9758,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 895,
     "uikTvd": "422402666878",
+    "uikName": "УИК №895",
     "tikTvd": "322300466639",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 413,
       "Число бюллетеней, полученных участковыми комиссиями": 415,
@@ -8267,8 +9815,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 974,
     "uikTvd": "422403066637",
+    "uikName": "УИК №974",
     "tikTvd": "322300466640",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -8315,8 +9872,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 975,
     "uikTvd": "422403066638",
+    "uikName": "УИК №975",
     "tikTvd": "322300466640",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -8363,8 +9929,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 976,
     "uikTvd": "422403066639",
+    "uikName": "УИК №976",
     "tikTvd": "322300466640",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 605,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -8411,8 +9986,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 977,
     "uikTvd": "422403066640",
+    "uikName": "УИК №977",
     "tikTvd": "322300466640",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -8459,8 +10043,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 978,
     "uikTvd": "422403066641",
+    "uikName": "УИК №978",
     "tikTvd": "322300466640",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 936,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -8507,8 +10100,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 979,
     "uikTvd": "422403066642",
+    "uikName": "УИК №979",
     "tikTvd": "322300466640",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1311,
       "Число бюллетеней, полученных участковыми комиссиями": 1310,
@@ -8555,8 +10157,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 980,
     "uikTvd": "422403066643",
+    "uikName": "УИК №980",
     "tikTvd": "322300466640",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 605,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -8603,8 +10214,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 981,
     "uikTvd": "422403066644",
+    "uikName": "УИК №981",
     "tikTvd": "322300466640",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 162,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -8651,8 +10271,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 982,
     "uikTvd": "422403066645",
+    "uikName": "УИК №982",
     "tikTvd": "322300466640",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -8699,8 +10328,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 983,
     "uikTvd": "422403066646",
+    "uikName": "УИК №983",
     "tikTvd": "322300466640",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1634,
       "Число бюллетеней, полученных участковыми комиссиями": 1639,
@@ -8747,8 +10385,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 984,
     "uikTvd": "422403066647",
+    "uikName": "УИК №984",
     "tikTvd": "322300466640",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1512,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -8795,8 +10442,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 985,
     "uikTvd": "422403066648",
+    "uikName": "УИК №985",
     "tikTvd": "322300466640",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 581,
       "Число бюллетеней, полученных участковыми комиссиями": 505,
@@ -8843,8 +10499,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 986,
     "uikTvd": "422403066649",
+    "uikName": "УИК №986",
     "tikTvd": "322300466640",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -8891,8 +10556,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 987,
     "uikTvd": "422403066650",
+    "uikName": "УИК №987",
     "tikTvd": "322300466640",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 75,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -8939,8 +10613,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 988,
     "uikTvd": "422403066651",
+    "uikName": "УИК №988",
     "tikTvd": "322300466640",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 61,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -8987,8 +10670,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 989,
     "uikTvd": "422403066652",
+    "uikName": "УИК №989",
     "tikTvd": "322300466640",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 348,
       "Число бюллетеней, полученных участковыми комиссиями": 375,
@@ -9035,8 +10727,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 990,
     "uikTvd": "422403066653",
+    "uikName": "УИК №990",
     "tikTvd": "322300466640",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 983,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -9083,8 +10784,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 991,
     "uikTvd": "422403066654",
+    "uikName": "УИК №991",
     "tikTvd": "322300466640",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 165,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -9131,8 +10841,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 992,
     "uikTvd": "422403166747",
+    "uikName": "УИК №992",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2609,
       "Число бюллетеней, полученных участковыми комиссиями": 2410,
@@ -9179,8 +10898,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 993,
     "uikTvd": "422403166748",
+    "uikName": "УИК №993",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2801,
       "Число бюллетеней, полученных участковыми комиссиями": 2530,
@@ -9227,8 +10955,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 994,
     "uikTvd": "422403166749",
+    "uikName": "УИК №994",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2527,
       "Число бюллетеней, полученных участковыми комиссиями": 2370,
@@ -9275,8 +11012,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 995,
     "uikTvd": "422403166750",
+    "uikName": "УИК №995",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2757,
       "Число бюллетеней, полученных участковыми комиссиями": 2310,
@@ -9323,8 +11069,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 996,
     "uikTvd": "422403166751",
+    "uikName": "УИК №996",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2586,
       "Число бюллетеней, полученных участковыми комиссиями": 2410,
@@ -9371,8 +11126,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 997,
     "uikTvd": "422403166752",
+    "uikName": "УИК №997",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 617,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -9419,8 +11183,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 998,
     "uikTvd": "422403166753",
+    "uikName": "УИК №998",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -9467,8 +11240,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 999,
     "uikTvd": "422403166754",
+    "uikName": "УИК №999",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 844,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -9515,8 +11297,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1000,
     "uikTvd": "422403166755",
+    "uikName": "УИК №1000",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 248,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -9563,8 +11354,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1001,
     "uikTvd": "422403166756",
+    "uikName": "УИК №1001",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -9611,8 +11411,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1002,
     "uikTvd": "422403166757",
+    "uikName": "УИК №1002",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 370,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -9659,8 +11468,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1003,
     "uikTvd": "422403166758",
+    "uikName": "УИК №1003",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 254,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -9707,8 +11525,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1004,
     "uikTvd": "422403166759",
+    "uikName": "УИК №1004",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1010,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -9755,8 +11582,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1005,
     "uikTvd": "422403166760",
+    "uikName": "УИК №1005",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 145,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -9803,8 +11639,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1006,
     "uikTvd": "422403166761",
+    "uikName": "УИК №1006",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -9851,8 +11696,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1007,
     "uikTvd": "422403166762",
+    "uikName": "УИК №1007",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -9899,8 +11753,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1008,
     "uikTvd": "422403166763",
+    "uikName": "УИК №1008",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 438,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -9947,8 +11810,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1009,
     "uikTvd": "422403166764",
+    "uikName": "УИК №1009",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -9995,8 +11867,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1010,
     "uikTvd": "422403166765",
+    "uikName": "УИК №1010",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 180,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -10043,8 +11924,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1011,
     "uikTvd": "422403166766",
+    "uikName": "УИК №1011",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -10091,8 +11981,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1012,
     "uikTvd": "422403166767",
+    "uikName": "УИК №1012",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -10139,8 +12038,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1013,
     "uikTvd": "422403166768",
+    "uikName": "УИК №1013",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 225,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -10187,8 +12095,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1014,
     "uikTvd": "422403166769",
+    "uikName": "УИК №1014",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 351,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -10235,8 +12152,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1015,
     "uikTvd": "422403166770",
+    "uikName": "УИК №1015",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -10283,8 +12209,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1085,
     "uikTvd": "422403666751",
+    "uikName": "УИК №1085",
     "tikTvd": "322300466642",
     "tikName": "Мамонтовская №39",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 921,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -10331,8 +12266,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1086,
     "uikTvd": "422403666752",
+    "uikName": "УИК №1086",
     "tikTvd": "322300466642",
     "tikName": "Мамонтовская №39",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 787,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -10379,8 +12323,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1087,
     "uikTvd": "422403666753",
+    "uikName": "УИК №1087",
     "tikTvd": "322300466642",
     "tikName": "Мамонтовская №39",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 411,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -10427,8 +12380,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1088,
     "uikTvd": "422403666754",
+    "uikName": "УИК №1088",
     "tikTvd": "322300466642",
     "tikName": "Мамонтовская №39",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 684,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -10475,8 +12437,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1089,
     "uikTvd": "422403666755",
+    "uikName": "УИК №1089",
     "tikTvd": "322300466642",
     "tikName": "Мамонтовская №39",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1137,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10523,8 +12494,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1090,
     "uikTvd": "422403666756",
+    "uikName": "УИК №1090",
     "tikTvd": "322300466642",
     "tikName": "Мамонтовская №39",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1046,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10571,8 +12551,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1091,
     "uikTvd": "422403666757",
+    "uikName": "УИК №1091",
     "tikTvd": "322300466642",
     "tikName": "Мамонтовская №39",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1061,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10619,8 +12608,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1092,
     "uikTvd": "422403666758",
+    "uikName": "УИК №1092",
     "tikTvd": "322300466642",
     "tikName": "Мамонтовская №39",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1093,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10667,8 +12665,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1093,
     "uikTvd": "422403666759",
+    "uikName": "УИК №1093",
     "tikTvd": "322300466642",
     "tikName": "Мамонтовская №39",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2086,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10715,8 +12722,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1094,
     "uikTvd": "422403666760",
+    "uikName": "УИК №1094",
     "tikTvd": "322300466642",
     "tikName": "Мамонтовская №39",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1233,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10763,8 +12779,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1095,
     "uikTvd": "422403666761",
+    "uikName": "УИК №1095",
     "tikTvd": "322300466642",
     "tikName": "Мамонтовская №39",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1218,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10811,8 +12836,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1096,
     "uikTvd": "422403666762",
+    "uikName": "УИК №1096",
     "tikTvd": "322300466642",
     "tikName": "Мамонтовская №39",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1777,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10859,8 +12893,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1097,
     "uikTvd": "422403666763",
+    "uikName": "УИК №1097",
     "tikTvd": "322300466642",
     "tikName": "Мамонтовская №39",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1279,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10907,8 +12950,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1098,
     "uikTvd": "422403666764",
+    "uikName": "УИК №1098",
     "tikTvd": "322300466642",
     "tikName": "Мамонтовская №39",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 697,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -10955,8 +13007,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1099,
     "uikTvd": "422403666765",
+    "uikName": "УИК №1099",
     "tikTvd": "322300466642",
     "tikName": "Мамонтовская №39",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1109,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -11003,8 +13064,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1100,
     "uikTvd": "422403666766",
+    "uikName": "УИК №1100",
     "tikTvd": "322300466642",
     "tikName": "Мамонтовская №39",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 869,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -11051,8 +13121,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1101,
     "uikTvd": "422403666767",
+    "uikName": "УИК №1101",
     "tikTvd": "322300466642",
     "tikName": "Мамонтовская №39",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 668,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -11099,8 +13178,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1102,
     "uikTvd": "422403666768",
+    "uikName": "УИК №1102",
     "tikTvd": "322300466642",
     "tikName": "Мамонтовская №39",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 746,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -11147,8 +13235,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1103,
     "uikTvd": "422403666769",
+    "uikName": "УИК №1103",
     "tikTvd": "322300466642",
     "tikName": "Мамонтовская №39",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -11195,8 +13292,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1104,
     "uikTvd": "422403666770",
+    "uikName": "УИК №1104",
     "tikTvd": "322300466642",
     "tikName": "Мамонтовская №39",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 420,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -11243,8 +13349,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1105,
     "uikTvd": "422403666771",
+    "uikName": "УИК №1105",
     "tikTvd": "322300466642",
     "tikName": "Мамонтовская №39",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 852,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -11291,8 +13406,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1106,
     "uikTvd": "422403766786",
+    "uikName": "УИК №1106",
     "tikTvd": "322300466643",
     "tikName": "Михайловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 679,
       "Число бюллетеней, полученных участковыми комиссиями": 625,
@@ -11339,8 +13463,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1107,
     "uikTvd": "422403766787",
+    "uikName": "УИК №1107",
     "tikTvd": "322300466643",
     "tikName": "Михайловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2245,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11387,8 +13520,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1108,
     "uikTvd": "422403766788",
+    "uikName": "УИК №1108",
     "tikTvd": "322300466643",
     "tikName": "Михайловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1955,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -11435,8 +13577,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1109,
     "uikTvd": "422403766789",
+    "uikName": "УИК №1109",
     "tikTvd": "322300466643",
     "tikName": "Михайловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1780,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -11483,8 +13634,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1110,
     "uikTvd": "422403766790",
+    "uikName": "УИК №1110",
     "tikTvd": "322300466643",
     "tikName": "Михайловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1669,
       "Число бюллетеней, полученных участковыми комиссиями": 1641,
@@ -11531,8 +13691,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1111,
     "uikTvd": "422403766791",
+    "uikName": "УИК №1111",
     "tikTvd": "322300466643",
     "tikName": "Михайловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2025,
       "Число бюллетеней, полученных участковыми комиссиями": 2010,
@@ -11579,8 +13748,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1112,
     "uikTvd": "422403766792",
+    "uikName": "УИК №1112",
     "tikTvd": "322300466643",
     "tikName": "Михайловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1864,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11627,8 +13805,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1113,
     "uikTvd": "422403766793",
+    "uikName": "УИК №1113",
     "tikTvd": "322300466643",
     "tikName": "Михайловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1994,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -11675,8 +13862,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1114,
     "uikTvd": "422403766794",
+    "uikName": "УИК №1114",
     "tikTvd": "322300466643",
     "tikName": "Михайловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 851,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -11723,8 +13919,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1115,
     "uikTvd": "422403766795",
+    "uikName": "УИК №1115",
     "tikTvd": "322300466643",
     "tikName": "Михайловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 438,
       "Число бюллетеней, полученных участковыми комиссиями": 428,
@@ -11771,8 +13976,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1116,
     "uikTvd": "422403766796",
+    "uikName": "УИК №1116",
     "tikTvd": "322300466643",
     "tikName": "Михайловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 477,
       "Число бюллетеней, полученных участковыми комиссиями": 477,
@@ -11819,8 +14033,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1117,
     "uikTvd": "422403766797",
+    "uikName": "УИК №1117",
     "tikTvd": "322300466643",
     "tikName": "Михайловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 979,
       "Число бюллетеней, полученных участковыми комиссиями": 975,
@@ -11867,8 +14090,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1118,
     "uikTvd": "422403766798",
+    "uikName": "УИК №1118",
     "tikTvd": "322300466643",
     "tikName": "Михайловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1111,
       "Число бюллетеней, полученных участковыми комиссиями": 1090,
@@ -11915,8 +14147,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1119,
     "uikTvd": "422403766799",
+    "uikName": "УИК №1119",
     "tikTvd": "322300466643",
     "tikName": "Михайловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 267,
@@ -11963,8 +14204,17 @@ export const duma_2003_uik_428_region_22_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1120,
     "uikTvd": "422403866721",
+    "uikName": "УИК №1120",
     "tikTvd": "322300466644",
     "tikName": "Немецкая",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1298,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
